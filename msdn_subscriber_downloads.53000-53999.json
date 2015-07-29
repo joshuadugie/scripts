@@ -1,0 +1,3090 @@
+{
+  "Files": [
+    {
+      "FileId": 53000,
+      "FileName": "en-gb_microsoft_dynamics_nav_2013_x86_x64_1016704.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (English-United Kingdom)",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "80baaac6be8e51aa5dddcf3549c3a861d2f48643",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302928020)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "714 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53001,
+      "FileName": "fr_microsoft_dynamics_nav_2013_x86_x64_1016703.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (French)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "62568c7cf6767efca46c9b4c7f83aa83b69191c7",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302928413)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "717 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53002,
+      "FileName": "es_microsoft_dynamics_nav_2013_x86_x64_1016698.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (Spanish)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "1d833dd4158de18f68500082480deabb0a480b7b",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302928813)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53003,
+      "FileName": "da_microsoft_dynamics_nav_2013_x86_x64_1016697.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (Danish)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "9bfa85e61580a182542605e32f0e857d8ce2c2a6",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302929200)/",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "714 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53004,
+      "FileName": "de_microsoft_dynamics_nav_2013_x86_x64_1016695.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (German)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "1481254bbc3cf0817fd34b917add60e4fdfe60fb",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302929590)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "719 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53005,
+      "FileName": "en-au_microsoft_dynamics_nav_2013_x86_x64_1016690.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (English-Australia)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "5ace9c3c295064e8163ea403a5559c3cd3dc8fbf",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302929983)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "718 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53006,
+      "FileName": "de-at_microsoft_dynamics_nav_2013_x86_x64_1968451.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (German-Austria)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "4d30c888532e92c9c3fccf9dad8de1553fbec38a",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302930387)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "710 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53007,
+      "FileName": "ja_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992126.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Japanese (Eval))",
+      "Notes": null,
+      "Sha1Hash": "d61ccc84b2da5ddccb8866c1210a1e9eebcbc2f3",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521241120)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1722 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53008,
+      "FileName": "it_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992124.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "5e0c1f702e3af523613bb92470001db9b78d1930",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521241497)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53009,
+      "FileName": "ja_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992125.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bc9c611a54eba22b16efb4410cda34a8812a146a",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521241880)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1722 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53010,
+      "FileName": "es_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992118.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b514c1ff992bf5d1bc772a172b2c768d7143692a",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521242253)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53011,
+      "FileName": "fr_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992123.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "387f8be6c9bd7827ffa328f05dbac191b5d2ab28",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521242613)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53012,
+      "FileName": "ct_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992137.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "c4d8a26a2358baaad8047e899c9efacd9226a9f3",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521242977)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53013,
+      "FileName": "ru_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992135.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "b6742ac57ab1f8183b73f145363a11237f297518",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521243337)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53014,
+      "FileName": "cn_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992136.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "78add5bef88dd12e33460403f24f883b498e6a59",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521243703)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53015,
+      "FileName": "de_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992086.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "9111145d2c3fa10fa519e763a6e09ab67a9a622d",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521244063)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53016,
+      "FileName": "en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992110.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "54fc597523ea5755205b88329f6ba545c522b485",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521244420)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53017,
+      "FileName": "pt_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992132.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "a5c6e17a0734b61232e9db94ad5ca9d04425aa96",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521244780)/",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53018,
+      "FileName": "ko_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992128.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "68c3d72d62a60866a575907d839f98d6863de25f",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521245140)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53019,
+      "FileName": "en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992393.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (English (Eval))",
+      "Notes": null,
+      "Sha1Hash": "6a455ad6c874e54d52766327162e6e5eb97327b7",
+      "ProductFamilyId": 178,
+      "PostedDate": "/Date(1365521245517)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53020,
+      "FileName": "mu_application_virtualization_hosting_for_desktops_5_0_sp1_x86_x64_dvd_1992084.iso",
+      "Description": "Application Virtualization Hosting for Desktops 5.0 Service Pack 1 (x86 and x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c3797e79aba89315ccb58185168a53d801ad0446",
+      "ProductFamilyId": 207,
+      "PostedDate": "/Date(1365521192657)/",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "ja"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "300 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53021,
+      "FileName": "mu_application_virtualization_for_desktop_services_5_0_sp1_x86_dvd_1003941.iso",
+      "Description": "Application Virtualization for Remote Desktop Services 5.0 Service Pack 1 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "22a47dd255f34208a5ee6d36e80cb9fe2aa295f8",
+      "ProductFamilyId": 207,
+      "PostedDate": "/Date(1365521204740)/",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "ja"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "218 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53022,
+      "FileName": "nav_2013_msdn_license.flf",
+      "Description": "Microsoft Dynamics NAV 2013 License File (x86 and x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "9a10fc7448cdea22ef210c4a114d7d34310b02a1",
+      "ProductFamilyId": 509,
+      "PostedDate": "/Date(1366302930790)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.006 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53023,
+      "FileName": "mu_windows_embedded_8_standard_language_pack_x86_dvd_2045226.iso",
+      "Description": "Windows Embedded 8 Standard Language Pack (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aa43b9aca160ec44307b963f3feac00b8a550426",
+      "ProductFamilyId": 506,
+      "PostedDate": "/Date(1366734236927)/",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "el",
+        "en",
+        "es",
+        "et",
+        "eu",
+        "fi",
+        "gl",
+        "he",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Arabic",
+        "Bulgarian",
+        "Catalan",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Basque",
+        "Finnish",
+        "Galician",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Taiwan",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1946 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53024,
+      "FileName": "mu_windows_embedded_8_standard_language_pack_x64_dvd_2045374.iso",
+      "Description": "Windows Embedded 8 Standard Language Pack (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ed99b226429bdcbb5f09aa922a219215bcd4005e",
+      "ProductFamilyId": 506,
+      "PostedDate": "/Date(1366734239547)/",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "el",
+        "en",
+        "es",
+        "et",
+        "eu",
+        "fi",
+        "gl",
+        "he",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Arabic",
+        "Bulgarian",
+        "Catalan",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Basque",
+        "Finnish",
+        "Galician",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Taiwan",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2687 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53025,
+      "FileName": "en_microsoft_dynamics_gp_sp1_2013_x86_and_x64_dvd_2046629.iso",
+      "Description": "Microsoft Dynamics GP 2013 Service Pack 1 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "5fe8ce845f5666e3fb0cb621c7a8e21854c31b56",
+      "ProductFamilyId": 502,
+      "PostedDate": "/Date(1366650595747)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1837 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53027,
+      "FileName": "en_windows_embedded_compact_7_march_2013_x86_x64_dvd_2197408.iso",
+      "Description": "Windows Embedded Compact 7 \u2013 March 2013 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9e0244d0d2d3410e1dac77f6c465f2117b20fa1d",
+      "ProductFamilyId": 554,
+      "PostedDate": "/Date(1368549197183)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7952 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53028,
+      "FileName": "en_windows_embedded_compact_2013_x86_x64_dvd_2247108.iso",
+      "Description": "Windows Embedded Compact 2013 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "259047f017768865050b4f1a0aeb5ab8da784bb2",
+      "ProductFamilyId": 553,
+      "PostedDate": "/Date(1370534289123)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2060 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53163,
+      "FileName": "en_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339178.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "3f7c19fb30d24dff39a1d22dc5dc1dee97f2b068",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1168 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53164,
+      "FileName": "en_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339244.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "03461cc9b9878000cb69d6e8bfdec89c697bcbbd",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.725 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53165,
+      "FileName": "en_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339286.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "8270bcdb382d559d2e47f03b020536800dab6078",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "483 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53166,
+      "FileName": "en_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339333.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "632a35eef87c7b9c17e707ef0d83194c96890a2a",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.725 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53167,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338960.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "cc296c9e3f7e90cb2d5911fa3fdcdf1940f048fc",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53168,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2339112.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "c4ac45564e801e1bfd87936cac8a76c5754cdbd4",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53169,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338994.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "7d6f654c16f9ce534bb2c4b1669d7dc039c433c9",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53170,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_x86_dvd_2339010.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (English)\r\n",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "a03de4e83917525c50b1152ee3e51864173fdb6d",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "224 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53171,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339060.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (English)\r\n",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "c0989fdd4a05466b8f104b190768cc699e921826",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53172,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339087.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (English)\r\n",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "020bc99b5dc38a5a7e92c702fc9a495a2d1acfaa",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53843,
+      "FileName": "cn_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338955.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "6ea0f774d878f2375b3bf33678d56fc87ce0b9df",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53844,
+      "FileName": "ct_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338957.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "07dab3bf03dbbf9a28981d279d090a44346a35ee",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53845,
+      "FileName": "de_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338959.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (German)",
+      "Notes": null,
+      "Sha1Hash": "ee9b7a422e4ffd628e3b7f80b5604c4ec5b243fd",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53846,
+      "FileName": "es_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338961.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a6d7167853d24a64020a9a0db15d543b84f47a64",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53847,
+      "FileName": "fr_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338963.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (French)",
+      "Notes": null,
+      "Sha1Hash": "02976152b57f9e4747100091a7336b3f876fa852",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53848,
+      "FileName": "ja_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338954.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8c1056b795b8d2192b76abeaddd1d391f7b4a78f",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53849,
+      "FileName": "ko_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338958.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "5c056473815b67ab6f25e33ddbda3285c878fec5",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53850,
+      "FileName": "cn_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338969.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "997a969f48797c0dbc295d93816b605acb94d4a9",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53851,
+      "FileName": "ct_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338968.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "3aff2564f8d6bec715fcaabf9508dfd2e90e0500",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53852,
+      "FileName": "de_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338965.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "be10fec639c8a177d424c480df1e0ccbf111fb16",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53853,
+      "FileName": "es_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338984.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "b0b3fce3cf1931faa18799849ea897c00d4c9d86",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53854,
+      "FileName": "fr_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338997.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "e452cdbb699ed738635e89614b5be8b1e8af6a7e",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53855,
+      "FileName": "ja_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338990.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "63fb5dadfd94d1856c8441a0a5e8325c21983323",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53856,
+      "FileName": "ko_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338985.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "6a2317c28a3546603e2923ec0ed1a39adacb5d90",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53857,
+      "FileName": "ru_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338989.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "b33c7d678ea325c26f597d6bfe56593b10b931e9",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53858,
+      "FileName": "cn_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338998.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "eff561e720aebef4f4dcdc6c099e8f6f1cfb1f04",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53859,
+      "FileName": "ct_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338987.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "6e1c9f0f27bf87b2f4ee13e1ce8bd2b6ee9ae5d8",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53860,
+      "FileName": "de_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338980.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "eb301a4ba4db451d4c6049d8a6ba8c32194c8c54",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53861,
+      "FileName": "es_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338991.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "705c31bddcc27587df9296cfea7d7765c32c7f18",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53862,
+      "FileName": "fr_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338982.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "ceda8c1b77c49cee503986b3c5c17f72417b9b39",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53863,
+      "FileName": "it_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338986.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "0caece58f4cf921062113e9afebc27a02a36710a",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53864,
+      "FileName": "ja_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338993.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a587d9f24404af41f11fa245f793d59a89e59226",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53865,
+      "FileName": "ko_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338996.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "dc73063190967d6afb8fcdf671cd411d13321a29",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53866,
+      "FileName": "ru_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2339002.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "a0d3d1ca1f4429819073798ec4e67706a0de4fe4",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53867,
+      "FileName": "cn_agents_for_visual_studio_2012_update_3_x86_dvd_2339003.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "31ca201ea9d67e6fb5b481afd16d1c585e8c84d4",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53868,
+      "FileName": "ct_agents_for_visual_studio_2012_update_3_x86_dvd_2339006.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "da09ad2f50fdd1b5d51588f320b4d23d4dcf7e82",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53869,
+      "FileName": "de_agents_for_visual_studio_2012_update_3_x86_dvd_2339009.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "f09722fe6279c3e1a92b33816628ca8ef9562c11",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53870,
+      "FileName": "es_agents_for_visual_studio_2012_update_3_x86_dvd_2339007.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "c3984828fbaaee26654863b0d540341aee849e39",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53871,
+      "FileName": "fr_agents_for_visual_studio_2012_update_3_x86_dvd_2339011.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "431106485a75c0667f99e762d30d4785970c758f",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53872,
+      "FileName": "it_agents_for_visual_studio_2012_update_3_x86_dvd_2339015.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "d93a893a1b1ac7406ecda458d96c201773f6fe0c",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53873,
+      "FileName": "ja_agents_for_visual_studio_2012_update_3_x86_dvd_2339012.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8bad6169a07561d88950bb217b8d74153143a95d",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53874,
+      "FileName": "ko_agents_for_visual_studio_2012_update_3_x86_dvd_2339014.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "72193914030a8122f0983de90c42857c4f929ae4",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53875,
+      "FileName": "ru_agents_for_visual_studio_2012_update_3_x86_dvd_2339017.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "c1cd266245bd4addfa3d7133eb948cbcc041b2f8",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "240 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53876,
+      "FileName": "cn_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339058.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "eb4bd9adfe410613602ee3e15975c3e4a477029c",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53877,
+      "FileName": "ct_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339063.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "9fba16d3a85b8d7905f9c5a634c9d2e8e0d5b8a1",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53878,
+      "FileName": "de_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339067.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (German)",
+      "Notes": null,
+      "Sha1Hash": "465506241fe1fa375eedb80edb335208ef8cf8de",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53879,
+      "FileName": "es_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339065.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "554bd30ab0a1caa500c912161e7e878ab863b94e",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53880,
+      "FileName": "fr_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339077.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (French)",
+      "Notes": null,
+      "Sha1Hash": "ed1bb596523f1ef8acdb5b5f69d308a9ca94a3c7",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53881,
+      "FileName": "it_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339072.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Italian)",
+      "Notes": null,
+      "Sha1Hash": "59c80091dfc3c671c349a61b85c8c0a049f6d83f",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53882,
+      "FileName": "ja_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339073.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "1adf00f7bc9b12e37fd8106503d7e20677bc9be3",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53883,
+      "FileName": "ko_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339069.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Korean)",
+      "Notes": null,
+      "Sha1Hash": "01d398860aaa4b8a926934c23f730a4efc2090bd",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53884,
+      "FileName": "ru_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339078.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (Russian)",
+      "Notes": null,
+      "Sha1Hash": "04899d61735767e0a6542bba7ede728ff4788bba",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53885,
+      "FileName": "cn_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339080.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "2f2f96e3c5ab4eb1b0318be060b2a343ac6cbae2",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53886,
+      "FileName": "ct_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339085.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "5c9a86f746e6a32a1f2c6b88e09580941adb3d83",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53887,
+      "FileName": "de_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339084.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (German)",
+      "Notes": null,
+      "Sha1Hash": "110a8fe8b87aef929a2b6760bc73be5e3e93ce97",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53888,
+      "FileName": "es_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339089.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2a227b557f536d6ab83a7fe9056ef2f9e504de74",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53889,
+      "FileName": "fr_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339103.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (French)",
+      "Notes": null,
+      "Sha1Hash": "c7d7c5897759ace77a746d7032c625fcbe516518",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53890,
+      "FileName": "it_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339100.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Italian)",
+      "Notes": null,
+      "Sha1Hash": "583ae3eb9216ba60f9e6e828441f163bd0877390",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53891,
+      "FileName": "ja_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339105.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b61982cde850d32b4044641b2dc0356aa4307f04",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53892,
+      "FileName": "ko_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339108.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Korean)",
+      "Notes": null,
+      "Sha1Hash": "876a4b7de1aa847771bdd0e962ecd525ba01a1f4",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53893,
+      "FileName": "ru_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339111.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (Russian)",
+      "Notes": null,
+      "Sha1Hash": "17ddefeb37a682b9f9f350cce0371a2810cc0034",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53894,
+      "FileName": "cn_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339177.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "35b67557dec7b651d6c43cdf5a13c326c10fc40d",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1235 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53895,
+      "FileName": "ct_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339175.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "455c04690e025c3acb600fc4cf543dec0b3bbcc7",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1235 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53896,
+      "FileName": "de_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339176.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "7d1c2484736d6f9298b777f025ac8c0bce89242c",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53897,
+      "FileName": "es_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339181.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "3d7efd59266b69e1b18f89a991fe0c6591fa1a5e",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1237 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53898,
+      "FileName": "fr_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339179.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "6e80e54835e36ab828df8910cb00bedaaeb44381",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53899,
+      "FileName": "it_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339204.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "24395654450f5c4552406b554f406641d42870d6",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1237 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53900,
+      "FileName": "ko_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339227.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a03d49cdb743842fafcd71d2f0fdd62d5374a76e",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53901,
+      "FileName": "ru_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339226.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "ed2e52179a5b9ead9ff4a92d66efe73b91adf9b9",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1241 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53902,
+      "FileName": "cn_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339232.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "15c78857d1576e2565793a303a593f0332e6b76b",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.744 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53903,
+      "FileName": "ct_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339233.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "bcb82e8593cb440e02a24b248353bf2c697b0c3b",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.745 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53904,
+      "FileName": "de_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339234.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (German)",
+      "Notes": null,
+      "Sha1Hash": "dd8a79433635bae645c9be49d0a25488c1936839",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.747 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53905,
+      "FileName": "es_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339251.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "1ce44a43339e40216de554507ecf4508dead3b75",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.758 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53906,
+      "FileName": "fr_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339261.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (French)",
+      "Notes": null,
+      "Sha1Hash": "a0566f5b9007685a7b95be5a2377cb91343453aa",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.747 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53907,
+      "FileName": "it_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339257.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b162ac92ea49fde632a10829b2a284865e8ad5d5",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.746 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53908,
+      "FileName": "ja_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339259.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d43c2202359df4eb087d1aa0986a3250785f7e72",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.746 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53909,
+      "FileName": "ko_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339267.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Korean)",
+      "Notes": null,
+      "Sha1Hash": "c362eb7ffd5e28b94183a20fad6d904348a212e1",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.745 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53910,
+      "FileName": "ru_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339268.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (Russian)",
+      "Notes": null,
+      "Sha1Hash": "6f4538ed7f4da67e72cd2ce514b540a9784851b9",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.751 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53911,
+      "FileName": "cn_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339274.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "66ec1e3e33f469b3dfaaed23f309b84bde1c345d",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53912,
+      "FileName": "ct_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339282.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "4dad6c2c69920b6d4897d9cec8daa98d0c6d7bcd",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53913,
+      "FileName": "de_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339285.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "88e1ddd039469c97e19f0b1d6e1c37cedc5ada69",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53914,
+      "FileName": "es_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339293.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6ba381c4e15840669cfa95f8bb377d9b7b6ca9a1",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53915,
+      "FileName": "fr_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339299.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "a6f984d6d0e968df41cb066bfe29b5f2026ad3af",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53916,
+      "FileName": "ja_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339318.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c4f364748066b0259d60fc75058afb9603fd6942",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "523 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53917,
+      "FileName": "ko_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339319.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "488fa82e702c87ab90b0f74cb08b771c7cc3aa58",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "524 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53918,
+      "FileName": "ru_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339323.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "d62a4141d4f8a5905a9a14c9b1e6470f2b5b4483",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "524 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53919,
+      "FileName": "cn_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339329.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "7701cffcc8db8016bd7693562679b5e1ab4dd8c0",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.744 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53920,
+      "FileName": "ct_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339331.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "4ae3c119d2b99d9e1de9cd42ca27a983cf242e8f",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.745 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53921,
+      "FileName": "es_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339335.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "b9c062608c357ded1b29a2a32d122ab26a79fb06",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.758 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53922,
+      "FileName": "fr_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339334.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (French)",
+      "Notes": null,
+      "Sha1Hash": "dcbf773625b48342505f96e0374271cc0450c27b",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.747 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53923,
+      "FileName": "it_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339336.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Italian)",
+      "Notes": null,
+      "Sha1Hash": "642cf0fa7c67def14371af91b1bc0e04d7584ff3",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.746 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53924,
+      "FileName": "ko_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339338.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Korean)",
+      "Notes": null,
+      "Sha1Hash": "d7cb5105a33719b3fd8813238cf1db80f8866a08",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.745 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53925,
+      "FileName": "ru_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339339.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Russian)",
+      "Notes": null,
+      "Sha1Hash": "5b05ef31bb28118ccee39f178942ca7fe77bc763",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.751 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53926,
+      "FileName": "it_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339313.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f9690182e45b430eec523b878d164630a342ee4d",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53927,
+      "FileName": "de_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339332.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (German)",
+      "Notes": null,
+      "Sha1Hash": "dffe5f00ae4aece78836a90a29dd93a2ae1cc0fd",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.747 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53928,
+      "FileName": "it_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2338979.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e11597071e30ebbd2fba4545e934ae5d8fc21e40",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53929,
+      "FileName": "ja_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339337.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "6174639452ea19f12c2b527974e8cdea5b627973",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.746 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53930,
+      "FileName": "ru_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338967.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "3765ccc023b3bc5718d63b3ec00b5703ad327994",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53931,
+      "FileName": "it_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338964.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9e2b7c40d239c91086e307a5139201e2fbbc92a7",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53932,
+      "FileName": "mu_visual_studio_2012_update_3_x86_2364557.exe",
+      "Description": "Visual Studio 2012 Update 3 (x86) - (Multiple Languages)\r\n",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Visual Studio 2012. Periodic updates enable us to enhance and expand Visual Studio more frequently to support the latest software development innovations for building and managing modern apps. For information about the latest update, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the  <a href=\"http://go.microsoft.com/fwlink/?LinkId=294585\">Visual Studio Update KB Article</a>.",
+      "Sha1Hash": "8b6b34b7c0cf2ce2ae7820759e8e36e0f1478c0c",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pl",
+        "pt",
+        "ru",
+        "tr",
+        "tw"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Turkish",
+        "Chinese - Taiwan",
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53933,
+      "FileName": "mu_visual_studio_2012_update_3_x86_dvd_2364556.iso",
+      "Description": "Visual Studio 2012 Update 3 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Visual Studio 2012. Periodic updates enable us to enhance and expand Visual Studio more frequently to support the latest software development innovations for building and managing modern apps. For information about the latest update, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the  <a href=\"http://go.microsoft.com/fwlink/?LinkId=294585\">Visual Studio Update KB Article</a>.",
+      "Sha1Hash": "89d4ac51ab2444134d61b668aaa8c4a655b84510",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pl",
+        "pt",
+        "ru",
+        "tr",
+        "tw"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Turkish",
+        "Chinese - Taiwan",
+        "Chinese - Simplified"
+      ],
+      "Size": "2134 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53934,
+      "FileName": "ja_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2364555.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (Japanese)",
+      "Notes": "Visual Studio Team Foundation Server 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "3bc97714ae13053cbc9ae871f54b95fe427e6bda",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53959,
+      "FileName": "en_team_explorer_everywhere_for_team_foundation_server_2012_with_update_3_x86_x64_ia64_dvd_2369050.iso",
+      "Description": "Team Explorer Everywhere for Team Foundation Server 2012 with Update 3 (x86, x64, and ia64) - (English)",
+      "Notes": "Team Explorer Everywhere for Team Foundation Server includes the Eclipse plug-in, the cross-platform, command-line client for Visual Studio Team Foundation Server, and the Team Foundation Service.",
+      "Sha1Hash": "aeeeb45f3611017d2c0f7377a62c9a5eb66a4c4b",
+      "ProductFamilyId": 517,
+      "PostedDate": "/Date(1372262403687)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53961,
+      "FileName": "en_visual_studio_professional_2012_x86_dvd_2262334.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4d46ce9d0cfd9f8d1b4ca5ba394523bd12326ba1",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1471 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53962,
+      "FileName": "en_visual_studio_premium_2012_x86_dvd_2262337.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "1aba9ecf806300672eac7d24868b01c2fd9d0c80",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1504 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53963,
+      "FileName": "en_visual_studio_ultimate_2012_x86_dvd_2262106.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (English)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "2fa6263ac45876154e1a197bcd76f7144905f6d7",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53964,
+      "FileName": "es_visual_studio_professional_2012_x86_dvd_2262333.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Spanish)\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "23c819727037dbd1b56f0b394ad521f580475228",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1520 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53965,
+      "FileName": "fr_visual_studio_professional_2012_x86_dvd_2262351.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "49c009511d973e0b76ebb79ed2b80f9a17536023",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53966,
+      "FileName": "de_visual_studio_professional_2012_x86_dvd_2262335.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (German)\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "6a33f1bdf4105bc5b84eb81a398f867eff8e1035",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53967,
+      "FileName": "it_visual_studio_professional_2012_x86_dvd_2262352.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "bfecce7a8346c0c1c259cf323c86db078b1bd41b",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1520 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53968,
+      "FileName": "ja_visual_studio_professional_2012_x86_dvd_2262353.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4b57319e6aad768c40163e10eb1c2135d1ea3c11",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53969,
+      "FileName": "cn_visual_studio_professional_2012_x86_dvd_2262350.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4befc233e5d88f17c471cfde6d44fa3c25ad5366",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1517 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53970,
+      "FileName": "ct_visual_studio_professional_2012_x86_dvd_2262332.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "adaaa975b092282048c7d18fecf61ae22eb41a2c",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1518 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53971,
+      "FileName": "ko_visual_studio_professional_2012_x86_dvd_2262355.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "340fda9073d7d52fa84175a9895df493e065883e",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1524 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53972,
+      "FileName": "ru_visual_studio_professional_2012_x86_dvd_2262354.iso",
+      "Description": "Visual Studio Professional 2012 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2012 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying software for Windows, Microsoft Office and the web. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "9cfde659ca55574d957574c59f50f5ffa26caa27",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1527 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53973,
+      "FileName": "cn_visual_studio_premium_2012_x86_dvd_2262336.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "23580472abea3dd8b6d3273d69c847597ff0b2a5",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1550 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53974,
+      "FileName": "ct_visual_studio_premium_2012_x86_dvd_2262338.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b834fa4b09270225c7e26a9adeec004b7a946894",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1551 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53975,
+      "FileName": "fr_visual_studio_premium_2012_x86_dvd_2262343.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "6cc73b8ac35f3a12c32523394a2fe1e0bd05b2f6",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53976,
+      "FileName": "de_visual_studio_premium_2012_x86_dvd_2262340.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (German)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "a06c0d6b3a73b004715b6efc5cbf3377cda6e701",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53977,
+      "FileName": "it_visual_studio_premium_2012_x86_dvd_2262344.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4545666712f4830eb14eeb2790cd36e4d892340b",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53978,
+      "FileName": "ja_visual_studio_premium_2012_x86_dvd_2262341.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "6e88b268a14fcd9bb9fa0ac7ab2d529109f97f94",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53979,
+      "FileName": "ko_visual_studio_premium_2012_x86_dvd_2262342.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "045e410c1f753d37c8f6884c4029af73e199d838",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1558 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53980,
+      "FileName": "ru_visual_studio_premium_2012_x86_dvd_2262339.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "75804f4768aac7afedc50e068edc4ea5430f898c",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1560 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53981,
+      "FileName": "es_visual_studio_premium_2012_x86_dvd_2262345.iso",
+      "Description": "Visual Studio Premium 2012 (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2012 is an integrated development environment that includes advanced tools for planning, development, testing, diagnostics, and automation. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "75e6c8c9b6bc414b1738dd9ecbe97e435d6b67ae",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53982,
+      "FileName": "cn_visual_studio_ultimate_2012_x86_dvd_2262091.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "1a9d4777c5ae19a773f352639a0f8af055331f9d",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53983,
+      "FileName": "de_visual_studio_ultimate_2012_x86_dvd_2262090.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (German)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "622f491561ce6f7da765fa731b1c3bf95c9b5d16",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1573 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53984,
+      "FileName": "es_visual_studio_ultimate_2012_x86_dvd_2262093.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "0d3c034c07523ff715b2e4bf821fe54122875d61",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1571 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53985,
+      "FileName": "fr_visual_studio_ultimate_2012_x86_dvd_2262095.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "c6c3fa2eceb67b903eeadf28e92be49109f1d92f",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1571 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53986,
+      "FileName": "it_visual_studio_ultimate_2012_x86_dvd_2262096.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7c3c37abce919dd34989be696730a5a15fa02921",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1570 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53987,
+      "FileName": "ja_visual_studio_ultimate_2012_x86_dvd_2262104.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "00ae4c2e429cfa1506b5de5c3b54538b25c79d7a",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1572 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53988,
+      "FileName": "ko_visual_studio_ultimate_2012_x86_dvd_2262094.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4a6dd6c320048236336ff2e706070b26856ebe3c",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53989,
+      "FileName": "ru_visual_studio_ultimate_2012_x86_dvd_2262105.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7e6cad69d602980bca4b20d726c94243160ed524",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53990,
+      "FileName": "ct_visual_studio_ultimate_2012_x86_dvd_2262092.iso",
+      "Description": "Visual Studio Ultimate 2012 (x86) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Visual Studio Ultimate 2012 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. To choose the download option that's best for you, read the descriptions later on this page. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\"> Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "aa8c5ca80232838f227892486d669c1ac9eb9f56",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53991,
+      "FileName": "cn_visual_studio_express_2012_for_web_x86_dvd_2530471.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Chinese-Simplified)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "985a03b28ea2c72dbb11ab76ca7badcce1f0ae1e",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "510 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53992,
+      "FileName": "ct_visual_studio_express_2012_for_web_x86_dvd_2530378.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b1b648f20c0bfa8da12984649c3b024a61e911ef",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "510 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53993,
+      "FileName": "de_visual_studio_express_2012_for_web_x86_dvd_2530470.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (German)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "072363c3fb7006081135d273a160a433829da604",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "512 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53994,
+      "FileName": "en_visual_studio_express_2012_for_web_x86_dvd_2530377.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "c07c7e4f1e3b548ee22ed8989dac219674e68dad",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "487 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53995,
+      "FileName": "es_visual_studio_express_2012_for_web_x86_dvd_2530380.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Spanish)\r\n",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "56a1edb0c00850a91886e4f3a09f9c509c3c0d02",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53996,
+      "FileName": "fr_visual_studio_express_2012_for_web_x86_dvd_2530381.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (French)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "9fce15ec8c7e41a2eeb16d96ff364f4519733d08",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53997,
+      "FileName": "it_visual_studio_express_2012_for_web_x86_dvd_2530386.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Italian)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "da4c9919b34b8e62281ad893aacc77dc721fa1cb",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53998,
+      "FileName": "ja_visual_studio_express_2012_for_web_x86_dvd_2530383.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Japanese)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "89b244dcccc987d1f101758ce0c3ac84c04fcdb1",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53999,
+      "FileName": "ko_visual_studio_express_2012_for_web_x86_dvd_2530385.iso",
+      "Description": "Visual Studio Express 2012 for Web (x86) - DVD (Korean)",
+      "Notes": "Visual Studio Express 2012 for Web provides core tools that you can use to build compelling, innovative web apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 RC Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "db26fd8ef075fc1cc3f785cd74e2a6404e378ed3",
+      "ProductFamilyId": 479,
+      "PostedDate": "/Date(1345043040000)/",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "514 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

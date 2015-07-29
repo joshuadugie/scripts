@@ -1,0 +1,157 @@
+{
+  "Files": [
+    {
+      "FileId": 1048,
+      "FileName": "en_masm611.exe",
+      "Description": "Microsoft Macro Assembler 6.11 (English)",
+      "Notes": null,
+      "Sha1Hash": "9f77bbc8a85b5ef5d0de9c37d319cd8fde575565",
+      "ProductFamilyId": 66,
+      "PostedDate": "/Date(925196400000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "10 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1387,
+      "FileName": "en_msdnweb_jun99.exe",
+      "Description": "MSDN Online Web Development Resource CD - June 1999 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "3a67cf09120dd791442e2a408e93b336d3d3dda7",
+      "ProductFamilyId": 271,
+      "PostedDate": "/Date(937369680000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "230 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1485,
+      "FileName": "en_vc42ent_disc1.exe",
+      "Description": "Visual C++ 4.2 Enterprise Edition (English) Disc 1",
+      "Notes": null,
+      "Sha1Hash": "108384972bf8d7b045044e3de380e2df8f5b2866",
+      "ProductFamilyId": 84,
+      "PostedDate": "/Date(940552080000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 1486,
+      "FileName": "en_vc42ent_disc2.exe",
+      "Description": "Visual C++ 4.2 Enterprise Edition (English) Disc 2",
+      "Notes": null,
+      "Sha1Hash": "3afef63f3cfec6bf874d00c5f16d9d676b0f147a",
+      "ProductFamilyId": 84,
+      "PostedDate": "/Date(940552140000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 1548,
+      "FileName": "en_dnaxmlreskit_vol2.exe",
+      "Description": "Windows DNA XML Resource Kit Volume 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "fb9088c44b93c9ed1b8ab4fa5ac1847f2ac5bf2e",
+      "ProductFamilyId": 307,
+      "PostedDate": "/Date(941161680000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "64 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1549,
+      "FileName": "en_passprtsdk.exe",
+      "Description": "Microsoft Passport SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "d50a4c77ae462b748411206b95aa70a0384e6859",
+      "ProductFamilyId": 278,
+      "PostedDate": "/Date(941161800000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1565,
+      "FileName": "en_digidashsk.exe",
+      "Description": "Digital Dashboard Starter Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "ad276fa97a4dde453aea3531a0ec434709d6ae80",
+      "ProductFamilyId": 250,
+      "PostedDate": "/Date(941699220000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "46 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1605,
+      "FileName": "en_iisreskit.exe",
+      "Description": "Microsoft Internet Information Server Resource Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "034e744f257b4b652c35f7b89dec9197a64e2a3d",
+      "ProductFamilyId": 261,
+      "PostedDate": "/Date(942288660000)/",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1776,
+      "FileName": "ja_msyubin7_v15.exe",
+      "Description": "MSYubin7 Version 1.5 Development Kit (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "10505936d43a447d2328fa893f42d52a113cba26",
+      "ProductFamilyId": 273,
+      "PostedDate": "/Date(962360160000)/",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

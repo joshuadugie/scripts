@@ -4,8 +4,8 @@
 # `idlist` range.  MSDN has no nice way to search for all entries so instead we
 # brute force.
 #
-# As of 2015-02-05, the latest posted FileId was 62770.
-# The number of actual entries was 24183.
+# As of 2015-07-29T10:00:00Z, the latest posted FileId was 65137.
+# The number of actual entries (including deleted) was 26089.
 
 import httplib
 import json
@@ -21,8 +21,9 @@ from threading import Lock
 # program configuration
 num_attempts_per_id     = 10
 num_threads             = 64
-idlist                  = range(62770, 0, -1)
-output_filename         = 'output.json'
+max_id                  = 67000
+idlist                  = range(max_id, 0, -1)
+output_filename         = 'msdn_subscriber_downloads'
 
 # program strings
 status_str              = '\r<Thread %02d> downloading FileId %05d'
@@ -37,7 +38,7 @@ cookie_str              = "MY_MS_COOKIE"
 headers                 =  {
     "Cookie":           cookie_str,
     "Origin":           "https://"+domain,
-    "Accept-Encoding":  "gzip, deflate",
+    "Accept-Encoding":  "",
     "Accept-Language":  "en-US,en;q=0.8",
     "User-Agent":       "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36" + \
                           " (KHTML, like Gecko) Chrome/40.0.2214.93" + \
@@ -151,7 +152,9 @@ if __name__ == '__main__':
     results = sorted(results, key=lambda x: x['FileId'])
     for i in range(0, len(results)):
         results[i]['Sha1Hash'] = results[i]['Sha1Hash'].lower()
-    f = open(output_filename, 'wb')
-    f.write(json.dumps(OrderedDict([('Files', results)]),
-        indent=2, separators=(',', ': ')))
-    f.close()
+    for i in range(0, max_id, 1000):
+        f = open(output_filename + ('%d-%d.json'%(i,i+999)), 'wb')
+        t = filter(lambda x: x['FileId'] >= i and x['FileId'] < (i+1000), results)
+        f.write(json.dumps(OrderedDict([('Files', t)]),
+            indent=2, separators=(',', ': ')))
+        f.close()
