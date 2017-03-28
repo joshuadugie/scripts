@@ -4,15 +4,18 @@
 # `idlist` range.  MSDN has no nice way to search for all entries so instead we
 # brute force.
 #
-# As of 2015-07-29T10:00:00Z, the latest posted FileId was 65137.
-# The number of actual entries (including deleted) was 26089.
+# As of 2017-03-28T15:00:00Z, the latest posted FileId was 71584.
+# The number of actual entries (including deleted) was 31755.
 
+import glob
 import httplib
-import json
-import sys
-import os
 import itertools
+import json
+import os
+import re
+import sys
 import threading
+import time
 from collections import OrderedDict
 from multiprocessing.pool import ThreadPool
 from threading import Lock
@@ -21,11 +24,18 @@ from threading import Lock
 # program configuration
 num_attempts_per_id     = 10
 num_threads             = 64
-max_id                  = 67000
-idlist                  = range(max_id, 0, -1)
+max_id                  = 72000
+min_id                  = 0
+idlist                  = range(max_id, min_id, -1)
 output_filename         = 'msdn_subscriber_downloads'
+remove_attrs            = ['DownloadProvider', 'NotAuthorizedReasonId',
+                              'IsAuthorization', 'BenefitLevels']
+js_date_pattern         = re.compile('/Date\(([0-9]+)\)/')
+iso8601_date_pattern    = '%FT%TZ'
 
 # program strings
+existing_results        = 'Pulled in %d existing results'
+new_results_length      = '\nTotal results: %d'
 status_str              = '\r<Thread %02d> downloading FileId %05d'
 failure_msg             = '\n<Thread %02d> FAILED TO download FileId %05d'
 exception_str           = '\n<Thread %02d> EXCEPTION(%05d): %s'
@@ -59,6 +69,16 @@ post_data               = '{"Languages":"en","Architectures":"",' + \
 sysout_lock  = Lock()
 idlist_lock  = Lock()
 results_lock = Lock()
+
+
+def replace_old_date(old_date):
+    if js_date_pattern.match(old_date):
+        date_int = int(js_date_pattern.match(old_date).group(1))
+        date_int /= 1000
+        new_date_str = time.strftime(iso8601_date_pattern,
+                time.gmtime(date_int))
+        return new_date_str.decode()
+    return old_date
 
 
 def worker_thread(n):
@@ -105,8 +125,16 @@ def worker_thread(n):
                               .JSONDecoder(object_pairs_hook=OrderedDict) \
                               .decode(response)
                             new_files = ordered_json['Files']
+                            for new_file in new_files:
+                                for attr in remove_attrs:
+                                    if attr in new_file:
+                                        new_file.pop(attr)
+                                if 'PostedDate' in new_file:
+                                    new_file['PostedDate'] = replace_old_date(new_file['PostedDate'])
                             results_lock.acquire()
-                            results += new_files
+                            for new_file in new_files:
+                                if new_file not in results:
+                                    results.append(new_file)
                             results_lock.release()
                         tls.success = True
                         break
@@ -125,7 +153,7 @@ def worker_thread(n):
         # if failed to get after num_attempts_per_id times
         if tls.k == num_attempts_per_id and not tls.success:
             sysout_lock.acquire()
-            print failure_msg (n, tls.current_id)
+            print failure_msg % (n, tls.current_id)
             sysout_lock.release()
 
     # close connection
@@ -136,6 +164,24 @@ def worker_thread(n):
 if __name__ == '__main__':
     global results
     results = []
+
+    # read existing results
+    for fn in glob.glob(output_filename+'*.json'):
+        f = open(fn, 'rb')
+        d = f.read()
+        f.close()
+        #os.remove(fn)
+        j = json \
+          .JSONDecoder(object_pairs_hook=OrderedDict) \
+          .decode(d)
+        j = j['Files']
+        results += j
+    print existing_results % len(results)
+
+    # Replace old dates
+    for r in results:
+        if 'PostedDate' in r:
+            r['PostedDate'] = replace_old_date(r['PostedDate'])
 
     # kick off the threads to retrieve all FileIds
     threads = []
@@ -150,11 +196,12 @@ if __name__ == '__main__':
 
     # sort results, prettify, output
     results = sorted(results, key=lambda x: x['FileId'])
+    print new_results_length % len(results)
     for i in range(0, len(results)):
         results[i]['Sha1Hash'] = results[i]['Sha1Hash'].lower()
-    for i in range(0, max_id, 1000):
-        f = open(output_filename + ('%d-%d.json'%(i,i+999)), 'wb')
-        t = filter(lambda x: x['FileId'] >= i and x['FileId'] < (i+1000), results)
+    for i in range(min_id, max_id, 500):
+        f = open(output_filename + ('.%d-%d.json'%(i,i+499)), 'wb')
+        t = filter(lambda x: x['FileId'] >= i and x['FileId'] < (i+500), results)
         f.write(json.dumps(OrderedDict([('Files', t)]),
             indent=2, separators=(',', ': ')))
         f.close()
