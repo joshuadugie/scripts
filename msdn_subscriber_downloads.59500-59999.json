@@ -1058,23 +1058,6 @@
       "FileId": 59562,
       "FileName": "ct_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238310.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Chinese-Traditional)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "6db344d20295f106e8e50ea1af3d19d71f8f6e10",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59562,
-      "FileName": "ct_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238310.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Chinese-Traditional)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "6db344d20295f106e8e50ea1af3d19d71f8f6e10",
       "ProductFamilyId": 552,
@@ -1084,23 +1067,6 @@
       ],
       "Languages": [
         "Chinese - Traditional"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59563,
-      "FileName": "cn_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238309.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Chinese-Simplified)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "9456b1d2fc454fe48d13b2ede540a1dabed072bd",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
       ],
       "Size": "306 MB",
       "IsProductKeyRequired": false
@@ -1126,23 +1092,6 @@
       "FileId": 59564,
       "FileName": "en_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238312.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (English)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "5292a1f88f0d3ff2aa7b80dd78bf1ce3781a7595",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "284 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59564,
-      "FileName": "en_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238312.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (English)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "5292a1f88f0d3ff2aa7b80dd78bf1ce3781a7595",
       "ProductFamilyId": 552,
@@ -1160,23 +1109,6 @@
       "FileId": 59565,
       "FileName": "fr_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238315.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (French)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "8bb7c2b16f8e6c4b48f5bf14f2d79bf1554bcc57",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59565,
-      "FileName": "fr_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238315.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (French)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "8bb7c2b16f8e6c4b48f5bf14f2d79bf1554bcc57",
       "ProductFamilyId": 552,
@@ -1186,23 +1118,6 @@
       ],
       "Languages": [
         "French"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59566,
-      "FileName": "de_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238311.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (German)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "cd1e1136d99dcfee0e3ec62a26bad195bf633b4f",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
       ],
       "Size": "306 MB",
       "IsProductKeyRequired": false
@@ -1228,23 +1143,6 @@
       "FileId": 59567,
       "FileName": "it_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238316.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Italian)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "7e87473093a64f3d8deda4d8cfbd64d73581b0a3",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59567,
-      "FileName": "it_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238316.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Italian)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "7e87473093a64f3d8deda4d8cfbd64d73581b0a3",
       "ProductFamilyId": 552,
@@ -1254,23 +1152,6 @@
       ],
       "Languages": [
         "Italian"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59568,
-      "FileName": "ja_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238317.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Japanese)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "19a9d1c285a0b03ab09a1524b38776ce8de29c15",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
       ],
       "Size": "306 MB",
       "IsProductKeyRequired": false
@@ -1296,23 +1177,6 @@
       "FileId": 59569,
       "FileName": "ko_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238318.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Korean)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "1a8b66fbae8fb8440f1d2bd20fdb5e116df267a1",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59569,
-      "FileName": "ko_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238318.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Korean)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "1a8b66fbae8fb8440f1d2bd20fdb5e116df267a1",
       "ProductFamilyId": 552,
@@ -1324,23 +1188,6 @@
         "Korean"
       ],
       "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59570,
-      "FileName": "ru_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238319.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Russian)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "4420d8da57987e3d525e6f4334e7279568a3438d",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "307 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1364,23 +1211,6 @@
       "FileId": 59571,
       "FileName": "es_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238313.iso",
       "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Spanish)",
-      "Notes": "By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "2be73dd5e16feec5e6adc938f0cca2e6cf58c488",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59571,
-      "FileName": "es_release_management_for_visual_studio_2013_with_update_2_x86_x64_dvd_4238313.iso",
-      "Description": "Release Management for Visual Studio 2013 with Update 2 (x86 and x64) - DVD (Spanish)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "2be73dd5e16feec5e6adc938f0cca2e6cf58c488",
       "ProductFamilyId": 552,
@@ -1392,23 +1222,6 @@
         "Spanish"
       ],
       "Size": "306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59572,
-      "FileName": "cn_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238320.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Chinese-Simplified)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "5b5018699e13130f151f64bee1596c97ed2a50b6",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "0.951 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1424,23 +1237,6 @@
       ],
       "Languages": [
         "Chinese - Simplified"
-      ],
-      "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59573,
-      "FileName": "ct_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238322.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Chinese-Traditional)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "27e72d216e7731a8c621b5fbd0bb13f44c521fc1",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
       ],
       "Size": "0.951 MB",
       "IsProductKeyRequired": false
@@ -1466,23 +1262,6 @@
       "FileId": 59574,
       "FileName": "en_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238323.exe",
       "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (English)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "068145b6811e3196be019200bed0afa0cc69ffcb",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "0.95 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59574,
-      "FileName": "en_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238323.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (English)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "068145b6811e3196be019200bed0afa0cc69ffcb",
       "ProductFamilyId": 552,
@@ -1494,23 +1273,6 @@
         "English"
       ],
       "Size": "0.95 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59575,
-      "FileName": "fr_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238326.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (French)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "6e46123cec90932b4455c3732fe6aa83e3b242c6",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "0.952 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1534,23 +1296,6 @@
       "FileId": 59576,
       "FileName": "de_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238324.exe",
       "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (German)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "01c67fe55b5a9d4978002ee34a065430cb6a8f48",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59576,
-      "FileName": "de_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238324.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (German)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "01c67fe55b5a9d4978002ee34a065430cb6a8f48",
       "ProductFamilyId": 552,
@@ -1562,23 +1307,6 @@
         "German"
       ],
       "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59577,
-      "FileName": "it_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238327.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Italian)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "d281030919c8e66b02e0a18fcdc33ed86725ee8f",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "0.95 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1602,23 +1330,6 @@
       "FileId": 59578,
       "FileName": "ko_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238329.exe",
       "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Korean)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "8ac8daeb25dafc0a14992dde970e5795e349be8d",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59578,
-      "FileName": "ko_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238329.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Korean)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "8ac8daeb25dafc0a14992dde970e5795e349be8d",
       "ProductFamilyId": 552,
@@ -1636,23 +1347,6 @@
       "FileId": 59579,
       "FileName": "ru_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238330.exe",
       "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Russian)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "f790e3fdae79ee8b30bc767cea34729037b41a05",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "0.952 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59579,
-      "FileName": "ru_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238330.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Russian)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "f790e3fdae79ee8b30bc767cea34729037b41a05",
       "ProductFamilyId": 552,
@@ -1664,23 +1358,6 @@
         "Russian"
       ],
       "Size": "0.952 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59580,
-      "FileName": "cn_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238342.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Chinese-Simplified)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "3c2020154463a43492335916972ef95f684f3fb4",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "0.953 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1696,23 +1373,6 @@
       ],
       "Languages": [
         "Chinese - Simplified"
-      ],
-      "Size": "0.953 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59581,
-      "FileName": "ct_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238341.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Chinese-Traditional)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "9f26b7447b47ea4095c7a5e6b05937b3957d1673",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
       ],
       "Size": "0.953 MB",
       "IsProductKeyRequired": false
@@ -1738,23 +1398,6 @@
       "FileId": 59582,
       "FileName": "en_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238344.exe",
       "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (English)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "d743e71015b99746af39bdda22a7c7d92239dbf2",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59582,
-      "FileName": "en_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238344.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (English)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "d743e71015b99746af39bdda22a7c7d92239dbf2",
       "ProductFamilyId": 552,
@@ -1766,23 +1409,6 @@
         "English"
       ],
       "Size": "0.951 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59583,
-      "FileName": "fr_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238346.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (French)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "c00a5ed411765e198de297a9053eac69f9fc4b34",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "0.954 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1806,23 +1432,6 @@
       "FileId": 59584,
       "FileName": "de_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238343.exe",
       "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (German)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "3aefb7a805c1d418a8ae4ae710c8aef101239d26",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "0.953 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59584,
-      "FileName": "de_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238343.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (German)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "3aefb7a805c1d418a8ae4ae710c8aef101239d26",
       "ProductFamilyId": 552,
@@ -1832,23 +1441,6 @@
       ],
       "Languages": [
         "German"
-      ],
-      "Size": "0.953 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59585,
-      "FileName": "it_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238347.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Italian)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "31946a8a2cc38139f30ef65cbd48af54cda882b1",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
       ],
       "Size": "0.953 MB",
       "IsProductKeyRequired": false
@@ -1874,23 +1466,6 @@
       "FileId": 59586,
       "FileName": "ja_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238348.exe",
       "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Japanese)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "80477cf7860e5675f0e0100308140d5fb57c0458",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "0.953 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59586,
-      "FileName": "ja_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238348.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Japanese)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "80477cf7860e5675f0e0100308140d5fb57c0458",
       "ProductFamilyId": 552,
@@ -1900,23 +1475,6 @@
       ],
       "Languages": [
         "Japanese"
-      ],
-      "Size": "0.953 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59587,
-      "FileName": "ko_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238349.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Korean)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "4d7225c301d352cdd1707cba004704bd88a98c28",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
       ],
       "Size": "0.953 MB",
       "IsProductKeyRequired": false
@@ -1942,23 +1500,6 @@
       "FileId": 59588,
       "FileName": "ru_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238350.exe",
       "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Russian)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "51aaea7a04ef6a233de9e4e1092f1821947e5d7a",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "0.955 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59588,
-      "FileName": "ru_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238350.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Russian)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "51aaea7a04ef6a233de9e4e1092f1821947e5d7a",
       "ProductFamilyId": 552,
@@ -1970,23 +1511,6 @@
         "Russian"
       ],
       "Size": "0.955 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59589,
-      "FileName": "es_release_management_server_for_team_foundation_server_2013_with_update_2_x64_web_installer_4238345.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 with Update 2 (x64) - Web Installer (Spanish)",
-      "Notes": "Release Management Server for Team Foundation Server 2013 component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "c7dd3e1eef0d2a98b9ddd42e37a8c0d5a1040687",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "0.953 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -2979,23 +2503,6 @@
       "FileId": 59647,
       "FileName": "ja_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238328.exe",
       "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Japanese)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "5d0e3016dd50dcc48116d8e8bd4eea14394b34e6",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "0.952 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 59647,
-      "FileName": "ja_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238328.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Japanese)",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/>Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \n<br/>\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \n<br/>\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \n<br/>\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
       "Sha1Hash": "5d0e3016dd50dcc48116d8e8bd4eea14394b34e6",
       "ProductFamilyId": 552,
@@ -3042,23 +2549,6 @@
       ],
       "Size": "1 MB",
       "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 59650,
-      "FileName": "es_release_management_client_for_visual_studio_2013_with_update_2_x86_x64_web_installer_4238325.exe",
-      "Description": "Release Management Client for Visual Studio 2013 with Update 2 (x86 and x64) - Web Installer (Spanish)",
-      "Notes": "Release Management Client for Visual Studio 2013 component serves as the main interface point to manage release management release information. \r\n<br/>\r\nBy using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud. \r\n<br/>\r\nFor more information, please see the <a href=\"http://go.microsoft.com/fwlink/?linkid=335793\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?linkid=335794\">Release Management User Guide</a>. \r\n<br/>\r\nThis download of Release Management for Visual Studio 2013 contains the latest updates. For more information, see <a href=\"http://go.microsoft.com/fwlink/?LinkId=272487\">Visual Studio Updates</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=390522\">Visual Studio Update KB article</a>.",
-      "Sha1Hash": "24a94c5f570b96b8ab6a0a882015022b238d7de9",
-      "ProductFamilyId": 552,
-      "PostedDate": "2014-05-12T13:43:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "0.951 MB",
-      "IsProductKeyRequired": false
     },
     {
       "FileId": 59650,

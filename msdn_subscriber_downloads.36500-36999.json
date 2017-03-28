@@ -1235,23 +1235,6 @@
       "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Korean)",
       "Notes": null,
       "Sha1Hash": "7796700b18e0e65771628cdcb73ff15d96f7a260",
-      "ProductFamilyId": 334,
-      "PostedDate": "2008-08-07T01:21:29Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3356 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 36987,
-      "FileName": "ko_sql_server_2008_standard_x86_x64_dvd_x14-89175.iso",
-      "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Korean)",
-      "Notes": null,
-      "Sha1Hash": "7796700b18e0e65771628cdcb73ff15d96f7a260",
       "ProductFamilyId": 347,
       "PostedDate": "2008-08-07T01:21:29Z",
       "LanguageCodes": [

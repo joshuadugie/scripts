@@ -2236,23 +2236,6 @@
       "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Danish)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "4f749c331feeff223cf711840044dc61a98fdf5c",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-06-10T22:00:51Z",
-      "LanguageCodes": [
-        "da"
-      ],
-      "Languages": [
-        "Danish"
-      ],
-      "Size": "2 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43138,
-      "FileName": "da_.net_framework_4_client_profile_x86_langpack_539645.exe",
-      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Danish)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "4f749c331feeff223cf711840044dc61a98fdf5c",
       "ProductFamilyId": 371,
       "PostedDate": "2010-06-10T22:00:51Z",
       "LanguageCodes": [
@@ -2389,23 +2372,6 @@
       "Description": ".NET Framework 4 Full (x86) LangPack - (Dutch)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "4d96d9206a18b8ae92d5c766e23bbba2d2af8b98",
-      "ProductFamilyId": 371,
-      "PostedDate": "2010-06-10T22:00:52Z",
-      "LanguageCodes": [
-        "nl"
-      ],
-      "Languages": [
-        "Dutch"
-      ],
-      "Size": "3 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43148,
-      "FileName": "nl_.net_framework_4_full_x86_langpack_539654.exe",
-      "Description": ".NET Framework 4 Full (x86) LangPack - (Dutch)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "4d96d9206a18b8ae92d5c766e23bbba2d2af8b98",
       "ProductFamilyId": 370,
       "PostedDate": "2010-06-10T22:00:52Z",
       "LanguageCodes": [
@@ -2458,23 +2424,6 @@
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "070951f1f79be67e5bb902f44c6139b53ec02531",
       "ProductFamilyId": 370,
-      "PostedDate": "2010-06-10T22:00:53Z",
-      "LanguageCodes": [
-        "fi"
-      ],
-      "Languages": [
-        "Finnish"
-      ],
-      "Size": "2 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43152,
-      "FileName": "fi_.net_framework_4_client_profile_x86_langpack_539660.exe",
-      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Finnish)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "dd0a4a3c73d3e7d563532308eecba35f4b61eb78",
-      "ProductFamilyId": 371,
       "PostedDate": "2010-06-10T22:00:53Z",
       "LanguageCodes": [
         "fi"
@@ -2568,23 +2517,6 @@
         "Finnish"
       ],
       "Size": "0.441 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43158,
-      "FileName": "el_.net_framework_4_client_profile_x86_x64_langpack_539665.exe",
-      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Greek)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "fd9c97a71e562fb513e46842be139e7bb5056cd9",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-06-10T22:00:54Z",
-      "LanguageCodes": [
-        "el"
-      ],
-      "Languages": [
-        "Greek"
-      ],
-      "Size": "2 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -2712,23 +2644,6 @@
       "Description": ".NET Framework 4 Full (x86) LangPack - (Hungarian)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "8e346dc5808c22a2b369a382048a1fb37a963ffc",
-      "ProductFamilyId": 371,
-      "PostedDate": "2010-06-10T22:00:09Z",
-      "LanguageCodes": [
-        "hu"
-      ],
-      "Languages": [
-        "Hungarian"
-      ],
-      "Size": "3 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43167,
-      "FileName": "hu_.net_framework_4_full_x86_langpack_539676.exe",
-      "Description": ".NET Framework 4 Full (x86) LangPack - (Hungarian)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "8e346dc5808c22a2b369a382048a1fb37a963ffc",
       "ProductFamilyId": 370,
       "PostedDate": "2010-06-10T22:00:09Z",
       "LanguageCodes": [
@@ -2798,23 +2713,6 @@
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "f2d8ff7d22d8621e5a35c1988ea525f6bc7ef815",
       "ProductFamilyId": 370,
-      "PostedDate": "2010-06-10T22:00:09Z",
-      "LanguageCodes": [
-        "no"
-      ],
-      "Languages": [
-        "Norwegian"
-      ],
-      "Size": "3 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43172,
-      "FileName": "no_.net_framework_4_full_x86_langpack_539693.exe",
-      "Description": ".NET Framework 4 Full (x86) LangPack - (Norwegian)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "f2d8ff7d22d8621e5a35c1988ea525f6bc7ef815",
-      "ProductFamilyId": 371,
       "PostedDate": "2010-06-10T22:00:09Z",
       "LanguageCodes": [
         "no"
@@ -3596,23 +3494,6 @@
       "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Polish)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "8d2f89e7a1a753e12abab79b5e71dbf0cb914edd",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-06-30T22:18:14Z",
-      "LanguageCodes": [
-        "pl"
-      ],
-      "Languages": [
-        "Polish"
-      ],
-      "Size": "3 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43366,
-      "FileName": "pl_.net_framework_4_full_x86_x64_langpack_546031.exe",
-      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Polish)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "8d2f89e7a1a753e12abab79b5e71dbf0cb914edd",
       "ProductFamilyId": 371,
       "PostedDate": "2010-06-30T22:18:14Z",
       "LanguageCodes": [
@@ -3766,23 +3647,6 @@
       "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Turkish)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "116b79ab273391b13532ad989dc8b63e62b2110e",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-06-30T22:18:16Z",
-      "LanguageCodes": [
-        "tr"
-      ],
-      "Languages": [
-        "Turkish"
-      ],
-      "Size": "3 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43376,
-      "FileName": "tr_.net_framework_4_full_x86_langpack_546032.exe",
-      "Description": ".NET Framework 4 Full (x86) LangPack - (Turkish)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "256d2bab84891d301de282d88fc9ec2c67635d2e",
       "ProductFamilyId": 370,
       "PostedDate": "2010-06-30T22:18:16Z",
       "LanguageCodes": [

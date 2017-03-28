@@ -380,23 +380,6 @@
       "Description": "Host Integration Server 2009 (x86 and x64) - CD (English)",
       "Notes": null,
       "Sha1Hash": "8830f2cd88bb317b2f5cd273c396b7930f4bff67",
-      "ProductFamilyId": 361,
-      "PostedDate": "2009-03-28T23:41:06Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "524 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 38523,
-      "FileName": "en_host_integration_server_2009_x86_and_x64_cd_x15-48642.iso",
-      "Description": "Host Integration Server 2009 (x86 and x64) - CD (English)",
-      "Notes": null,
-      "Sha1Hash": "8830f2cd88bb317b2f5cd273c396b7930f4bff67",
       "ProductFamilyId": 620,
       "PostedDate": "2009-03-28T23:41:06Z",
       "LanguageCodes": [
@@ -2675,23 +2658,6 @@
         "Italian"
       ],
       "Size": "779 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 38757,
-      "FileName": "ct_biztalk_server_2009_accelerators_enterprise_x86_cd_x15-48258.iso",
-      "Description": "BizTalk Server 2009 Accelerators Enterprise Edition (x86) - CD (Chinese-Traditional)\r\n",
-      "Notes": null,
-      "Sha1Hash": "4711b9ec0645f62e90098b0b07c5f9574678814c",
-      "ProductFamilyId": 168,
-      "PostedDate": "2009-04-23T14:58:02Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "310 MB",
       "IsProductKeyRequired": false
     },
     {

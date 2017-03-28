@@ -2437,23 +2437,6 @@
       "Description": "Windows Server 2008 (x86) - DVD (Hungarian)\r\n",
       "Notes": null,
       "Sha1Hash": "cb2a2f366fd7934a502843908eddb52a46f2dc23",
-      "ProductFamilyId": 164,
-      "PostedDate": "2008-04-05T07:53:08Z",
-      "LanguageCodes": [
-        "hu"
-      ],
-      "Languages": [
-        "Hungarian"
-      ],
-      "Size": "1888 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 15166,
-      "FileName": "hu_windows_server_2008_x86_dvd_x14-26822.iso",
-      "Description": "Windows Server 2008 (x86) - DVD (Hungarian)\r\n",
-      "Notes": null,
-      "Sha1Hash": "cb2a2f366fd7934a502843908eddb52a46f2dc23",
       "ProductFamilyId": 347,
       "PostedDate": "2008-04-05T07:53:08Z",
       "LanguageCodes": [
@@ -2505,23 +2488,6 @@
       "Description": "Windows Server 2008 (x64) - DVD (Turkish)\r\n",
       "Notes": null,
       "Sha1Hash": "bfef66c1b01cf3b9813bd15efb11fdb700cea139",
-      "ProductFamilyId": 347,
-      "PostedDate": "2008-04-05T07:53:08Z",
-      "LanguageCodes": [
-        "tr"
-      ],
-      "Languages": [
-        "Turkish"
-      ],
-      "Size": "2677 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 15169,
-      "FileName": "tr_windows_server_2008_x64_dvd_x14-26842.iso",
-      "Description": "Windows Server 2008 (x64) - DVD (Turkish)\r\n",
-      "Notes": null,
-      "Sha1Hash": "bfef66c1b01cf3b9813bd15efb11fdb700cea139",
       "ProductFamilyId": 164,
       "PostedDate": "2008-04-05T07:53:08Z",
       "LanguageCodes": [
@@ -2531,23 +2497,6 @@
         "Turkish"
       ],
       "Size": "2677 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 15170,
-      "FileName": "tr_windows_server_2008_x86_dvd_x14-26838.iso",
-      "Description": "Windows Server 2008 (x86) - DVD (Turkish)\r\n",
-      "Notes": null,
-      "Sha1Hash": "62df6aa0d6a3841d02da510d9c9d318dd7f84277",
-      "ProductFamilyId": 164,
-      "PostedDate": "2008-04-05T07:53:08Z",
-      "LanguageCodes": [
-        "tr"
-      ],
-      "Languages": [
-        "Turkish"
-      ],
-      "Size": "1884 MB",
       "IsProductKeyRequired": true
     },
     {

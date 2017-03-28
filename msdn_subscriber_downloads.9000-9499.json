@@ -1392,23 +1392,6 @@
         "Chinese - Simplified"
       ],
       "Size": "291 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 9096,
-      "FileName": "cs_vs_2005_tfs_beta3_refresh.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server - Beta 3 Refresh (Simplified Chinese)",
-      "Notes": null,
-      "Sha1Hash": "b83bc211e7b3a53e0b946ad464a5948c1af8cb19",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-01-18T02:08:59Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "291 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1869,23 +1852,6 @@
       ],
       "Size": "191 MB",
       "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 9126,
-      "FileName": "ko_vs_2005_tfs_beta3_refresh.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server - Beta 3 Refresh (Korean)",
-      "Notes": null,
-      "Sha1Hash": "7de0ef8ec80e91d7317917bd52ddc2ef7f0db1e3",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-01-18T08:55:38Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "292 MB",
-      "IsProductKeyRequired": true
     },
     {
       "FileId": 9126,
@@ -4257,23 +4223,6 @@
       "Notes": null,
       "Sha1Hash": "9c34bea968ce2a9bbf577daa3dab29b18b610846",
       "ProductFamilyId": 234,
-      "PostedDate": "2006-01-31T08:04:26Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "450 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 9277,
-      "FileName": "es_net_framework_sdk_20_x64.iso",
-      "Description": ".NET Framework 2.0 SDK (x64) (Spanish)",
-      "Notes": null,
-      "Sha1Hash": "9c34bea968ce2a9bbf577daa3dab29b18b610846",
-      "ProductFamilyId": 235,
       "PostedDate": "2006-01-31T08:04:26Z",
       "LanguageCodes": [
         "es"

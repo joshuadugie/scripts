@@ -516,23 +516,6 @@
       "Description": ".NET Framework 4 Client Profile (x86) LangPack - (German)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "cb969baeeaa1acc68c994af245c0d30a5bc10ce9",
-      "ProductFamilyId": 371,
-      "PostedDate": "2010-04-20T22:40:16Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "6 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 42030,
-      "FileName": "de_.net_framework_4_client_profile_x86_langpack_519557.exe",
-      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (German)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "cb969baeeaa1acc68c994af245c0d30a5bc10ce9",
       "ProductFamilyId": 370,
       "PostedDate": "2010-04-20T22:40:16Z",
       "LanguageCodes": [

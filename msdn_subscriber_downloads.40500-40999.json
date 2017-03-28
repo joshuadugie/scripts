@@ -2431,23 +2431,6 @@
       "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Russian)",
       "Notes": null,
       "Sha1Hash": "b55d31dd8df022bdec986661abcc0ef06f89a680",
-      "ProductFamilyId": 334,
-      "PostedDate": "2009-11-07T00:02:27Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3306 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 40706,
-      "FileName": "ru_sql_server_2008_standard_x86_x64_dvd_x14-89179.iso",
-      "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Russian)",
-      "Notes": null,
-      "Sha1Hash": "b55d31dd8df022bdec986661abcc0ef06f89a680",
       "ProductFamilyId": 341,
       "PostedDate": "2009-11-07T00:02:27Z",
       "LanguageCodes": [

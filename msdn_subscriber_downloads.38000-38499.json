@@ -975,23 +975,6 @@
       "Description": "Speech Language Packs (x86, x64) - (Spanish)",
       "Notes": "This Speech Language Pack applies to both Office Communication Server 2007 R2 and Unified Communications Managed API 2.0 SDK",
       "Sha1Hash": "bc893ddb97ed9e247909d96144d2046f7ba3581a",
-      "ProductFamilyId": 296,
-      "PostedDate": "2009-02-04T06:55:47Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "33 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 38132,
-      "FileName": "es_speech_language_packs_x64_x86_302452.msi",
-      "Description": "Speech Language Packs (x86, x64) - (Spanish)",
-      "Notes": "This Speech Language Pack applies to both Office Communication Server 2007 R2 and Unified Communications Managed API 2.0 SDK",
-      "Sha1Hash": "bc893ddb97ed9e247909d96144d2046f7ba3581a",
       "ProductFamilyId": 355,
       "PostedDate": "2009-02-04T06:55:47Z",
       "LanguageCodes": [
@@ -1086,23 +1069,6 @@
         "Korean"
       ],
       "Size": "27 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 38138,
-      "FileName": "pt_speech_language_packs_x64_x86_302452.msi",
-      "Description": "Speech Language Packs (x86, x64) - (Portuguese)",
-      "Notes": "This Speech Language Pack applies to both Office Communication Server 2007 R2 and Unified Communications Managed API 2.0 SDK",
-      "Sha1Hash": "a28617bc87d56165004b0045b3118b17c8508016",
-      "ProductFamilyId": 355,
-      "PostedDate": "2009-02-04T06:55:48Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "24 MB",
       "IsProductKeyRequired": false
     },
     {

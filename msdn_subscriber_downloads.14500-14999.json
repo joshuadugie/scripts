@@ -783,23 +783,6 @@
       "IsProductKeyRequired": false
     },
     {
-      "FileId": 14546,
-      "FileName": "cs_office_2007_servers_service_pack_1_x64.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x64) - (Czech)",
-      "Notes": null,
-      "Sha1Hash": "7b4159c71b2045ae1d2f04a79b40128c280d6c60",
-      "ProductFamilyId": 202,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "cs"
-      ],
-      "Languages": [
-        "Czech"
-      ],
-      "Size": "167 MB",
-      "IsProductKeyRequired": false
-    },
-    {
       "FileId": 14547,
       "FileName": "da_office_2007_servers_service_pack_1_x64.exe",
       "Description": "Office Servers 2007 Service Pack 1 (x64) - (Danish)",
@@ -1077,23 +1060,6 @@
       "Description": "Office Servers 2007 Service Pack 1 (x64) - (Portuguese-Portugal)",
       "Notes": null,
       "Sha1Hash": "cb66158efdc2055dcdffbc7ef6746ba8698eca26",
-      "ProductFamilyId": 29,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "pp"
-      ],
-      "Languages": [
-        "Portuguese-Portugal"
-      ],
-      "Size": "167 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 14563,
-      "FileName": "pt-pt_office_2007_servers_service_pack_1_x64.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x64) - (Portuguese-Portugal)",
-      "Notes": null,
-      "Sha1Hash": "cb66158efdc2055dcdffbc7ef6746ba8698eca26",
       "ProductFamilyId": 202,
       "PostedDate": "2007-12-22T13:41:52Z",
       "LanguageCodes": [
@@ -1145,23 +1111,6 @@
       "Description": "Office Servers 2007 Service Pack 1 (x64) - (Thai)",
       "Notes": null,
       "Sha1Hash": "6822e778490467475efcaa089fbfe3da9552acd8",
-      "ProductFamilyId": 29,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "th"
-      ],
-      "Languages": [
-        "Thai"
-      ],
-      "Size": "167 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 14566,
-      "FileName": "th_office_2007_servers_service_pack_1_x64.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x64) - (Thai)",
-      "Notes": null,
-      "Sha1Hash": "6822e778490467475efcaa089fbfe3da9552acd8",
       "ProductFamilyId": 202,
       "PostedDate": "2007-12-22T13:41:52Z",
       "LanguageCodes": [
@@ -1203,23 +1152,6 @@
       ],
       "Languages": [
         "Chinese - Simplified"
-      ],
-      "Size": "167 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 14569,
-      "FileName": "zh-hant_office_2007_servers_service_pack_1_x64.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x64) - (Chinese-Traditional)",
-      "Notes": null,
-      "Sha1Hash": "e89f06019ee9a848f1f71231ba2b3d6de3e77992",
-      "ProductFamilyId": 187,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
       ],
       "Size": "167 MB",
       "IsProductKeyRequired": false
@@ -1604,23 +1536,6 @@
       "Description": "Office Servers 2007 Service Pack 1 (x86) - (Thai)",
       "Notes": null,
       "Sha1Hash": "f3c54e7ed94265f9173c8127261112982548b942",
-      "ProductFamilyId": 29,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "th"
-      ],
-      "Languages": [
-        "Thai"
-      ],
-      "Size": "80 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 14591,
-      "FileName": "th_office_2007_servers_service_pack_1_x86.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x86) - (Thai)",
-      "Notes": null,
-      "Sha1Hash": "f3c54e7ed94265f9173c8127261112982548b942",
       "ProductFamilyId": 186,
       "PostedDate": "2007-12-22T13:41:52Z",
       "LanguageCodes": [
@@ -1630,23 +1545,6 @@
         "Thai"
       ],
       "Size": "80 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 14592,
-      "FileName": "tr_office_2007_servers_service_pack_1_x86.exe",
-      "Description": "Office Servers 2007 Service Pack 1 (x86) - (Turkish)",
-      "Notes": null,
-      "Sha1Hash": "28e6f1042c3a79610b035ce5d73d789ae610d794",
-      "ProductFamilyId": 29,
-      "PostedDate": "2007-12-22T13:41:52Z",
-      "LanguageCodes": [
-        "tr"
-      ],
-      "Languages": [
-        "Turkish"
-      ],
-      "Size": "82 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -4375,23 +4273,6 @@
       "Description": "Windows Server 2008 (x86) - DVD (Japanese)\r\n",
       "Notes": null,
       "Sha1Hash": "3b3c6e1f2493821c4284b2ae3908eeffdf13c9fc",
-      "ProductFamilyId": 164,
-      "PostedDate": "2008-02-04T21:37:13Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "1950 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 14807,
-      "FileName": "ja_windows_server_2008_x86_dvd_x14-26726.iso",
-      "Description": "Windows Server 2008 (x86) - DVD (Japanese)\r\n",
-      "Notes": null,
-      "Sha1Hash": "3b3c6e1f2493821c4284b2ae3908eeffdf13c9fc",
       "ProductFamilyId": 341,
       "PostedDate": "2008-02-04T21:37:13Z",
       "LanguageCodes": [
@@ -4418,23 +4299,6 @@
         "German"
       ],
       "Size": "2698 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 14809,
-      "FileName": "es_windows_server_2008_x64_dvd_x14-26738.iso",
-      "Description": "Windows Server 2008 (x64) - DVD (Spanish)\r\n",
-      "Notes": null,
-      "Sha1Hash": "7b9efb0c5523246cc824bfb473e8f1e4e8f6612f",
-      "ProductFamilyId": 347,
-      "PostedDate": "2008-02-04T21:39:17Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "2684 MB",
       "IsProductKeyRequired": true
     },
     {

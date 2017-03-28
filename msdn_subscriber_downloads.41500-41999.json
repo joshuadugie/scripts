@@ -1497,23 +1497,6 @@
       "IsProductKeyRequired": false
     },
     {
-      "FileId": 41608,
-      "FileName": "en_windows_driver_kit_version_7.1.0_x86_x64_ia64_dvd_496758.iso",
-      "Description": "Windows Driver Kit Version 7.1.0 (x86, x64, and ia64) - DVD (English)",
-      "Notes": "<p>1. The Windows Driver Kit (WDK) Version 7.1.0 is available as the latest production release. This version of the WDK is an update of the WDK 7.0.0 and contains the headers, libraries, build tools, build environments, code samples, documentation, and other tools that software developers use to create drivers and kernel software for the following operating systems:</p>\n<ul><li>Windows 7</li>\n<li>Windows Vista</li>\n<li>Windows XP</li>\n<li>Windows Server 2008 R2</li>\n<li>Windows Server 2008</li>\n<li>Windows Server 2003</li></ul>\n<p>2. This release is available as a ISO download only. The image posted is a DVD image and the recommended approach is to download and burn a DVD. (Please be sure to have DVD burning software installed)</p>\n",
-      "Sha1Hash": "de6abdb8eb4e08942add4aa270c763ed4e3d8242",
-      "ProductFamilyId": 146,
-      "PostedDate": "2010-03-01T00:01:20Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "620 MB",
-      "IsProductKeyRequired": false
-    },
-    {
       "FileId": 41609,
       "FileName": "en_forefront_identity_manager_2010_x86_x64_498735.exe",
       "Description": "Forefront Identity Manager 2010 (x86 and x64) - (English)",
@@ -1679,23 +1662,6 @@
         "English"
       ],
       "Size": "38 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 41626,
-      "FileName": "en_microsoft_desktop_optimization_pack_2010_refresh_x86_x64_dvd_503264.iso",
-      "Description": "Microsoft Desktop Optimization Pack 2010 Refresh (x86 and x64) - DVD (English)\r\n",
-      "Notes": "<b>Please note:</b> The desktop release of App-V 4.6 is included in this download.",
-      "Sha1Hash": "4a4db549604a2e5b592458b10160a2cc97fa26de",
-      "ProductFamilyId": 178,
-      "PostedDate": "2010-04-01T00:02:31Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "2171 MB",
       "IsProductKeyRequired": false
     },
     {

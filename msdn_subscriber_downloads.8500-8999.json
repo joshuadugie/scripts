@@ -4435,23 +4435,6 @@
         "Japanese"
       ],
       "Size": "292 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 8804,
-      "FileName": "jp_vs_2005_tfs_beta3_refresh.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server - Beta 3 Refresh (Japanese)",
-      "Notes": null,
-      "Sha1Hash": "36f33540346f8382be9a44e7f53c1f1d28324531",
-      "ProductFamilyId": 99,
-      "PostedDate": "2005-12-17T02:36:06Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "292 MB",
       "IsProductKeyRequired": false
     },
     {

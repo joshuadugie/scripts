@@ -3613,23 +3613,6 @@
       "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Spanish)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "2bd0ed5184fe20e9e78b57a46ad90045e9cd482d",
-      "ProductFamilyId": 371,
-      "PostedDate": "2010-05-14T22:10:56Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "5 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 42745,
-      "FileName": "es_.net_framework_4_client_profile_x86_langpack_529639.exe",
-      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Spanish)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "2bd0ed5184fe20e9e78b57a46ad90045e9cd482d",
       "ProductFamilyId": 370,
       "PostedDate": "2010-05-14T22:10:56Z",
       "LanguageCodes": [
@@ -3970,23 +3953,6 @@
       "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Italian)",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "4512da3717a3fb109468a387d33b0f86c64ae0fd",
-      "ProductFamilyId": 371,
-      "PostedDate": "2010-05-14T22:11:00Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "2 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 42766,
-      "FileName": "it_.net_framework_4_client_profile_x86_x64_langpack_529648.exe",
-      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Italian)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "4512da3717a3fb109468a387d33b0f86c64ae0fd",
       "ProductFamilyId": 370,
       "PostedDate": "2010-05-14T22:11:00Z",
       "LanguageCodes": [
@@ -4013,23 +3979,6 @@
         "Italian"
       ],
       "Size": "2 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 42768,
-      "FileName": "it_.net_framework_4_full_x86_ia64_langpack_529654.exe",
-      "Description": ".NET Framework 4 Full (x86 and ia64) LangPack - (Italian)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "31191eb75c04fc0cba2a3b09fe0a7d44d9ba3a34",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-05-14T22:11:00Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -4354,23 +4303,6 @@
       ],
       "Size": "423 MB",
       "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 42789,
-      "FileName": "ru_.net_framework_4_client_profile_x86_x64_langpack_529651.exe",
-      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Russian)",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "fc673e5a251b376b382ef20250c0fb3a5e39c18d",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-05-20T22:27:19Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "2 MB",
-      "IsProductKeyRequired": false
     },
     {
       "FileId": 42789,

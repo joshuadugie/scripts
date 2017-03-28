@@ -206,39 +206,6 @@
     {
       "FileId": 52011,
       "FileName": "mu_system_center_2012_data_protection_manager_with_sp1_x64_dvd_1359086.iso",
-      "Description": "System Center 2012 \u2013 Data Protection Manager with Service Pack 1 (x64) - DVD (Chinese-Simplified, English, French, German, Italian, Japanese, Portuguese-Brazil, Russian, and Spanish)\r\n",
-      "Notes": "<p>Please review <a href=\"http://support.microsoft.com/kb/2801987\">KB Article 2801987</a> for important installation information.</p>\nFor the following languages, System Center 2012 with Service Pack 1 (SP1) includes SQL Server Technology database software in English only:\n<ul><li>Czech</li><li>Dutch</li><li>Hungarian</li>\n<li>Polish</li>\n<li>Portuguese</li>\n<li>Swedish</li>\n<li>Turkish</li>\n</ul>\n",
-      "Sha1Hash": "d26ccea0c2728266dbe8120062344e77b44d31eb",
-      "ProductFamilyId": 463,
-      "PostedDate": "2012-12-20T18:00:00Z",
-      "LanguageCodes": [
-        "cn",
-        "de",
-        "en",
-        "es",
-        "fr",
-        "it",
-        "ja",
-        "pt",
-        "ru"
-      ],
-      "Languages": [
-        "English",
-        "Japanese",
-        "German",
-        "Spanish",
-        "French",
-        "Italian",
-        "Portuguese-Brazil",
-        "Russian",
-        "Chinese - Simplified"
-      ],
-      "Size": "4721 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 52011,
-      "FileName": "mu_system_center_2012_data_protection_manager_with_sp1_x64_dvd_1359086.iso",
       "Description": "System Center 2012 \u2013 Client Management Suite with Service Pack 1 \u2013 Data Protection Manager with Service Pack 1 (x64) - DVD (Multiple Languages)\r\n",
       "Notes": "<p>Please review <a href=\"http://support.microsoft.com/kb/2801987\">KB Article 2801987</a> for important installation information.</p>\nFor the following languages, System Center 2012 with Service Pack 1 (SP1) includes SQL Server Technology database software in English only:\n<ul><li>Czech</li><li>Dutch</li><li>Hungarian</li>\n<li>Polish</li>\n<li>Portuguese</li>\n<li>Swedish</li>\n<li>Turkish</li>\n</ul>\n",
       "Sha1Hash": "d26ccea0c2728266dbe8120062344e77b44d31eb",
@@ -267,23 +234,6 @@
         "Chinese - Simplified"
       ],
       "Size": "4721 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 52013,
-      "FileName": "tr_system_center_2012_operations_manager_with_sp1_x86_x64_dvd_1348907.iso",
-      "Description": "System Center 2012 \u2013 Operations Manager with Service Pack 1 (x86 and x64) - DVD (Turkish)\r\n",
-      "Notes": "<p>Please review <a href=\"http://support.microsoft.com/kb/2801987\">KB Article 2801987</a> for important installation information.</p>\nFor the following languages, System Center 2012 with Service Pack 1 (SP1) includes SQL Server Technology database software in English only:\n<ul><li>Czech</li><li>Dutch</li><li>Hungarian</li>\n<li>Polish</li>\n<li>Portuguese</li>\n<li>Swedish</li>\n<li>Turkish</li>\n</ul>\n",
-      "Sha1Hash": "5c28c751e2689d798cad594fb66af1473e73b717",
-      "ProductFamilyId": 463,
-      "PostedDate": "2012-12-20T18:00:00Z",
-      "LanguageCodes": [
-        "tr"
-      ],
-      "Languages": [
-        "Turkish"
-      ],
-      "Size": "1069 MB",
       "IsProductKeyRequired": true
     },
     {
@@ -2795,42 +2745,8 @@
       "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Russian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "c3ca3a5bcfd5d7f83d24d0732cb0f084c163b557",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:02Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52219,
-      "FileName": "ru_sql_server_2012_standard_edition_with_sp1_x86_dvd_1481131.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "c3ca3a5bcfd5d7f83d24d0732cb0f084c163b557",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:02Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52220,
-      "FileName": "ru_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1481123.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "6c1112939316f16cc575bf877910294d57c5bb9d",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:38Z",
       "LanguageCodes": [
         "ru"
       ],
@@ -2863,42 +2779,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Russian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "69ff338f5198c0b3bd8cb0ed9508c23b07f0cc9e",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:52Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52221,
-      "FileName": "ru_sql_server_2012_web_edition_with_sp1_x86_dvd_1481135.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "69ff338f5198c0b3bd8cb0ed9508c23b07f0cc9e",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:52Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52222,
-      "FileName": "ru_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1481115.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "3f168f635f1e162115eba9b497d06b4ae9d7d1f2",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:15Z",
       "LanguageCodes": [
         "ru"
       ],
@@ -2931,23 +2813,6 @@
       "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Russian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "ceb3837a21bece74005962a58f685291d5fbd6f6",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:11Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52223,
-      "FileName": "ru_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1480393.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "ceb3837a21bece74005962a58f685291d5fbd6f6",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:11Z",
       "LanguageCodes": [
@@ -2965,42 +2830,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "10b67647a8c9e5364711c8b58030bb660adf6706",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:52Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52224,
-      "FileName": "pt_sql_server_2012_web_edition_with_sp1_x86_dvd_1479637.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "10b67647a8c9e5364711c8b58030bb660adf6706",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:52Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52225,
-      "FileName": "pt_sql_server_2012_standard_edition_with_sp1_x86_dvd_1479185.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "0e514f1e686382a9d393d15099eb7aae75c0342f",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:02Z",
       "LanguageCodes": [
         "pt"
       ],
@@ -3033,23 +2864,6 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "af37192125757db5553517524a14613e391d515a",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:38Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52226,
-      "FileName": "pt_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1479052.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "af37192125757db5553517524a14613e391d515a",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:38Z",
       "LanguageCodes": [
@@ -3059,23 +2873,6 @@
         "Portuguese-Brazil"
       ],
       "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52227,
-      "FileName": "ru_sql_server_2012_developer_edition_with_sp1_x86_dvd_1480853.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Russian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "a5458f57b8e9dc714a2e4c6ccd8799b2cc4c4f8a",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:47Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "3494 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -3101,23 +2898,6 @@
       "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "f6702ecd7ad9f7dd99252d7c86a1ecaf620066bd",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:12Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52228,
-      "FileName": "pt_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1477825.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "f6702ecd7ad9f7dd99252d7c86a1ecaf620066bd",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:12Z",
       "LanguageCodes": [
@@ -3135,42 +2915,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Japanese)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "25ccaf5ec8ee99eb0432d84c3c79daaa1ba950d1",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52229,
-      "FileName": "ja_sql_server_2012_web_edition_with_sp1_x86_dvd_1473516.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "25ccaf5ec8ee99eb0432d84c3c79daaa1ba950d1",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52230,
-      "FileName": "ja_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1472965.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "f2251c441223ea2ee5e7ebd468b29a52c39b851d",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:38Z",
       "LanguageCodes": [
         "ja"
       ],
@@ -3203,23 +2949,6 @@
       "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Japanese)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "a268001ed73d4c3c3d5866f5b6c5a474fc03398e",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:15Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52231,
-      "FileName": "ja_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1472314.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "a268001ed73d4c3c3d5866f5b6c5a474fc03398e",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:28:15Z",
       "LanguageCodes": [
@@ -3237,42 +2966,8 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Korean)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "680b73ea2d4f42f9ce54865049fed0399ff4a0fc",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:48Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52232,
-      "FileName": "ko_sql_server_2012_developer_edition_with_sp1_x86_dvd_1475764.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "680b73ea2d4f42f9ce54865049fed0399ff4a0fc",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:48Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52233,
-      "FileName": "ko_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1475050.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "f1aae8b9917d71ac6f86401e876ae28bef9e06e2",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:12Z",
       "LanguageCodes": [
         "ko"
       ],
@@ -3305,42 +3000,8 @@
       "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Japanese)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "da9c9ee317d3910a930f8eb8418e70bf38008c4f",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52234,
-      "FileName": "ja_sql_server_2012_standard_edition_with_sp1_x86_dvd_1473375.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "da9c9ee317d3910a930f8eb8418e70bf38008c4f",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52235,
-      "FileName": "ja_sql_server_2012_developer_edition_with_sp1_x86_dvd_1471833.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "8a5144038316139840d2889194efd1268b58d582",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:48Z",
       "LanguageCodes": [
         "ja"
       ],
@@ -3373,23 +3034,6 @@
       "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Japanese)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "7ec6aecb7e25d8f107ddd52371708573f6e8b602",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:12Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52236,
-      "FileName": "ja_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1471676.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Japanese)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "7ec6aecb7e25d8f107ddd52371708573f6e8b602",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:12Z",
       "LanguageCodes": [
@@ -3399,23 +3043,6 @@
         "Japanese"
       ],
       "Size": "3504 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52237,
-      "FileName": "it_sql_server_2012_developer_edition_with_sp1_x86_dvd_1469758.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "04395503211ff33ab064ec38c6912aca9c37475c",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:48Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -3441,23 +3068,6 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "229664f2f0962fb5845f08f98d9c427de3b46534",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:49Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52238,
-      "FileName": "pt_sql_server_2012_developer_edition_with_sp1_x86_dvd_1477953.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "229664f2f0962fb5845f08f98d9c427de3b46534",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:49Z",
       "LanguageCodes": [
@@ -3475,42 +3085,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Korean)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "124d839a07a7c126c1c6a4f243a87c1c7e81a578",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52239,
-      "FileName": "ko_sql_server_2012_web_edition_with_sp1_x86_dvd_1477390.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "124d839a07a7c126c1c6a4f243a87c1c7e81a578",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52240,
-      "FileName": "ko_sql_server_2012_standard_edition_with_sp1_x86_dvd_1476683.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "507fad8546df6d765e325283323b9dcbc540107e",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:03Z",
       "LanguageCodes": [
         "ko"
       ],
@@ -3543,42 +3119,8 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Korean)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "8fea91ec253907fb79ef0e62d3aff30f5b1e09a3",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:39Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52241,
-      "FileName": "ko_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1476542.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "8fea91ec253907fb79ef0e62d3aff30f5b1e09a3",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:39Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "3495 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52242,
-      "FileName": "ko_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1475898.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Korean)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "13cab2028e9ee325ba3bf7e5ddd9f071286afe55",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:16Z",
       "LanguageCodes": [
         "ko"
       ],
@@ -3611,23 +3153,6 @@
       "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "736e583129923004d1d7c821df02f94150e21b3a",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:16Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3474 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52243,
-      "FileName": "pt_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1478374.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Portuguese-Brazil)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "736e583129923004d1d7c821df02f94150e21b3a",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:28:16Z",
       "LanguageCodes": [
@@ -3645,42 +3170,8 @@
       "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Italian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "245ad341f3672a7bcc743cc7b107b03ab5ca7465",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52244,
-      "FileName": "it_sql_server_2012_standard_edition_with_sp1_x86_dvd_1470619.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "245ad341f3672a7bcc743cc7b107b03ab5ca7465",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52245,
-      "FileName": "it_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1470117.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "354f4226c3068797936e67c90cda2a4fddeaca02",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:16Z",
       "LanguageCodes": [
         "it"
       ],
@@ -3713,42 +3204,8 @@
       "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Italian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "eb3c0e11fdb53f92b689edefe60e4955572ecc66",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:13Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52246,
-      "FileName": "it_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1468854.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "eb3c0e11fdb53f92b689edefe60e4955572ecc66",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:13Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52247,
-      "FileName": "it_sql_server_2012_web_edition_with_sp1_x86_dvd_1470994.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "0fe6aca692e6f1beabf2ab07794a045639ab5304",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:53Z",
       "LanguageCodes": [
         "it"
       ],
@@ -3781,23 +3238,6 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Italian)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "f8d2dc15f8256b4b69a9907801be2c444fce9ba6",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:39Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "3477 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52248,
-      "FileName": "it_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1470491.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Italian)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "f8d2dc15f8256b4b69a9907801be2c444fce9ba6",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:39Z",
       "LanguageCodes": [
@@ -3815,42 +3255,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (French)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "44b869402af50ff294724109b77eb2e858fca0a4",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52249,
-      "FileName": "fr_sql_server_2012_web_edition_with_sp1_x86_dvd_1468714.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "44b869402af50ff294724109b77eb2e858fca0a4",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:53Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52250,
-      "FileName": "fr_sql_server_2012_standard_edition_with_sp1_x86_dvd_1467920.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "ccc53a3a2cb867bf5d96ed00444019e26a7ad639",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:04Z",
       "LanguageCodes": [
         "fr"
       ],
@@ -3883,42 +3289,8 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (French)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "17a506671e53711cd8f91bd4e6d87a1385334e98",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:39Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52251,
-      "FileName": "fr_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1467740.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "17a506671e53711cd8f91bd4e6d87a1385334e98",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:39Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52252,
-      "FileName": "fr_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1467032.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "2a28e52392d2ea8eaa3b05787df591c1c46f3f45",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:17Z",
       "LanguageCodes": [
         "fr"
       ],
@@ -3951,42 +3323,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (German)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "8ae5e4d42d379f7cc56a66391636488731623d48",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:54Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52253,
-      "FileName": "de_sql_server_2012_web_edition_with_sp1_x86_dvd_1465084.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "8ae5e4d42d379f7cc56a66391636488731623d48",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:54Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52254,
-      "FileName": "de_sql_server_2012_standard_edition_with_sp1_x86_dvd_1464695.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "5b9c0cc1fb13b1d4d8470073265a635577ebee12",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:04Z",
       "LanguageCodes": [
         "de"
       ],
@@ -4019,42 +3357,8 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (French)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "d24101b4f54e3b09e14e838251403912eea022aa",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:49Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52255,
-      "FileName": "fr_sql_server_2012_developer_edition_with_sp1_x86_dvd_1466512.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "d24101b4f54e3b09e14e838251403912eea022aa",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:49Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "3486 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52256,
-      "FileName": "fr_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1466291.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (French)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "aa4070b6e57ce1f9853d59b796be6dfe1c6b1a3c",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:13Z",
       "LanguageCodes": [
         "fr"
       ],
@@ -4087,42 +3391,8 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Spanish)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "8d66a8adb8b3fe5e111460296c15e72cc8ae815f",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:49Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52257,
-      "FileName": "es_sql_server_2012_developer_edition_with_sp1_x86_dvd_1465750.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "8d66a8adb8b3fe5e111460296c15e72cc8ae815f",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:49Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52258,
-      "FileName": "es_sql_server_2012_web_edition_with_sp1_x86_dvd_1466225.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "c74877bead0bdf0ea8980e73fb8967f1e197af1b",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:54Z",
       "LanguageCodes": [
         "es"
       ],
@@ -4155,42 +3425,8 @@
       "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Spanish)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "39a6b2384e23133ee1a9b6b30adb90b727e10c5a",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:04Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52259,
-      "FileName": "es_sql_server_2012_standard_edition_with_sp1_x86_dvd_1466224.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "39a6b2384e23133ee1a9b6b30adb90b727e10c5a",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:04Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52260,
-      "FileName": "es_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1465915.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "3286313c1dcd4c7b00cf358d2b5f541067eac4f9",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:40Z",
       "LanguageCodes": [
         "es"
       ],
@@ -4223,42 +3459,8 @@
       "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Spanish)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "ea073d14bfc8e087a63ade591e0ed8084739ef91",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:17Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52261,
-      "FileName": "es_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1465914.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "ea073d14bfc8e087a63ade591e0ed8084739ef91",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:28:17Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "3484 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52262,
-      "FileName": "es_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1465600.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Spanish)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "f6d2971c4c2bd92b7fc609c1652cb3b40a0378b3",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:13Z",
       "LanguageCodes": [
         "es"
       ],
@@ -4291,23 +3493,6 @@
       "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "37a45c4d14d13367921a05d07ee9a3f520ad5788",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:17Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52263,
-      "FileName": "cn_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1458050.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "37a45c4d14d13367921a05d07ee9a3f520ad5788",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:28:17Z",
       "LanguageCodes": [
@@ -4325,42 +3510,8 @@
       "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "1d995ff672712c8e23c3037c97fdb599f4bc3ef6",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:18Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52264,
-      "FileName": "ct_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1461190.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "1d995ff672712c8e23c3037c97fdb599f4bc3ef6",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:28:18Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52265,
-      "FileName": "ct_sql_server_2012_developer_edition_with_sp1_x86_dvd_1460791.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "ff11ee7b84fb5b8321a443385b213dd64abd7990",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:50Z",
       "LanguageCodes": [
         "ct"
       ],
@@ -4393,23 +3544,6 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "30876ed424200fd198e418cdd90b646afda80e85",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:50Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52266,
-      "FileName": "cn_sql_server_2012_developer_edition_with_sp1_x86_dvd_1457255.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "30876ed424200fd198e418cdd90b646afda80e85",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:50Z",
       "LanguageCodes": [
@@ -4417,23 +3551,6 @@
       ],
       "Languages": [
         "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52267,
-      "FileName": "ct_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1460169.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "83491af9a9005276e93c466d92249c10a1788ddf",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:14Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
       ],
       "Size": "3503 MB",
       "IsProductKeyRequired": false
@@ -4461,42 +3578,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "0079182174213a1c8015c516aadfc149153bdada",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:54Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52268,
-      "FileName": "cn_sql_server_2012_web_edition_with_sp1_x86_dvd_1459964.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "0079182174213a1c8015c516aadfc149153bdada",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:54Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52269,
-      "FileName": "cn_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1456078.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "be8b2c71ebc9cded60204b2041d07b16d4ba212a",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:14Z",
       "LanguageCodes": [
         "cn"
       ],
@@ -4529,42 +3612,8 @@
       "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (German)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "37aaa31c66c51f30bd4fd35fdfa42038c5a5cf7c",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:50Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52270,
-      "FileName": "de_sql_server_2012_developer_edition_with_sp1_x86_dvd_1463190.iso",
-      "Description": "SQL Server 2012 Developer Edition with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "37aaa31c66c51f30bd4fd35fdfa42038c5a5cf7c",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:24:50Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52271,
-      "FileName": "de_sql_server_2012_business_intelligence_with_sp1_x86_dvd_1462813.iso",
-      "Description": "SQL Server 2012 Business Intelligence with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "0f2e4a4eef4d54bfe9ce85f08922d2bd2c5b0641",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:24:14Z",
       "LanguageCodes": [
         "de"
       ],
@@ -4597,42 +3646,8 @@
       "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "209568b72fe11d2eccad6fd6314c631e506609b1",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:55Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52272,
-      "FileName": "ct_sql_server_2012_web_edition_with_sp1_x86_dvd_1462367.iso",
-      "Description": "SQL Server 2012 Web Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "209568b72fe11d2eccad6fd6314c631e506609b1",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:55Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52273,
-      "FileName": "ct_sql_server_2012_standard_edition_with_sp1_x86_dvd_1462145.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "14fad613757feabc0f98cd2123761e83c4c44cac",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:05Z",
       "LanguageCodes": [
         "ct"
       ],
@@ -4665,42 +3680,8 @@
       "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "5cf7e547937cafc9052ecaf992dbc6e7cde6fff4",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:29:05Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52274,
-      "FileName": "cn_sql_server_2012_standard_edition_with_sp1_x86_dvd_1459512.iso",
-      "Description": "SQL Server 2012 Standard Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "5cf7e547937cafc9052ecaf992dbc6e7cde6fff4",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:29:05Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52275,
-      "FileName": "cn_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1459043.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Chinese-Simplified)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "885af5e3bb40ad8b9f802846a94d6be98bd80be3",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:40Z",
       "LanguageCodes": [
         "cn"
       ],
@@ -4733,23 +3714,6 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "1865fb6decd58c9670debe04a76eeeb6882d4831",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:40Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "3503 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52276,
-      "FileName": "ct_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1461585.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (Chinese-Traditional)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "1865fb6decd58c9670debe04a76eeeb6882d4831",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:40Z",
       "LanguageCodes": [
@@ -4767,42 +3731,8 @@
       "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (German)",
       "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
       "Sha1Hash": "025bea8ebe3b3e149d5de166dce0ce96ad12823e",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:25:41Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52277,
-      "FileName": "de_sql_server_2012_enterprise_core_edition_with_sp1_x86_dvd_1464060.iso",
-      "Description": "SQL Server 2012 Enterprise Core Edition with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "025bea8ebe3b3e149d5de166dce0ce96ad12823e",
       "ProductFamilyId": 662,
       "PostedDate": "2013-01-10T17:25:41Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "3488 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 52278,
-      "FileName": "de_sql_server_2012_enterprise_edition_with_sp1_x86_dvd_1463877.iso",
-      "Description": "SQL Server 2012 Enterprise Edition with Service Pack 1 (x86) - DVD (German)",
-      "Notes": "This media refresh includes packaging only fixes to address installation issues described in <a href=\"http://support.microsoft.com/kb/2792097\">KB Article 2792097</a>,  <a href=\"http://support.microsoft.com/kb/2783963\">KB Article 2783963</a>, and <a href=\"http://support.microsoft.com/kb/2793375\">KB Article 2793375</a>.  No functional changes have been made to the installed SQL Server product via these packaging updates.",
-      "Sha1Hash": "d7c430f7688909e4e7bbca303741edf9637beeb4",
-      "ProductFamilyId": 461,
-      "PostedDate": "2013-01-10T17:28:18Z",
       "LanguageCodes": [
         "de"
       ],

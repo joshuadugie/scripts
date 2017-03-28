@@ -1460,27 +1460,6 @@
       "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (French/German/Italian-Switzerland)\r\n",
       "Notes": null,
       "Sha1Hash": "f723595051317457e91633b692c46809a823883b",
-      "ProductFamilyId": 114,
-      "PostedDate": "2010-10-19T23:24:38Z",
-      "LanguageCodes": [
-        "de",
-        "fr",
-        "it"
-      ],
-      "Languages": [
-        "German",
-        "French",
-        "Italian"
-      ],
-      "Size": "0.008 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 44095,
-      "FileName": "fr-de-it-ch_dynamics_nav_4_5_and_2009_license_file.flf",
-      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (French/German/Italian-Switzerland)\r\n",
-      "Notes": null,
-      "Sha1Hash": "f723595051317457e91633b692c46809a823883b",
       "ProductFamilyId": 373,
       "PostedDate": "2010-10-19T23:24:38Z",
       "LanguageCodes": [

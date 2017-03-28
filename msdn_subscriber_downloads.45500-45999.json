@@ -3299,23 +3299,6 @@
       "FileId": 45792,
       "FileName": "en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso",
       "Description": "Windows Embedded Standard 7 SP1 Runtime (x86 ) - DVD (English)\r\n",
-      "Notes": "<b>Per the MSDN Subscriptions <a href=\"http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx\">Licensing terms</a> please note:</b><ul><li>If you do NOT enter the static key, this evaluation copy will expire in 30 days.</li><li>If you DO enter the static key, this evaluation copy will expire in 180 days.</li><li><b>DreamSpark members:</b> If you DO enter the DreamSpark static key, this evaluation copy will expire in 365 days.</li></ul>",
-      "Sha1Hash": "828311930602a92278e6857ae5cf1338c021ad09",
-      "ProductFamilyId": 550,
-      "PostedDate": "2011-03-09T17:47:07Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "2854 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 45792,
-      "FileName": "en_windows_embedded_standard_7_sp1_runtime_x86_dvd_651894.iso",
-      "Description": "Windows Embedded Standard 7 SP1 Runtime (x86 ) - DVD (English)\r\n",
       "Notes": "<b>Per the MSDN Subscriptions <a href=\"http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx\">Licensing terms</a> please note:</b><ul><li>If you do NOT enter the static key, this evaluation copy will expire in 30 days.</li><li>If you DO enter the static key, this evaluation copy will expire in 180 days.</li><li><b>Microsoft Imagine members:</b> If you DO enter the Microsoft Imagine static key, this evaluation copy will expire in 365 days.</li></ul>",
       "Sha1Hash": "828311930602a92278e6857ae5cf1338c021ad09",
       "ProductFamilyId": 550,
@@ -3327,23 +3310,6 @@
         "English"
       ],
       "Size": "2854 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 45793,
-      "FileName": "en_windows_embedded_standard_7_sp1_runtime_x64_dvd_651894.iso",
-      "Description": "Windows Embedded Standard 7 SP1 Runtime (x64) - DVD (English)\r\n",
-      "Notes": "<b>Per the MSDN Subscriptions <a href=\"http://msdn.microsoft.com/en-us/subscriptions/cc150618.aspx\">Licensing terms</a> please note:</b><ul><li>If you do NOT enter the static key, this evaluation copy will expire in 30 days.</li><li>If you DO enter the static key, this evaluation copy will expire in 180 days.</li><li><b>DreamSpark members:</b> If you DO enter the DreamSpark static key, this evaluation copy will expire in 365 days.</li></ul>",
-      "Sha1Hash": "6f84f7a0e2315730a8f86750fc5959aeff2aa8a8",
-      "ProductFamilyId": 550,
-      "PostedDate": "2011-03-09T17:47:08Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "3458 MB",
       "IsProductKeyRequired": true
     },
     {

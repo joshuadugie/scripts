@@ -2704,23 +2704,6 @@
       "IsProductKeyRequired": false
     },
     {
-      "FileId": 11690,
-      "FileName": "jp_msdn_library_for_vs2005te_for_db_pro_2007_01_dvd_x13-18009.iso",
-      "Description": "MSDN Library for Visual Studio 2005 Team Edition for Database Professionals (January 2007) - DVD (Japanese)",
-      "Notes": null,
-      "Sha1Hash": "a08385caf9177a652f1e6f96e1b6bbc460b059b6",
-      "ProductFamilyId": 134,
-      "PostedDate": "2007-02-09T05:41:59Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "2377 MB",
-      "IsProductKeyRequired": false
-    },
-    {
       "FileId": 11691,
       "FileName": "jp_vs2005te_for_db_pro_trial_x13-15392.iso",
       "Description": "Visual Studio 2005 Team Edition for Database Professionals - Trial Edition (Japanese)",

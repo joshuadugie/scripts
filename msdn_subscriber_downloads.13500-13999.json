@@ -2086,23 +2086,6 @@
       "Description": "Microsoft Dynamics SL 7.0 (English)",
       "Notes": null,
       "Sha1Hash": "94397f5114ed8d90a9f0c26d2146b8a233d7404b",
-      "ProductFamilyId": 120,
-      "PostedDate": "2007-08-24T04:43:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "871 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 13767,
-      "FileName": "en_dynamics_sl_7_dvd_x13-63700.iso",
-      "Description": "Microsoft Dynamics SL 7.0 (English)",
-      "Notes": null,
-      "Sha1Hash": "94397f5114ed8d90a9f0c26d2146b8a233d7404b",
       "ProductFamilyId": 423,
       "PostedDate": "2007-08-24T04:43:03Z",
       "LanguageCodes": [

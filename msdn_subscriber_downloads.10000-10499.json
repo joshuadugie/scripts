@@ -576,41 +576,7 @@
         "Chinese - Simplified"
       ],
       "Size": "466 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 10033,
-      "FileName": "sc_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Simplified Chinese)",
-      "Notes": null,
-      "Sha1Hash": "08bdd45b1bb7ce0a7af49eef482e0800feadafd5",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-04T06:56:12Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "466 MB",
       "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 10035,
-      "FileName": "de_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (German)",
-      "Notes": null,
-      "Sha1Hash": "b662b38a3130bd01d61689c3aea669349b4e7216",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-04T06:54:14Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "470 MB",
-      "IsProductKeyRequired": true
     },
     {
       "FileId": 10035,
@@ -644,23 +610,6 @@
         "French"
       ],
       "Size": "469 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 10036,
-      "FileName": "fr_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (French)",
-      "Notes": null,
-      "Sha1Hash": "2690efb6a72d770b1c7464f821e590167c8eb9dc",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-04T06:53:42Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "469 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -678,41 +627,7 @@
         "Italian"
       ],
       "Size": "469 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 10037,
-      "FileName": "it_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Italian)",
-      "Notes": null,
-      "Sha1Hash": "d040998f8ca8c0106cc8ce96f5b73271d594848a",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-04T06:54:48Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "469 MB",
       "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 10038,
-      "FileName": "es_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Spanish)",
-      "Notes": null,
-      "Sha1Hash": "a83639e5ba6ea09c1c9ea728631484e3e2758ea5",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-04T06:56:36Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "470 MB",
-      "IsProductKeyRequired": true
     },
     {
       "FileId": 10038,

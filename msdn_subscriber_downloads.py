@@ -5,7 +5,7 @@
 # brute force.
 #
 # As of 2017-03-28T15:00:00Z, the latest posted FileId was 71584.
-# The number of actual entries (including deleted) was 31755.
+# The number of actual entries (including deleted) was 30058.
 
 import glob
 import httplib

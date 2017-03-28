@@ -584,23 +584,6 @@
       "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Arabic)",
       "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
       "Sha1Hash": "15862e0272ccef2821a24298657f9ae9dc0eaf4e",
-      "ProductFamilyId": 351,
-      "PostedDate": "2011-02-22T16:28:14Z",
-      "LanguageCodes": [
-        "ar"
-      ],
-      "Languages": [
-        "Arabic"
-      ],
-      "Size": "891 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 45208,
-      "FileName": "ar_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619617.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Arabic)",
-      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
-      "Sha1Hash": "15862e0272ccef2821a24298657f9ae9dc0eaf4e",
       "ProductFamilyId": 350,
       "PostedDate": "2011-02-22T16:28:14Z",
       "LanguageCodes": [
@@ -686,23 +669,6 @@
       "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Danish)",
       "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
       "Sha1Hash": "dce7be50c68dea711108073d7f6503c68b2ed231",
-      "ProductFamilyId": 351,
-      "PostedDate": "2011-02-22T16:28:15Z",
-      "LanguageCodes": [
-        "da"
-      ],
-      "Languages": [
-        "Danish"
-      ],
-      "Size": "885 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 45213,
-      "FileName": "da_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619623.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Danish)",
-      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
-      "Sha1Hash": "dce7be50c68dea711108073d7f6503c68b2ed231",
       "ProductFamilyId": 350,
       "PostedDate": "2011-02-22T16:28:15Z",
       "LanguageCodes": [
@@ -746,23 +712,6 @@
         "Finnish"
       ],
       "Size": "885 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 45216,
-      "FileName": "fr_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619627.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (French)",
-      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
-      "Sha1Hash": "5c74e3af2df9fed96348b87141a8c4f9adcf01a4",
-      "ProductFamilyId": 350,
-      "PostedDate": "2011-02-18T16:32:29Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "1292 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -942,23 +891,6 @@
       "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
       "Sha1Hash": "14f7102001491d185d452191e8616fe64596de85",
       "ProductFamilyId": 350,
-      "PostedDate": "2011-02-22T16:28:18Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "885 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 45226,
-      "FileName": "pt_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619618.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Portuguese-Brazil)",
-      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
-      "Sha1Hash": "14f7102001491d185d452191e8616fe64596de85",
-      "ProductFamilyId": 351,
       "PostedDate": "2011-02-22T16:28:18Z",
       "LanguageCodes": [
         "pt"

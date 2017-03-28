@@ -3382,23 +3382,6 @@
       "FileId": 56330,
       "FileName": "en_release_management_for_visual_studio_2013_x86_x64_dvd_3165233.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (English)\r\n\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "788ad4149f017696c5145140d26ee90c718e1b74",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "280 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56330,
-      "FileName": "en_release_management_for_visual_studio_2013_x86_x64_dvd_3165233.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (English)\r\n\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "788ad4149f017696c5145140d26ee90c718e1b74",
       "ProductFamilyId": 532,
@@ -3410,23 +3393,6 @@
         "English"
       ],
       "Size": "280 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56331,
-      "FileName": "en_release_management_server_for_team_foundation_server_2013_x64_3165245.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (English)\r\n\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "5f5f8fc8a499a4138c6bd1811dc04a4c139a8fe9",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "0.939 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -3461,23 +3427,6 @@
         "English"
       ],
       "Size": "0.934 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56333,
-      "FileName": "en_release_management_client_for_visual_studio_2013_x86_x64_3165245.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (English)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "b097cf4eea8210bdf5e402e0ed94e3b2903c41c8",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "0.937 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5456,23 +5405,6 @@
       "FileId": 56447,
       "FileName": "ru_release_management_for_visual_studio_2013_x86_x64_dvd_3165641.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Russian)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "23d35045e19801ca6f53331fba7accbcb9c6f6a5",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "300 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56447,
-      "FileName": "ru_release_management_for_visual_studio_2013_x86_x64_dvd_3165641.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Russian)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "23d35045e19801ca6f53331fba7accbcb9c6f6a5",
       "ProductFamilyId": 532,
@@ -5490,23 +5422,6 @@
       "FileId": 56448,
       "FileName": "ko_release_management_for_visual_studio_2013_x86_x64_dvd_3165232.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Korean)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "89ad5108cce8f74bfb8cc9449e3098068e87e35b",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56448,
-      "FileName": "ko_release_management_for_visual_studio_2013_x86_x64_dvd_3165232.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Korean)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "89ad5108cce8f74bfb8cc9449e3098068e87e35b",
       "ProductFamilyId": 532,
@@ -5516,23 +5431,6 @@
       ],
       "Languages": [
         "Korean"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56449,
-      "FileName": "ja_release_management_for_visual_studio_2013_x86_x64_dvd_3165639.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Japanese)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "7f5dcbabd2ea44c588fc4ce6f102088db17689e6",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
       ],
       "Size": "299 MB",
       "IsProductKeyRequired": false
@@ -5558,23 +5456,6 @@
       "FileId": 56450,
       "FileName": "it_release_management_for_visual_studio_2013_x86_x64_dvd_3165642.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Italian)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "ff4955d6d592323774fcea2e2a820a78a7ff0832",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56450,
-      "FileName": "it_release_management_for_visual_studio_2013_x86_x64_dvd_3165642.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Italian)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "ff4955d6d592323774fcea2e2a820a78a7ff0832",
       "ProductFamilyId": 532,
@@ -5584,23 +5465,6 @@
       ],
       "Languages": [
         "Italian"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56451,
-      "FileName": "fr_release_management_for_visual_studio_2013_x86_x64_dvd_3165637.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (French)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "23e2b86840886fc3e2b0065cc731393ac4b9d034",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
       ],
       "Size": "299 MB",
       "IsProductKeyRequired": false
@@ -5626,23 +5490,6 @@
       "FileId": 56452,
       "FileName": "es_release_management_for_visual_studio_2013_x86_x64_dvd_3165645.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Spanish)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "dc7332ed4f25fe60d7225e33b1bf6be1db0d6738",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56452,
-      "FileName": "es_release_management_for_visual_studio_2013_x86_x64_dvd_3165645.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Spanish)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "dc7332ed4f25fe60d7225e33b1bf6be1db0d6738",
       "ProductFamilyId": 532,
@@ -5652,23 +5499,6 @@
       ],
       "Languages": [
         "Spanish"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56453,
-      "FileName": "de_release_management_for_visual_studio_2013_x86_x64_dvd_3165234.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (German)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "49170ef0aaea766fa83fb1086b16b3fc53cf7cc0",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
       ],
       "Size": "299 MB",
       "IsProductKeyRequired": false
@@ -5694,23 +5524,6 @@
       "FileId": 56454,
       "FileName": "ct_release_management_for_visual_studio_2013_x86_x64_dvd_3165647.iso",
       "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Chinese-Traditional)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "9d6b6a93bd0e2477f073da01e90cf5ef60457c43",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56454,
-      "FileName": "ct_release_management_for_visual_studio_2013_x86_x64_dvd_3165647.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Chinese-Traditional)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.<br/>----------------------------------------------------------<br/><b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "9d6b6a93bd0e2477f073da01e90cf5ef60457c43",
       "ProductFamilyId": 532,
@@ -5720,23 +5533,6 @@
       ],
       "Languages": [
         "Chinese - Traditional"
-      ],
-      "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56455,
-      "FileName": "cn_release_management_for_visual_studio_2013_x86_x64_dvd_3165236.iso",
-      "Description": "Release Management for Visual Studio 2013 (x86 and x64) - DVD (Chinese-Simplified)\r\n",
-      "Notes": "<b>Release Management for Visual Studio 2013 </b>contains all three components of Release Management.\n<ul><li><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</li>\n<li><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</li>\n<li><b>Microsoft Deployment Agent 2013</b> component is a service that needs to be installed on the Target Servers of the Environments where the application components will be hosted. Each Target Server needs to be licensed with a Visual Studio Deployment Standard or Datacenter offering.\n\n</li>\n</ul>\n<p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "66d16e6a6b7747f7013546cc1453f2f6fa208563",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
       ],
       "Size": "299 MB",
       "IsProductKeyRequired": false
@@ -5756,23 +5552,6 @@
         "Chinese - Simplified"
       ],
       "Size": "299 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56456,
-      "FileName": "ru_release_management_server_for_team_foundation_server_2013_x64_3165235.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Russian)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "f6c171c957886622e5e3b57597ad5cd9aa9b238b",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "0.942 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5813,23 +5592,6 @@
       "FileId": 56458,
       "FileName": "ko_release_management_server_for_team_foundation_server_2013_x64_3165650.exe",
       "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Korean)\r\n\r\n\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "33ffbb375ff765110f2ad910fea55751efd1c143",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "0.94 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56458,
-      "FileName": "ko_release_management_server_for_team_foundation_server_2013_x64_3165650.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Korean)\r\n\r\n\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "33ffbb375ff765110f2ad910fea55751efd1c143",
       "ProductFamilyId": 532,
@@ -5864,23 +5626,6 @@
       "FileId": 56460,
       "FileName": "ko_release_management_client_for_visual_studio_2013_x86_x64_3165650.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Korean)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "723735134de959679570c7dfe9606adaca0778af",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56460,
-      "FileName": "ko_release_management_client_for_visual_studio_2013_x86_x64_3165650.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Korean)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "723735134de959679570c7dfe9606adaca0778af",
       "ProductFamilyId": 532,
@@ -5892,23 +5637,6 @@
         "Korean"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56461,
-      "FileName": "ja_release_management_server_for_team_foundation_server_2013_x64_3165239.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Japanese)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "bed333d25252d51318379f1e95b2a4d26f26b02f",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "0.94 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5949,23 +5677,6 @@
       "FileId": 56463,
       "FileName": "ja_release_management_client_for_visual_studio_2013_x86_x64_3165239.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Japanese)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "71d4940809e10612fbe6836136263c51e7a77f4d",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56463,
-      "FileName": "ja_release_management_client_for_visual_studio_2013_x86_x64_3165239.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Japanese)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "71d4940809e10612fbe6836136263c51e7a77f4d",
       "ProductFamilyId": 532,
@@ -5977,23 +5688,6 @@
         "Japanese"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56464,
-      "FileName": "it_release_management_server_for_team_foundation_server_2013_x64_3165651.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Italian)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "8ffbab499d70923f49a5ffad907463a37ad4f94a",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "0.94 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6034,23 +5728,6 @@
       "FileId": 56466,
       "FileName": "it_release_management_client_for_visual_studio_2013_x86_x64_3165651.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Italian)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "c8b7607f25ecfec21a6918744244b13d3f9794d1",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "it"
-      ],
-      "Languages": [
-        "Italian"
-      ],
-      "Size": "0.937 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56466,
-      "FileName": "it_release_management_client_for_visual_studio_2013_x86_x64_3165651.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Italian)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "c8b7607f25ecfec21a6918744244b13d3f9794d1",
       "ProductFamilyId": 532,
@@ -6062,23 +5739,6 @@
         "Italian"
       ],
       "Size": "0.937 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56467,
-      "FileName": "fr_release_management_server_for_team_foundation_server_2013_x64_3165652.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (French)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "1ad6450f513ae7bba73b0f6d863c66813e69fdf2",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "0.94 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6119,23 +5779,6 @@
       "FileId": 56469,
       "FileName": "fr_release_management_client_for_visual_studio_2013_x86_x64_3165652.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (French)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "629b796b61516313952372f8b37758daefe7c3b8",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "fr"
-      ],
-      "Languages": [
-        "French"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56469,
-      "FileName": "fr_release_management_client_for_visual_studio_2013_x86_x64_3165652.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (French)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "629b796b61516313952372f8b37758daefe7c3b8",
       "ProductFamilyId": 532,
@@ -6147,23 +5790,6 @@
         "French"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56470,
-      "FileName": "es_release_management_server_for_team_foundation_server_2013_x64_3165654.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Spanish)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "0c0db2854afa547d2cd4741e8706c292d8f9d8f7",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "0.939 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6204,23 +5830,6 @@
       "FileId": 56472,
       "FileName": "es_release_management_client_for_visual_studio_2013_x86_x64_3165654.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Spanish)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "05f5140804b4ac8937ddcf8d4f9adb98121af5e8",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "es"
-      ],
-      "Languages": [
-        "Spanish"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56472,
-      "FileName": "es_release_management_client_for_visual_studio_2013_x86_x64_3165654.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Spanish)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "05f5140804b4ac8937ddcf8d4f9adb98121af5e8",
       "ProductFamilyId": 532,
@@ -6232,23 +5841,6 @@
         "Spanish"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56473,
-      "FileName": "de_release_management_server_for_team_foundation_server_2013_x64_3165656.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (German)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "ad74a3ec61148ab34bd4ae67983ee938a5b8f7de",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "0.94 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6289,23 +5881,6 @@
       "FileId": 56475,
       "FileName": "de_release_management_client_for_visual_studio_2013_x86_x64_3165656.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (German)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "a76f20705515ba8b87ffd20544ebe8a3d16b9fdb",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "de"
-      ],
-      "Languages": [
-        "German"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56475,
-      "FileName": "de_release_management_client_for_visual_studio_2013_x86_x64_3165656.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (German)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "a76f20705515ba8b87ffd20544ebe8a3d16b9fdb",
       "ProductFamilyId": 532,
@@ -6317,23 +5892,6 @@
         "German"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56476,
-      "FileName": "ct_release_management_server_for_team_foundation_server_2013_x64_3165658.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Chinese-Traditional)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "5ab8ce4dc2f5b3f4e3dfd17b49333df2bda23e27",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "0.939 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6374,23 +5932,6 @@
       "FileId": 56478,
       "FileName": "ct_release_management_client_for_visual_studio_2013_x86_x64_3165658.exe",
       "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Chinese-Traditional)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "4d97e5618998f9905a14dc9d7f7fc838bb3bb7d2",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56478,
-      "FileName": "ct_release_management_client_for_visual_studio_2013_x86_x64_3165658.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Chinese-Traditional)\r\n",
       "Notes": "<b>NOTE: A new version of Release Management is available</b>\n<br/><br/>\nStarting with TFS 2015 Update 2, Release Management features are integrated into Team Foundation Server (TFS) and into the RELEASE hub in TFS web access.  For more information, see Release Management for TFS 2015 and VS Team Services (<a href=\"https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview\">https://msdn.microsoft.com/en-us/Library/vs/alm/Release/overview</a>). \n<br/><br/>\nIf you are considering starting with Release Management, you should use the new web-based version. If you are already using the server and client version described in this topic, you should be aware that no new features will be added to this version. We encourage you to move to new web-based version as soon as possible.\n<br/>----------------------------------------------------------<br/><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
       "Sha1Hash": "4d97e5618998f9905a14dc9d7f7fc838bb3bb7d2",
       "ProductFamilyId": 532,
@@ -6402,23 +5943,6 @@
         "Chinese - Traditional"
       ],
       "Size": "0.938 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56479,
-      "FileName": "cn_release_management_server_for_team_foundation_server_2013_x64_3165661.exe",
-      "Description": "Release Management Server for Team Foundation Server 2013 (x64) - (Chinese-Simplified)\r\n",
-      "Notes": "<p><b>Release Management Server for Team Foundation Server 2013</b> component is the heart of release management. It is a combination of Web and Windows Services that expose contracts used by all other Release Management components. \n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "2a20468d25198237b33bf09e565604301364a23c",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "0.939 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6453,23 +5977,6 @@
         "Chinese - Simplified"
       ],
       "Size": "0.935 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56481,
-      "FileName": "cn_release_management_client_for_visual_studio_2013_x86_x64_3165661.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Chinese-Simplified)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "96c618c5c229406603fba7339e80c5050c05563b",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "cn"
-      ],
-      "Languages": [
-        "Chinese - Simplified"
-      ],
-      "Size": "0.938 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -6521,23 +6028,6 @@
         "Italian"
       ],
       "Size": "29 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 56484,
-      "FileName": "ru_release_management_client_for_visual_studio_2013_x86_x64_3165235.exe",
-      "Description": "Release Management Client for Visual Studio 2013 (x86 and x64) - (Russian)\r\n",
-      "Notes": "<p><b>Release Management Client for Visual Studio 2013</b> component serves as the main interface point to manage release management release information.\n</p><p>By using the innovative release and deployment tools in Release Management for Visual Studio 2013, you can automate the deployment of applications across the desktop, the server, and the cloud.\n</p>\n<p>For more information, please see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329735\">Release Management Installation Guide</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkId=329734\">Release Management User Guide</a>.\n</p>",
-      "Sha1Hash": "ef804c93b530e0169803845f5b44351afe13603a",
-      "ProductFamilyId": 532,
-      "PostedDate": "2013-11-13T14:16:03Z",
-      "LanguageCodes": [
-        "ru"
-      ],
-      "Languages": [
-        "Russian"
-      ],
-      "Size": "0.939 MB",
       "IsProductKeyRequired": false
     },
     {

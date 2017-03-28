@@ -74,23 +74,6 @@
       "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Portuguese-Brazil)",
       "Notes": null,
       "Sha1Hash": "72e1b79718068a030be8815cc55896f2a9207104",
-      "ProductFamilyId": 334,
-      "PostedDate": "2008-08-08T20:08:49Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "3327 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 37004,
-      "FileName": "pt-br_sql_server_2008_standard_x86_x64_dvd_x14-89143.iso",
-      "Description": "SQL Server 2008 Standard (x86, x64) - DVD (Portuguese-Brazil)",
-      "Notes": null,
-      "Sha1Hash": "72e1b79718068a030be8815cc55896f2a9207104",
       "ProductFamilyId": 347,
       "PostedDate": "2008-08-08T20:08:49Z",
       "LanguageCodes": [

@@ -805,23 +805,6 @@
       "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Danish)\r\n",
       "Notes": null,
       "Sha1Hash": "60b7ac6d411b888234b2cb4f8670cdf15b74ef3b",
-      "ProductFamilyId": 351,
-      "PostedDate": "2009-08-06T16:59:56Z",
-      "LanguageCodes": [
-        "da"
-      ],
-      "Languages": [
-        "Danish"
-      ],
-      "Size": "1260 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 39578,
-      "FileName": "da_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400088.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Danish)\r\n",
-      "Notes": null,
-      "Sha1Hash": "60b7ac6d411b888234b2cb4f8670cdf15b74ef3b",
       "ProductFamilyId": 350,
       "PostedDate": "2009-08-06T16:59:56Z",
       "LanguageCodes": [
@@ -897,23 +880,6 @@
       ],
       "Languages": [
         "Spanish"
-      ],
-      "Size": "1260 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 39583,
-      "FileName": "fi_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400090.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Finnish)\r\n",
-      "Notes": null,
-      "Sha1Hash": "f9edb390e800bddfb5e402706253f0d76f53c955",
-      "ProductFamilyId": 351,
-      "PostedDate": "2009-08-06T16:59:56Z",
-      "LanguageCodes": [
-        "fi"
-      ],
-      "Languages": [
-        "Finnish"
       ],
       "Size": "1260 MB",
       "IsProductKeyRequired": false
@@ -1094,23 +1060,6 @@
       "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Portuguese-Portugal)\r\n",
       "Notes": null,
       "Sha1Hash": "4708ac43db229d116e0fa4e5244ba5491086a228",
-      "ProductFamilyId": 351,
-      "PostedDate": "2009-08-06T16:59:56Z",
-      "LanguageCodes": [
-        "pp"
-      ],
-      "Languages": [
-        "Portuguese-Portugal"
-      ],
-      "Size": "1260 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 39593,
-      "FileName": "pp_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400084.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Portuguese-Portugal)\r\n",
-      "Notes": null,
-      "Sha1Hash": "4708ac43db229d116e0fa4e5244ba5491086a228",
       "ProductFamilyId": 350,
       "PostedDate": "2009-08-06T16:59:56Z",
       "LanguageCodes": [
@@ -1171,23 +1120,6 @@
         "Turkish"
       ],
       "Size": "1260 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 39597,
-      "FileName": "ct_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_x86_x64_ia64_dvd_400082.iso",
-      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 (x86, x64, ia64) - DVD (Chinese-Traditional)\r\n",
-      "Notes": null,
-      "Sha1Hash": "1814fa2f80eccc19145e6efd210d794a99af9366",
-      "ProductFamilyId": 351,
-      "PostedDate": "2009-08-06T16:59:56Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "1770 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -1308,23 +1240,6 @@
       ],
       "Size": "1482 MB",
       "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 39604,
-      "FileName": "en_windows_7_and_windows_server_2008_r2_debugging_symbols_checked_build_x64_398755.msi",
-      "Description": "Windows 7 and Windows Server 2008 R2 Debugging Symbols Checked Build (x64) - (English)\r\n",
-      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
-      "Sha1Hash": "85146d3354b5eb9f6980d263cf8d66eb897b0850",
-      "ProductFamilyId": 351,
-      "PostedDate": "2009-08-06T16:59:56Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "260 MB",
-      "IsProductKeyRequired": true
     },
     {
       "FileId": 39604,

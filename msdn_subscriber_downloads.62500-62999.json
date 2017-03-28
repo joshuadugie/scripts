@@ -4964,23 +4964,6 @@
       "FileId": 62826,
       "FileName": "en_windows_embedded_developer_update_v1.2_x86_6607398.msi",
       "Description": "Windows Embedded Developer Update v1.2 (x86) - (English)",
-      "Notes": "<b>Prior Versions</b>\n<br/>\nThis 1.2 version has the same feature set as the prior versions 1.1.88.0 & 1.1.92.0 with some minor bug fixes. This release is to bring the code base in line with WEDU 1.2 from the Windows Embedded 8 Standard (WE8S) Toolkit. If you already have the version from WE8S, then this version is not needed. \n<br/>\n<br/>\n<b>Incorrect install error message</b>\n<br/>\nIf Windows Embedded Standard 7 toolkit is not pre-installed, WEDU installer will exit and show the following error: \n<br/>\n\"WEDU will exit because Windows Embedded 8 Standard is not detected on this machine\" \n<br/>\nThere is a typo in this error message, it should read the following: \n<br/>\n\"WEDU will exit because Windows Embedded Standard 7 toolkit is not detected on this machine\"",
-      "Sha1Hash": "0ee0dc5a3d0e601d8abb3fdae3435b2eafde3b2d",
-      "ProductFamilyId": 555,
-      "PostedDate": "2015-04-09T16:21:26Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "7 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 62826,
-      "FileName": "en_windows_embedded_developer_update_v1.2_x86_6607398.msi",
-      "Description": "Windows Embedded Developer Update v1.2 (x86) - (English)",
       "Notes": "<b>Prior Versions</b>\n<br/>\nThis 1.2 version has the same feature set as the prior versions 1.1.88.0 & 1.1.92.0 with some minor bug fixes. This release is to bring the code base in line with WEDU 1.2 from the Windows Embedded 8 Standard (WE8S) Toolkit. If you already have the version from WE8S, then this version is not needed. \n<br/>\n<br/>\n<b>Incorrect Install Error Message</b>\n<br/>\nIf Windows Embedded Standard 7 toolkit is not pre-installed, WEDU installer will exit and show the following error: \n<br/>\n\"WEDU will exit because Windows Embedded 8 Standard is not detected on this machine\" \n<br/>\nThere is a typo in this error message, it should read the following: \n<br/>\n\"WEDU will exit because Windows Embedded Standard 7 toolkit is not detected on this machine\"",
       "Sha1Hash": "0ee0dc5a3d0e601d8abb3fdae3435b2eafde3b2d",
       "ProductFamilyId": 555,

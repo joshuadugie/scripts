@@ -2697,23 +2697,6 @@
     {
       "FileId": 69236,
       "FileName": "en_microsoft_r_server_for_linux_x64_8944657.tar.gz",
-      "Description": "Microsoft R Server for Linux (x64) - (English)",
-      "Notes": null,
-      "Sha1Hash": "f8b7908678bf4bfc37b8e9a9d7ac366ee3d6056c",
-      "ProductFamilyId": 633,
-      "PostedDate": "2016-06-28T17:22:57Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "313 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 69236,
-      "FileName": "en_microsoft_r_server_for_linux_x64_8944657.tar.gz",
       "Description": "Microsoft R Server 8.0.5 for Linux (x64) - (English)",
       "Notes": null,
       "Sha1Hash": "f8b7908678bf4bfc37b8e9a9d7ac366ee3d6056c",
@@ -2731,23 +2714,6 @@
     {
       "FileId": 69237,
       "FileName": "en_microsoft_r_server_for_hadoop_x64_8944644.tar.gz",
-      "Description": "Microsoft R Server for Hadoop (x64) - (English)",
-      "Notes": null,
-      "Sha1Hash": "e3dbae30b7c81919e2fa5883b546d90f799f9497",
-      "ProductFamilyId": 633,
-      "PostedDate": "2016-06-28T17:22:58Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "418 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 69237,
-      "FileName": "en_microsoft_r_server_for_hadoop_x64_8944644.tar.gz",
       "Description": "Microsoft R Server 8.0.5 for Hadoop (x64) - (English)",
       "Notes": null,
       "Sha1Hash": "e3dbae30b7c81919e2fa5883b546d90f799f9497",
@@ -2760,23 +2726,6 @@
         "English"
       ],
       "Size": "418 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 69238,
-      "FileName": "en_microsoft_r_server_for_teradata_db_x64_8944642.tar.gz",
-      "Description": "Microsoft R Server for Teradata DB (x64) - (English)",
-      "Notes": null,
-      "Sha1Hash": "a7e408f26eb2eab783415b658d3221b9ec7e9b38",
-      "ProductFamilyId": 633,
-      "PostedDate": "2016-06-28T17:22:59Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "313 MB",
       "IsProductKeyRequired": false
     },
     {

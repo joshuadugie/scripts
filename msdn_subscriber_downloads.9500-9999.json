@@ -4396,23 +4396,6 @@
         "English"
       ],
       "Size": "448 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 9893,
-      "FileName": "en_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (English)",
-      "Notes": null,
-      "Sha1Hash": "0d4b59b347529f8ea2e10662be4e9e47b622031e",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-03-18T02:15:43Z",
-      "LanguageCodes": [
-        "en"
-      ],
-      "Languages": [
-        "English"
-      ],
-      "Size": "448 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5295,23 +5278,6 @@
         "Japanese"
       ],
       "Size": "469 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 9958,
-      "FileName": "jp_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Japanese)",
-      "Notes": null,
-      "Sha1Hash": "6f3cc05d4bd9730833a96a3d68d17166f02deb2a",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-02T01:18:09Z",
-      "LanguageCodes": [
-        "ja"
-      ],
-      "Languages": [
-        "Japanese"
-      ],
-      "Size": "469 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5499,23 +5465,6 @@
         "Korean"
       ],
       "Size": "469 MB",
-      "IsProductKeyRequired": true
-    },
-    {
-      "FileId": 9969,
-      "FileName": "ko_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Korean)",
-      "Notes": null,
-      "Sha1Hash": "649d8c1db957054b3ba4839e203185f37c944ce1",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-02T01:19:58Z",
-      "LanguageCodes": [
-        "ko"
-      ],
-      "Languages": [
-        "Korean"
-      ],
-      "Size": "469 MB",
       "IsProductKeyRequired": false
     },
     {
@@ -5534,23 +5483,6 @@
       ],
       "Size": "467 MB",
       "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 9971,
-      "FileName": "cht_vs_2005_tfs_wgp.iso",
-      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Traditional Chinese)",
-      "Notes": null,
-      "Sha1Hash": "e81b1b502584d02d66c90dc2a338e82d6b62a661",
-      "ProductFamilyId": 99,
-      "PostedDate": "2006-05-02T01:20:50Z",
-      "LanguageCodes": [
-        "ct"
-      ],
-      "Languages": [
-        "Chinese - Traditional"
-      ],
-      "Size": "467 MB",
-      "IsProductKeyRequired": true
     },
     {
       "FileId": 9971,

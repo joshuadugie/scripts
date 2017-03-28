@@ -6048,23 +6048,6 @@
       "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Portuguese-Brazil)\r\n",
       "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
       "Sha1Hash": "90b24024603252d28d557e5eb2f7cc21931530ee",
-      "ProductFamilyId": 370,
-      "PostedDate": "2010-08-26T16:46:18Z",
-      "LanguageCodes": [
-        "pt"
-      ],
-      "Languages": [
-        "Portuguese-Brazil"
-      ],
-      "Size": "2 MB",
-      "IsProductKeyRequired": false
-    },
-    {
-      "FileId": 43930,
-      "FileName": "pt_.net_framework_4_client_profile_x86_langpack_571029.exe",
-      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Portuguese-Brazil)\r\n",
-      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
-      "Sha1Hash": "90b24024603252d28d557e5eb2f7cc21931530ee",
       "ProductFamilyId": 371,
       "PostedDate": "2010-08-26T16:46:18Z",
       "LanguageCodes": [
