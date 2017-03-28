@@ -1,0 +1,3311 @@
+{
+  "Files": [
+    {
+      "FileId": 49562,
+      "FileName": "mu_dynamics_ax_2012_feature_pack_x86_x64_dvd_794954.iso",
+      "Description": "Dynamics AX 2012 Feature Pack (x86 and x64) - DVD (Multiple Languages)\r\n",
+      "Notes": "<p>In order to have full access, you must install the Feature Pack and then import the <a href=\"http://msdn.microsoft.com/en-us/subscriptions/downloads/#FileId=50699\">Feature Pack License</a>.</p>For more information, see the <a href=\"https://mbs.microsoft.com/partnersource/deployment/resources/productreleases/microsoftdynamicsax2012.htm?printpage=false&sid=mpr30nyjkkg3i2qbrcnnjggj&stext=ax%202012%20feature%20pack\">Feature Pack page on Partner Source</a>.  Please note that this link requires a Microsoft Dynamics profile.",
+      "Sha1Hash": "609ab489ff03dd12109523c94656f523fef4fb98",
+      "ProductFamilyId": 444,
+      "PostedDate": "2012-06-08T17:42:45Z",
+      "LanguageCodes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl"
+      ],
+      "Languages": [
+        "English",
+        "Danish",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch"
+      ],
+      "Size": "1913 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49680,
+      "FileName": "lightswitchhtmlclientpreviewvhd.part01.exe",
+      "Description": "LightSwitch HTML Client Preview for Visual Studio 2012 (Part 1 of 4) (x86) - (English)\r\n",
+      "Notes": "We are pleased to announce that the Microsoft LightSwitch HTML Client Preview for Visual Studio 2012 is now available for download. The preview provides an early look at our upcoming support for building cross-browser, mobile web clients with LightSwitch in Visual Studio 2012. The new HTML5 and JavaScript-based client is an important companion to our Silverlight-based desktop client that addresses the increasing need to build touch-oriented business applications that run well on modern mobile devices. \n<br/><br/>\nWith this download you will be able to set up a Virtual Hard Disk (VHD) for evaluation purposes that contains all you need to build, publish, and run touch-centric business applications using LightSwitch. The VHD contains a tutorial to help guide you through the available features.\n",
+      "Sha1Hash": "2dcb6e50ae93f341d2109459a762e31da494e7dc",
+      "ProductFamilyId": 464,
+      "PostedDate": "2012-06-26T15:36:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49681,
+      "FileName": "lightswitchhtmlclientpreviewvhd.part02.rar",
+      "Description": "LightSwitch HTML Client Preview for Visual Studio 2012 (Part 2 of 4) (x86) - (English)\r\n",
+      "Notes": "We are pleased to announce that the Microsoft LightSwitch HTML Client Preview for Visual Studio 2012 is now available for download. The preview provides an early look at our upcoming support for building cross-browser, mobile web clients with LightSwitch in Visual Studio 2012. The new HTML5 and JavaScript-based client is an important companion to our Silverlight-based desktop client that addresses the increasing need to build touch-oriented business applications that run well on modern mobile devices. \n<br/><br/>\nWith this download you will be able to set up a Virtual Hard Disk (VHD) for evaluation purposes that contains all you need to build, publish, and run touch-centric business applications using LightSwitch. The VHD contains a tutorial to help guide you through the available features.\n",
+      "Sha1Hash": "b9e205f25d8cea91fb22928547676743f1ca62d8",
+      "ProductFamilyId": 464,
+      "PostedDate": "2012-06-26T15:36:44Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49682,
+      "FileName": "lightswitchhtmlclientpreviewvhd.part03.rar",
+      "Description": "LightSwitch HTML Client Preview for Visual Studio 2012 (Part 3 of 4) (x86) - (English)\r\n",
+      "Notes": "We are pleased to announce that the Microsoft LightSwitch HTML Client Preview for Visual Studio 2012 is now available for download. The preview provides an early look at our upcoming support for building cross-browser, mobile web clients with LightSwitch in Visual Studio 2012. The new HTML5 and JavaScript-based client is an important companion to our Silverlight-based desktop client that addresses the increasing need to build touch-oriented business applications that run well on modern mobile devices. \n<br/><br/>\nWith this download you will be able to set up a Virtual Hard Disk (VHD) for evaluation purposes that contains all you need to build, publish, and run touch-centric business applications using LightSwitch. The VHD contains a tutorial to help guide you through the available features.\n",
+      "Sha1Hash": "0dc04b8181e6a1d472d99cd3f03d91d37637c77b",
+      "ProductFamilyId": 464,
+      "PostedDate": "2012-06-26T15:36:44Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49683,
+      "FileName": "lightswitchhtmlclientpreviewvhd.part04.rar",
+      "Description": "LightSwitch HTML Client Preview for Visual Studio 2012 (Part 4 of 4) (x86) - (English)\r\n",
+      "Notes": "We are pleased to announce that the Microsoft LightSwitch HTML Client Preview for Visual Studio 2012 is now available for download. The preview provides an early look at our upcoming support for building cross-browser, mobile web clients with LightSwitch in Visual Studio 2012. The new HTML5 and JavaScript-based client is an important companion to our Silverlight-based desktop client that addresses the increasing need to build touch-oriented business applications that run well on modern mobile devices. \n<br/><br/>\nWith this download you will be able to set up a Virtual Hard Disk (VHD) for evaluation purposes that contains all you need to build, publish, and run touch-centric business applications using LightSwitch. The VHD contains a tutorial to help guide you through the available features.\n",
+      "Sha1Hash": "eebe8e2857e9bd80f64e3e96f8698bd7777847a2",
+      "ProductFamilyId": 464,
+      "PostedDate": "2012-06-26T15:36:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1109 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49684,
+      "FileName": "en_windows_embedded_developer_update_v1.1_92_0_x86.msi",
+      "Description": "Windows Embedded Developer Update v1.1.92.0 (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "9df52441dca25869b56cf4ea3d8b56eadc7f4a04",
+      "ProductFamilyId": 555,
+      "PostedDate": "2012-06-26T21:24:48Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49685,
+      "FileName": "mu_forefront_identity_manager_2010_r2_language_packs_x86_x64_884269.exe",
+      "Description": "Forefront Identity Manager 2010 R2 Language Packs (x86 and x64) - (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f97700b78358c7b2e9491f1cf36651e43c2fdda6",
+      "ProductFamilyId": 478,
+      "PostedDate": "2012-06-26T23:03:30Z",
+      "LanguageCodes": [
+        "bg",
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "hi",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hindi",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "113 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49690,
+      "FileName": "fr_system_center_2012_operations_manager_x86_and_x64_dvd_844037.iso",
+      "Description": "System Center 2012 \u2013 Operations Manager (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8f1f271cf6b5ee98ab74c16c510e9daf8aea1ca7",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-06-29T17:11:23Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1208 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49691,
+      "FileName": "ja_system_center_2012_operations_manager_x86_and_x64_dvd_844007.iso",
+      "Description": "System Center 2012 \u2013 Operations Manager (x86 and x64) - DVD (Japanese)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "ba0c333e423892a8829ae593fe2780316855dc37",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-06-29T17:11:24Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1208 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49692,
+      "FileName": "cn_system_center_2012_operations_manager_x86_and_x64_dvd_844026.iso",
+      "Description": "System Center 2012 \u2013 Operations Manager (x86 and x64) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "b69ae4d323733ef374048f2d3ec82e5dea5033bf",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-06-29T17:11:24Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1207 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49693,
+      "FileName": "de_system_center_2012_operations_manager_x86_and_x64_dvd_844027.iso",
+      "Description": "System Center 2012 \u2013 Operations Manager (x86 and x64) - DVD (German)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "4df29cf055b6e15d0e1cfdafb2e8615508aeb104",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-06-29T17:11:24Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1209 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49697,
+      "FileName": "en_streets_and_trips_2013_x86_x64_dvd_887661.iso",
+      "Description": "Microsoft Streets and Trips 2013 (x86 and x64) - DVD (English)",
+      "Notes": "Microsoft Streets & Trips may not be distributed and used in Argentina, Armenia, Azerbaijan, China, Cuba, Cyprus, Guyana, India, Iran, Israel, Japan, Korea (South and North), Morocco, Myanmar (Burma), North Korea, Palestinian Areas (West Bank/Gaza), Pakistan, Russia, Serbia, Sudan, Syria, Taiwan, Turkey or Venezuela.",
+      "Sha1Hash": "08c2f825f16a7475952591a3b99fd59a5416e178",
+      "ProductFamilyId": 471,
+      "PostedDate": "2012-07-02T17:52:58Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2066 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49698,
+      "FileName": "en_microsoft_mappoint_2013_north_american_maps_x86_x64_dvd_887972.iso",
+      "Description": "Microsoft MapPoint North America 2013 (X86 and X64) - DVD (English)",
+      "Notes": "Microsoft MapPoint may not be distributed and used in Argentina, Armenia, Azerbaijan, China, Cuba, Cyprus, Guyana, India, Iran, Israel, Japan, Korea (South and North), Morocco, Myanmar (Burma), North Korea, Palestinian Areas (West Bank/Gaza), Pakistan, Russia, Serbia, Sudan, Syria, Taiwan, Turkey or Venezuela.",
+      "Sha1Hash": "d79e709a8255b82c9fd04b5753ede94c3798167a",
+      "ProductFamilyId": 472,
+      "PostedDate": "2012-07-02T17:53:25Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2163 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49756,
+      "FileName": "en_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921197.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (English)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "407951838ef622bbfd2e359f0019453dc9a124ed",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49757,
+      "FileName": "es_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921206.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Spanish)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "a28fbe2bef58236a0db44a1d8806b26542c75ecb",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:48Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49758,
+      "FileName": "fr_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921198.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (French)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "73423efaa681b9e120073cf4cb15004e1edfd726",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:48Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49760,
+      "FileName": "it_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921207.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Italian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "a6bf86f761e3803dbc1837885056f51098e76a6a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49762,
+      "FileName": "ja_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921200.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Japanese)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "59aa49285397d410fa2a28c35dd1710c68f8a1b3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:49Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49764,
+      "FileName": "ko_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921205.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Korean)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f64491178f93916f86f875a65a73d6d50e37eb74",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49766,
+      "FileName": "ru_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921208.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Russian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "1f73f392e9b647118e4befc338ded3be4e276c47",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:50Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49770,
+      "FileName": "cn_agents_for_visual_studio_2012_x86_dvd_920979.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Chinese-Simplified)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "86f004a2af9ca066931ced692168bbfeed4156b6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:31Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49771,
+      "FileName": "ct_agents_for_visual_studio_2012_x86_dvd_920982.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Chinese-Traditional)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b55aa4c3042a798301f143b49b3b760917e44ff9",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:32Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49773,
+      "FileName": "de_agents_for_visual_studio_2012_x86_dvd_920980.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (German)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "332a5ad2a69b86df2709d867411a48f61338c58e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:32Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49774,
+      "FileName": "mu_intellitrace_collector_for_visual_studio_2012_x86_921040.exe",
+      "Description": "IntelliTrace Collector for Visual Studio 2012 (x86) - (Multiple Languages)",
+      "Notes": "The IntelliTrace collector is a standalone tool that you can use to collect IntelliTrace data from apps that are running in production environments. To analyze the data that's collected, you must use Visual Studio Ultimate 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b1b4fcad3ab64f18d2112342364d9ed1b739e123",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:17Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49775,
+      "FileName": "en_agents_for_visual_studio_2012_x86_dvd_921035.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (English)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "5ec254d89cdb1fc2a9bae8126f45dd87a9f4694b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:33Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "303 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49776,
+      "FileName": "cn_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921212.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Chinese-Simplified)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "e2eb2a3ed18e83fa04118e6a97f41205af11ef81",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49777,
+      "FileName": "es_agents_for_visual_studio_2012_x86_dvd_920983.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Spanish)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "aa1cbc4cc2056a7416925ed58a0f50411d13c9a8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:33Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49778,
+      "FileName": "ct_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921214.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Chinese-Traditional)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "85579f59767950c86836c727204a11f3b08366cb",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49779,
+      "FileName": "fr_agents_for_visual_studio_2012_x86_dvd_920977.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (French)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "8d785c221cf3f847949fca06b445abe34201722e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:34Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49780,
+      "FileName": "de_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921215.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (German)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c85d56d1ab8936b3adee621b835a50357591b873",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:52Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49781,
+      "FileName": "it_agents_for_visual_studio_2012_x86_dvd_920985.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Italian)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b06a752dd4f10d73552d4afd928cfef066cd0cd3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:34Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49782,
+      "FileName": "ja_agents_for_visual_studio_2012_x86_dvd_920976.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Japanese)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "508b0611794ec255b34e67632af82ac31f61a359",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:34Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49783,
+      "FileName": "en_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921201.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (English)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "2b9b6a1c89cae79ae2d0806c256ec0624d993e6f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:52Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49784,
+      "FileName": "ko_agents_for_visual_studio_2012_x86_dvd_920981.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Korean)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "12cc697a335bbcc541f948eeb3840efa15a50995",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:35Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49785,
+      "FileName": "es_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921216.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Spanish)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c4697670ab8fd60e37ec59dcbf98d956284f204a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:53Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49786,
+      "FileName": "ru_agents_for_visual_studio_2012_x86_dvd_920984.iso",
+      "Description": "Agents for Visual Studio 2012 (x86) - DVD (Russian)",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "c5976b4aeb9923d0b8f896643ad8114d82e4e968",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:35Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49787,
+      "FileName": "fr_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921217.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (French)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "cbee74bfc85035f75735ffb14cfc01ec278d36c7",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:53Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49788,
+      "FileName": "it_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921218.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Italian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f5079959c067e76a2c277cf1834170870c2f1754",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:54Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49789,
+      "FileName": "ja_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921220.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Japanese)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "a43084aec52209bcb97e4e9785c7dd556086c0f9",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:54Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49790,
+      "FileName": "cn_agents_for_visual_studio_2012_test_agent_language_pack_x86_920989.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "3acbb152bfba9791988216e3a52523cfa09fae42",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:36Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49791,
+      "FileName": "ko_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921219.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Korean)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "6d78524c5ab7cec5833b37a03fcf2ca461744c74",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:55Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49792,
+      "FileName": "ct_agents_for_visual_studio_2012_test_agent_language_pack_x86_920991.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "9a9fbda23ad909c7a79d9a4da4d749903ded220a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:36Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49793,
+      "FileName": "ru_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_arm_921222.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (ARM) - (Russian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "a44a7b674d87cfe2c9dfbc3a955b039e9ae470a2",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:55Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49794,
+      "FileName": "de_agents_for_visual_studio_2012_test_agent_language_pack_x86_920990.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (German)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "4bc59a78f480edfef1eaae2fc9c385ba315bde1b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:37Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49795,
+      "FileName": "cn_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921223.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Chinese-Simplified)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "d5d726e5753adff949b665d5c27762e89606310a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:56Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49796,
+      "FileName": "en_agents_for_visual_studio_2012_test_agent_language_pack_x86_920988.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (English)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "7c919b1877e8a7169fa1f28e03511970991733c1",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49797,
+      "FileName": "ct_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921221.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Chinese-Traditional)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "5502576c61b39d62d23e5771ffff6eecf43afa1b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:56Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49798,
+      "FileName": "es_agents_for_visual_studio_2012_test_agent_language_pack_x86_920993.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Spanish)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "6d7d9f4a639bed097d5cceba7df8924be3474230",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:38Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49799,
+      "FileName": "fr_agents_for_visual_studio_2012_test_agent_language_pack_x86_920986.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (French)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "134baba6dce95e135ec0728601546c9213ed5951",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:38Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49800,
+      "FileName": "de_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921225.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (German)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "ebcb9e673e079756498dc2aac8c1cb58bfeec10d",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:57Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49801,
+      "FileName": "it_agents_for_visual_studio_2012_test_agent_language_pack_x86_920995.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Italian)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "441806e1886319d60cb5e89ec28ba7b19581b553",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:39Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49802,
+      "FileName": "en_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921199.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (English)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "60727ca083e3625a76c3edbba22b40d8a35ffd6b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:57Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49803,
+      "FileName": "ja_agents_for_visual_studio_2012_test_agent_language_pack_x86_920987.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Japanese)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "ffca77656559d5ac9c9c75ec0c303d6e3d5d9632",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:39Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49804,
+      "FileName": "ko_agents_for_visual_studio_2012_test_agent_language_pack_x86_920992.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Korean)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "dbb823649317f2ad46e14b6f9d37e6ad7dc2e401",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:40Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49805,
+      "FileName": "es_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921224.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Spanish)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "2cbc65d99a8fe54bdf1e9eae4848c805722cff82",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:58Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49806,
+      "FileName": "ru_agents_for_visual_studio_2012_test_agent_language_pack_x86_920994.exe",
+      "Description": "Agents for Visual Studio 2012 Test Agent Language Pack (x86) - (Russian)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "b41e2ec019542597d448e229f5f193b3eab37dbe",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:40Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49807,
+      "FileName": "cn_agents_for_visual_studio_2012_test_controller_language_pack_x86_920996.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "d9b69c2c66573b3f90a2491772b2ac0bb045d560",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:41Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49808,
+      "FileName": "ct_agents_for_visual_studio_2012_test_controller_language_pack_x86_920997.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "8c9fde17c2df186b3b26ea1aa410f26d858c7eed",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:41Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49809,
+      "FileName": "fr_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921196.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (French)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "af1eb067b088ca74ad31ea2ab8fadfceecd1994d",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:58Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49810,
+      "FileName": "de_agents_for_visual_studio_2012_test_controller_language_pack_x86_920998.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (German)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "ac92a887b39d255458cff416ab65f83b3872a24b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:42Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49811,
+      "FileName": "it_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921209.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Italian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "435d8b63b47a0680ba684ddc70d67e640494046b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:59Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49812,
+      "FileName": "en_agents_for_visual_studio_2012_test_controller_language_pack_x86_920999.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (English)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "b254e6516a6f7070d45498defd45f2392a4d6532",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:42Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49813,
+      "FileName": "ja_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921210.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Japanese)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c601e4fc7bebc0b7a466607861c8ee2592efe765",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:59Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49814,
+      "FileName": "es_agents_for_visual_studio_2012_test_controller_language_pack_x86_921000.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Spanish)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "792ca4c4537771fcd97c97c93b144c67b4603bd6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:43Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49815,
+      "FileName": "ko_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921211.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Korean)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "d2aa1bb21d5303b5e488c43889302f10189795af",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49816,
+      "FileName": "fr_agents_for_visual_studio_2012_test_controller_language_pack_x86_921002.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (French)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "dd49af1ded846aad961c22e58a010e298d1556f3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49817,
+      "FileName": "ru_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x64_921213.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x64) - (Russian)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "70d4f4dafd71452f40c2e71f489a3d815095a475",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49818,
+      "FileName": "it_agents_for_visual_studio_2012_test_controller_language_pack_x86_921001.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Italian)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "82a3489d13b1a9240a20056819584ce631e43324",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:44Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49819,
+      "FileName": "cn_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921203.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "786f81970e83495e76a2ce2a628e45839b1f4360",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:01Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49820,
+      "FileName": "ja_agents_for_visual_studio_2012_test_controller_language_pack_x86_921004.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Japanese)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "45edb9afafa1166a5595af3cea66ab8732e490a4",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:44Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49821,
+      "FileName": "ct_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921204.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c18070c4e75fbdbbc91ef3692a3cf2855c2e802e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:01Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49822,
+      "FileName": "ko_agents_for_visual_studio_2012_test_controller_language_pack_x86_921007.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Korean)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "22563591f3b6981067b3fa304aae67c5a52367f7",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:45Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49823,
+      "FileName": "de_visual_c_pp_redistributable_for_visual_studio_2012_for_visual_studio_2012_x86_921202.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012  (x86) - (German)",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "d4bc3684df743f5596a971533a2b94a9d4c0211b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:02Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49824,
+      "FileName": "ru_agents_for_visual_studio_2012_test_controller_language_pack_x86_921005.exe",
+      "Description": "Agents for Visual Studio 2012 Test Controller Language Pack (x86) - (Russian)",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "57468bedacf8fa4da2febe6123624b69fb934189",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:11:45Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49835,
+      "FileName": "cs_visual_studio_express_2012_for_web_language_pack_x86_x64_920664.exe",
+      "Description": "Visual Studio Express 2012 for Web Language Pack (x86) - (Czech)",
+      "Notes": null,
+      "Sha1Hash": "998e1ae7c1f971f62240e5145efbe38a658be730",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:31Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "39 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49836,
+      "FileName": "pl_visual_studio_express_2012_for_web_language_pack_x86_x64_920681.exe",
+      "Description": "Visual Studio Express 2012 for Web Language Pack (x86) - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "d789289cf07ac8891f1184527858b3eb97c0ebb7",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:32Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "40 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49837,
+      "FileName": "pt_visual_studio_express_2012_for_web_language_pack_x86_x64_920669.exe",
+      "Description": "Visual Studio Express 2012 for Web Language Pack (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "f0ea3ba06d6a847c6b538749b3b8962d71f96dd9",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:32Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49838,
+      "FileName": "tr_visual_studio_express_2012_for_web_language_pack_x86_x64_920659.exe",
+      "Description": "Visual Studio Express 2012 for Web Language Pack (x86) - (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "e3e5eb66728ed7fa8e22a5ff5cd261569f765a6a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:33Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "39 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49839,
+      "FileName": "cn_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920725.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Chinese-Simplified)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4c0e0ba4f15b246cc0dd12e0094036d0bab6f6e5",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:04:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49840,
+      "FileName": "ct_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920744.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Chinese-Traditional)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "29c9fc1aee6d1d690e3b10d0aa08d9207c2e38fe",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:34Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49841,
+      "FileName": "de_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920728.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (German)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "965137ea11480682feff55741c708ce44259f9ec",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:34Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49852,
+      "FileName": "en_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920749.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (English)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "6e56d240f17fcc8868686df384250307a7b52b88",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:40Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "403 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49853,
+      "FileName": "es_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920738.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Spanish)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "8a0729e9357f46c1dd9d2b91210d511133748ede",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:41Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49854,
+      "FileName": "fr_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920753.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (French)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "f2f3b3638a3a735fcd3a5b72554130d3530d8246",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:41Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49855,
+      "FileName": "it_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920757.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Italian)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7d6cd9e763da66140337e68c4ed47bfffd71fa54",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:42Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49856,
+      "FileName": "ja_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920751.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Japanese)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "92062a5f21e4395b7d630a44c59be340d4b63391",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:42Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49857,
+      "FileName": "ko_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920663.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Korean)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "5f28f2abd01a8f9f7115b9997f5c00a748e6161e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:43Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "411 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49858,
+      "FileName": "ru_visual_studio_express_2012_for_windows_8_x86_x64_dvd_920678.iso",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - DVD (Russian)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "0b2147d171a9102d1ddfcc1930a4315ca570ec4c",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:43Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "412 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49859,
+      "FileName": "cn_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920700.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Chinese-Simplified)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b44e0f4d456bedb698900bfc85d1a850af134f17",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:04:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.905 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49860,
+      "FileName": "ct_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920734.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Chinese-Traditional)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "c40a9be096c72cc059cc11a0f2a1dbb2bc007335",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:44Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.905 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49861,
+      "FileName": "de_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920697.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (German)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "133c92f19c74ae964fd00fb5065ec815db7c7cca",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:45Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.908 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49862,
+      "FileName": "en_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920674.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (English)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "dbb79d5792a430c281bd50beac065067f5b9fc79",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.901 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49863,
+      "FileName": "es_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920715.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Spanish)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "34a80c3d55cbf1017977f48cf0cd81d8a470df05",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:46Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.905 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49864,
+      "FileName": "fr_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920667.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (French)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "ce28bb2f457b473e69234029bd40c2c48545792b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:46Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.906 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49865,
+      "FileName": "it_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920709.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Italian)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "2864b53ff6d30dc7ff3d847e586acd7d0cc2aca2",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.906 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49866,
+      "FileName": "ja_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920689.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Japanese)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "f1b09c5bd6afd126a6ac40b6b43e5b80de169af6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:47Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.907 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49867,
+      "FileName": "ko_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920718.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Korean)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "d8bad0837220aa6ebe6ae0768d2772e9d6815788",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:48Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.917 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49868,
+      "FileName": "ru_visual_studio_express_2012_for_windows_8_x86_x64_web_installer_920703.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 (x86) - Web Installer (Russian)",
+      "Notes": "Visual Studio Express 2012 for Windows 8 provides the core tools that are required to build compelling, innovative Windows apps. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "a528e3b6ebc9cb30859184c0a744c1dd38c56ee8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:48Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.91 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49869,
+      "FileName": "cs_visual_studio_express_2012_for_windows_8_language_pack_x86_x64_920683.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 Language Pack (x86) - (Czech)",
+      "Notes": "The Visual Studio Express 2012 for Windows 8 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.<br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "2beb065de9ba50f3e02268b35a154cab4db04804",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:49Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "20 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49870,
+      "FileName": "pl_visual_studio_express_2012_for_windows_8_language_pack_x86_x64_920691.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 Language Pack (x86) - (Polish)",
+      "Notes": "The Visual Studio Express 2012 for Windows 8 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.<br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "e4081f8dc5f816dae1c714dfa3c9292057b7f63b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "20 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49871,
+      "FileName": "pt_visual_studio_express_2012_for_windows_8_language_pack_x86_x64_920682.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 Language Pack (x86) - (Portuguese-Brazil)",
+      "Notes": "The Visual Studio Express 2012 for Windows 8 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.<br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "3b72e15c83ef54c6e7c094addbcf610d532893bd",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:50Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "20 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49872,
+      "FileName": "tr_visual_studio_express_2012_for_windows_8_language_pack_x86_x64_920687.exe",
+      "Description": "Visual Studio Express 2012 for Windows 8 Language Pack (x86) - (Turkish)",
+      "Notes": "The Visual Studio Express 2012 for Windows 8 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.<br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "78cdd21687a9b6f6e6dfd5a8e6f637176ecb42b2",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:05:50Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "20 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49873,
+      "FileName": "cn_feedback_client_for_tfs_x86_web_installer_920706.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Chinese-Simplified)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "4311f93071167adc5f0347e14061cf29023f158b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:44Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49874,
+      "FileName": "en_dynamics_gp_2010_service_pack_3_x86_892690.msp",
+      "Description": "Dynamics GP 2010 Service Pack 3  (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aa3039b37c89e2fcf36f50e2d1b73fb3ab193855",
+      "ProductFamilyId": 416,
+      "PostedDate": "2012-07-31T18:46:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49875,
+      "FileName": "ct_feedback_client_for_tfs_x86_web_installer_920708.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Chinese-Traditional)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "bd6d18dc016219919c7f3882277bece2bbf7f343",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:44Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49876,
+      "FileName": "de_feedback_client_for_tfs_x86_web_installer_920705.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (German)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "481a137f1d722d79a656f7d4a9d8968bfd7fdb85",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:44Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.841 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49877,
+      "FileName": "en_feedback_client_for_tfs_x86_web_installer_920692.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (English)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "3d750c5da8e86c20cad05e8d07e2b65c48a8ec09",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.838 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49878,
+      "FileName": "es_feedback_client_for_tfs_x86_web_installer_920712.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Spanish)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "4c18c019237b4ea3332f6c5d0e18ebbbabea06fd",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:45Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.839 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49879,
+      "FileName": "fr_feedback_client_for_tfs_x86_web_installer_920695.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (French)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "b66bb8ad3334e680efe2f12d1aebb2f83d3c9e2d",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:46Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49880,
+      "FileName": "it_feedback_client_for_tfs_x86_web_installer_920717.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Italian)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f3797520323142cd22cd2cec06d58977d8ecc7cb",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49881,
+      "FileName": "ja_feedback_client_for_tfs_x86_web_installer_920702.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Japanese)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f7e34614238114b2b271870c6ed06c9bebfaf8ec",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:47Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49882,
+      "FileName": "es_dynamics_gp_2010_service_pack_3_x86_922830.msp",
+      "Description": "Dynamics GP 2010 Service Pack 3  (x86) - (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cefa9effd7051cb4303fe2bd69b727ee7de1085e",
+      "ProductFamilyId": 416,
+      "PostedDate": "2012-07-31T18:47:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "247 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49883,
+      "FileName": "ko_feedback_client_for_tfs_x86_web_installer_920711.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Korean)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "ceb9fd00636702b39319e9f474936d9e2ba55f7e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:48Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.843 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49884,
+      "FileName": "ru_feedback_client_for_tfs_x86_web_installer_920714.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 (x86) - Web Installer (Russian)",
+      "Notes": "Feedback Client for TFS can help your development team gather both solicited and unsolicited feedback about your software projects from your customers and stakeholders. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "791b4b8b190f645e1f721762904295a0a60b84d3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:48Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.842 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49885,
+      "FileName": "cn_feedback_client_for_tfs_language_pack_x86_920726.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "e126f6375cfc4775f90f290ef79b5fd7f674c0e8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:49Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49886,
+      "FileName": "fr_dynamics_gp_2010_service_pack_3_x86_922773.msp",
+      "Description": "Dynamics GP 2010 Service Pack 3  (x86) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3f179108317d083518310f539c178436c47f7089",
+      "ProductFamilyId": 416,
+      "PostedDate": "2012-07-31T18:47:08Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "248 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49887,
+      "FileName": "ct_feedback_client_for_tfs_language_pack_x86_920732.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "53406ef618852ad2e796ef67b216d6704c3b8116",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:49Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49888,
+      "FileName": "de_feedback_client_for_tfs_language_pack_x86_920729.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (German)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "1bdbe01e7c39d236a82d7bcf7fe21140f939bb61",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:50Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49889,
+      "FileName": "en_feedback_client_for_tfs_language_pack_x86_920720.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (English)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "fb9c0e2d1911b218ade60a30cf5956e290cd13d6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:50Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49890,
+      "FileName": "es_feedback_client_for_tfs_language_pack_x86_920733.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Spanish)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "ff167b6a10cb6714f40e37d8eeed3bc7e0a54a6a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49891,
+      "FileName": "fr_feedback_client_for_tfs_language_pack_x86_920721.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (French)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "79eaf623d8f507e217efc51539abfdccacc4e2e7",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49892,
+      "FileName": "it_feedback_client_for_tfs_language_pack_x86_920737.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Italian)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "b6f91934715e87f75805ad33f4cc4711fd6ca2f5",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:52Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49893,
+      "FileName": "ja_feedback_client_for_tfs_language_pack_x86_920722.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Japanese)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "0a322141b8ebb002755cc8118607ed03ccd6bb68",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:52Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49894,
+      "FileName": "ko_feedback_client_for_tfs_language_pack_x86_920730.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Korean)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "f00d5e4d9e242dc2f0db81278596e5ff9686c6c8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:53Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49895,
+      "FileName": "ru_feedback_client_for_tfs_language_pack_x86_920736.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2012 Language Pack (x86) - (Russian)",
+      "Notes": "The Feedback Client for TFS Language Pack is a free add-on that you can use to switch the language that's displayed in the Feedback Client user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.",
+      "Sha1Hash": "a9fb6625252c6876172d4e5aafbcd095b56d9a47",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:10:53Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49896,
+      "FileName": "cs_visual_studio_2012\u00a0_language_pack_x86_920746.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - (Czech)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "affa552087f91bb042e8ae9b999686e4ed4d1c90",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:11Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49897,
+      "FileName": "pl_visual_studio_2012_language_pack_x86_920747.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - (Polish)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "b882670767fcf7de7b2d2c01b4a3ffc6fd0889ad",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:11Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49899,
+      "FileName": "pt_visual_studio_2012_language_pack_x86_920745.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - (Portuguese-Brazil)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "20b029f4b7b960b391dde98596e3077194963da3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:12Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "351 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49900,
+      "FileName": "tr_visual_studio_2012_language_pack_x86_920748.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - (Turkish)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7381dcd7a598817c4f4f7c4c11e9bf094afc6974",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:12Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49901,
+      "FileName": "cn_visual_studio_2012_language_pack_x86_web_installer_920740.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7b5cf38c80dea870d5dff7c79574e268bfa4e330",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:12Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49902,
+      "FileName": "ct_visual_studio_2012_language_pack_x86_web_installer_920750.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4952175de0a179299f9ee7910dd79d42dfc9e30b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:13Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49903,
+      "FileName": "de_visual_studio_2012_language_pack_x86_web_installer_920743.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (German)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "75eec86233a327aa0e2fa59def8d24e2731c709e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:13Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49904,
+      "FileName": "en_visual_studio_2012_language_pack_x86_web_installer_920739.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (English)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "f4e7c38e1ad5321e227207085c62e4b0698195b4",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.946 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49905,
+      "FileName": "es_visual_studio_2012_language_pack_x86_web_installer_920754.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Spanish)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "ce5c698165e113e24655be3bd3ec454bd5380876",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:14Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49906,
+      "FileName": "fr_visual_studio_2012_language_pack_x86_web_installer_920741.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (French)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "9ec6ee5f382234f28581e1417dc499e3e6e6002c",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:15Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49907,
+      "FileName": "it_visual_studio_2012_language_pack_x86_web_installer_920756.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Italian)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "5a5d9b3b1ae5e5a181e3f1593c3c2ed5142ade08",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:15Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49908,
+      "FileName": "ja_visual_studio_2012_language_pack_x86_web_installer_920742.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Japanese)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "d89b98134cc81585e7b8e53f639372c62e279438",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:16Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.957 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49909,
+      "FileName": "ko_visual_studio_2012_language_pack_x86_web_installer_920752.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Korean)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "da48de320056b62fdc27bc503a769893c529ebb8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:17Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.956 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49910,
+      "FileName": "ru_visual_studio_2012_language_pack_x86_web_installer_920755.exe",
+      "Description": "Visual Studio 2012 Language Pack (x86) - Web Installer (Russian)",
+      "Notes": "The Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "02c1cb319d3ec18552c52c83b2dadd7d6d029740",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:07:17Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.958 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49931,
+      "FileName": "cn_remote_tools_for_visual_studio_2012_x86_920800.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "90ebe3ae13e3ce75c803ac4748c6ad94dc6aa956",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:24Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49933,
+      "FileName": "ct_remote_tools_for_visual_studio_2012_x86_920804.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "bba8ba2989f17434035de563a11a64890c0e64a3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:24Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49935,
+      "FileName": "de_remote_tools_for_visual_studio_2012_x86_920801.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (German)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "205ffa6a035b955d3164fe5d6cd7db0a4cc04ad7",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:25Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49937,
+      "FileName": "en_remote_tools_for_visual_studio_2012_x86_920798.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (English)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "3181dff228face954621ebae268e789db6bc41c1",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:25Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49940,
+      "FileName": "es_remote_tools_for_visual_studio_2012_x86_920803.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Spanish)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "4a2d92e80857fedd169552ea6d692c4c86b75ce4",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:26Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49941,
+      "FileName": "fr_remote_tools_for_visual_studio_2012_x86_920799.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (French)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "bdf59d9e447baf5e302c6e5ce1e03aca6c120d8a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:26Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49944,
+      "FileName": "it_remote_tools_for_visual_studio_2012_x86_920806.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Italian)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "0dc78c0d1059b58c2525e1d222a5d9a0d8ad8b1f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:27Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49947,
+      "FileName": "ja_remote_tools_for_visual_studio_2012_x86_920797.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Japanese)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "9025ae163f21a578045096327e2506cdbcd731cf",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49949,
+      "FileName": "ko_remote_tools_for_visual_studio_2012_x86_920802.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Korean)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "3f525f069cc5ac49a99f3d589a85ec6ed0d71d37",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:28Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49951,
+      "FileName": "ru_remote_tools_for_visual_studio_2012_x86_920805.exe",
+      "Description": "Remote Tools for Visual Studio 2012 (x86) - (Russian)",
+      "Notes": "Remote Tools for Visual Studio 2012 enables remote debugging, remote testing, and performance unit testing on computers that don't have Visual Studio installed. This set of tools also enables the installation of a developer license, deployment, and performance profiling of Windows apps to computers that are running Windows 8. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "46adc27312a6080077272b692d14e9a1dde85312",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:09:29Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49953,
+      "FileName": "en_visual_studio_2012_sdk_x86_920808.exe",
+      "Description": "Visual Studio 2012 SDK (x86) - (English)",
+      "Notes": "The Visual Studio 2012 SDK includes project templates, tools, tests, and reference assemblies that are required to build extensions for Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "e13cab2c209ca24f868094baa9b703e360b9e5da",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49955,
+      "FileName": "cn_visual_studio_2012_shell_integrated_x86_920812.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c83c6eb7d9cf9c18bec3e7aeb06f090131b6e2b1",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:12Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49957,
+      "FileName": "ct_visual_studio_2012_shell_integrated_x86_920813.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "5b8c589b4faf211b56d611f0586c82449ec43f00",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:13Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49959,
+      "FileName": "de_visual_studio_2012_shell_integrated_x86_920811.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (German)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "dea9136415cb9b6b72804a22110365f47972c1bf",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:13Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49961,
+      "FileName": "en_visual_studio_2012_shell_integrated_x86_920810.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (English)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "eabbbdec42f7233af7df0e0af344f5bd4563e9c3",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49964,
+      "FileName": "es_visual_studio_2012_shell_integrated_x86_920815.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "dbfb55805d1e30aa4769b7231e2fda80076c442a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:14Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49966,
+      "FileName": "fr_visual_studio_2012_shell_integrated_x86_920807.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (French)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "35060864aec70c4308a79858a925e0a8d19535dd",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:15Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49967,
+      "FileName": "it_visual_studio_2012_shell_integrated_x86_920817.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Italian)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "0a9b1838a6faddc2714c7793a7d22e281457ce8f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:15Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49968,
+      "FileName": "ja_visual_studio_2012_shell_integrated_x86_920809.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "17dc4a51e6683cb34d952679b302425ffa27c4f9",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:16Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49969,
+      "FileName": "ko_visual_studio_2012_shell_integrated_x86_920814.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Korean)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "b8bedba97eab174bd29b8cd518e7d07fb9631d0b",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:16Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49970,
+      "FileName": "ru_visual_studio_2012_shell_isolated_x86_920835.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (Russian)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "59051f37082eaa50ffbe2ec5b0d6b162de99dd0f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:17Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "233 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49971,
+      "FileName": "ru_visual_studio_2012_shell_integrated_x86_920816.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) (x86) - (Russian)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Integrated). These binaries require the Visual Studio 2012 Shell (Isolated) Redistributable Package. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f5cbacf4fb15f8572c92fab794a35688fe44223e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:17Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49972,
+      "FileName": "cn_visual_studio_2012_shell_isolated_language_pack_x86_920840.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "1c7a33a06c97c9b8229ecdf5560733b75bea6f56",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49973,
+      "FileName": "cn_visual_studio_2012_shell_integrated_language_pack_x86_920821.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "785169068f0bb500073e9cf4051105ee80023110",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49974,
+      "FileName": "ct_visual_studio_2012_shell_integrated_language_pack_x86_920823.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "1a1af97641f557562bd6e10e53d2739a7bd6cf92",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49975,
+      "FileName": "ct_visual_studio_2012_shell_isolated_language_pack_x86_920842.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "89ef6d02131c1e96dc14fb3fa60e38df2a105ee6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49976,
+      "FileName": "de_visual_studio_2012_shell_integrated_language_pack_x86_920822.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (German)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "fc3e25efdf91c30c6cb7dd79e3efffa62c70e7f0",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:20Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49977,
+      "FileName": "de_visual_studio_2012_shell_isolated_language_pack_x86_920843.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (German)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "6f2f0d87354304be80f901d1a0d14638bf19af9f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:21Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49978,
+      "FileName": "en_visual_studio_2012_shell_integrated_language_pack_x86_920818.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (English)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "9dbf66b9df8de517b7a73bd9bc66446ca0e2cc98",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:21Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49979,
+      "FileName": "en_visual_studio_2012_shell_isolated_language_pack_x86_920837.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (English)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "c0de98d93c8f3782fb499e7470e63b4df262e24a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:22Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49980,
+      "FileName": "es_visual_studio_2012_shell_integrated_language_pack_x86_920825.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f24e63d79bdb14bd29e477b0d6cfb55d03c72f6c",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:22Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49981,
+      "FileName": "es_visual_studio_2012_shell_isolated_language_pack_x86_920844.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "2c02777102328b87b4f851d65553fda18e00f091",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:23Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49982,
+      "FileName": "fr_visual_studio_2012_shell_integrated_language_pack_x86_920819.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (French)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "9f8a7242b18e5a14c6ede9fff096198ba40ec3df",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:23Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49983,
+      "FileName": "fr_visual_studio_2012_shell_isolated_language_pack_x86_920838.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (French)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "cd150e04b88763cd448c8469ceeccd4d9b39f4d9",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:24Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49984,
+      "FileName": "it_visual_studio_2012_shell_integrated_language_pack_x86_920841.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Italian)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "aafb8b3e826ce5ccc6e51cdc152bad4306bb991e",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:24Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49985,
+      "FileName": "it_visual_studio_2012_shell_isolated_language_pack_x86_920847.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Italian)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f4b866c2503450a2224ceff8a0605e9b55d6a202",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:25Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49986,
+      "FileName": "ja_visual_studio_2012_shell_integrated_language_pack_x86_920820.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "4a8a57d472e2a5f7f9c698ed712164d74e47ba30",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:25Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49987,
+      "FileName": "ja_visual_studio_2012_shell_isolated_language_pack_x86_920839.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "32a36f3e48cceaf1986d6d2f0c6cc1d3e847e578",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:26Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49988,
+      "FileName": "ko_visual_studio_2012_shell_integrated_language_pack_x86_920824.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Korean)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "f8b107a430a777d8e7e0807ab8fefa3cc038dc74",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:26Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49989,
+      "FileName": "ko_visual_studio_2012_shell_isolated_language_pack_x86_920845.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Korean)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "51bc88e7aad36e45fb75b11a43717a8abc753a6a",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:27Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49990,
+      "FileName": "ru_visual_studio_2012_shell_integrated_language_pack_x86_920826.exe",
+      "Description": "Visual Studio 2012 Shell (Integrated) Language Pack (x86) - (Russian)",
+      "Notes": "The Visual Studio 2012 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Integrated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "bd2e5da4371898526b3d30b06e9ab65dd62bead5",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49991,
+      "FileName": "ru_visual_studio_2012_shell_isolated_language_pack_x86_920846.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) Language Pack (x86) - (Russian)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2012 Shell (Isolated) itself. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "950e657ba257849a9b0f5af7f89f034e1a2d3943",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:28Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49992,
+      "FileName": "cn_visual_studio_2012_shell_isolated_x86_920831.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "7b8f9cefadd2aaa80ea8ea0f461abaa2668b7e5d",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:28Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "228 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49993,
+      "FileName": "ct_visual_studio_2012_shell_isolated_x86_920832.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "56ae852f3010cac6574b5c8ea46a12b45425b1a8",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:29Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "228 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49994,
+      "FileName": "cn_team_explorer_for_visual_studio_2012_x86_dvd_920853.iso",
+      "Description": "Team Explorer for Visual Studio 2012 (x86) - DVD (Chinese-Simplified)",
+      "Notes": "Visual Studio Team Foundation Server 2012 is the collaboration platform at the core of Visual Studio application lifecycle management. This platform helps teams minimize risk, streamline interactions, and reduce waste throughout the software development and delivery process. Team Explorer is the client software that you use to access the Team Foundation Server functionality. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "bed008b8013fad5f63b480224abb1ca930b40643",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:32Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49995,
+      "FileName": "de_visual_studio_2012_shell_isolated_x86_920830.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (German)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "812901193a773bbf5789e08f25d78050539edaf6",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:29Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "230 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49996,
+      "FileName": "ct_team_explorer_for_visual_studio_2012_x86_dvd_920856.iso",
+      "Description": "Team Explorer for Visual Studio 2012 (x86) - DVD (Chinese-Traditional)",
+      "Notes": "Visual Studio Team Foundation Server 2012 is the collaboration platform at the core of Visual Studio application lifecycle management. This platform helps teams minimize risk, streamline interactions, and reduce waste throughout the software development and delivery process. Team Explorer is the client software that you use to access the Team Foundation Server functionality. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "7f471772c4ddd2c8b1edb21924b14748c1838d63",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:33Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49997,
+      "FileName": "en_visual_studio_2012_shell_isolated_x86_920828.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (English)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "1c20e040f5226d6217b447e9ddababf0d82ebde1",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "222 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49998,
+      "FileName": "de_team_explorer_for_visual_studio_2012_x86_dvd_920854.iso",
+      "Description": "Team Explorer for Visual Studio 2012 (x86) - DVD (German)",
+      "Notes": "Visual Studio Team Foundation Server 2012 is the collaboration platform at the core of Visual Studio application lifecycle management. This platform helps teams minimize risk, streamline interactions, and reduce waste throughout the software development and delivery process. Team Explorer is the client software that you use to access the Team Foundation Server functionality. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a><br/>\n<br/><a href=\"http://dev.windows.com\">Windows Dev Center</a>  \n<br/> <a href=\"http://msdn.microsoft.com/vstudio \">Visual Studio Developer Center</a>\n<br/><a href=\"http://msdn.microsoft.com/windowsserver\">Windows Server Dev Center</a>\n<br/><b>Windows Client Additional Information:</b>\n<br/><a href=\"http://msdn.microsoft.com/windows/apps\">Metro Style App Development</a>",
+      "Sha1Hash": "eb7d73bcd09c2e58972f1132e73b2dd1a35df32f",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:08:33Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49999,
+      "FileName": "es_visual_studio_2012_shell_isolated_x86_920834.exe",
+      "Description": "Visual Studio 2012 Shell (Isolated) (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2012 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2012 Shell (Isolated). For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>",
+      "Sha1Hash": "9d246f5d3f957cf600223d8792bb90a9d9144800",
+      "ProductFamilyId": 479,
+      "PostedDate": "2012-08-15T15:06:30Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "229 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

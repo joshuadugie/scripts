@@ -1,0 +1,3156 @@
+{
+  "Files": [
+    {
+      "FileId": 65503,
+      "FileName": "da_access_2016_x86_x64_dvd_6962698.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Danish)",
+      "Notes": null,
+      "Sha1Hash": "f4f25c46d860504a0923db7db3ae42b44185fd70",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "2262 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65504,
+      "FileName": "hr_office_professional_plus_2016_x86_x64_dvd_6969183.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "f4486addf3d2c6735d94ad304abb4671e2238d76",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "2164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65505,
+      "FileName": "sl_project_professional_2016_x86_x64_dvd_6969740.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "9093aee0934589fd9e387aaada8e7d3c27738121",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "2236 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65507,
+      "FileName": "lt_outlook_2016_x86_x64_dvd_6974557.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Lithuanian)",
+      "Notes": null,
+      "Sha1Hash": "5a2a38e049fa2399eae87b136c328a23c4d9dc7b",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "2156 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65508,
+      "FileName": "kk_access_2016_x86_x64_dvd_6972364.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Kazakh)",
+      "Notes": null,
+      "Sha1Hash": "1b2284b9d4c54d2568a5456a2bd144c92588918f",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "kk"
+      ],
+      "Languages": [
+        "Kazakh"
+      ],
+      "Size": "2105 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65510,
+      "FileName": "ja_project_professional_2016_x86_x64_dvd_6969743.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "fcd2dbd632974d12aa6d6f7fadc4b0aa9d0635d1",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2387 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65514,
+      "FileName": "el_office_professional_plus_2016_x86_x64_dvd_6968736.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Greek)",
+      "Notes": null,
+      "Sha1Hash": "6e39192918d660031727b37e704b594b9ac52067",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65516,
+      "FileName": "tr_office_professional_plus_2016_x86_x64_dvd_6969736.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "59c1fbcee137e87e5d6f25d56933e8424744690d",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65517,
+      "FileName": "hu_visio_professional_2016_x86_x64_dvd_6964040.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "8959bed1fa65238aace50b2ee4d211651c5abc71",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65518,
+      "FileName": "ru_access_2016_x86_x64_dvd_6972519.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "0cbc5c74ff6d24a4bd8d4961c25c92519fd39585",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2217 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65525,
+      "FileName": "ct_remote_tools_for_visual_studio_2015_x86_7013394.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (Chinese-Traditional)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "8be0d978af7e9397d8315df56a76067dd330c8f9",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65526,
+      "FileName": "lv_office_professional_plus_2016_x86_x64_dvd_6968766.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "aa7dccee0e003d2d28c1677e6d053823f8afcb65",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "2145 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65527,
+      "FileName": "nl_office_professional_plus_2016_x86_x64_dvd_6966589.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "24e4afc4ef5a2ad5f1bb92ef543777e56886bae5",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65528,
+      "FileName": "ar_outlook_2016_x86_x64_dvd_6972912.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "87be1a9ae6258792658582e0b9bdfbce09586256",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2218 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65529,
+      "FileName": "th_outlook_2016_x86_x64_dvd_6976780.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Thai)",
+      "Notes": null,
+      "Sha1Hash": "4fce554fdc4993e9658c9c36b7767b909439d781",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "2116 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65530,
+      "FileName": "ja_office_professional_plus_2016_x86_x64_dvd_6968758.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c8fefd5d0a8033b73b8c661a2406f7c4444064ac",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2387 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65531,
+      "FileName": "es_visio_professional_2016_x86_x64_dvd_6966715.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "740387aa7a0d4411b49c10bc0df8fda9cf9de6e1",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65532,
+      "FileName": "id_access_2016_x86_x64_dvd_6972367.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Indonesian)",
+      "Notes": null,
+      "Sha1Hash": "beaa5075f352a695c865fae0f9f2947910637a1c",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "id"
+      ],
+      "Languages": [
+        "Indonesian"
+      ],
+      "Size": "2055 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65533,
+      "FileName": "ro_access_2016_x86_x64_dvd_6972520.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "3621ea8e64d584d288fc65906926d434fc75b9c0",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "2177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65534,
+      "FileName": "de_access_2016_x86_x64_dvd_6962694.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "9b095cf2a17ad8e3b1d194c826b0434901a0bd70",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65535,
+      "FileName": "en_office_professional_plus_2016_x86_x64_dvd_6962141.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "213a8a0f8849516704101cb6c49f6a027b0d6d5f",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65539,
+      "FileName": "ro_office_professional_plus_2016_x86_x64_dvd_6968770.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "a0fc577a3f67dc3847a092b379d43a5f691edd9a",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "2177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65540,
+      "FileName": "pl_outlook_2016_x86_x64_dvd_6976702.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "7016f4b8e291fe43fb3ab3aaddbc7ac124d7d51c",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65541,
+      "FileName": "ru_visio_professional_2016_x86_x64_dvd_6970992.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "03498f605e9797a373a62f14c0bcda8a8e7c2c04",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2217 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65542,
+      "FileName": "pt_project_professional_2016_x86_x64_dvd_6966613.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "e0cb4b088aac5f7faa93ea6aa57fe533ee52a5e5",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65543,
+      "FileName": "ro_visio_professional_2016_x86_x64_dvd_6966667.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "4d15fa1768aa32f6062e7c480cb720072cb76f22",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "2177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65545,
+      "FileName": "de_remote_tools_for_visual_studio_2015_x86_7013348.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (German)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "5b750d0c600c89ed0a7b0a8bf06f5aca8905e55a",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65547,
+      "FileName": "tr_access_2016_x86_x64_dvd_6972636.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "44ae86446acb0fe31255fcf02e8df277c7126cbc",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65550,
+      "FileName": "ru_outlook_2016_x86_x64_dvd_6976698.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "edbbd2ba25363118354827e1ba2d1c1ef2cc0a3d",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2217 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65552,
+      "FileName": "cn_access_2016_x86_x64_dvd_6972371.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "5d63eff771d397e197607b1f0a0eb6ed3d5cc284",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2468 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65553,
+      "FileName": "it_project_professional_2016_x86_x64_dvd_6966641.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "7bd4966034442a8107957d2fde2a7ec412907d5c",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65555,
+      "FileName": "es_office_professional_plus_2016_x86_x64_dvd_6969637.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "02dd554efc4c76af35c2fd7597eddc64f2792953",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65556,
+      "FileName": "hr_access_2016_x86_x64_dvd_6962700.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "83335f38a0283d4db22e21e597b11910d842fd1e",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "2164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65557,
+      "FileName": "nb_outlook_2016_x86_x64_dvd_6974555.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Norwegian, Bokmal)",
+      "Notes": null,
+      "Sha1Hash": "f9142cd38f71448ebf7742f2555f3976e63a5ae5",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nb"
+      ],
+      "Languages": [
+        "Norwegian-Bokmal"
+      ],
+      "Size": "2231 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65558,
+      "FileName": "ct_access_2016_x86_x64_dvd_6972370.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "b2a987734fd4c0cde4071a0cd17b8fccc5d3fc9f",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65559,
+      "FileName": "pp_office_professional_plus_2016_x86_x64_dvd_6968771.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "0b45e6ae35752bb6ef7c5e6522e3a33f6e62db9e",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2222 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65561,
+      "FileName": "kk_outlook_2016_x86_x64_dvd_6974560.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Kazakh)",
+      "Notes": null,
+      "Sha1Hash": "12934bda3c661aa30c3074f322470fe3608d7808",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "kk"
+      ],
+      "Languages": [
+        "Kazakh"
+      ],
+      "Size": "2105 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65563,
+      "FileName": "sl_office_professional_plus_2016_x86_x64_dvd_6969620.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "495f26c29832993a5dc652d586f9cf748159e83b",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "2236 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65564,
+      "FileName": "hr_outlook_2016_x86_x64_dvd_6972896.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "00b4be0a95d1d066cdc3058699c5275e26e973e4",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "2164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65565,
+      "FileName": "el_outlook_2016_x86_x64_dvd_6974420.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Greek)",
+      "Notes": null,
+      "Sha1Hash": "f14ce97b6627f4155cd80206e2b83fd39c9b09ef",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65568,
+      "FileName": "ms_office_professional_plus_2016_x86_x64_dvd_6968764.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Malay)",
+      "Notes": null,
+      "Sha1Hash": "570d4bd6418b7392d2149ecbf8d4f84189da2c87",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ms"
+      ],
+      "Languages": [
+        "Malay"
+      ],
+      "Size": "2170 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65569,
+      "FileName": "fi_outlook_2016_x86_x64_dvd_6974438.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "fe5bb0f14575fb100aad00e81cae3239a781d2d8",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2377 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65570,
+      "FileName": "pp_project_professional_2016_x86_x64_dvd_6966636.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "d1ab442bde784b13c404481d38f59b9a0b95b256",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2222 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65571,
+      "FileName": "es_remote_tools_for_visual_studio_2015_arm_7013324.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (ARM) - (Spanish)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "0b76c00cec0a5bfb8c8a2c000d0d2980b792d4be",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:12Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65574,
+      "FileName": "nl_project_professional_2016_x86_x64_dvd_6969744.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "8bf24cfa5896f00f3b32b994c7b0848c7a21d269",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65577,
+      "FileName": "ko_remote_tools_for_visual_studio_2015_x86_7013343.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (Korean)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "df9fb3f60155db3948f37a5255b44e72ad9efa03",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:13Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65579,
+      "FileName": "ja_remote_tools_for_visual_studio_2015_arm_7013334.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (ARM) - (Japanese)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "90a26c7ec4599208c15dd72df951fd4962a336af",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:13Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65580,
+      "FileName": "es_access_2016_x86_x64_dvd_6962690.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "602462d839dee144cbdc50d1670b59bde5431a0e",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65582,
+      "FileName": "cn_project_professional_2016_x86_x64_dvd_6966612.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "245787253622d4d790f62012b578398ea78d8ea2",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2468 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65583,
+      "FileName": "uk_office_professional_plus_2016_x86_x64_dvd_6969735.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "c7d07bf475d0025d4c19f0cb6d183d1116101a46",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "2219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65584,
+      "FileName": "uk_project_professional_2016_x86_x64_dvd_6966629.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "eaa97f709b8ae805c3b8c3bdedac5191b4758860",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "2219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65585,
+      "FileName": "nl_outlook_2016_x86_x64_dvd_6974464.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "b043c47fea741cf1c40692f1738c4fbf4fe68cd0",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65586,
+      "FileName": "vi_access_2016_x86_x64_dvd_6972634.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Vietnamese)",
+      "Notes": null,
+      "Sha1Hash": "3bf344fe92f7dc6b98b417ab9a718857587bec75",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "vi"
+      ],
+      "Languages": [
+        "Vietnamese"
+      ],
+      "Size": "2083 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65587,
+      "FileName": "lv_outlook_2016_x86_x64_dvd_6974558.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "d83b85219591b32a370c54819b7b489b4935c472",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "2145 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65588,
+      "FileName": "ko_visio_professional_2016_x86_x64_dvd_6966672.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "9560c3efda4a0c820123c9211c58558f08e2cb99",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65592,
+      "FileName": "id_outlook_2016_x86_x64_dvd_6974563.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Indonesian)",
+      "Notes": null,
+      "Sha1Hash": "169d435f4ead14084db3beab80fd5f01d522ea9f",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "id"
+      ],
+      "Languages": [
+        "Indonesian"
+      ],
+      "Size": "2055 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65593,
+      "FileName": "sk_outlook_2016_x86_x64_dvd_6976784.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "f2be515ed0be6adc3bdcd1337d13bf086f11086f",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65594,
+      "FileName": "ko_office_professional_plus_2016_x86_x64_dvd_6968767.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "3ed6acd429a8c3c2dfaf83d6f93d62de9024ded0",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65597,
+      "FileName": "nl_visio_professional_2016_x86_x64_dvd_6970918.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "84f906489d18ad0c85aba6f392e683d531c63ac1",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65598,
+      "FileName": "fr_remote_tools_for_visual_studio_2015_x64_7013340.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (French)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2fc5b37407e4e8901baba710b0705009145858c0",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:14Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65599,
+      "FileName": "it_remote_tools_for_visual_studio_2015_x64_7013347.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (Italian)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "abffe6a943df0c73cf472ca3dfb27f5529848725",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:15Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65600,
+      "FileName": "pl_access_2016_x86_x64_dvd_6972522.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "f44a77789726e87aaecb653443bd89a96faff2d5",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65602,
+      "FileName": "fr_remote_tools_for_visual_studio_2015_x86_7013356.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (French)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "b58b40bae3b88ef63da8b571cd5b9c2ba5a10e24",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:15Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65604,
+      "FileName": "ru_remote_tools_for_visual_studio_2015_x86_7013331.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (Russian)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "ce40cf93ed50963f6bae438d76d2f68f85402164",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:16Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65605,
+      "FileName": "th_access_2016_x86_x64_dvd_6972637.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Thai)",
+      "Notes": null,
+      "Sha1Hash": "724ebd17a4f662e978096752f45792c36adefbc5",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "2116 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65606,
+      "FileName": "hi_office_professional_plus_2016_x86_x64_dvd_6968734.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "2c7d0706a1003903784d4835649b10a51b9118ae",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "2105 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65608,
+      "FileName": "fr_outlook_2016_x86_x64_dvd_6974423.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "183e6061514e2f40b8c493aca253a0fe72c69483",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2316 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65610,
+      "FileName": "he_office_professional_plus_2016_x86_x64_dvd_6968735.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "4849ece0e5c9a29f271a4afd988f243903751a35",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65611,
+      "FileName": "ko_project_professional_2016_x86_x64_dvd_6969742.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "777bc43ff9a5d5d43bffe314a34b36c7aa433573",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65612,
+      "FileName": "tr_project_professional_2016_x86_x64_dvd_6966630.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "39c4e8f8e66878416dc6f0d0f0fdf83317aed6b2",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65613,
+      "FileName": "ct_outlook_2016_x86_x64_dvd_6972898.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "867281acbebb75ec99464428345d64ebae35ff40",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65616,
+      "FileName": "pl_office_professional_plus_2016_x86_x64_dvd_6968772.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "ee6b0b3d67596ec7feff965a05968a3e86a532ea",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65617,
+      "FileName": "id_office_professional_plus_2016_x86_x64_dvd_6968756.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Indonesian)",
+      "Notes": null,
+      "Sha1Hash": "75c5cd18941119b634ba03b6300e2340ca809cf1",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "id"
+      ],
+      "Languages": [
+        "Indonesian"
+      ],
+      "Size": "2055 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65619,
+      "FileName": "nb_visio_professional_2016_x86_x64_dvd_6970931.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Norwegian, Bokmal)",
+      "Notes": null,
+      "Sha1Hash": "1c43a80fdac4c32ee560e72026c31626f2f42718",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nb"
+      ],
+      "Languages": [
+        "Norwegian-Bokmal"
+      ],
+      "Size": "2231 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65620,
+      "FileName": "sr-latn-sp_access_2016_x86_x64_dvd_6972518.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Serbian, Latin-Serbia)",
+      "Notes": null,
+      "Sha1Hash": "4fc3ddaa8f62976cc0caf2517f97de988ec97a36",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "2164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65621,
+      "FileName": "el_visio_professional_2016_x86_x64_dvd_6970934.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Greek)",
+      "Notes": null,
+      "Sha1Hash": "41f0ac86c55869036cf728b37c2ac174188a67c3",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65623,
+      "FileName": "he_access_2016_x86_x64_dvd_6962692.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "5281407d16f5b29bf7f4bb3cd5c242048887b1fe",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65624,
+      "FileName": "ms_access_2016_x86_x64_dvd_6972640.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Malay)",
+      "Notes": null,
+      "Sha1Hash": "f074688680fbbaa98d926f654f02e1c3d4f717a6",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ms"
+      ],
+      "Languages": [
+        "Malay"
+      ],
+      "Size": "2170 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65627,
+      "FileName": "sk_visio_professional_2016_x86_x64_dvd_6966665.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "ddb14a26a8a77d677650e61c4e504fb200ad81eb",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65628,
+      "FileName": "el_project_professional_2016_x86_x64_dvd_6964167.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Greek)",
+      "Notes": null,
+      "Sha1Hash": "9c8861bb75792420406fb2ef7089b6e40cd44987",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65629,
+      "FileName": "uk_access_2016_x86_x64_dvd_6972635.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "ed4a38880a94b37c3a445cda6863d79a88ea37f2",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "2219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65630,
+      "FileName": "pt_access_2016_x86_x64_dvd_6967909.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "98b354fdc6ef1f4b9f28135014fe0c326adf38a4",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65632,
+      "FileName": "ko_remote_tools_for_visual_studio_2015_x64_7013351.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (Korean)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "6948165448e04a5c142f82520e42dee6f889c1e2",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:17Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65634,
+      "FileName": "pl_project_professional_2016_x86_x64_dvd_6966637.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "f45ff773e0585ba174b9ea40a59ddfa3c838b009",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65636,
+      "FileName": "pp_outlook_2016_x86_x64_dvd_6976700.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "e277421f7d3a809733f291a7ea4ea0c5429a2e03",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2222 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65637,
+      "FileName": "ar_visio_professional_2016_x86_x64_dvd_6962682.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "036c785a3df125031e62ad3dbd70bd49f0c8dcf9",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2218 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65638,
+      "FileName": "cs_outlook_2016_x86_x64_dvd_6974465.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Czech)",
+      "Notes": null,
+      "Sha1Hash": "fee841ecc83bb2f04e088858249d76e65f49e07f",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65639,
+      "FileName": "bg_office_professional_plus_2016_x86_x64_dvd_6966446.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Bulgarian)",
+      "Notes": null,
+      "Sha1Hash": "4ec1dc9abd3059aee5da41126d28f38be22591e6",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "2140 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65640,
+      "FileName": "es_project_professional_2016_x86_x64_dvd_6965429.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7e64932e57c51aff5474b7a53dc92ad2dd42111a",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65641,
+      "FileName": "fr_access_2016_x86_x64_dvd_6962695.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "72c67037173f31e951611fa39808e8ea031df40a",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2316 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65642,
+      "FileName": "ru_office_professional_plus_2016_x86_x64_dvd_6968768.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "682bcad0fd89d190a67b3356c0eeee415d35aa14",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2217 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65644,
+      "FileName": "hu_office_professional_plus_2016_x86_x64_dvd_6971452.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "74180610093b706c250394072382f30d43bc3fda",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65645,
+      "FileName": "ct_visio_professional_2016_x86_x64_dvd_6966683.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "6d6607b690d6d4b30a9230dcb73fe502d98f5648",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65646,
+      "FileName": "de_project_professional_2016_x86_x64_dvd_6964173.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "b67f995e0b5881f812ef3002f89ff8a8a65f7c13",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65647,
+      "FileName": "vi_outlook_2016_x86_x64_dvd_6976867.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Vietnamese)",
+      "Notes": null,
+      "Sha1Hash": "391a5f196d2c8139d1ff2fab72ac2dae716e6fb2",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "vi"
+      ],
+      "Languages": [
+        "Vietnamese"
+      ],
+      "Size": "2083 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65648,
+      "FileName": "et_outlook_2016_x86_x64_dvd_6974437.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "a6d0ee12be2f3f7ba8409c46387bfe597b41a256",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "2292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65652,
+      "FileName": "ru_project_professional_2016_x86_x64_dvd_6966634.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "96db6920e97089078bd0b5b40816eb250dd703c4",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2217 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65653,
+      "FileName": "tr_visio_professional_2016_x86_x64_dvd_6970990.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "72494b85db26099cf496e34a653a0f108adadd53",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65654,
+      "FileName": "kk_office_professional_plus_2016_x86_x64_dvd_6968757.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Kazakh)",
+      "Notes": null,
+      "Sha1Hash": "e28f1b3032cec4d8d0f17fc6dd6222f64fb94437",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "kk"
+      ],
+      "Languages": [
+        "Kazakh"
+      ],
+      "Size": "2105 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65655,
+      "FileName": "ja_outlook_2016_x86_x64_dvd_6974561.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "4515d4c2e91ffed2e12b39722c33655aee7f2c70",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2387 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65661,
+      "FileName": "ct_office_professional_plus_2016_x86_x64_dvd_6966429.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "c4258e610462f95188b4f4fb43a645305ea919e9",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65662,
+      "FileName": "ja_remote_tools_for_visual_studio_2015_x86_7013328.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (Japanese)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "799217ce7917af6c80ec56b64eb575c256de6c0d",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:18Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65663,
+      "FileName": "nb_project_professional_2016_x86_x64_dvd_6966638.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Norwegian, Bokmal)",
+      "Notes": null,
+      "Sha1Hash": "0e8f911ae9828dc3f32d3e8f628687d436660ac4",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nb"
+      ],
+      "Languages": [
+        "Norwegian-Bokmal"
+      ],
+      "Size": "2231 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65665,
+      "FileName": "sk_project_professional_2016_x86_x64_dvd_6969741.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "c6fe8430ac41d07eb1f64447c49cb5d9858661fd",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65666,
+      "FileName": "lv_access_2016_x86_x64_dvd_6972362.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "834f5efc5306b00703873a09fc2f6ca56a58cadd",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "2145 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65667,
+      "FileName": "sv_project_professional_2016_x86_x64_dvd_6969739.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "fb6b1b9c89c7ab99eccf54b128053780e860e9f0",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2356 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65668,
+      "FileName": "fi_visio_professional_2016_x86_x64_dvd_6966679.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "b35ffd09b5fdbf9e8cba9b5e5331220fc1389164",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2377 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65670,
+      "FileName": "it_remote_tools_for_visual_studio_2015_x86_7013333.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (Italian)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "f4e8c45bd2437af341b37e6f666f303a6280f512",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:18Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65672,
+      "FileName": "es_outlook_2016_x86_x64_dvd_6976782.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "156b08128c3e0b69ab31b375b5c27c04e46be95a",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65675,
+      "FileName": "th_office_professional_plus_2016_x86_x64_dvd_6969635.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Thai)",
+      "Notes": null,
+      "Sha1Hash": "4a18ad33424bcf8ca7bfb8c90c9b0e9a1d4badae",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "2116 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65677,
+      "FileName": "ct_project_professional_2016_x86_x64_dvd_6969745.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "47b1603396d9b1df35c560c29e552bd2d27c73f9",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65679,
+      "FileName": "sv_visio_professional_2016_x86_x64_dvd_6966713.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "c54610555c2d3194bac5f9b450f4b54565415134",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2356 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65680,
+      "FileName": "en_remote_tools_for_visual_studio_2015_arm_7013389.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (ARM) - (English)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "40192fac8236fa6428c27bfd2f929b7d81562d07",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65684,
+      "FileName": "ar_office_professional_plus_2016_x86_x64_dvd_6962685.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "83f272758e14e2789f6c12dc9134573d30ab01a6",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2218 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65685,
+      "FileName": "ar_access_2016_x86_x64_dvd_6962686.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "82351ba70dade531ad61b21362dad3a2af67d13b",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2218 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65686,
+      "FileName": "it_access_2016_x86_x64_dvd_6972366.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "84c9b75acd1d27df03e9567115b8d9df71be0fee",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65689,
+      "FileName": "nl_access_2016_x86_x64_dvd_6972369.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "993637e9f9055866e8c7bb1be4ee44fd44a24035",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2238 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65690,
+      "FileName": "el_access_2016_x86_x64_dvd_6962693.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Greek)",
+      "Notes": null,
+      "Sha1Hash": "a9d5372c9425feca345575c778706812fb9ac804",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65692,
+      "FileName": "bg_access_2016_x86_x64_dvd_6962701.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Bulgarian)",
+      "Notes": null,
+      "Sha1Hash": "7fb94d439d02b2f5becc3f83b4aa1f3c0f442014",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "2140 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65693,
+      "FileName": "en_remote_tools_for_visual_studio_2015_x86_7013393.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x86) - (English)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "1fbf64030297beb9710e69ae621b493c3236f6bb",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:20Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "33 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65697,
+      "FileName": "fi_office_professional_plus_2016_x86_x64_dvd_6967916.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "ee2d83d1b5368cd9562441f844bc551ec91b1618",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2377 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65699,
+      "FileName": "ja_visio_professional_2016_x86_x64_dvd_6966673.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "672ae3293f9ac0d0fbee8231dfa851a421a8ab00",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2387 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65700,
+      "FileName": "ko_access_2016_x86_x64_dvd_6972363.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "48a5d438f75d95b1cede7211bb9aed3e9fa28da2",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65701,
+      "FileName": "ru_remote_tools_for_visual_studio_2015_x64_7013341.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (Russian)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "1ad1893be224ef8541441a6b08b45f0b0790118c",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:20Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "61 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65702,
+      "FileName": "ms_outlook_2016_x86_x64_dvd_6974556.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Malay)",
+      "Notes": null,
+      "Sha1Hash": "81ee4caaa2ad10a1f19354ea6e1a81d542d5141f",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ms"
+      ],
+      "Languages": [
+        "Malay"
+      ],
+      "Size": "2170 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65703,
+      "FileName": "hu_outlook_2016_x86_x64_dvd_6974564.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "6661dd4e84a73fc94ddaa2f809c9b4120dabd282",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65705,
+      "FileName": "ct_remote_tools_for_visual_studio_2015_arm_7013329.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (ARM) - (Chinese-Traditional)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "746b233f983514e30cdb6202d450529c41e110e1",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:21Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65707,
+      "FileName": "cn_outlook_2016_x86_x64_dvd_6972900.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "7c0df0e3438ad3e280ee2387c86ad808143fdab8",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2468 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65708,
+      "FileName": "pt_visio_professional_2016_x86_x64_dvd_6966685.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "86a16b85d4cd5a558774434b6329a299e7b90dc9",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65710,
+      "FileName": "et_office_professional_plus_2016_x86_x64_dvd_6967917.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "94b9b3d653b81eaa8b0fe368d2735fb9346b459d",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "2292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65713,
+      "FileName": "sl_access_2016_x86_x64_dvd_6972516.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "43949d5ee0b48c5f53976896d9a59d8a344563e8",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "2236 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65715,
+      "FileName": "sl_visio_professional_2016_x86_x64_dvd_6970991.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "6f043ef69b08bffa9073b73f6639d2ca7a5ccc3c",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "2236 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65716,
+      "FileName": "hu_access_2016_x86_x64_dvd_6972368.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "ac9dbacfa6b951fbc69080726d80c1869145b284",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65718,
+      "FileName": "it_office_professional_plus_2016_x86_x64_dvd_6968755.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "40f27a74ff8457a7220a78d602dac916a9ca40fe",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65719,
+      "FileName": "en_access_2016_x86_x64_dvd_6962275.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "27f9b9376e6ad63decc1b945bf2c511cfcb7fbd2",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65722,
+      "FileName": "he_project_professional_2016_x86_x64_dvd_6964162.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "608f4d3350b07ba222d48106ce05366f458d3dfd",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65725,
+      "FileName": "sr-latn-sp_outlook_2016_x86_x64_dvd_6976697.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Serbian, Latin-Serbia)",
+      "Notes": null,
+      "Sha1Hash": "f11db8c09b6a96f109418ffbb53fcafef48bfa23",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "2164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65726,
+      "FileName": "ar_project_professional_2016_x86_x64_dvd_6962679.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "caba2968cafd994f826844c897df5cabec77b1a7",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2218 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65728,
+      "FileName": "cs_visio_professional_2016_x86_x64_dvd_6970928.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Czech)",
+      "Notes": null,
+      "Sha1Hash": "19f1b3509d93ecf19a8b797c098973b54b8f5d85",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65729,
+      "FileName": "it_visio_professional_2016_x86_x64_dvd_6970932.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "a62c122ffb6589bb7ee829b0034db8a77fbb3111",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65730,
+      "FileName": "sv_office_professional_plus_2016_x86_x64_dvd_6969636.iso",
+      "Description": "Office Professional Plus 2016 (x86 and x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "2ae8d02d5b2951b7a6f1f214a97df9462070eba9",
+      "ProductFamilyId": 611,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2356 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65731,
+      "FileName": "ko_outlook_2016_x86_x64_dvd_6974559.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "61d5add33818480c2a78d9a6e31d92b20a5a56b5",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65732,
+      "FileName": "de_outlook_2016_x86_x64_dvd_6974422.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "ae3a3dd8b58f27cd14479c14cf3dda84b6d64cd0",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65736,
+      "FileName": "he_outlook_2016_x86_x64_dvd_6974419.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "d87e3a729d1a384c7c703a97e19f47ae0449b8dd",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65738,
+      "FileName": "et_access_2016_x86_x64_dvd_6962697.iso",
+      "Description": "Access 2016 (x86 and x64) - DVD (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "117ecd34dda4031b22051ec5d08fbdae67e9ee40",
+      "ProductFamilyId": 614,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "2292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65739,
+      "FileName": "uk_visio_professional_2016_x86_x64_dvd_6970989.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "23a0c99a76cb56cd729fbd8798bf32b272a4abfa",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "2219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65740,
+      "FileName": "hu_project_professional_2016_x86_x64_dvd_6964042.iso",
+      "Description": "Project Professional 2016 (x86 and x64) - DVD (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "c849903897510e863bb09f7425cd7915c2039cb5",
+      "ProductFamilyId": 612,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65741,
+      "FileName": "pp_visio_professional_2016_x86_x64_dvd_6970993.iso",
+      "Description": "Visio Professional 2016 (x86 and x64) - DVD (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "e381fa498a6fb75b2016cb69565bc7330c62d0f4",
+      "ProductFamilyId": 613,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2222 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65742,
+      "FileName": "ct_remote_tools_for_visual_studio_2015_x64_7013392.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (Chinese-Traditional)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "f391ebf42d97eea0f296aa492b4cabc07c279223",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:22Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65743,
+      "FileName": "sl_outlook_2016_x86_x64_dvd_6976783.iso",
+      "Description": "Outlook 2016 (x86 and x64) - DVD (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "3381b307849ab9e095ba7f286f15849bff657dc6",
+      "ProductFamilyId": 616,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "2236 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65744,
+      "FileName": "ja_remote_tools_for_visual_studio_2015_x64_7013337.exe",
+      "Description": "Remote Tools for Visual Studio 2015 (x64) - (Japanese)",
+      "Notes": "The Remote Tools are intended for computers that don't have Visual Studio so that you can debug, test, and profile apps that are executing on them. Visual Studio must be installed on the development computer that's connected to, or uses the data collected from, the remote computer. Connecting to the remote debugger and profiler that are included in the Remote Tools for Visual Studio 2015 RC is supported in Visual Studio Ultimate 2015 RC. \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=613260\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "1ac3706a0c44c97d035302c6a0c1cc74e827c6d4",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-16T16:54:22Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65745,
+      "FileName": "mu_office_home_and_business_2016_for_mac_mac_dvd_7027756.iso",
+      "Description": "Office Home and Business 2016 for Mac - DVD (Multiple Languages) \u2013 See Details",
+      "Notes": "To activate your copy of Office 2016 for Mac you\u2019ll need to visit Office.com/setup and follow the next steps:\n<p>\n<b>Step 1</b>: Obtain a Product Key from your MSDN portal, copy the product key.   \n<p>\n<b>Step 2</b>: Using your Mac, go to the browser and type in the following: <a href=\"http://office.com/setup\">http://office.com/setup</a>.\n <p>\n<b>Step 3</b>: Read the text page that appears on the screen. At the bottom of the page, there is a space for a 25-digit number. This is where the product key number should be inserted.  \n<p>\n<b>Step 4</b>: Type in or paste the 25-digit number. Proofread the number to be sure it is correct.  \n<p>\n<b>Step 5</b>: Click on the box that says Get Started. Create a Microsoft Account or use your existing account and begin installing Office 2016 for Mac. ",
+      "Sha1Hash": "4b228801760c32bff3ad6c037e10826bd5539383",
+      "ProductFamilyId": 610,
+      "PostedDate": "2015-09-22T15:32:11Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "da",
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sv",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Danish",
+        "German",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Indonesian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Swedish",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1159 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65746,
+      "FileName": "cn_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025702.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Chinese-Simplified)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "0b1a0526efe297947069386d80fad27e445a24dd",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:01Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65747,
+      "FileName": "de_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025705.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (German)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "84e5c5e6752e61212a9202b2ff7faec7ae7c4aac",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:02Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65748,
+      "FileName": "ru_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025701.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Russian)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "d0fbd96884be5aeab61252a0ec20b51708b16d20",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:02Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65749,
+      "FileName": "ct_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025706.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Chinese-Traditional)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "dc6d25f274e10e905aee200252a56e93f7a76948",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:03Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65750,
+      "FileName": "ja_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025704.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Japanese)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "f4ce202ae6a3e13a97dac93ccfc5899b7a532fb8",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:04Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65751,
+      "FileName": "ko_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025707.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Korean)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "dc0fe4a4f5002edc3d298777825552e0b38f5635",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:04Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65752,
+      "FileName": "en_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025699.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (English)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "aba013cf83968ed1ecf688a954b147607709e36b",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65753,
+      "FileName": "it_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025703.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Italian)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "544c9af742167fe9e3d5ae806c2641a8f9df46ee",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:06Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65754,
+      "FileName": "es_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025700.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (Spanish)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "60ac5e44fc298a596a96e57b041e94ea1a4fcc9f",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:07Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65755,
+      "FileName": "fr_feedback_client_for_visual_studio_team_foundation_server_2015__x86_web_installer_7025708.exe",
+      "Description": "Feedback Client for Visual Studio Team Foundation Server 2015  (x86) - Web Installer (French)",
+      "Notes": "By working with your stakeholders to install the Feedback Client for TFS on their computers, you can collect feedback about your software projects. You can request feedback from stakeholders, or they can provide rich feedback\u2014for example, screenshots, audio, video, and attachments\u2014that's tightly integrated into Visual Studio Team Foundation Server and Visual Studio Online.  \n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-rtm-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-rtm-vs\">TFS Release Notes</a><br/>\n<a href=\"https://support.microsoft.com/en-us/kb/3077455\">TFS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "730b03712687ff055bc33756f20784394c44f033",
+      "ProductFamilyId": 600,
+      "PostedDate": "2015-09-17T16:34:07Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65757,
+      "FileName": "mu_exchange_server_2016_x64_dvd_7047456.iso",
+      "Description": "Exchange Server 2016 (x64) - DVD (Multiple Languages)",
+      "Notes": null,
+      "Sha1Hash": "e0427adb4c36bf4a045d0014fb96feb50020d8e6",
+      "ProductFamilyId": 621,
+      "PostedDate": "2015-10-01T15:59:15Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "1727 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 65789,
+      "FileName": "en_microsoft_dynamics_crm_2015_sdk_user_interface_integration_x86_6977232.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK User Interface Integration (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "93e947c09569a2c79f8f79d7833531f6983b7d78",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:02Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65790,
+      "FileName": "nl_microsoft_dynamics_crm_2015_sdk_x86_6195788.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "6c005abe7ee1409152e59b2191cb23fdb5fbf0e7",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:02Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65791,
+      "FileName": "pt_microsoft_dynamics_crm_2015_sdk_x86_6195787.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "6542d258e7a7034b6b2c4a1c44ff8a1bc822c343",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:03Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65792,
+      "FileName": "de_microsoft_dynamics_crm_2015_sdk_x86_6195790.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "3a9a65cca39a3085be99a4553d74dbc54f959efe",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:04Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65793,
+      "FileName": "es_microsoft_dynamics_crm_2015_sdk_x86_6195785.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ba2f8fa39c92c4e590785179fa3b6073269653b9",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65794,
+      "FileName": "ko_microsoft_dynamics_crm_2015_sdk_x86_6195789.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "70e18976c3263c0ce70aa7de74d7ec517b4e9faa",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:05Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "60 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65795,
+      "FileName": "ja_microsoft_dynamics_crm_2015_sdk_x86_6195792.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "9a6800a0c8c65c75e46b45f061d5441927095fab",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:05Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "70 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65796,
+      "FileName": "cn_microsoft_dynamics_crm_2015_sdk_x86_6195794.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "3675b177780dde99fc26dc4d1b7c1c070b3d0bff",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:06Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "69 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65797,
+      "FileName": "da_microsoft_dynamics_crm_2015_sdk_x86_6195791.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "b8aeb0ad4532cc85868b10feb297ed3f1147b98d",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:06Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65798,
+      "FileName": "en_microsoft_dynamics_crm_2015_sdk_x86_6977232.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "f2278f7a85d14a2899e249d41bdf51d6d58d7a46",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:07Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65799,
+      "FileName": "ct_microsoft_dynamics_crm_2015_sdk_x86_6195797.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "c7b446519bf49f71413717d129a0b956e014341a",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:07Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "69 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65800,
+      "FileName": "it_microsoft_dynamics_crm_2015_sdk_x86_6195796.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "68a0e5463ae211258bdc51bb6a62bf5f09ca0cd8",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:08Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65801,
+      "FileName": "fr_microsoft_dynamics_crm_2015_sdk_x86_6195786.exe",
+      "Description": "Microsoft Dynamics CRM 2015 SDK (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "9836d038798a7a3972ff9e15ad142a0ecf6282df",
+      "ProductFamilyId": 585,
+      "PostedDate": "2015-10-29T16:37:08Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65824,
+      "FileName": "cn_microsoft_dynamics_crm_2013_sdk_x86_4374277.exe",
+      "Description": "Microsoft Dynamics CRM 2013 SDK (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "f6c04119bc516078a3fec87a17a1ff7e65dd4f6a",
+      "ProductFamilyId": 530,
+      "PostedDate": "2015-11-03T19:08:29Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65825,
+      "FileName": "ja_microsoft_dynamics_crm_2013_sdk_x86_4374279.exe",
+      "Description": "Microsoft Dynamics CRM 2013 SDK (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "52522b16e1eb538dda82462f2dd17b35d8a9b028",
+      "ProductFamilyId": 530,
+      "PostedDate": "2015-11-03T19:08:30Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65826,
+      "FileName": "en_microsoft_dynamics_crm_2013_sdk_x86_5352989.exe",
+      "Description": "Microsoft Dynamics CRM 2013 SDK (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "dc0f66b9b4e5e9bcaf0ecdd60c99964b0846685e",
+      "ProductFamilyId": 530,
+      "PostedDate": "2015-11-03T19:08:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65827,
+      "FileName": "en_microsoft_dynamics_crm_2013_sdk_user_interface_integration_x86_5352989.exe",
+      "Description": "Microsoft Dynamics CRM 2013 SDK User Interface Integration (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "9b96e3a408d68e0462b416d0e236cd4b75e3957c",
+      "ProductFamilyId": 530,
+      "PostedDate": "2015-11-03T19:08:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65828,
+      "FileName": "en_windows_embedded_developer_update_v1.2_build_2_0_0695_0_x86_7199787.msi",
+      "Description": "Windows Embedded Developer Update v1.2 (Build 2.0.0695.0) (x86) - (English)",
+      "Notes": "<b>Prior Versions</b></br>This 1.2 (build 2.0.0695.0) version resolves the following error that could occur when starting all previous versions of the WEDU client: <i>\"There was an error communicating with the server please try again later\u2026\"</i>\n</br></br><b>Install Instructions</b></br>\nRemove all prior version of WEDU for Windows Embedded Standard 7 SP1 via the Control Panel before installing this version. This version will not install if you already have Windows Embedded 8 Standard Toolkit installed. \n</br></br>\n<b>Incorrect Install Error Message</b></br>\nIf Windows Embedded Standard 7 toolkit is not pre-installed, WEDU installer will exit and show the following error: <i>\"WEDU will exit because Windows Embedded 8 Standard is not detected on this machine.\"</i> There is a typo in this error message, it should read the following: <i>\"WEDU will exit because Windows Embedded Standard 7 toolkit is not detected on this machine.\"</i>\n",
+      "Sha1Hash": "2147b430c9e7e8e229dca27c1491f7915ef4aeab",
+      "ProductFamilyId": 555,
+      "PostedDate": "2015-11-03T19:09:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 65851,
+      "FileName": "en_windows_10_symbols_version_1511_x86_7231132.msi",
+      "Description": "Windows 10 Symbols, Version 1511 (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "4302514b9502fa4d58b863dde873629b38c1b6eb",
+      "ProductFamilyId": 625,
+      "PostedDate": "2015-11-12T13:39:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "683 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

@@ -1,0 +1,4988 @@
+{
+  "Files": [
+    {
+      "FileId": 6026,
+      "FileName": "fr_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "547fae31ff40f3448f16a3de025aa97e37ca106a",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "209 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6027,
+      "FileName": "hk_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "6751caae835a3774135774f1dce3764ffca777f0",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6028,
+      "FileName": "it_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "4d7f2598388e4a9c9a6bbd2131f6c19c6aac836f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "196 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6029,
+      "FileName": "ja_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "03b43621e3332493c7b475010125b90b36113245",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6030,
+      "FileName": "ko_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7b455cd9d4c2b513aa50427f031c4920f590d102",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "246 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6031,
+      "FileName": "sc_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "32cdfd1cb4816af4dc829d991ec6e775ab013cd9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "409 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6032,
+      "FileName": "cht_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "07d8e0bbb09f7f60f03273a9b81250b39e45869b",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6033,
+      "FileName": "de_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "05a64406d4d6db3abc8663b1e4759b314ea23582",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "203 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6034,
+      "FileName": "en_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "ce874450d291a1af05b5f87a90814ded3a87b734",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6035,
+      "FileName": "es_office_2003_std.iso",
+      "Description": "Office Standard Edition 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "b0e252f5e3b082f3a0f019e532109ee626becdb3",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-01-21T03:26:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6036,
+      "FileName": "ja_windows_mobile_2003_sdk.msi",
+      "Description": "Windows Mobile 2003 Platform SDK (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "993aae6a397df6a5dfc2cb5d9cfb2f430365b3c6",
+      "ProductFamilyId": 313,
+      "PostedDate": "2004-01-21T03:52:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6038,
+      "FileName": "ja_evc4.exe",
+      "Description": "eMbedded Visual C++ 4.0 (Japan)",
+      "Notes": null,
+      "Sha1Hash": "f4d1dd55bc641aa4704b8a9a031f756d3c9fa99d",
+      "ProductFamilyId": 62,
+      "PostedDate": "2004-01-23T06:56:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "221 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6039,
+      "FileName": "evc40sp2qfe-5308-armcompiler.exe",
+      "Description": "eMbedded VC++ 4.0 SP2 QFE 5308 Arm Compiler (English)",
+      "Notes": null,
+      "Sha1Hash": "6f99c104dc02c80241e6e25ba67b7db9b4109266",
+      "ProductFamilyId": 62,
+      "PostedDate": "2004-01-23T06:56:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.105 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6040,
+      "FileName": "evc4.exe",
+      "Description": "eMbedded Visual C++ 4.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "85ddfcf8daf3e4e499a8ba817d8d4021a061fcbb",
+      "ProductFamilyId": 62,
+      "PostedDate": "2004-01-23T06:56:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "224 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6041,
+      "FileName": "evc40sp2qfe-5308-platman.exe",
+      "Description": "eMbedded VC++ 4.0 SP2 QFE 5308 Platman (English)",
+      "Notes": null,
+      "Sha1Hash": "fb16fb8f042c71ab325d8a269b084e369591c8e3",
+      "ProductFamilyId": 62,
+      "PostedDate": "2004-01-23T06:57:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.506 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6043,
+      "FileName": "en_sql_2000_reporting_dev.iso",
+      "Description": "SQL Server 2000 Reporting Services Developer Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "40fcbe657c7fd6e5deff8ef7ddc31a2a813145ec",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-01-27T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "389 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6044,
+      "FileName": "es_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "e6c02148b27337dcd96c4f9776df12c42504f31b",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:11:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6045,
+      "FileName": "fr_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "3bf1d8a38f9ecb7a147a415491b5db4b758b42b6",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:11:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "81 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6046,
+      "FileName": "it_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "3fb3f9c02f8271667fec9b25d4c078bcdeefcffb",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:11:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "79 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6047,
+      "FileName": "ko_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "66bf443e644d46913942cb248695c44e7dcc29cf",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:11:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "80 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6048,
+      "FileName": "sc_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "443d328cab6ecbf1253a821c6d04ad6117a4e4a9",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:12:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "77 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6049,
+      "FileName": "cht_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "52eb7ea37cae898a86c393c669c0430ec3e4f356",
+      "ProductFamilyId": 195,
+      "PostedDate": "2004-01-28T08:12:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6053,
+      "FileName": "ja_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f99fb3f07cf4533dfbbcf2ca985162a3fea157c8",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-01-28T08:20:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "169 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6058,
+      "FileName": "de_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "6324374eef254bfb911e9c6e8935e0f4d4bc38de",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-01-28T08:21:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "138 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6061,
+      "FileName": "icp2_sms_2003_icp2.iso",
+      "Description": "Systems Management Server 2003 (International Clients Pack 2 - Multiple Languages)",
+      "Notes": null,
+      "Sha1Hash": "1b1ef357c668e073abaa091be544c2600c6a0006",
+      "ProductFamilyId": 222,
+      "PostedDate": "2004-01-28T10:22:00Z",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "el",
+        "fi",
+        "hu",
+        "it",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sv",
+        "tr"
+      ],
+      "Languages": [
+        "Korean",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Finnish",
+        "Hungarian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Swedish",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "225 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6066,
+      "FileName": "et_el_he_hi_lv_lt_ru_uk_disc_5_office_professional_2003_mui_x86_cd.iso",
+      "Description": "Disc 5: Office Professional 2003 Multilingual User Interface (x86) - CD (Estonian, Greek, Hebrew, Hindi, Latvian, Lithuanian, Russian, Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "111e5b49edfbcf40126fd68b0c53dfdcce0e52ca",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-02-10T08:29:00Z",
+      "LanguageCodes": [
+        "el",
+        "et",
+        "he",
+        "hi",
+        "lt",
+        "lv",
+        "ru",
+        "uk"
+      ],
+      "Languages": [
+        "Greek",
+        "Estonian",
+        "Hebrew",
+        "Hindi",
+        "Lithuanian",
+        "Latvian",
+        "Russian",
+        "Ukrainian"
+      ],
+      "Size": "479 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6067,
+      "FileName": "businessportal_2.0.img",
+      "Description": "Business Portal 2.0 for Great Plains 7.0/7.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "10acead9205b4d8a99775a22e37bee0ddefe718d",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-02-13T04:49:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "94 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6074,
+      "FileName": "en_businessportalinstallation.pdf",
+      "Description": "Business Portal 2.0 for Great Plains Installation Guide 7.0/7.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "b773cfce8904dc50472a483a5263a21a5fa9257b",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-02-17T06:32:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6093,
+      "FileName": "stsdk.exe",
+      "Description": "Office XP Smart Tag SDK 1.1",
+      "Notes": null,
+      "Sha1Hash": "f8e45b4e5516e72af31a3c46c73b3f9a8501b2f4",
+      "ProductFamilyId": 287,
+      "PostedDate": "2004-02-18T03:08:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.484 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6094,
+      "FileName": "mstagsdk.msi",
+      "Description": "Office 2003 Smart Tag SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "0c00010c9298bed09a55c5de704b1977048bb369",
+      "ProductFamilyId": 287,
+      "PostedDate": "2004-02-18T03:08:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6095,
+      "FileName": "en_vb40a_pro.exe",
+      "Description": "Visual Basic 4.0A (English)",
+      "Notes": null,
+      "Sha1Hash": "12361c381030f66404ab3ad5f9936d1ee07260db",
+      "ProductFamilyId": 78,
+      "PostedDate": "2004-02-21T02:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "197 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6097,
+      "FileName": "en_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "dc67ce65c4d81497c9cbc3afa2589a058c7faebf",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-27T06:47:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "352 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6098,
+      "FileName": "tk_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "4caefdb6c3375c63ad3ca86b0c4ce49c0267d7aa",
+      "ProductFamilyId": 40,
+      "PostedDate": "2004-02-28T02:48:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "77 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6099,
+      "FileName": "pt_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "4c72cdb4f2175c9f3b242502c76a3e4bd70a2079",
+      "ProductFamilyId": 40,
+      "PostedDate": "2004-02-28T02:48:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "74 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6100,
+      "FileName": "el_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "ec4bc6a4e64b59ccaa51265fefd723795301dd16",
+      "ProductFamilyId": 40,
+      "PostedDate": "2004-02-28T02:48:00Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "79 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6101,
+      "FileName": "de_office_2003_project_std.iso",
+      "Description": "Office Project Standard 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "373ba7d4e3b84fe42ea3aaf492cc639ed490b85e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-02-28T02:49:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "145 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6102,
+      "FileName": "tk_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "0bb4875405b56f699e8ec5c2ebb083b8fcc23e8e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-02-28T02:49:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "134 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6103,
+      "FileName": "el_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "586fd973bb7c98a70dba7844c839abc00f1ee363",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-02-28T02:49:00Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "136 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6104,
+      "FileName": "pt_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "aacad73d633345fd44787723e6a4d3c03b28ef5c",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-02-28T02:49:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "121 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6105,
+      "FileName": "tablet_pc_mui-reco_pack.iso",
+      "Description": "MUI and Recognizer Pack for Microsoft Windows XP Tablet  PC",
+      "Notes": null,
+      "Sha1Hash": "df8644ace6abc4d117a113cbbeecce3291fb8cb5",
+      "ProductFamilyId": 140,
+      "PostedDate": "2004-02-28T03:01:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "404 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6106,
+      "FileName": "it_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Italian)",
+      "Notes": null,
+      "Sha1Hash": "c1e7ee3b63f5807632f43d93d648cd0a3695165d",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6107,
+      "FileName": "jp_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "05bb0005d96b13aacdc85ca50e0998c681ac7e9b",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6108,
+      "FileName": "ko_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Korean)",
+      "Notes": null,
+      "Sha1Hash": "aff5a8257ccf676889e167400c3e4500f127cba4",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6109,
+      "FileName": "nl_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "1d9f966ca8930a118252f6c6d169558178a56b39",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6110,
+      "FileName": "sv_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "ab679acb42baaed19c6b94ab9f3612daff9ed3b8",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6111,
+      "FileName": "br_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "139e7b4128acc0f18c73f86a2c6fb42edf986d3b",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6112,
+      "FileName": "chs_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f79007c7b5643ddd6f2239f9615edf872eb1e0b7",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6113,
+      "FileName": "cht_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0d2184e30309ec9a28212499b63e60ae9dbf2aae",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6114,
+      "FileName": "de_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (German)",
+      "Notes": null,
+      "Sha1Hash": "728bb464a5adae66013455ee1bcda3ffaed58412",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6115,
+      "FileName": "en_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (English)",
+      "Notes": null,
+      "Sha1Hash": "84967a13671758c9e7cd2b19cdb60cce634cd869",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6116,
+      "FileName": "fr_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (French)",
+      "Notes": null,
+      "Sha1Hash": "2b4464ffb566bf2aca76a94c0a3559f2f418dcbc",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:37:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6117,
+      "FileName": "en_office2003_bookshelf_font_removal_tool.exe",
+      "Description": "Bookshelf Symbol 7 Font Removal Tool",
+      "Notes": null,
+      "Sha1Hash": "9fc0b5f6b5da3993e9d01889ccfe2312daf7d11d",
+      "ProductFamilyId": 243,
+      "PostedDate": "2004-02-28T03:46:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.127 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6118,
+      "FileName": "en_sms_2003_adminfp.exe",
+      "Description": "Systems Management Server 2003 Administration Feature Pack (English)",
+      "Notes": null,
+      "Sha1Hash": "bd6f3d6e0ad79c2efdeaf202916e221f5a15026d",
+      "ProductFamilyId": 222,
+      "PostedDate": "2004-02-28T03:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6119,
+      "FileName": "es_msde2000a.exe",
+      "Description": "SQL Server 2000 Desktop Engine Revision A (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "e0eab8316dbe0d8441548eda73a4b01be2c0cc69",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-02-28T03:52:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6120,
+      "FileName": "en_soap_sdk_3.0.exe",
+      "Description": "Soap Toolkit 3.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "82dfeb15803d93b4172634d86ad6b5f68b3b1767",
+      "ProductFamilyId": 289,
+      "PostedDate": "2004-02-28T04:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6121,
+      "FileName": "en_msxml_4.0_sp2.exe",
+      "Description": "MSXML 4.0 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "3bfa10c8ced541917e4627da0f62a131388e88e6",
+      "ProductFamilyId": 272,
+      "PostedDate": "2004-02-28T04:07:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6122,
+      "FileName": "fr_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "d2d6b2720b6c33da08677531f2a1bb0782606621",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6123,
+      "FileName": "it_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "bacc75b6688ea00e8f7f8024ef7dc4d5a72efdcf",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6124,
+      "FileName": "ja_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ecf5b5b758b256fc6db7a4b4f2d2da3ccdc681be",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6125,
+      "FileName": "ko_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "320f8480b5f1e2b9c0278bd7b98442bc78b86471",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6126,
+      "FileName": "sc_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7d97b984d4749988b31ed76f6cb182e3902a5b32",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6127,
+      "FileName": "de_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "0137f555444cf51bd4b735a597fe37b4f555cc04",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6128,
+      "FileName": "es_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7bfec91bf7ebf555c78d9324b3f06408fba74a11",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-02-28T10:01:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6129,
+      "FileName": "fr_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "202480dd5693816327043057dd74e7fb111d4602",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "150 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6130,
+      "FileName": "ko_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "3f36b4ce33799e6842d61ea1a3e2522767c0d6fa",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "184 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6131,
+      "FileName": "tc_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "46bf22f71651b019873e032c565a32e295d7d827",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "237 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6132,
+      "FileName": "sc_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "9c7c398ca0e3562cbe898d9f4d92718d833ba4c6",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "345 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6133,
+      "FileName": "es_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7354e1fe5784766bbb345a9ae0025c819e77d12e",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "135 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6134,
+      "FileName": "it_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "d5acb56f13f93d9c6c1955c58d18cb11b8ce71ce",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-02-28T10:03:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "138 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6135,
+      "FileName": "tc_biztalk2004.iso",
+      "Description": "BizTalk Server 2004 Developer Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "5f2ff54bf6378cb7d7fbd85fe01e313e07e8f85b",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-03-03T04:25:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6144,
+      "FileName": "en_vbasdk_64.iso",
+      "Description": "Visual Basic for Applications Software Development Kit Version 6.4 (English)",
+      "Notes": null,
+      "Sha1Hash": "e3447bc15bb9eec0cda61e674674c91447ab2f3b",
+      "ProductFamilyId": 80,
+      "PostedDate": "2004-03-10T06:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "114 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6145,
+      "FileName": "mui_office_2003_project_pro_cd3.iso",
+      "Description": "Office Project Professional 2003 Multilingual User Interface (Chinese-Traditional, Greek, Korean, Portuguese-Brazil, Portuguese-Portugal, Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a0618bf311be270f2b33886f26433d56298c7395",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-03-11T06:22:00Z",
+      "LanguageCodes": [
+        "ct",
+        "el",
+        "es",
+        "ko",
+        "pp",
+        "pt"
+      ],
+      "Languages": [
+        "Korean",
+        "Greek",
+        "Spanish",
+        "Portuguese-Brazil",
+        "Chinese - Traditional",
+        "Portuguese-Portugal"
+      ],
+      "Size": "403 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6146,
+      "FileName": "mui_office_2003_project_pro_cd4.iso",
+      "Description": "Office Project Professional 2003 Multilingual User Interface (Czech, Hebrew, Hungarian, Russian, Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fee11a00e6622c63a4c7458caa591ac6cea1f404",
+      "ProductFamilyId": 39,
+      "PostedDate": "2004-03-11T06:22:00Z",
+      "LanguageCodes": [
+        "cs",
+        "he",
+        "hu",
+        "ru",
+        "tr"
+      ],
+      "Languages": [
+        "Czech",
+        "Hebrew",
+        "Hungarian",
+        "Russian",
+        "Turkish"
+      ],
+      "Size": "202 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6147,
+      "FileName": "en_sql_2000_reporting_std.iso",
+      "Description": "SQL Server 2000 Reporting Services Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "6def1fbf13b53f76b6a342ec794f4a744e01f1f8",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-03-11T07:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "389 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6148,
+      "FileName": "en_sql_2000_reporting_ent.iso",
+      "Description": "SQL Server 2000 Reporting Services Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "1a28752450f35f96838fc6d53d0d51007826d815",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-03-11T07:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "389 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6149,
+      "FileName": "en_gp750sp3.exe",
+      "Description": "Great Plains 7.5 Service Pack 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "50644f58fe05a05e7a5f7a0eabf19459d440d2f4",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-03-12T06:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6150,
+      "FileName": "en_7.5sp3_install_guide_enus.pdf",
+      "Description": "Great Plains 7.5 Service Pack 3 Installation Guide (English)",
+      "Notes": null,
+      "Sha1Hash": "f44e4198cbae5e77776c3bb4f05f20181896fbcf",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-03-12T06:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.563 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6164,
+      "FileName": "en_mbs_econnect_7.5.2.0.exe",
+      "Description": "eConnect 7.5.2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "f112dffe1543885b7bc3e0940c57acc1aab81df5",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-03-19T02:31:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6165,
+      "FileName": "nl_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "a940edb6674eb4eeb1d975ee281acba0dba92c13",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:25:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6166,
+      "FileName": "fr_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (French)",
+      "Notes": null,
+      "Sha1Hash": "3adae55c602bb8647f91b9fc889ada238714ca5d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:25:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6167,
+      "FileName": "de_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (German)",
+      "Notes": null,
+      "Sha1Hash": "07dee4547b1abbd806d92712ec8b6c57b53cb03f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:25:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6168,
+      "FileName": "it_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (Italian)",
+      "Notes": null,
+      "Sha1Hash": "6381dbf4099dd20e07dddc458882c7ac8f764bb9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:26:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6169,
+      "FileName": "es_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "9be645203698da63d3a989200167a5c593b89637",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:26:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6170,
+      "FileName": "sv_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "241bcbf5576aeea331c0defec2d2d2dea6ed7475",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:26:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6171,
+      "FileName": "br_office_2003_proofing_tools.iso",
+      "Description": "Office 2003 Proofing Tools (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "0d0c082197bad388d3b3d626c6de240281eca3eb",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-20T06:26:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6176,
+      "FileName": "fr_sms_2003_adminfp.exe",
+      "Description": "Systems Management Server 2003 Administration Feature Pack (French)",
+      "Notes": null,
+      "Sha1Hash": "17c2648a50a8319e0665942896c1db3e204e3b6d",
+      "ProductFamilyId": 222,
+      "PostedDate": "2004-03-23T08:28:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6177,
+      "FileName": "ja_sms_2003_adminfp.exe",
+      "Description": "Systems Management Server 2003 Administration Feature Pack (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "272d15c05887b848b1802dca26c95b11097bb663",
+      "ProductFamilyId": 222,
+      "PostedDate": "2004-03-23T08:28:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6178,
+      "FileName": "de_sms_2003_adminfp.exe",
+      "Description": "Systems Management Server 2003 Administration Feature Pack (German)",
+      "Notes": null,
+      "Sha1Hash": "989a70b02ec9439150ab8fa3ace687214a5615d2",
+      "ProductFamilyId": 222,
+      "PostedDate": "2004-03-23T08:28:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6180,
+      "FileName": "bg_hr_ro_sr_sk_sl_th_disc_6_office_professional_2003_mui_x86_cd.iso",
+      "Description": "Disc 6: Office Professional 2003 Multilingual User Interface (x86) - CD (Bulgarian, Croatian, Romanian, Serbian, Slovak, Slovenian, Thai)",
+      "Notes": null,
+      "Sha1Hash": "e003edeba2600c3949a72de0e1d1a817138dec6c",
+      "ProductFamilyId": 25,
+      "PostedDate": "2004-03-25T06:47:00Z",
+      "LanguageCodes": [
+        "bg",
+        "hr",
+        "ro",
+        "sk",
+        "sl",
+        "sr",
+        "th"
+      ],
+      "Languages": [
+        "Bulgarian",
+        "Croatian",
+        "Romanian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Thai"
+      ],
+      "Size": "395 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6187,
+      "FileName": "fr_virtual_pc_2004.iso",
+      "Description": "Virtual PC 2004 (French)",
+      "Notes": null,
+      "Sha1Hash": "85797f9c37454dfeb186087773cb2d39a299cfae",
+      "ProductFamilyId": 50,
+      "PostedDate": "2004-04-02T02:15:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6188,
+      "FileName": "it_virtual_pc_2004.iso",
+      "Description": "Virtual PC 2004 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "61b8ed11ad475ede431e4ed853fa3be3276bf2fb",
+      "ProductFamilyId": 50,
+      "PostedDate": "2004-04-02T02:15:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6190,
+      "FileName": "de_virtual_pc_2004.iso",
+      "Description": "Virtual PC 2004 (German)",
+      "Notes": null,
+      "Sha1Hash": "fb1555966e981be48ac1d1ad983c93fdedd3e65d",
+      "ProductFamilyId": 50,
+      "PostedDate": "2004-04-02T02:16:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6191,
+      "FileName": "es_virtual_pc_2004.iso",
+      "Description": "Virtual PC 2004 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "93932d07ed287aee3f177567a74b651b192930d0",
+      "ProductFamilyId": 50,
+      "PostedDate": "2004-04-02T02:16:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6194,
+      "FileName": "ja_virtual_pc_2004.iso",
+      "Description": "Virtual PC 2004 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "84fff37ffc3fbf19b668feefdef82219c6bef7bc",
+      "ProductFamilyId": 50,
+      "PostedDate": "2004-04-06T00:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6195,
+      "FileName": "ja_groupboard_workspace.iso",
+      "Description": "GroupBoard WorkSpace (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2a6b7c6c59634a1373855cd47abb5c41e027140c",
+      "ProductFamilyId": 321,
+      "PostedDate": "2004-04-07T01:28:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6197,
+      "FileName": "en_biz_hl7_1.0.iso",
+      "Description": "BizTalk Accelerator for HL7 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "a6f14b3081a0a3ef6e41db686c1edd050728fdd6",
+      "ProductFamilyId": 168,
+      "PostedDate": "2004-04-15T03:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6198,
+      "FileName": "ja_winxp_iso.iso",
+      "Description": "Windows XP Home Edition (Japanese) - ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "4ddfc032475e622023c589b654aad444f7ba6aa5",
+      "ProductFamilyId": 140,
+      "PostedDate": "2004-04-15T03:27:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6200,
+      "FileName": "en_rms_sdk_setup.msi",
+      "Description": "Windows Rights Management Services (RMS) Software Development Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "06f8cb8c269df90b92b9e38f013403759b9936b0",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:27:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.461 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6201,
+      "FileName": "en_rmclientsdk.exe",
+      "Description": "Windows Rights Management Client Software Development Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "eb9ad57957f6adfe9a4f91028641f99b54160f04",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:27:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6202,
+      "FileName": "en_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "a9f9f90307179d54d0430b8965a4082201349e15",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:30:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6203,
+      "FileName": "fi_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "335b42a176f6367385ca63d0aa311447c67aa7d7",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:30:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6204,
+      "FileName": "fr_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (French)",
+      "Notes": null,
+      "Sha1Hash": "cdb64c166a07062a5af7c3f8ddb0f7e679fd5003",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:30:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6205,
+      "FileName": "el_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "76e827296fad57e85f45f96074cb9c6ec90982d0",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:30:00Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6206,
+      "FileName": "de_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (German)",
+      "Notes": null,
+      "Sha1Hash": "58442751bfb5c72129ca485f7bbe1e8fde298fed",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:30:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6207,
+      "FileName": "he_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "1d4bcf1f045b7fbe81efc144b3962947405c0f70",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6208,
+      "FileName": "hu_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "bca562c97a4431e249809a8cdf2242f10085f626",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6209,
+      "FileName": "it_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f2a64acade0292744b73fe74d239940164d0aa97",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6210,
+      "FileName": "ja_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8acac1c0deaa1281c893427e3a2818a2664e8b67",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6211,
+      "FileName": "ko_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "81afae0d175221826f57f401610f08af3788d8a6",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6212,
+      "FileName": "pl_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "950de0bc11ed0cae5b4cdfb1943c6a934213c6b8",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6213,
+      "FileName": "no_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "f7e14768723acdcb57b1906d05757451eeebf493",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6214,
+      "FileName": "br_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "9416284862483ed8cd800218f0c7f8b2fa788330",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6215,
+      "FileName": "pt_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "e7f12526c60128b45b8d4241958cca027a4aabc8",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6216,
+      "FileName": "ru_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "77bc582602586a30120954d1d43c22cdb65d2527",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6217,
+      "FileName": "es_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "bb6925e8e744be1432c3d611fdccb88040addeca",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6218,
+      "FileName": "sv_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "b697bccaa48ac65dcb197b11cdbc73acbf291525",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6219,
+      "FileName": "tr_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "a17a7a96af9316c93970a4cb98437db940d9d52f",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6220,
+      "FileName": "cs_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "f21b49996657f4bf40f64fc2907c50947b8a1f10",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6221,
+      "FileName": "ar_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "07730269a3b368e44b91d14c7de772e551726100",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6222,
+      "FileName": "sc_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "67393a1238b7f7726b50ff02c9396f4da7e3a796",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6223,
+      "FileName": "cht_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "143a2350cd5d966516d468ef9d76015e01c936da",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6224,
+      "FileName": "nl_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "50a3f97d55636d0ad4d58be1c899b399a1e5eebb",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6225,
+      "FileName": "da_msdrmclient.exe",
+      "Description": "Windows Rights Management Client 1.0 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "043201f8712272565884c122477693eda80e26c6",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:31:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6226,
+      "FileName": "ko_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "0ce7f80a55ef3687c178ce8870aac8fd7df1017f",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:41:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6227,
+      "FileName": "pl_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "b5e1392fab71fc252f6f6c96fef3be184d900376",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:41:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6228,
+      "FileName": "ja_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f30d4f8c06c634642b24d2dc5bebb7d7d86d0dd2",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:41:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6229,
+      "FileName": "pt_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "75ba175be543052392aa4ce8ed0d5d693e3361ad",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:41:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6230,
+      "FileName": "ru_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "63dca75e9412984d23dd9ba6122d15063406f577",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6231,
+      "FileName": "es_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f5a41563881cdd774d8580c510f5767251388e3c",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6232,
+      "FileName": "sv_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "0ec20a4314abdbe602941195f8ba772b3fe5cb83",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6233,
+      "FileName": "tr_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "85c2ca6867662d1997d7e46623863d0334f06e81",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6234,
+      "FileName": "br_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "25c1b9179887c6ae30b33d9f2da36a18c399d973",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6235,
+      "FileName": "en_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "f3f60381b4637601b5724a97fd0bd6bb7c9bc65e",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6236,
+      "FileName": "fr_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (French)",
+      "Notes": null,
+      "Sha1Hash": "f024ae5f1f4728562347b02033d23c358c251ee5",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6237,
+      "FileName": "sc_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1aa9f8b20617049182bd410011aaaf999b616d7f",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6238,
+      "FileName": "cht_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "dec1373f1c2310a75f2ddf867499d7dc8f4e3f3c",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6239,
+      "FileName": "cs_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "83c5b54a1d170eb898fe3d409c2deee6b9dcc266",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6240,
+      "FileName": "nl_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "8ac9d642fb70e69e5984a6709a7360f69579005a",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6241,
+      "FileName": "de_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (German)",
+      "Notes": null,
+      "Sha1Hash": "502b7e4d3cedb32788e34cf44f08968b381ffa9c",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6242,
+      "FileName": "hu_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "4392d52369d793875d7fb4a40e1776554f727577",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6243,
+      "FileName": "it_rmssetup.exe",
+      "Description": "Windows Rights Management Services 1.0 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "3ec388c22cf35a9c812a3dd272074ca0331d2da0",
+      "ProductFamilyId": 318,
+      "PostedDate": "2004-04-23T02:42:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6244,
+      "FileName": "ja_msdn_library_oct_2001_cd2.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8b017eb54a7326acebbb7e7b6d0741f2f29380ee",
+      "ProductFamilyId": 126,
+      "PostedDate": "2004-04-24T04:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6245,
+      "FileName": "ja_msdn_library_oct_2001_cd3.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "74b84212ae237d9b4662445fe0c3ec9e3298e260",
+      "ProductFamilyId": 126,
+      "PostedDate": "2004-04-24T04:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6246,
+      "FileName": "ja_msdn_library_oct_2001_cd1.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f5a7a7b47d61dde9d55ee670e28e2ddd1f1950a3",
+      "ProductFamilyId": 126,
+      "PostedDate": "2004-04-24T04:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6247,
+      "FileName": "ja_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "09277f5985a935412a8c3da056c608ba1ecc1d8a",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6248,
+      "FileName": "la_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "692f30f03bd4a9431e4b261a8cc10532fb69b7ba",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6249,
+      "FileName": "li_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Lithuanian)",
+      "Notes": null,
+      "Sha1Hash": "de9c01e0d724310a4f832f199a2590d10c407ad8",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6250,
+      "FileName": "mui_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Multiple Languages)",
+      "Notes": null,
+      "Sha1Hash": "0e99d9ed83487e7fd0208b07634aa38f0154d68c",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hi",
+        "hk",
+        "hr",
+        "hu",
+        "id",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "ms",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk",
+        "ur",
+        "vi"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Hindi",
+        "Croatian",
+        "Hungarian",
+        "Indonesian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Malay",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Urdu",
+        "Vietnamese",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Taiwan",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "189 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6251,
+      "FileName": "nl_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "39b3f6e54d433f1c502658cbef7740a614c387a6",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6252,
+      "FileName": "no_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "83ac967bb6ef4b5abae2b13ce90b8c60c6ef35b7",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "102 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6253,
+      "FileName": "pl_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "87b6786a54580b532f400a0e4ded376eec42bfb0",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6254,
+      "FileName": "pt_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "63f0793683725ff86980dfee98265ef5a2ef13d8",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6255,
+      "FileName": "ro_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "6a9fbd37dcdb9ac0178868e6a441d7da0acdaf0c",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "93 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6256,
+      "FileName": "ru_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "9ece3463ea7ad6b3d567347ae4ebf96548f232ab",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6257,
+      "FileName": "sh_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "d5b84890c8aebbe5ac4fa201d3a8b1fe7c51f92e",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "93 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6258,
+      "FileName": "sk_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "59b1dc02b0d2939a16c5bf5e61c49374c5cf66cb",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "88 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6259,
+      "FileName": "sl_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "cdc653ad5c7343347c63d62925341c26074cb643",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "93 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6260,
+      "FileName": "sv_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "d1ca2f1f2eef5350c75907c1c19623ab837c051c",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6261,
+      "FileName": "tr_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "ac851c897074138c9393a069d0bec0ff8eabc101",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6262,
+      "FileName": "uk_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "aac7abc01c7a1aeed7eed0cd0d4d90af58601779",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "94 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6263,
+      "FileName": "bg_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Bulgarian)",
+      "Notes": null,
+      "Sha1Hash": "b94d2c9098dccdef35bab6b7748071b9c9ee4586",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6264,
+      "FileName": "br_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "a00da6802b489b3457d933d77ea366ce14c9ce9a",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6265,
+      "FileName": "cs_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "fc71ba6ce97606ed96b28ddacbe1285dfd843673",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6266,
+      "FileName": "da_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "5bdc466c71a1abccaa5a24d74487da6de31a8829",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6267,
+      "FileName": "de_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (German)",
+      "Notes": null,
+      "Sha1Hash": "5f5bd0e49e33627cf7288babee3bd4ad17bda707",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "104 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6268,
+      "FileName": "el_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "b4d42b5071ebc277ce8133eb1038459ff79c11a7",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6269,
+      "FileName": "en_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "2d766739e29ea81843db72eddb326483b13d2b53",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "99 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6270,
+      "FileName": "es_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ec5d59b297648fceba4678cecb7fa458637db6c4",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6271,
+      "FileName": "et_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "997d7393cbd00ec42398d9a745b0228026ae796e",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6272,
+      "FileName": "fi_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "20f894be61368e010c77c8f012248f17548ea941",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6273,
+      "FileName": "fr_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (French)",
+      "Notes": null,
+      "Sha1Hash": "dd3e108cabb725d7fd1d50f58c6c34d99a7c21e4",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "103 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6274,
+      "FileName": "hk_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "b49297ab6a2b685db5702228f8a06fb79046cc88",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "118 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6275,
+      "FileName": "hu_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "66eb127583a99845bc52e8480ebb5638f97bf3f5",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6276,
+      "FileName": "it_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9bacab53b484c509c4dd6651ea5ffdb8f6f3991f",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-04-28T04:13:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "104 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6277,
+      "FileName": "fr_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "3edbfd906d0d6eab7e78b0234e89639a3c64c18c",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6278,
+      "FileName": "it_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b226199edfa86221f61a4b32fcc943c11647482d",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6279,
+      "FileName": "ja_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f5f642c010a6b2ea5c1d7ccdfb13e85c6cdccba1",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6280,
+      "FileName": "ko_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "59586ba481bc053741bec47c24bf73fe7631d278",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6281,
+      "FileName": "sc_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7f8a70ebbc02613b1406e9a5197eb75c2c314aa5",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6282,
+      "FileName": "cht_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a5649544ad5e8e36fa39c9a795bca9c5fc5f2ea2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6283,
+      "FileName": "de_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "8c2bf586974e8cf87ca787978ed84c78e8dae24b",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6284,
+      "FileName": "en_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "151ecc26ed8c9643f6bec6a43a825673c415915f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6285,
+      "FileName": "es_office_2003_vsto.iso",
+      "Description": "Visual Studio Tools for the Microsoft Office System 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "352f36a89cb7f004cc4077af73543444a1f5d0de",
+      "ProductFamilyId": 98,
+      "PostedDate": "2004-04-28T23:10:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6287,
+      "FileName": "vpc61_envl_standalon_cd.dmg",
+      "Description": "Virtual PC for Mac 6.1 (English)",
+      "Notes": null,
+      "Sha1Hash": "8bdb2398a9d47ad9107350cd720159fe505bfc9f",
+      "ProductFamilyId": 52,
+      "PostedDate": "2004-04-29T00:34:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "43 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6288,
+      "FileName": "pt_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "47493a0785c5c8a798ba12794a91ae9f339dd1ff",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:55:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6293,
+      "FileName": "ru_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "412b89cd51e76c1aff2fbaf1c7d5152f000efee9",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:55:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "130 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6298,
+      "FileName": "sv_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "7552e7cae01884f65dc5977d7d240679a5e5a3b1",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "133 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6303,
+      "FileName": "tr_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "954ceb9544e5672584623fa0b3d5ad5b65eccab3",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "132 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6308,
+      "FileName": "br_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "b71ec7b0f9ec378c113774f14dede4e896b21953",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6313,
+      "FileName": "cs_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "eef97b14a3772c91330a12ab24f5708100e78a94",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6318,
+      "FileName": "hu_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "e04d18e0b3434b79d29bba5f253f6da452cf2b10",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "130 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6323,
+      "FileName": "nl_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "545227eb040e73c0eee39ce21c7aa9e51e773d45",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "138 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6328,
+      "FileName": "pl_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "23f0b82cebfab1bb8473ce771027f816c2950152",
+      "ProductFamilyId": 33,
+      "PostedDate": "2004-04-30T00:56:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6341,
+      "FileName": "en_speech_application_sdk_1.0.iso",
+      "Description": "Microsoft Speech Application SDK 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "44a81aa78d11cad846449515b3c630bfdff576fa",
+      "ProductFamilyId": 209,
+      "PostedDate": "2004-05-05T06:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "408 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6342,
+      "FileName": "en_speech_server_2004_ent.iso",
+      "Description": "Microsoft Speech Server 2004 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "c5c4ad5a15082f1b615d0065147039fbf1d4a9b4",
+      "ProductFamilyId": 209,
+      "PostedDate": "2004-05-05T06:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "317 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6343,
+      "FileName": "en_speech_server_2004_std.iso",
+      "Description": "Microsoft Speech Server 2004 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "86c1653a512888b16685fbfb06c12e5317beab4a",
+      "ProductFamilyId": 209,
+      "PostedDate": "2004-05-05T06:01:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "317 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6344,
+      "FileName": "ko_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "5194137962c1757e2fce4b3a5fc78daf7c6b46bc",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:22:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "107 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6345,
+      "FileName": "sc_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "d539b5fadb6d87a3ac56f983a525ce1b0329294e",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:22:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "112 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6346,
+      "FileName": "th_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Thai)",
+      "Notes": null,
+      "Sha1Hash": "c88056b1d8cdc472582069b692279013bd0cbdd4",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:22:00Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6347,
+      "FileName": "ar_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "d671bb7531463a65ff3657320aabe9e9ed7a9cc8",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:22:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "111 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6348,
+      "FileName": "cht_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "554c069776135bb685b6595442d3be751a51d900",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:22:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "107 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6349,
+      "FileName": "he_office_xp_sp3.iso",
+      "Description": "Office XP Service Pack 3 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "5bde5883bec2d79a4c95564ad2790e57601ec662",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-05-05T23:24:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "104 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6352,
+      "FileName": "en_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "d5bc2b5198c14f6f7b9164602d56e84e53db87d3",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-18T01:39:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "352 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6353,
+      "FileName": "en_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "eceae5631fdf840dcd0f79bf5a2b0c047acab97b",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-18T01:39:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "352 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6354,
+      "FileName": "en_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "f8cb4708413340f1b399b5f8af39d3bce612fae1",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-19T00:14:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "352 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6356,
+      "FileName": "vpc61_frvl_standalon_cd.dmg",
+      "Description": "Virtual PC for Mac 6.1 (French)",
+      "Notes": null,
+      "Sha1Hash": "7631b790971938a4ec467c2225f4b8d31d0454d6",
+      "ProductFamilyId": 52,
+      "PostedDate": "2004-05-22T01:56:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6357,
+      "FileName": "vpc61_javl_standlon_cd.dmg",
+      "Description": "Virtual PC for Mac 6.1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "4e645a6004abd5597dcd2aa44da98bde5f04b8d3",
+      "ProductFamilyId": 52,
+      "PostedDate": "2004-05-22T01:56:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6358,
+      "FileName": "vpc61_devl_standalon_cd.dmg",
+      "Description": "Virtual PC for Mac 6.1 (German)",
+      "Notes": null,
+      "Sha1Hash": "2706d458534c0ac95f0c25ef1f1dc5341a2a1c39",
+      "ProductFamilyId": 52,
+      "PostedDate": "2004-05-22T01:56:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6364,
+      "FileName": "cs2k2fp1en.exe",
+      "Description": "Commerce Server 2002 Feature Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "c32fa35a8a04b74b76198553b5d901f9cb57e889",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T00:07:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "51 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6365,
+      "FileName": "cs2k2fp1fr.exe",
+      "Description": "Commerce Server 2002 Feature Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "7b19697b5c9c28ee56a92b8d4d60fa8a0c6fd120",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T00:07:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6366,
+      "FileName": "cs2k2fp1ja.exe",
+      "Description": "Commerce Server 2002 Feature Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b50668212c1456e77171f8152d9a1034b081d293",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T00:07:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6367,
+      "FileName": "cs2k2fp1de.exe",
+      "Description": "Commerce Server 2002 Feature Pack 1 (German)",
+      "Notes": null,
+      "Sha1Hash": "857098907df60470b9a0ab0935d308a18ae80cb6",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T00:07:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6369,
+      "FileName": "7.5sp4_install_guide_enus.pdf",
+      "Description": "Great Plains 7.5 Service Pack 4 Installation Guide (English)",
+      "Notes": null,
+      "Sha1Hash": "64e0e30602cd0e8fa1d40b6fed7ae34c7908b025",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-05-26T00:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.673 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6370,
+      "FileName": "gp750sp4.exe",
+      "Description": "Great Plains 7.5 Service Pack 4 (English)",
+      "Notes": null,
+      "Sha1Hash": "7153fc6aeb68d09937a2f03094870e79edc9d78d",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-05-26T00:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6371,
+      "FileName": "en_im75sp4.exe",
+      "Description": "Integration Manager 7.5 Service Pack 4 (English)",
+      "Notes": null,
+      "Sha1Hash": "1aab133e3af9c5028b5bf2caad5604454a6916e6",
+      "ProductFamilyId": 109,
+      "PostedDate": "2004-05-26T00:54:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6372,
+      "FileName": "en_solomon_5.5_sp3.exe",
+      "Description": "Solomon 5.5 Service Pack 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "df0069c7e59b4e8eeabf61a98a26e9a4fedd2a97",
+      "ProductFamilyId": 117,
+      "PostedDate": "2004-05-26T00:58:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6377,
+      "FileName": "ru_vb.net_2003.iso",
+      "Description": "Visual Basic .NET 2003 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "685ab95f8cc007c6b41db87cf514b26498e1cbfb",
+      "ProductFamilyId": 75,
+      "PostedDate": "2004-05-26T01:14:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "487 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6378,
+      "FileName": "cs2002-sp3-enu.exe",
+      "Description": "Commerce Server 2002 Service Pack 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "6138e36aef5514ffd4a35844957f24f7006d43d3",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T01:14:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "50 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6379,
+      "FileName": "cs2002-sp3-fre.exe",
+      "Description": "Commerce Server 2002 Service Pack 3 (French)",
+      "Notes": null,
+      "Sha1Hash": "ae923a6c7b442e64f65202e60e85442cb551358e",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T01:14:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6380,
+      "FileName": "cs2002-sp3-jpn.exe",
+      "Description": "Commerce Server 2002 Service Pack 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bc8265142250a1a4cf3e045318e79893c3fde1e7",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T01:14:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6381,
+      "FileName": "cs2002-sp3-deu.exe",
+      "Description": "Commerce Server 2002 Service Pack 3 (German)",
+      "Notes": null,
+      "Sha1Hash": "ab251d05d5e471a44d43966ebb5d44d330032c07",
+      "ProductFamilyId": 172,
+      "PostedDate": "2004-05-26T01:14:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6382,
+      "FileName": "ko_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "8b083bf50a4c4fcf148638c78cb1cd83bd379c02",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6383,
+      "FileName": "ko_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "2959db9ed2f62e64884f792ac4785916a1d7b700",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6384,
+      "FileName": "sc_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "cfcb9aba1d1e84f7bb6fc7dc9622b9c33710ebaf",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6385,
+      "FileName": "sc_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "477a82457f8e7850d4c9e07a59bf287110ccd5a0",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6386,
+      "FileName": "sc_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "632827ceff7c83ff3418be932f8e4023ee3dfdf8",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6387,
+      "FileName": "cht_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7c666fe4e413ad7cc49f75ced2b9e9b42ade2618",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6388,
+      "FileName": "cht_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "c8d9b3fad94f3f15bf71d6d5bb3029dcf736a02b",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6389,
+      "FileName": "cht_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "417c32f099a16c1f8bd04685d6eb73fede744ac2",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6390,
+      "FileName": "de_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "844e5b3e707603a955d2399f01941636ee61cefc",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6391,
+      "FileName": "de_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "b90c7dab6e2ab6f212acc46a8e28aa7f23c95200",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6392,
+      "FileName": "de_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "131ec02cac7f411955ceb4907e08da8b3e84d877",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6393,
+      "FileName": "es_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "48ac06b3e29d8c0dfaca1d64fee974eed03a6405",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6394,
+      "FileName": "es_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "10c03cfe4a34d240a867e735d4bb6cfdfc1b5e72",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6395,
+      "FileName": "es_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6d99b1152b78eb0f84104e0da5fdc28f0b36ec42",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6396,
+      "FileName": "fr_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "fef434886e6f0d6bdfd30645fe9cff8b1f84acc3",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6397,
+      "FileName": "fr_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "30c0bf9bde372f2bb902d163733c39dfdf79d464",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6398,
+      "FileName": "fr_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "8901edb642e8303ca26cadbd89179b661eedb276",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6399,
+      "FileName": "it_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "bef50f61dabdf5fa350e467ad726b1eefa6e5325",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6400,
+      "FileName": "it_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "1bf118beb876d06bd6195ede1f36860204dc36a7",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6401,
+      "FileName": "it_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b634d29819c76f674457879c9f0dd9f592c2e26f",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:49:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6402,
+      "FileName": "ja_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bf88774a97bac389ca7fab0da76535e1f4b5b33a",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6403,
+      "FileName": "ja_biztalk_server_2004_partner.iso",
+      "Description": "BizTalk Server 2004 Partner Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "acdb8fc13dfd07b43dd6c23bd5c8931994c57928",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6404,
+      "FileName": "ja_biztalk_server_2004_std.iso",
+      "Description": "BizTalk Server 2004 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2a2d2be9fd10bab3d4bece328c7fe46915ba522c",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "362 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6405,
+      "FileName": "ko_biztalk_server_2004_ent.iso",
+      "Description": "BizTalk Server 2004 Enterprise Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "78692a72ec5147963c5987fd5fc01af4d2ad2bfb",
+      "ProductFamilyId": 170,
+      "PostedDate": "2004-05-26T02:50:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "363 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6410,
+      "FileName": "en_access_2.0.exe",
+      "Description": "Access 2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "3723c56e58473a9685a039a507e9002e4db36038",
+      "ProductFamilyId": 1,
+      "PostedDate": "2004-06-01T23:55:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6411,
+      "FileName": "ja_vc151.exe",
+      "Description": "Visual C++ 1.52 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7bef7632f0e7c02057712f9b9624f2f31f8e6db0",
+      "ProductFamilyId": 82,
+      "PostedDate": "2004-06-03T06:42:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "168 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6424,
+      "FileName": "en_office_xp_pro.iso",
+      "Description": "Office XP Professional with FrontPage (English)",
+      "Notes": null,
+      "Sha1Hash": "9a0801442ce16a83acdedeb61d99f7724d1923c4",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-06-10T01:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "383 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6425,
+      "FileName": "ja_office95_pro.exe",
+      "Description": "Office 95 Professional (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c7ff09c65ae40c96ff00d3e0dacbb8247d69b130",
+      "ProductFamilyId": 27,
+      "PostedDate": "2004-06-12T03:34:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "232 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6426,
+      "FileName": "en_office_95_pro_cd1.exe",
+      "Description": "Office 95 Professional - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "966ece89da6170d0b5ba8136b6a2664d2835c1e0",
+      "ProductFamilyId": 27,
+      "PostedDate": "2004-06-12T03:34:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6427,
+      "FileName": "en_office_95_pro_cd2.exe",
+      "Description": "Office 95 Professional - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "92804a74ca5384f350c8939f36e476a9857bc4f0",
+      "ProductFamilyId": 27,
+      "PostedDate": "2004-06-12T03:34:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6432,
+      "FileName": "tk_office_xp_pro.iso",
+      "Description": "Office XP Professional with FrontPage (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "3ca49cd9a7a795904342d02be1ffba0523b85245",
+      "ProductFamilyId": 28,
+      "PostedDate": "2004-06-17T23:54:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "356 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6433,
+      "FileName": "fr_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "4b82b1182cb9104375decb66657b411487cd0eb6",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6434,
+      "FileName": "it_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "ff75f74585ac372754eabf15bec355e6b3525a9e",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6435,
+      "FileName": "ja_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "867690ddcf13e6c4395ca9aa878954cf0e76049a",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6436,
+      "FileName": "ko_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "2111c4735bc47b76b05aadb26457962f3cc2d1ec",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6437,
+      "FileName": "sc_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "142dd2d7d83aaf88974a3ad0136a1a6646dfb9aa",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6438,
+      "FileName": "cht_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "d967cdcf093cdb805c08e60564536a14f6338f2f",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6439,
+      "FileName": "de_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (German)",
+      "Notes": null,
+      "Sha1Hash": "5d8d732f13b29a881e58bbfcb4033ef0fbf47b6e",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6440,
+      "FileName": "en_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "7b79fcd5fc72921f6e1fabfa5efeec181707a73b",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6441,
+      "FileName": "es_exchange_2003_sp1.iso",
+      "Description": "Exchange 2003 Service Pack 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ea641a6fdaa30c661b151b2908dccd12a3c23896",
+      "ProductFamilyId": 179,
+      "PostedDate": "2004-06-25T00:50:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6442,
+      "FileName": "es_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "4e7b200484e823831561129e72a6bee7fa557294",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6443,
+      "FileName": "fr_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "7bf6124db937882c0b5334ec3f0572562b89d6b2",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6444,
+      "FileName": "ja_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "23a599ccb998a05a60f4ca7abdb8c9e43da8919c",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6445,
+      "FileName": "sc_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ff2ac6fd2c4001dc098268b49a8c46c9b55afe58",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6446,
+      "FileName": "cht_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a11d5cddc42a2e37ab02d322dab78fdcbeb37b43",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6447,
+      "FileName": "de_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "12c8988f5f4cebd2e8b299f28ccc7a2c0f54ecc6",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6448,
+      "FileName": "en_isa_2004_std.iso",
+      "Description": "ISA Server 2004 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "b9c9e6bd884857ce4892e2c569134b34cc6ef810",
+      "ProductFamilyId": 193,
+      "PostedDate": "2004-06-25T01:04:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "105 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6458,
+      "FileName": "ja_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a219e52801f813b7d3b0bff140f6a8a9d2f11765",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6459,
+      "FileName": "ko_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "97f6958880995bc2bf1a8d361238d5a92f9020ca",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6460,
+      "FileName": "es_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "1cc49ca0e9531d43a62576fbbf614a782a8b2269",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6461,
+      "FileName": "en_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "0001d4d94a4af1d5c9099e9adac09181f2ef418e",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6462,
+      "FileName": "fr_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "3a62d29ccc91a4d3b4206de721412d5e268f7159",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6463,
+      "FileName": "sc_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ffa9da6b6c3b892269045a24936a78de8ffef460",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6464,
+      "FileName": "cht_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "3d21c757d7555eb2a3f42151f47365c11e9bfd43",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6465,
+      "FileName": "de_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (German)",
+      "Notes": null,
+      "Sha1Hash": "e0c8280769bf7f1afb1cf7a64015019fa74361f0",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6466,
+      "FileName": "it_sql2krssp1.exe",
+      "Description": "SQL Server 2000 Reporting Services Service Pack 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "18a52d425842bf0549cc79e77965808c4930d66b",
+      "ProductFamilyId": 210,
+      "PostedDate": "2004-06-25T01:59:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6467,
+      "FileName": "en_infopathsdk.msi",
+      "Description": "InfoPath 2003 SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "a106277397dc71f9540d27ddb1170fdb6570b78a",
+      "ProductFamilyId": 14,
+      "PostedDate": "2004-06-25T02:06:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6468,
+      "FileName": "ja_infopathsdkj.exe",
+      "Description": "InfoPath 2003 SDK (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d806f54cbb610fd3a845dd9214675956b6217a96",
+      "ProductFamilyId": 14,
+      "PostedDate": "2004-06-25T02:06:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6470,
+      "FileName": "en_biztalk_swift_2.0.iso",
+      "Description": "BizTalk Accelerator for SWIFT 2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "5383eeffb96a22a5f9ef692175b99d86051eb71f",
+      "ProductFamilyId": 168,
+      "PostedDate": "2004-06-30T23:20:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "61 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6487,
+      "FileName": "en_greatplains_8.0_cd1.iso",
+      "Description": "Great Plains 8.0 Disc 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "c91b23be8a5639922dcda0f460a9d4161fa3800a",
+      "ProductFamilyId": 110,
+      "PostedDate": "2004-07-13T01:55:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "607 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6488,
+      "FileName": "en_greatplains_8.0_cd2.iso",
+      "Description": "Great Plains 8.0 Disc 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "265ff6084a186c46062b6510434030ee20e7a236",
+      "ProductFamilyId": 110,
+      "PostedDate": "2004-07-13T02:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "253 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 6493,
+      "FileName": "en_sql65.sp5.exe",
+      "Description": "SQL Server 6.5 Service Pack 5 (English)",
+      "Notes": null,
+      "Sha1Hash": "4b308f194956e86900b699465faeb20006729f44",
+      "ProductFamilyId": 212,
+      "PostedDate": "2004-07-23T00:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 6494,
+      "FileName": "en_sql65.srv.exe",
+      "Description": "SQL Server 6.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "6f4f0bb43ef13e3f4b4eecb4a244eb3f70f6f5b6",
+      "ProductFamilyId": 212,
+      "PostedDate": "2004-07-23T00:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "97 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

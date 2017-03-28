@@ -1,0 +1,1007 @@
+{
+  "Files": [
+    {
+      "FileId": 67000,
+      "FileName": "en-au_microsoft_speech_server_v11.1_x86_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 (x86) - (English-Australia)",
+      "Notes": null,
+      "Sha1Hash": "c464b393ce2be8c411b2dff38dd875bf7b5aa294",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:15Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67001,
+      "FileName": "en-us_microsoft_speech_server_v11.1_language_pack_nn_x86_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 Language Pack NN (x86) - (English-United States)",
+      "Notes": null,
+      "Sha1Hash": "e5a9e5c0fb8532c2d98f7211f361e602de1a02e7",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:15Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67002,
+      "FileName": "en_microsoft_speech_server_v11.1_platform_sdk_x64_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 Platform SDK (x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "00a39b1b79dc57aafe6287b0b4a8f94ca4f0c73a",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:16Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "10 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67003,
+      "FileName": "fr-ca_microsoft_speech_server_v11.1_x86_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 (x86) - (French-Canada)",
+      "Notes": null,
+      "Sha1Hash": "1586e2777ac06dae090ccf737b186ef9f40bb5d4",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:17Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67004,
+      "FileName": "ko_microsoft_speech_server_v11.1_tts_x86_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 TTS (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "0a414ea0749a84708010b2b07ab27533dfc8f4fc",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:17Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67005,
+      "FileName": "ca_microsoft_speech_server_v11.1_x86_8143980.msi",
+      "Description": "Microsoft Speech Server v11.1 (x86) - (Catalan)",
+      "Notes": null,
+      "Sha1Hash": "41d81d4a234f5e1967c475f0454ee068b54dba83",
+      "ProductFamilyId": 631,
+      "PostedDate": "2015-12-11T16:18:18Z",
+      "LanguageCodes": [
+        "ca"
+      ],
+      "Languages": [
+        "Catalan"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67029,
+      "FileName": "it_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234343.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Italian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "253cc4054ff3c93479fccc92ccfccdde51e9b56b",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:50Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67030,
+      "FileName": "fr_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234491.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (French)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "39ddc672b536b0f5bf6ab41a069460c6431ffda9",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:44Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67031,
+      "FileName": "ru_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234349.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Russian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "fae1b3845105d63afd0f068d26643fc4d39c518e",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "6085 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67032,
+      "FileName": "de_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234344.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (German)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "eafa2447a9cd111266fd691e561c1dc5da51847a",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67034,
+      "FileName": "cn_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234478.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "7d845501158e0888b9227c535d7402df0e1fb5f5",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:45Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "6035 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67035,
+      "FileName": "en_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234340.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (English)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2e696459100ad81fc60843346a885c803800ef53",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:52Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6040 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67036,
+      "FileName": "cn_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234336.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "ab3ab85af4fa962f867bc3171bb2823b0c6c2fe8",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:53Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "6075 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67037,
+      "FileName": "ko_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234500.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Korean)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "4c79d3e1293f14e405779b884cf144ebff5501d7",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:45Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67038,
+      "FileName": "ru_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234354.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Russian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "0d7d41a32197db85690f43a74866fdf7f83a8362",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:53Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67041,
+      "FileName": "es_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234482.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Spanish)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "a42e0538188458c88a7d3657d392dbc581995735",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:46Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "6038 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67042,
+      "FileName": "fr_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234341.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (French)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2eaa4351a1e739358c00d2c8de98caf4b254564d",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:54Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "6079 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67043,
+      "FileName": "en_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234346.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (English)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "5e1db26a97a7ff17c196ffd6068718e1f2f83330",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:54Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67044,
+      "FileName": "ko_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234353.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Korean)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "97e4007c33915a18c1a47fd3a28f3e8b2d3cd31f",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:55Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67046,
+      "FileName": "es_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234348.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Spanish)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "4eb0e86d63def8c9a6f4a5d3406bdd835b4bade5",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:56Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67047,
+      "FileName": "it_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234497.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Italian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2a50fbac85d740390351901b6e59ecbae88c29ed",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67049,
+      "FileName": "en_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234492.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (English)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "d625b2e719d4b00e88f529e160764a9023edcdfc",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67051,
+      "FileName": "ja_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234351.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Japanese)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "09d99766c6fba1b91f0cf26e0ebdd8c71de03f59",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67054,
+      "FileName": "en_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234481.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (English)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "068ba9ef07a765bf24aca3a4f184c5e1085e5620",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:48Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6006 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67055,
+      "FileName": "cn_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234489.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "f1ad778c08be16b672c79e77f32c881a385e3919",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67059,
+      "FileName": "de_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234480.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (German)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "fce7d266cbef7f5f28a38c4f3b685f6e5ce37eb8",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:49Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "6041 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67060,
+      "FileName": "ct_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234479.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "3fd6b756ecf0196ddc7edd3099461d37a5319004",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:50Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "6036 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67061,
+      "FileName": "cn_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234345.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "d2f3fa7a8e36c04a19ef401d37c2456bc759dde4",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:57Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67063,
+      "FileName": "fr_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234352.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (French)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "143df8ce197384f8dd20b52e702ecdf391331796",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:57Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67066,
+      "FileName": "ct_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234335.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "adeee534d9e2e3f1fec86b7ae59c40f4939e7c6f",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:58Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "6076 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67067,
+      "FileName": "de_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234493.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (German)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2ca6a4c41bb104d04bb3a0e3b2ec10e07d47a6b5",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:50Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67068,
+      "FileName": "ct_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234490.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "72641f8f4332c320061d9f4ad868097bccba3f79",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67069,
+      "FileName": "it_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234483.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Italian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "0939ae289d991e2bc9a31f949055d3681c30b2f9",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "6038 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67072,
+      "FileName": "ko_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234342.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Korean)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "80c079d63a32855d954d5bc8b52a407825a8db14",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:58Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "6083 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67074,
+      "FileName": "ja_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234488.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Japanese)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "a4ee4f94f4ed961e1e413e23de00934204878425",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:52Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67075,
+      "FileName": "it_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234339.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Italian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "2ec5f12da6f53071ab5e41723ce9ee28c43f8c40",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:18:59Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "6079 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67076,
+      "FileName": "ja_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234347.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Japanese)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "aeadbc9b52c39ceed193156637dc81c8291a43e6",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:19:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "6079 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67077,
+      "FileName": "ct_visual_studio_enterprise_2015_with_update_1_x86_x64_web_installer_8234350.exe",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "09ef606f86370c9be7053b5acd067ea19d1f1ed8",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:19:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67079,
+      "FileName": "ko_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234487.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Korean)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "68b382db84c9ac2fec7244d7b4d56cb88665ba11",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:53Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "6043 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67080,
+      "FileName": "fr_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234485.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (French)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "bedd515b73fdd722e000bcb2aa49c00416037210",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:53Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "6039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67081,
+      "FileName": "es_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234337.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (Spanish)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "135e225d3100a66ce23377235b27f4862cfb290d",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:19:01Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "6079 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67082,
+      "FileName": "ja_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234486.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Japanese)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "0af7cc27a55a3fdcc4825dc15005310aed1497b5",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:54Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "6039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67083,
+      "FileName": "es_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234496.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Spanish)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "83ae29e6c46ed5e7b6da69fa4e156e2b068680d1",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:54Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67084,
+      "FileName": "ru_visual_studio_professional_2015_with_update_1_x86_x64_web_installer_8234499.exe",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - Web Installer (Russian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "d55c2ed4d1e5fd5b770fec4a7799c6b9cf69cd85",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:55Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67085,
+      "FileName": "de_visual_studio_enterprise_2015_with_update_1_x86_x64_dvd_8234338.iso",
+      "Description": "Visual Studio Enterprise 2015 with Update 1 (x86 and x64) - DVD (German)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Enterprise 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Enterprise 2015 with Update 1 is an integrated, end-to-end solution for teams of any size with demanding quality and scale needs. Take advantage of comprehensive tools and services for designing, building, and managing complex enterprise applications and solutions.\n<br/>\n<br/>\n<b>Note:</b> If you have installed Visual Studio Enterprise 2015 (original release version) and run this download from this page, only Update 1 is installed. If you haven't installed Visual Studio Enterprise 2015 and run the download, both Visual Studio Enterprise 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "50db28cfe3faece6f9f9780baa922b7b06840b15",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:19:01Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "6081 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67087,
+      "FileName": "ru_visual_studio_professional_2015_with_update_1_x86_x64_dvd_8234484.iso",
+      "Description": "Visual Studio Professional 2015 with Update 1 (x86 and x64) - DVD (Russian)",
+      "Notes": "These cumulative updates to Visual Studio 2015 include a variety of bug fixes and capability improvements.\n<br/>\n<br/>\nIf you have Visual Studio Professional 2015 installed on a machine with Internet access, Update 1 displays in the Notifications Hub. To install, select the Update 1 notification, and then complete the installation actions. You can also download Update 1 <a href=\"http://go.microsoft.com/fwlink/?LinkId=691134\">here</a>.\n<br/>\n<br/>\nVisual Studio Professional 2015 with Update 1 provides professional developer tools and services to individual developers and small teams. Create applications for multiple devices, PCs, and the web, powered by the cloud and built on top of your existing applications and skills. Use cross-platform technologies to create applications for Windows, Android, and iOS from a single development solution and more.\n<br/>\n<br/>\n<b>Note:</b> If you have Visual Studio Professional 2015 (original release version) installed and run the download from this page, only Update 1 is installed. If you don't have it installed and run the download, both Visual Studio Professional 2015 and Update 1 are installed. In either instance, Visual Studio 2015 Language Packs (original release versions) can also be installed.\n<br/>\n<br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/vs2015-update1-vs\">VS Release Notes</a><br/>\n<a href=\"https://www.visualstudio.com/news/releasenotes/tfs2015-update1-vs\">TFS Release Notes</a><br/>\n<a href=\"http://go.microsoft.com/fwlink/?LinkId=691930\">VS Known Issues</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-sysrequirements-vs\">System Requirements</a><br/>\n<a href=\"https://www.visualstudio.com/productinfo/vs2015-compatibility-vs\">Compatibility</a>",
+      "Sha1Hash": "a015894a5cd140091399fb342fd72dd88b63398d",
+      "ProductFamilyId": 623,
+      "PostedDate": "2016-01-13T17:17:55Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "6045 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 67090,
+      "FileName": "pt_microsoft_dynamics_crm_2016_sdk_x86_8233415.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "e15e78ab0c57ab01077accb75a285d687fa2c5af",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:13Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67091,
+      "FileName": "es_microsoft_dynamics_crm_2016_sdk_x86_8233402.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "43503de37194f8e645fc45c51b4a11e5019c5f37",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:15Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67092,
+      "FileName": "ja_microsoft_dynamics_crm_2016_sdk_x86_8233423.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a5de6aa559e03dd26561f8a2af944c9cc3f1a200",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:16Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67093,
+      "FileName": "da_microsoft_dynamics_crm_2016_sdk_x86_8233412.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "7e94382ccea77a3af0d21e3202147685898ba8e7",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:17Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67094,
+      "FileName": "de_microsoft_dynamics_crm_2016_sdk_x86_8233416.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "9d59de81c3deee70c9aba515996323ad82753c6a",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67095,
+      "FileName": "it_microsoft_dynamics_crm_2016_sdk_x86_8233403.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "1bbc82c98fd3835f36abf0f66ca785d864881755",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:20Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67096,
+      "FileName": "ko_microsoft_dynamics_crm_2016_sdk_x86_8233421.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "d7da4e23a73e22d2f4825bdfdbff831ac030c920",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:22Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67097,
+      "FileName": "tw_microsoft_dynamics_crm_2016_sdk_x86_8233411.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Chinese-Taiwan)",
+      "Notes": null,
+      "Sha1Hash": "ba250a67c52c0d01b6d96f339e3ae7d43f2a106c",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:23Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67098,
+      "FileName": "hk_microsoft_dynamics_crm_2016_sdk_x86_8233424.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Chinese-Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "80e852a26077591d04f8faa170ef2e4560726b3b",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:24Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67099,
+      "FileName": "cn_microsoft_dynamics_crm_2016_sdk_x86_8233422.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "b5fce1d94a22f27d4568caa6db5f07468cfe17f4",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:26Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67100,
+      "FileName": "fr_microsoft_dynamics_crm_2016_sdk_x86_8233407.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "05a41939326fc9da892dd4d18866fb41f1e73b51",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:27Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67101,
+      "FileName": "nl_microsoft_dynamics_crm_2016_sdk_x86_8233406.exe",
+      "Description": "Microsoft Dynamics CRM 2016 SDK (x86) - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "a83c9cda0787aba89551a85b442d109692408136",
+      "ProductFamilyId": 630,
+      "PostedDate": "2016-01-28T17:39:28Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 67113,
+      "FileName": "en_windows_embedded_8_standard_december_2015_toolkit_update_x86_dvd_8333267.iso",
+      "Description": "Windows Embedded 8 Standard December 2015 Toolkit Update (x86) - DVD (English)",
+      "Notes": "The help content for Windows Embedded 8 Standard has been updated to include: \n<ul>\n <li>Described the actions and events that add to UWF Overlay usage.</li>\n <li>Added the requirement that users must take ownership of the UWF Master Servicing Script before they modify it.</li>\n <li>Added KB2981685 as the latest critical update for the Servicing Stack.</li>\n <li>Documented that UWF cannot be used with the Prevent installation of removable devices Group Policy.</li>\n <li>Documented what users must do to allow UWF to work correctly with the Prevent installation of devices not described by other policy Group Policy.</li>\n <li>Documented that BitLocker encryption and decryption operations should not run on a volume where EWF or UWF are enabled.</li>\n</ul>\n<b>Install Instructions</b>\n<p>The executable automatically starts the Update Tool to update the Embedded Toolkit.</p>\n<p>Here are the steps to install the toolkit update without modifying existing user settings:</p> \n<ol>\n<li>Launch WindowsEmbedded8Standard-December_2015_Toolkit_Update.msp</li>\n<li>Select \u2018Next\u2019 button</li>\n<li>Select \u2018Repair\u2019 and click \u2018Next\u2019 button</li>\n<li>Select \u2018Repair\u2019 button</li>\n<li>Select \u2018Finish\u2019 button after it finishes the installation</li>\n\u00a0</ol>\nNotes:\n<ol>\n<li>Toolkit updates must be installed in the order they were released, so the December 2015 update must be installed after the previous updates in the following order:</li>\n<ol>\n<li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/hh442898#FileId=58337\">Sep 2013</a></li>\n<li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/hh442898#FileId=58338\">Mar 2014</a></li>\n<li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/hh442898#FileId=66230\">Nov 2015</a></li>\n<li>Dec 2015</li>\n</ol>\n<li>You may not be able to uninstall this update separately. If this happens, you may have to uninstall the whole Toolkit and reinstall the whole Toolkit and updates in the order above.</li>\n</ol>\n",
+      "Sha1Hash": "1ebf43a799b27174326127b9c391210f8f130b6e",
+      "ProductFamilyId": 506,
+      "PostedDate": "2016-02-09T16:25:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

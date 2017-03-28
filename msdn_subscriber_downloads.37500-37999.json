@@ -1,0 +1,2148 @@
+{
+  "Files": [
+    {
+      "FileId": 37526,
+      "FileName": "ru_visual_studio_2008_team_foundation_server_trial_dvd_x86_x14-87964.iso",
+      "Description": "Visual Studio Team System 2008 Team Foundation Server Trial (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "9cad72c95ffffa210343ed85375c8f23bbaa0a59",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-24T23:16:07Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1524 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37527,
+      "FileName": "ru_visual_studio_2008_express_dvd_x86_x14-87017.iso",
+      "Description": "Visual Studio 2008 Express Editions (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "2aa0694ed13c28ed60f83e6ab191b75bcef413ca",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-24T23:16:07Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3079 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37528,
+      "FileName": "ru_visual_studio_2008_msdn_library_dvd_x86_x14-87887.iso",
+      "Description": "MSDN Library for Visual Studio 2008 (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "dec86e29e221dc6a29f9ee6f5d90fc8e4ecb7052",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-24T23:16:08Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2172 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37529,
+      "FileName": "ru_visual_studio_2008_development_edition_dvd_x86_x15-25527.iso",
+      "Description": "Visual Studio Team System 2008 Development Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "5b93128b18f354b881b9bf82a329ca9e25d0fdf3",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-25T01:34:09Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4153 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37530,
+      "FileName": "ru_visual_studio_2008_team_suite_trial_dvd_x86_x14-88055.iso",
+      "Description": "Visual Studio Team System 2008 Team Suite Trial (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "212d8cb54dc1881070192d88a597278a8a1b67d7",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-25T01:34:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4163 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37531,
+      "FileName": "ru_visual_studio_2008_test_load_agent_trial_dvd_x86_x14-88112.iso",
+      "Description": "Visual Studio Team System 2008 Test Load Agent Trial (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "1400ab14da5490fb3a27fd30143c78b499a33de2",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-25T01:34:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "629 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37532,
+      "FileName": "ru_visual_studio_2008_professional_edition_dvd_x86_x15-25526.iso",
+      "Description": "Visual Studio 2008 Professional Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "55e8736cc815fb8fcc834ba6047001683e9354d9",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-25T01:34:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3586 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37533,
+      "FileName": "ru_visual_studio_2008_standard_edition_dvd__x86_x15-25576.iso",
+      "Description": "Visual Studio 2008 Standard Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "7448fd9d0f523aabe27d8b45505587063d379630",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:24Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2995 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37535,
+      "FileName": "ru_visual_studio_team_system_2008_team_suite_dvd_x86_x15-25529.iso",
+      "Description": "Visual Studio Team System 2008 Team Suite (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "09552aaecdeef8c67eaa388cc5cf98cc8687fe0f",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:24Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4163 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37536,
+      "FileName": "ru_visual_studio_2008_database_edition_dvd_x86_x15-25530.iso",
+      "Description": "Visual Studio Team System 2008 Database Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "975d45dc4e7a4ce132336969a42e44ed9668c026",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:24Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4128 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37537,
+      "FileName": "ru_visual_studio_2008_test_edition_dvd_x86_x15-25531.iso",
+      "Description": "Visual Studio Team System 2008 Test Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "0f048f4f1c39fc179dc9f2123834412d48ba9283",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:24Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4133 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37538,
+      "FileName": "ru_visual_studio_2008_team_foundation_server_dvd_x86_x15-25532.iso",
+      "Description": "Visual Studio Team System 2008 Team Foundation Server (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "0ae4ceba5a45a7ae821ad19623be6d786ac5abe9",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:24Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1524 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37539,
+      "FileName": "ru_visual_studio_2008_team_foundation_server_workgroup_edition_dvd_x86_x15-25534.iso",
+      "Description": "Visual Studio Team System 2008 Team Foundation Server Workgroup Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "76d209ee57b868eae0675dd89a41e959d0d49292",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T05:52:25Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1524 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37541,
+      "FileName": "ru_visual_studio_2008_architecture_edition_dvd_x86_x15-25528.iso",
+      "Description": "Visual Studio Team System 2008 Architecture Edition (x86) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "585c960a3002f42b6637f929fbdeecf420472fd3",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-10-26T23:55:58Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4133 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37543,
+      "FileName": "en_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_cd_x64_x14-73707.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) CD - (English)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "8b82b597aff4bdf8d1ecb2d4481e8c0bc86f66c9",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-10-28T23:59:54Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "49 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37544,
+      "FileName": "cn_ct_en_fr_de_it_ja_ko_es_system_center_virtual_machine_manager_2008_x64_x15-13426.iso",
+      "Description": "System Center Virtual Machine Manager 2008 (x64) - DVD (Chinese-Simplified, Chinese-Traditional, English, French, German, Italian, Japanese, Korean, Spanish)",
+      "Notes": null,
+      "Sha1Hash": "67afdde22d6b1449bd6c1109b1fd74bbc020482b",
+      "ProductFamilyId": 220,
+      "PostedDate": "2008-10-30T05:19:33Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "3536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37545,
+      "FileName": "cn_ct_en_fr_de_it_ja_ko_pt_ru_es_application_virtualization_4.5_for_terminal_services_dvd_x86_x15-08322.iso",
+      "Description": "Application Virtualization 4.5 for Terminal Services (x86) - CD (Chinese-Simplified, Chinese-Traditional, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ead71c5c6ef2f4546defc0127306167b78e9255d",
+      "ProductFamilyId": 207,
+      "PostedDate": "2008-10-30T05:19:33Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37546,
+      "FileName": "cn_system_center_configuration_manager_2007_r2_x86_dvd_x15-09571.iso",
+      "Description": "System Center Configuration Manager 2007 R2 (x86) DVD- (Chinese-Simplified)",
+      "Notes": "<b>This product requires that System Center Configuration Manager 2007 with Service Pack 1 be installed first.</b>",
+      "Sha1Hash": "9c7e893a0a091f5cefc664f8857f0748f4fd49db",
+      "ProductFamilyId": 215,
+      "PostedDate": "2008-10-30T05:19:33Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37547,
+      "FileName": "fr_system_center_configuration_manager_2007_r2_x86_dvd_x15-09579.iso",
+      "Description": "System Center Configuration Manager 2007 R2 (x86) DVD- (French)",
+      "Notes": "<b>This product requires that System Center Configuration Manager 2007 with Service Pack 1 be installed first.</b>",
+      "Sha1Hash": "911ceff369f47e5d7d62f3722fea682f34bb92af",
+      "ProductFamilyId": 215,
+      "PostedDate": "2008-10-30T05:19:34Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37548,
+      "FileName": "de_system_center_configuration_manager_2007_r2_x86_dvd_x15-09583.iso",
+      "Description": "System Center Configuration Manager 2007 R2 (x86) DVD- (German)",
+      "Notes": "<b>This product requires that System Center Configuration Manager 2007 with Service Pack 1 be installed first.</b>",
+      "Sha1Hash": "6d0db49e051c172d0116c029b120030410b40040",
+      "ProductFamilyId": 215,
+      "PostedDate": "2008-10-30T05:19:34Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37549,
+      "FileName": "ja_system_center_configuration_manager_2007_r2_x86_dvd_x15-09587.iso",
+      "Description": "System Center Configuration Manager 2007 R2 (x86) DVD - (Japanese)",
+      "Notes": "<b>This product requires that System Center Configuration Manager 2007 with Service Pack 1 be installed first.</b>",
+      "Sha1Hash": "2fa718d27a1433dccc003ccb43d9529b1aa9f8db",
+      "ProductFamilyId": 215,
+      "PostedDate": "2008-10-30T05:19:34Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37550,
+      "FileName": "pl_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78667.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (Polish)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "d66307f56bcfae983cf95b3c17428898435aa596",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T04:22:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3644 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37551,
+      "FileName": "fr_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78638.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (French)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "4ec7f9a5b4d6ce66f6877b70b56a7ba6b403c380",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T04:22:49Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3969 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37552,
+      "FileName": "de_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78641.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (German)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "56b86eebf611d28d0683a46747788e7fc301b33d",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T04:22:50Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3974 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37553,
+      "FileName": "it_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78653.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (Italian)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "0020661738056df066f2921ce644dbb236fcc422",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T04:22:50Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3949 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37555,
+      "FileName": "pt_disc_2_component_technologies_for_server_repair_x64_dvd_x14-76583.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "2cb7b6595ad297fe3d8bbcf876b63d57ae047071",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T08:45:55Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2488 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37556,
+      "FileName": "de_disc_2_component_technologies_for_server_repair_x64_dvd_x14-78644.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (German)",
+      "Notes": null,
+      "Sha1Hash": "f0e0034c216b5a068a478db7adefe68a90795c68",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T08:45:55Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2556 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37557,
+      "FileName": "it_disc_2_component_technologies_for_server_repair_x64_dvd_x14-78656.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "3e01ba91eedb1acd96d438b6857c4f5501160e25",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T08:45:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2676 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37558,
+      "FileName": "pl_disc_2_component_technologies_for_server_repair_x64_dvd_x14-78708.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "9eb306615b6a6c46e9fe6ad5f30c9dc2e996e178",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-07T08:45:55Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "1852 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37742,
+      "FileName": "pt_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76580.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD -  (Portuguese-Brazil)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "acccd90b6d893abe4e1519e84659791eaa227e5a",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-15T01:46:02Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3946 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37743,
+      "FileName": "nl_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78629.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (Dutch)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "c61b0d532195869a7fa2d2a75fa5d5b72ff3bc1c",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-15T01:46:02Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3954 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37744,
+      "FileName": "es_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78676.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (Spanish)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "45ee63ee0d16eddcb617f002d4c13cda48efd80e",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-15T01:46:03Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3967 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37745,
+      "FileName": "tr_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78682.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64)  DVD - (Turkish)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "5899263e339ba6127b1aa9efdc265f68c7920345",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-15T01:46:03Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3659 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37764,
+      "FileName": "ru_cd_1_sql_server_2005_enterprise_x86_x12-74576.iso",
+      "Description": "SQL Server 2005 Enterprise Edition Disk 1 of 2 (x86) - CD (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bdbcfc0eb246f8a33afd175da339033b538b894b",
+      "ProductFamilyId": 211,
+      "PostedDate": "2008-11-18T21:02:14Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "388 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37765,
+      "FileName": "ru_cd_2_sql_server_2005_enterprise_x86_x12-74580.iso",
+      "Description": "SQL Server 2005 Enterprise Edition Disk 2 of 2 (x86) - CD (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aad447dc9768fb266aa657087ec0948f8bb8d656",
+      "ProductFamilyId": 211,
+      "PostedDate": "2008-11-18T21:02:14Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "569 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37766,
+      "FileName": "ru_dvd_sql_server_2005_enterprise_x86_x12-74584.iso",
+      "Description": "SQL Server 2005 Enterprise Edition (x86) - DVD (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "4d041c40f77ae5aa1956d933030e1a08e72926e6",
+      "ProductFamilyId": 211,
+      "PostedDate": "2008-11-18T21:02:15Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "858 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37796,
+      "FileName": "fr_dynamics_gp_10.0_service_pack_2_x86_288237.msp",
+      "Description": "Dynamics GP 10.0 Service Pack 2 (x86) - (French-Canada)",
+      "Notes": null,
+      "Sha1Hash": "d9acefcfc6d0005aa4689d9321eedd8918196f83",
+      "ProductFamilyId": 112,
+      "PostedDate": "2008-11-21T03:53:17Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "162 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37797,
+      "FileName": "en_gp_9.0_service_pack_4_x86_115641.msp",
+      "Description": "Dynamics GP 9.0 Service Pack 4 (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "5272ff38f6c6832ccaeb4440fecd0a3bd3b12ca7",
+      "ProductFamilyId": 111,
+      "PostedDate": "2008-11-21T03:53:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37798,
+      "FileName": "fr_dynamics_gp_9.0_service_pack_4_x86_288073.msp",
+      "Description": "Dynamics GP 9.0 Service Pack 4 (x86) - (French-Canada)",
+      "Notes": null,
+      "Sha1Hash": "ed06a7e9cd768c6562dbf69b8f9b61e4cab50b35",
+      "ProductFamilyId": 111,
+      "PostedDate": "2008-11-21T03:53:18Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37800,
+      "FileName": "fr_dynamics_gp_10.0_with_sp3_x86_dvd_x14-66710.iso",
+      "Description": "Dynamics GP 10.0 with Service Pack 3 (x86) - DVD (French-Canada)",
+      "Notes": null,
+      "Sha1Hash": "140b55225e4a608b1fce2e9bff416cde59aba009",
+      "ProductFamilyId": 112,
+      "PostedDate": "2008-11-21T03:53:18Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1538 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37801,
+      "FileName": "es_dynamics_gp_10.0_with_sp3_x86_dvd_x14-66714.iso",
+      "Description": "Dynamics GP Version 10.0 Service with Pack 3 (x86) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f4677f0abf76af8f343bd0510e9adbd43283c7f8",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-04-29T17:42:35Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1548 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37810,
+      "FileName": "es_dynamics_gp_9.0_service_pack_4_x86_287777.msp",
+      "Description": "Dynamics GP 9.0 Service Pack 4 (x86) - (Spanish-Latin America)",
+      "Notes": null,
+      "Sha1Hash": "c87f024d52db5cf9ee177ae912b536831908e9ea",
+      "ProductFamilyId": 111,
+      "PostedDate": "2008-11-22T01:30:34Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37811,
+      "FileName": "es_dynamics_gp_10.0_service_pack_2_x86_288243.msp",
+      "Description": "Dynamics GP 10.0 Service Pack 2 (x86) - (Spanish-Latin America)",
+      "Notes": null,
+      "Sha1Hash": "a82e6d2a39b3cff767e3f81e0eeec5d2aef0e87f",
+      "ProductFamilyId": 112,
+      "PostedDate": "2008-11-22T01:48:23Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "151 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37863,
+      "FileName": "ja_disc_2_component_technologies_for_server_repair_x64_x14-78696.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) - DVD (Japanese) \r\n",
+      "Notes": null,
+      "Sha1Hash": "107693873a4b6a576d85e2a75773db19dc178066",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:42:54Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2672 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37864,
+      "FileName": "ru_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78673.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) -DVD (Russian) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "1e64304e706feea85f78f406d18865c5f37d7af1",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:43Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3673 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37865,
+      "FileName": "ko_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78664.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Korean) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "70d8b64c664ecb514d3aaf9bc5a492d38bce2707",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:43Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3684 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37866,
+      "FileName": "ja_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78659.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Japanese) \r",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "e7f8bbe2d27ad4e1d8bf4f004a297facb21b81e5",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:43Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4042 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37867,
+      "FileName": "hu_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78647.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Hungarian) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "c546098be9986f258af3b91f7ea414e1f8fd6a51",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:43Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3644 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37869,
+      "FileName": "ct_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78619.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Chinese-Traditional) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "bff6cc0e259f70c8d44695aedefa6b58444481f1",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:44Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3698 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37870,
+      "FileName": "cs_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76603.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Czech) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "fabe08e5cd3658d92377e40ab5a24485de84466d",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:44Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3658 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37871,
+      "FileName": "cn_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-76588.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Chinese - Simplified) \r\n",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\nDisc 2: Component Technologies for Server Repair<br>\n3. Windows Server 2008 Standard (x86)<br>\n4. Windows Server 2008 Standard (x64)<br>\n5. SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "7a2721b7499cb7d8ba82a03d91f2b64745a449f0",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-24T20:52:44Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3745 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37888,
+      "FileName": "en_dynamics_gp_10.0_service_pack_3_x86_293826.iso",
+      "Description": " Dynamics GP 10.0 Service Pack 3 (x86) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "08073fdd4d7438b1ad99635f6b1e5ca27ebea25b",
+      "ProductFamilyId": 112,
+      "PostedDate": "2008-11-24T23:38:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1543 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37889,
+      "FileName": "en_dynamics_gp_10.0_service_pack_2_x86_92417.msp",
+      "Description": "Dynamics GP 10.0 Service Pack 2 (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "b40b249edc782919c1a66f23b2da3d6da4eebe84",
+      "ProductFamilyId": 112,
+      "PostedDate": "2008-11-24T23:38:02Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "171 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37902,
+      "FileName": "nl_disc_2_component_technologies_for_server_repair_x64_dvd_x14-76612.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "79af123b0a024fee8a99733440f269f0dbbdd32e",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-26T01:49:39Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2280 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37903,
+      "FileName": "fr_disc_2_component_technologies_for_server_repair_x64_dvd_x14-76626.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (French)",
+      "Notes": null,
+      "Sha1Hash": "f258d979b36a3642fc749c28db3b88ad33e4602e",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-26T01:49:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2596 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37904,
+      "FileName": "es_disc_2_component_technologies_for_server_repair_x64_dvd_x14-78726.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "3f1dad0002d8cfcd889c9f30c1b09bdb6adc4969",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-26T01:49:40Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2563 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37905,
+      "FileName": "tr_disc_2_component_technologies_for_server_repair_x64_dvd_x14-78738.iso",
+      "Description": "Disc 2: Component Technologies for Server Repair (x64) DVD - (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "16afd0fd40f5516e9d70e82836972517e3f45fe2",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-11-26T01:49:40Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "1870 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37909,
+      "FileName": "ru_msdn_library_for_visual_studio_2008_service_pack_1_x86_dvd_x15-29236.iso",
+      "Description": "MSDN Library for Visual Studio 2008 Service Pack 1 (x86) - DVD (Russian) ",
+      "Notes": null,
+      "Sha1Hash": "bb94d3ef375f501fdb1236d11d87e1b0a6734453",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-12-05T03:40:30Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2323 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37910,
+      "FileName": "de_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73727.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ed9238192d3b9a10763fadf541920b3478e1dac0",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-05T22:46:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "4022 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37912,
+      "FileName": "en_windows_driver_kit_6001.18002_x86_x64_ia64_284919.iso",
+      "Description": "Windows Driver Kit \u2013 Server 2008 Release SP1 (x86, x64, i64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "de8e7f8011b4318df0f601941a1c8c1c04570f0a",
+      "ProductFamilyId": 146,
+      "PostedDate": "2008-12-09T01:32:32Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37915,
+      "FileName": "de_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73731.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "957b420ce4abe6be9ff9fdf50e83fa0d956aea75",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-09T06:20:25Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "4214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37916,
+      "FileName": "de_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73735.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (German)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "1e92b659ea2cc625d0891b2ae6ea1eeab879435d",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-09T06:20:26Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3926 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37917,
+      "FileName": "de_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73774.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (German)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "cb8c3e3f2bdcbd1138f1f1c38e2025e9a15c4f7a",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-09T06:20:26Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37919,
+      "FileName": "cn_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73675.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Chinese-Simplified)\r\n",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "255faa96dc8a94f8b339d96ea565878b78171659",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-10T18:38:35Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37920,
+      "FileName": "ct_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73679.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ebc7153566b486a77379029599d69cae5118356e",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-10T20:19:31Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "4053 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37921,
+      "FileName": "fr_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73711.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0bf533c75b1ced5e9d8f43b2eb6a33a5229f7e75",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-10T20:19:31Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "4013 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37923,
+      "FileName": "it_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73739.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bfc5c416d2871b676e671c1eb3acd82fb5e81d86",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T03:18:23Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "4003 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37924,
+      "FileName": "ja_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73752.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "65c8814a05696532ad37172c7f53c683f38b80b7",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T03:18:23Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4089 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37925,
+      "FileName": "ko_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73764.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bc26836d9d9b58dab1d3c6ff5f04d6e1867eb662",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T03:18:23Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4034 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37926,
+      "FileName": "pt_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73651.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0eb7ff567de2aa016f689ef9e312dd9defa67e87",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T04:51:52Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "4155 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37927,
+      "FileName": "cn_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73663.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "536219d1369094c855920aea6761bc36de21e80f",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T04:51:52Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4085 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37928,
+      "FileName": "ct_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73683.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "a2183102413a39e05d2da50997b11b402fddfea9",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T04:51:53Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "4205 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37929,
+      "FileName": "fr_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73715.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fade443ec5667e08cc6e94881e2c932c5cc6073e",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T04:51:53Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "4269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37930,
+      "FileName": "es_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73813.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (Spanish)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "55469ef140d29fb21329152d4e8252be9ce2cbb9",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T04:51:53Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "4219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37931,
+      "FileName": "cn_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73667.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "c472c3539b96f8fd22cb9f4ef69fcb01941115cf",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T23:18:30Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37932,
+      "FileName": "fr_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73719.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7c027e926df1f130aad85ecc9503ebee9c5f6ccb",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T23:18:30Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3981 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37934,
+      "FileName": "ja_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73760.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "99b00513d002dbc5294c30d191b1a50431bcb80a",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T23:18:31Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4095 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37935,
+      "FileName": "ko_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73784.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "925f2f272a2c68c223c416750c0f8175413d9fc2",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-11T23:18:31Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4014 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37936,
+      "FileName": "pt_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73659.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Portuguese-Brazil)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "e4ec8fb76115b363bef2b5e46bef6d5e7caaf1e4",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-12T06:47:19Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37937,
+      "FileName": "cn_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73671.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "0ea51038abb18e89fe33e38d04737de66dd46e91",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-12T06:47:19Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3950 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37938,
+      "FileName": "fr_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73723.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD(French)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "ed3b1808e65785dd9fbe3d73659ee3b177a53f57",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-12T06:47:19Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37940,
+      "FileName": "it_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73778.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Italian)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "0c6dc747ec7cf3f67f1ba30c5e22133cdd040f11",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-12T06:47:20Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37941,
+      "FileName": "ja_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_64_cd_x14-73782.iso",
+      "Description": "Disc 1:Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Japanese)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "7a196c00aa83e7444c634bb3b16ac0aacf60b772",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-12T06:47:20Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37942,
+      "FileName": "sv_disc_1_windows_small_business_server_2008_standard_and_premium_installation_x64_dvd_x14-78679.iso",
+      "Description": "Disc 1: Windows Small Business Server 2008 Standard and Premium Installation (x64) - DVD (Swedish)",
+      "Notes": "The correct order of installation for Small Business Server is: <br>\r\nDisc 1: Windows Small Business Server Standard and Premium Installation <br>\r\nDisc 2: Component Technologies for Server Repair<br>\r\n3. Windows Server 2008 Standard (x86)<br>\r\n4. Windows Server 2008 Standard (x64)<br>\r\n(SQL Server 2008 is not available in this language)<br>",
+      "Sha1Hash": "4258d36bd44e96ce9bcee6b6125dacfc446c4e03",
+      "ProductFamilyId": 341,
+      "PostedDate": "2008-12-12T20:02:49Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3654 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37943,
+      "FileName": "ru_visual_studio_2008_msdn_library_express_service_pack_1_x86.exe",
+      "Description": "MSDN Library Express for Visual Studio 2008 Service Pack 1 (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "6e89be54e2f217993c99f047bb20f166803ad861",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-12-15T21:44:21Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "349 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37948,
+      "FileName": "pt_disc_2_windows_essential_business_server_2008_management_server_x64_dvd_x14-73647.iso",
+      "Description": "Disc 2: Windows Essential Business Server 2008 Management Server Installation (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b35b98ee5f24da3c86886efcfc82c84142395ccf",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-15T20:12:27Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3747 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37949,
+      "FileName": "pt_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73655.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "279d854c582df1f0bfd50ece8a09c3181bc267b7",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-15T20:12:27Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3869 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37950,
+      "FileName": "ct_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73687.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5a6f0abcbc92b474ebee172fbbaf56c0dbc0a1f6",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-15T20:12:27Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3907 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37953,
+      "FileName": "it_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73748.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "60e16330afa624a4da1123d78024f3fad62e6564",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-15T20:12:28Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "4038 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37954,
+      "FileName": "ja_disc_3_windows_essential_business_server_2008_security_server_x64_dvd_x14-73756.iso",
+      "Description": "Disc 3: Windows Essential Business Server 2008 Security Server Installation (x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8d1314a80edf784b87ccae5c843cc111b8f45f40",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-15T20:12:28Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4389 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37957,
+      "FileName": "es_disc_4_windows_essential_business_server_2008_messaging_server_x64_dvd_x14-73817.iso",
+      "Description": "Disc 4: Windows Essential Business Server 2008 Messaging Server Installation (x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "98af62bde6a3028400916e84145fab3adf2c1547",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-16T23:22:27Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3945 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37958,
+      "FileName": "ko_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73788.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Korean)\r\n",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "571679efee523808aa3c4920ee399eecda1f5bc1",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-16T23:44:35Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37959,
+      "FileName": "es_disc_1_windows_essential_business_server_2008_prerequisite_planning_tools_x64_cd_x14-73821.iso",
+      "Description": "Disc 1: Windows Essential Business Server Premium Prerequisite Planning Tools (x64) - CD (Spanish)",
+      "Notes": "The correct order of installation for Essential Business Server is: <br>Disc 1: Windows Essential Business Server 2008 Standard and Premium Prerequisite Planning Tools<br>\nDisc 2: Windows Essential Business Server 2008 Standard and Premium Management Server Installation<br>\nDisc 3: Windows Essential Business Server 2008 Standard and Premium Security Server Installation<br>\nDisc 4: Windows Essential Business Server 2008 Standard and Premium Messaging Server Installation<br>\n5: Windows Server 2008 Standard (x86)<br>\n6: Windows Server 2008 Standard (x64)<br>\n7: SQL Server 2008 Standard (x86, x64)<br>",
+      "Sha1Hash": "b7a1b92f202a833e3deeaff2bfa01fdd17e25d00",
+      "ProductFamilyId": 347,
+      "PostedDate": "2008-12-16T23:52:47Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "54 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37960,
+      "FileName": "ru_sql_server_2008_developer_x64_dvd_x14-88863.iso",
+      "Description": "SQL Server 2008 Developer Edition (x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "313db07bc834fe7b3ce21e4794e163b072a72861",
+      "ProductFamilyId": 334,
+      "PostedDate": "2008-12-17T03:49:35Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3306 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37961,
+      "FileName": "ru_sql_server_2008_enterprise_x64_dvd_x14-89231.iso",
+      "Description": "SQL Server 2008 Enterprise (x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "6057140b0d5afc7225298111d28b62ca00131c84",
+      "ProductFamilyId": 334,
+      "PostedDate": "2008-12-17T03:57:05Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3306 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37962,
+      "FileName": "fr_windows_home_server_restore_disc_x86_cd_x14-24262.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "98f36ebaf942ac3350676076bf9bff371dc8551f",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:37Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "400 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37963,
+      "FileName": "de_windows_home_server_restore_disc_x86_cd_x14-24263.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6e60691015c4f3259fb7e1001592f83690cc9ddf",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:37Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "399 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37964,
+      "FileName": "es_windows_home_server_restore_disc_x86_cd_x14-24264.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "af680b2fffaa8d44ee59ee74147e1146f24538bf",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:37Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "399 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37965,
+      "FileName": "ja_windows_home_server_restore_disc_x86_cd_x14-24265.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7ebe1fc0bb3c7eac1abefbb505d78fd950ca6428",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:37Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37966,
+      "FileName": "en_windows_home_server_restore_disc_x86_cd_x14-24266.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b98ea88812fb026ac9deecf35a41ea700d2092b2",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:38Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "397 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37967,
+      "FileName": "cn_windows_home_server_restore_disc_x86_cd_x14-67770.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (Chinese Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "62380fcda5bb18f7d83aca33bc51e1ce7d9120d3",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:38Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37968,
+      "FileName": "ct_windows_home_server_restore_disc_x86_cd_x14-67771.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - CD (Chinese Traditional)",
+      "Notes": null,
+      "Sha1Hash": "39ec8472e071805784d9ed7224b6cd06662d5a9e",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:38Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37969,
+      "FileName": "hk_windows_home_server_restore_disc_x86_cd_x14-67772.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Restore Disc (x86) - (Chinese Hong Kong SAR)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a19d3d9ba81007777852a3b62487c5277e73176d",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:39:38Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37970,
+      "FileName": "fr_windows_home_server_connector_disc_x86_cd_x14-24267.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (French)",
+      "Notes": null,
+      "Sha1Hash": "8993e1d2015e15a4fe51c882659fe311a1d6f216",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37971,
+      "FileName": "de_windows_home_server_connector_disc_x86_cd_x14-24268.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (German)",
+      "Notes": null,
+      "Sha1Hash": "97b2069a0d5b7b66a9086d12835e7be5d6d86680",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37972,
+      "FileName": "es_windows_home_server_connector_disc_x86_cd_x14-24269.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "20a962c9d330957479eae78fd9f0c2667a033dd5",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37973,
+      "FileName": "ja_windows_home_server_connector_disc_x86_cd_x14-24270.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "37eb34ea7c2b365860ca047ec2661c3e718f774e",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37974,
+      "FileName": "en_windows_home_server_connector_disc_x86_cd_x14-24271.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (English)",
+      "Notes": null,
+      "Sha1Hash": "873639b7092e2a4e64a9b50a7de6e77dcbb1be16",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37975,
+      "FileName": "cn_windows_home_server_connector_disc_x86_cd_x14-67779.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (Chinese Simplified)",
+      "Notes": null,
+      "Sha1Hash": "dee58d6010c51a40168e446b1d318291add7c2b2",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37976,
+      "FileName": "ct_windows_home_server_connector_disc_x86_cd_x14-67780.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (Chinese Traditional)",
+      "Notes": null,
+      "Sha1Hash": "4d0694fc73964dd7c4d2aaf2dfae5adb632956b5",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37977,
+      "FileName": "hk_windows_home_server_connector_disc_x86_cd_x14-67781.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Connector Disc (x86) - CD (Chinese Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "5ff43975a822c783cd5288cd5a8b34e2c91c2d8f",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T21:56:19Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37979,
+      "FileName": "ru_sql_server_2008_web_x86_x64_dvd_x14-86101.iso",
+      "Description": "SQL Server 2008 Web (x86, x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "93a355ffca54daf7c6bd9f9df51363ca6a49f667",
+      "ProductFamilyId": 334,
+      "PostedDate": "2008-12-17T04:05:44Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3306 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37980,
+      "FileName": "ru_sql_server_2008_workgroup_x64_dvd_x14-89103.iso",
+      "Description": "SQL Server 2008 Workgroup (x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "b92b86b965b58609434c9cfe341c6518b8ef4ccd",
+      "ProductFamilyId": 334,
+      "PostedDate": "2008-12-17T04:05:44Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3306 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37982,
+      "FileName": "fr_windows_home_server_installation_disc_x86_dvd_x14-24272.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "230cc359af1988551c0fcc5e79cb5ce868ebcedb",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:58Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "836 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37983,
+      "FileName": "de_windows_home_server_installation_disc_x86_dvd_x14-24273.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "dd66dd566e2161d1abab995f229a6ce61cb267e4",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:58Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "831 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37984,
+      "FileName": "es_windows_home_server_installation_disc_x86_dvd_x14-24274.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "3f764be4c2c8aba1319ab351da28f47cc8d543cf",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:58Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "834 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37985,
+      "FileName": "ja_windows_home_server_installation_disc_x86_dvd_x14-24275.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ef114c58ef8b5fc259ff2ad0a12916d2d7a10dee",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:58Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "915 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37986,
+      "FileName": "en_windows_home_server_installation_disc_x86_dvd_x14-24276.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "1a40f0b56a38168e6186c1715fcbc0f250908311",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "828 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37987,
+      "FileName": "cn_windows_home_server_installation_disc_x86_dvd_x14-67788.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (Chinese Simplified)",
+      "Notes": null,
+      "Sha1Hash": "cf519146c3a131a34b16aa04804dd12c58d6594b",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:59Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "887 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37988,
+      "FileName": "ct_windows_home_server_installation_disc_x86_dvd_x14-67789.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (Chinese Traditional)",
+      "Notes": null,
+      "Sha1Hash": "d14a2f0c86086b00d0057ff8e46c8b4e6630cfd5",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:59Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "873 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37989,
+      "FileName": "hk_windows_home_server_installation_disc_x86_dvd_x14-67790.iso",
+      "Description": "Windows Home Server with Power Pack 1 - Installation Disc (x86) - DVD (Chinese Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "adea93e79fc23aed59d48bf5b1e982f209c7f523",
+      "ProductFamilyId": 349,
+      "PostedDate": "2008-12-17T22:44:59Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "873 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 37990,
+      "FileName": "ru_visual_studio_2008_service_pack_1_dvd_x86_x15-12983.iso",
+      "Description": "Visual Studio 2008 Service Pack 1 (x86, x64 WoW) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "abca44917c7dbd76cb19834973230678a1a17820",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-12-18T01:10:20Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "866 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37991,
+      "FileName": "ru_visual_studio_2008_team_foundation_server_service_pack_1_x86.exe",
+      "Description": "Visual Studio Team System 2008 Team Foundation Server Service Pack 1 (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "638c14ec300f6b7f910a1c6504dfc49b16733e15",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-12-18T02:01:34Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "134 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 37992,
+      "FileName": "ru_visual_studio_2008_service_pack_1_online_installer_x86.exe",
+      "Description": "Visual Studio 2008 Service Pack 1 (Online Installer) (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "1865bc544d6fe662d1a152b3cfe1865cef6d59fb",
+      "ProductFamilyId": 100,
+      "PostedDate": "2008-12-18T02:04:49Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.535 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

@@ -1,0 +1,1133 @@
+{
+  "Files": [
+    {
+      "FileId": 49000,
+      "FileName": "en_dynamics_sl_2011_x86_669898.zip",
+      "Description": "Microsoft Dynamics SL 2011 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3c47670c860216c852ef197f5f6bf46d12cfd038",
+      "ProductFamilyId": 462,
+      "PostedDate": "2012-03-27T16:54:33Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1324 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49001,
+      "FileName": "en_system_center_2012_operations_manager_x86_x64_dvd_804695.iso",
+      "Description": "System Center 2012 \u2013 Operations Manager (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9f21b3025832c9f93e0c17897ff570f68484f411",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:08Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1197 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49002,
+      "FileName": "mu_system_center_2012_configuration_manager_x86_x64_dvd_816412.iso",
+      "Description": "System Center 2012 Configuration Manager and Endpoint Protection (x86 and x64) - DVD (English, Chinese - Simplified, French, German, Japanese, Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ffe7adf9eaf5ef124723d082670c985ea1057c87",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:08Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "fr",
+        "ja",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "French",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "1712 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49003,
+      "FileName": "mu_system_center_2012_data_protection_manager_x64_dvd_804296.iso",
+      "Description": "System Center 2012 \u2013 Data Protection Manager (x64) - DVD (English, Chinese - Simplified, French, German, Italian, Japanese, Portuguese-Brazil, Russian, Spanish)\r\n\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "1c32372c662fdcbc3f8d785cf1418be3d7bc9b86",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:09Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "3369 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49004,
+      "FileName": "mu_system_center_2012_virtual_machine_manager_x64_dvd_822393.iso",
+      "Description": "System Center 2012 - Virtual Machine Manager (x64) - DVD (English, Chinese - Simplified, French, German, Italian, Japanese, Portuguese-Brazil, Russian, Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f137ed928ca252a0e2b06ec92acd96d9b3887297",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:09Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "1350 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49005,
+      "FileName": "mu_system_center_2012_app_controller_x64_dvd_804825.iso",
+      "Description": "System Center 2012 \u2013 App Controller (x64) - DVD (English, Chinese - Simplified, French, German, Italian, Japanese, Portuguese-Brazil, Russian, Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ba63d61c1c80245b2994df1e3aa0635279b7bafa",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:10Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49006,
+      "FileName": "mu_system_center_2012_service_manager_x64_dvd_823269.iso",
+      "Description": "System Center 2012 \u2013 Service Manager (x64) - DVD (English, Chinese - Simplified, French, German, Italian, Japanese, Portuguese-Brazil, Russian, Spanish)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "d6813fb4ba1143700a5919fddea3c4defe441ce9",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:10Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "340 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49007,
+      "FileName": "en_system_center_2012_orchestrator_x86_dvd_814959.iso",
+      "Description": "System Center 2012 \u2013 Orchestrator (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "93b17aee47e74a03e049c1db1ac5275c8361e12e",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "73 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49008,
+      "FileName": "en_system_center_2012_unified_installer_x86_x64_dvd_816309.iso",
+      "Description": "System Center 2012 \u2013 Unified Installer (x86 and x64) - DVD (English)\r\n\r\n\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "f9a7ceb584424a6a9f8174e7b42c40ebee57bf8d",
+      "ProductFamilyId": 463,
+      "PostedDate": "2012-04-02T16:03:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49009,
+      "FileName": "en_office_2010_proofing_tools_x86_dvd_611461.iso",
+      "Description": "Office 2010 Proofing Tools (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "61225a0ef197b11a20d6e2b0f43288a319adb937",
+      "ProductFamilyId": 383,
+      "PostedDate": "2012-03-30T16:30:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "764 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49010,
+      "FileName": "en_office_2010_proofing_tools_x64_dvd_611462.iso",
+      "Description": "Office 2010 Proofing Tools (x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aee49426de2a15644eac4f69eea72d3651003e98",
+      "ProductFamilyId": 383,
+      "PostedDate": "2012-03-30T16:30:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "782 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49025,
+      "FileName": "mu_lync_for_mac_2011_with_service_pack_2_842710.dmg",
+      "Description": "Lync for Mac 2011 with Service Pack 2 (Mac) - (Multiple Languages)\r\n",
+      "Notes": "This installer contains the following languages: English, French, Japanese, German, Spanish, Italian, Dutch, Danish, Norwegian, Finnish, Swedish, Chinese Traditional, Chinese Simplified, Russian, Polish.",
+      "Sha1Hash": "ac9c99ed0af008e263a73365a621a4b920e33fc4",
+      "ProductFamilyId": 451,
+      "PostedDate": "2012-05-07T20:14:15Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "da",
+        "de",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "nl",
+        "no",
+        "pl",
+        "ru",
+        "sv"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Danish",
+        "German",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Russian",
+        "Swedish",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49026,
+      "FileName": "mu_office_professional_plus_2007_sp3_x86_dvd_803776.iso",
+      "Description": "Office Professional Plus 2007 Service Pack 3 (x86) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Danish, Dutch, English, French, German, Italian, Portuguese-Brazilian, Portuguese-Portugal, and Spanish.",
+      "Sha1Hash": "4ef5885601fc3299d5f9aff61ff80713eb0ff0a5",
+      "ProductFamilyId": 26,
+      "PostedDate": "2012-04-24T16:47:24Z",
+      "LanguageCodes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pp",
+        "pt"
+      ],
+      "Languages": [
+        "English",
+        "Danish",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2697 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49027,
+      "FileName": "mu_office_professional_plus_2007_sp3_x86_dvd_803783.iso",
+      "Description": "Office Professional Plus 2007 Service Pack 3 (x86) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Arabic, Bulgarian, Croatian, Czech, Hungarian, Romanian, Serbian, Slovak, Slovenian, and Turkish.",
+      "Sha1Hash": "dc14a0d9d9dbdb68153919b537014684964240c8",
+      "ProductFamilyId": 26,
+      "PostedDate": "2012-04-24T16:47:24Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cs",
+        "hr",
+        "hu",
+        "ro",
+        "sk",
+        "sl",
+        "sr",
+        "tr"
+      ],
+      "Languages": [
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Croatian",
+        "Hungarian",
+        "Romanian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Turkish"
+      ],
+      "Size": "2664 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49028,
+      "FileName": "mu_office_professional_plus_2007_sp3_x86_dvd_803782.iso",
+      "Description": "Office Professional Plus 2007 Service Pack 3 (x86) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Estonian, Finnish, Greek, Kazakh, Latvian, Lithuanian, Norwegian, Polish, Russian, Swedish, and Ukrainian.",
+      "Sha1Hash": "c1d5880c58781d75c10fcb1a162a91c978d18924",
+      "ProductFamilyId": 26,
+      "PostedDate": "2012-04-24T16:47:25Z",
+      "LanguageCodes": [
+        "el",
+        "et",
+        "fi",
+        "kk",
+        "lt",
+        "lv",
+        "no",
+        "pl",
+        "ru",
+        "sv",
+        "uk"
+      ],
+      "Languages": [
+        "Greek",
+        "Estonian",
+        "Finnish",
+        "Kazakh",
+        "Lithuanian",
+        "Latvian",
+        "Norwegian",
+        "Polish",
+        "Russian",
+        "Swedish",
+        "Ukrainian"
+      ],
+      "Size": "2775 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49029,
+      "FileName": "mu_office_professional_plus_2007_sp3_x86_dvd_803781.iso",
+      "Description": "Office Professional Plus 2007 Service Pack 3 (x86) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Chinese-Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Hebrew, Hindi, Japanese, Korean, and Thai.",
+      "Sha1Hash": "dfed9c0c9ba10825b4095e22bda15cef179ed415",
+      "ProductFamilyId": 26,
+      "PostedDate": "2012-04-24T16:47:25Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "he",
+        "hi",
+        "hk",
+        "ja",
+        "ko",
+        "th",
+        "tw"
+      ],
+      "Languages": [
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Hebrew",
+        "Hindi",
+        "Thai",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Taiwan",
+        "Chinese - Simplified"
+      ],
+      "Size": "2436 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 49030,
+      "FileName": "mu_office_sharepoint_server_2007_sp3_x64_dvd_803785.iso",
+      "Description": "Office SharePoint Server 2007 Service Pack 3 (x64) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Arabic, Chinese-Simplified, Chinese-Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean,\u00a0Norwegian, Polish, Portuguese-Brazilian, Portuguese-Portugal, Russian, Spanish, Swedish, Thai, and Turkish.",
+      "Sha1Hash": "3144fe707de857ec4379dec7367374c16c2a092b",
+      "ProductFamilyId": 205,
+      "PostedDate": "2012-04-24T16:46:59Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "he",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sv",
+        "th",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Hungarian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "681 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49031,
+      "FileName": "mu_office_sharepoint_server_2007_sp3_x86_dvd_803784.iso",
+      "Description": "Office SharePoint Server 2007 Service Pack 3 (x86) - DVD (Multiple Languages)\r\n\r\n",
+      "Notes": "The following languages are included: Arabic, Chinese-Simplified, Chinese-Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean,\u00a0Norwegian, Polish, Portuguese-Brazilian, Portuguese-Portugal, Russian, Spanish, Swedish, Thai, and Turkish.",
+      "Sha1Hash": "4203ff799aab766bc6b65a8e104cce8b38622a73",
+      "ProductFamilyId": 205,
+      "PostedDate": "2012-04-24T16:46:59Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "he",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sv",
+        "th",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Hungarian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "589 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49032,
+      "FileName": "en_microsoft_chart_controls_for_.net_framework_3.5_for_windows_embedded_standard_2009_x86_851457.exe",
+      "Description": "Microsoft Chart Controls for .NET Framework 3.5 for Windows Embedded Standard 2009 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "4c9f66009fcd3f6caa40f2b53fc7b898a7d2bbdd",
+      "ProductFamilyId": 229,
+      "PostedDate": "2012-05-03T16:20:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49033,
+      "FileName": "en_silverlight_5_for_windows_embedded_standard_2009_x86_851457.exe",
+      "Description": "Silverlight 5 for Windows Embedded Standard 2009 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "56e07dc49dd674bf48a59ca95334562428e214fa",
+      "ProductFamilyId": 557,
+      "PostedDate": "2012-05-03T16:21:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49036,
+      "FileName": "mu_bhold_suite_x64_dvd_848633.iso",
+      "Description": "BHOLD Suite (x64) - DVD (English, Dutch, German)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "3ca8a26bcd6de61779c1d0371e994399c254cefa",
+      "ProductFamilyId": 400,
+      "PostedDate": "2012-06-01T21:41:37Z",
+      "LanguageCodes": [
+        "de",
+        "en",
+        "nl"
+      ],
+      "Languages": [
+        "English",
+        "German",
+        "Dutch"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49037,
+      "FileName": "en_forefront_identity_manager_2010_r2_x86_x64_dvd_848633.iso",
+      "Description": "Forefront Identity Manager 2010 R2 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Please review the <a href=\"http://technet.microsoft.com/en-us/library/hh322889(v=ws.10)\">release notes</a> for information on this release, including <a href=\"http://technet.microsoft.com/en-us/library/hh322889(v=ws.10)#pre_install\">upgrading from FIM 2010 to FIM 2010 R2</a>. ",
+      "Sha1Hash": "47a25128cefd9f0c800d8e8c0342570b825ec0c0",
+      "ProductFamilyId": 478,
+      "PostedDate": "2012-06-01T21:41:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "515 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49040,
+      "FileName": "mu_exchange_server_2010_service_pack_2_x64.exe",
+      "Description": "Exchange Server 2010 Service Pack 2 (x64) - (Multiple Languages)\r\n",
+      "Notes": "The following languages are included: Arabic, Chinese-Simplified, Chinese-Traditional, English, French, German, Hebrew, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.\n",
+      "Sha1Hash": "bb8acbbea695a9579b0b4bca1629cd8a45dbec23",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:16Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "German",
+        "Spanish",
+        "French",
+        "Hebrew",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "535 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49041,
+      "FileName": "umlanguagepack.en-au.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (English-Australia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "89c5b7e0dcc7de549e2e0cd1f0974182799c3307",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "99 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49042,
+      "FileName": "umlanguagepack.en-ca.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (English-Canada)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b6b930b0f9dca5e91a0aebaca7d07112859851fc",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "206 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49043,
+      "FileName": "umlanguagepack.en-gb.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (English-United Kingdom)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2d48acc9909f32c90c15154bec4f1e945551186c",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "98 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49044,
+      "FileName": "umlanguagepack.en-in.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (English-India)\r\n",
+      "Notes": null,
+      "Sha1Hash": "df582d8f58174f46eff85f237aba305d517a6684",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "102 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49045,
+      "FileName": "umlanguagepack.en-us.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (English-United States)\r\n",
+      "Notes": null,
+      "Sha1Hash": "632b10abbc6c891ccea6576e0e4fccbb07b328ff",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:16Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "244 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49046,
+      "FileName": "umlanguagepack.ca-es.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Catalan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "46f9bffc17771990da39bbe1e550dd1c46f5b3c1",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:18Z",
+      "LanguageCodes": [
+        "ca"
+      ],
+      "Languages": [
+        "Catalan"
+      ],
+      "Size": "128 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49047,
+      "FileName": "umlanguagepack.da-dk.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Danish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "292440f793f134c854fc71d8b43f74c90af3f107",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:18Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "108 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49048,
+      "FileName": "umlanguagepack.de-de.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2331e633a2500cdb76c4d45412db20c02a800123",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:18Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "128 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49049,
+      "FileName": "umlanguagepack.es-es.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Spanish-Spain)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b11d908fcf0396e93240537025068d8219acb79f",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:18Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "169 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49050,
+      "FileName": "umlanguagepack.es-mx.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Spanish-Mexico)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6e496a7f293ee9e3a8b972f665a370d9c69c78ac",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:19Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "126 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49051,
+      "FileName": "umlanguagepack.fi-fi.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0cef9410ad3ce62b90f019b0a29ea02703fc10fc",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:19Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "113 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49052,
+      "FileName": "umlanguagepack.fr-ca.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (French-Canada)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dda4b04313126b83fd8883ad43fc0eaeb7a945e5",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:19Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "112 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49053,
+      "FileName": "umlanguagepack.fr-fr.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (French-France)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2fed878b9865564468af8b6386db9824db1e0680",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:19Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49054,
+      "FileName": "umlanguagepack.it-it.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cfd69ce5af16e2d42558c449604340cf9273f058",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:20Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49055,
+      "FileName": "umlanguagepack.ja-jp.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b7803f0081320a970c7649b869214dfae5bb6ede",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:20Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "102 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49056,
+      "FileName": "umlanguagepack.ko-kr.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fba6b408a9ecae5f1887fab33cbdf6125e0bc171",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:20Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49057,
+      "FileName": "umlanguagepack.nb-no.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Norwegian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5a871522aac75010e87331a2b04160fa2d30f6a7",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:20Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49058,
+      "FileName": "umlanguagepack.nl-nl.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Dutch)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8a22e193d106fe3dfae9e85abeedd9b5f68ed7a9",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:21Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "107 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49059,
+      "FileName": "umlanguagepack.pl-pl.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Polish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6b21174a013b1a6a4055c5df34fa64b49663b0db",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:21Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "157 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49060,
+      "FileName": "umlanguagepack.pt-br.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "82fe98d6298d0127470f49565bc18b5a35107760",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:21Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49061,
+      "FileName": "umlanguagepack.pt-pt.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "34b6bad4909406007d8c48de5958ed74accc44d0",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:21Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "192 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49062,
+      "FileName": "umlanguagepack.ru-ru.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cf2bf4da954e6af26ec440959ac0f08cd5af3995",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:22Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "112 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49063,
+      "FileName": "umlanguagepack.sv-se.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Swedish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aac844acb8168bb367f1323316d332e26fead86f",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:22Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49064,
+      "FileName": "umlanguagepack.zh-cn.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e03786d7c12da00356cd019b2233ab206be6b4bf",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:22Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "122 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49065,
+      "FileName": "umlanguagepack.zh-hk.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Chinese-Hong Kong SAR)\r\n",
+      "Notes": null,
+      "Sha1Hash": "898da2095bf1eb94449f024115918508fbb14560",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:22Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 49066,
+      "FileName": "umlanguagepack.zh-tw.exe",
+      "Description": "Exchange Server 2010 Service Pack 2, Unified Messaging Language Packs (x64) - (Chinese-Taiwan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f4674bb69a8c19489ad05056e8b0a149b6454d78",
+      "ProductFamilyId": 362,
+      "PostedDate": "2012-05-23T16:46:23Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

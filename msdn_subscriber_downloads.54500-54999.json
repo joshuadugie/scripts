@@ -1,0 +1,1687 @@
+{
+  "Files": [
+    {
+      "FileId": 54500,
+      "FileName": "hk_windows_embedded_8_1_industry_enterprise_x86_dvd_2710756.iso",
+      "Description": "Windows Embedded 8.1 Industry Enterprise (x86) - DVD (Chinese-Hong Kong SAR)\r\n",
+      "Notes": null,
+      "Sha1Hash": "431e005b269a71919c4009cafe90c3bb90c4fc0b",
+      "ProductFamilyId": 525,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "2721 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54501,
+      "FileName": "tw_windows_embedded_8_1_industry_enterprise_x86_dvd_2710765.iso",
+      "Description": "Windows Embedded 8.1 Industry Enterprise (x86) - DVD (Chinese-Taiwan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ebb777ceff77f62ae8b0a2f2c65932f414d83e0d",
+      "ProductFamilyId": 525,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "2709 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54502,
+      "FileName": "en_windows_server_2012_r2_debug_checked_x64_dvd_2707937.iso",
+      "Description": "Windows Server 2012 R2 Debug/Checked (x64) - DVD (English)",
+      "Notes": "<p>During Setup, an application dialog box appears referencing application error 0xc0000420 in TabTip.exe. You can safely click OK and continue with Setup.</p>\n<a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a>",
+      "Sha1Hash": "00dc84064bda93b3e7f533c3ed53d4d9b3b850b9",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-10-07T15:55:21Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4057 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54503,
+      "FileName": "cs_windows_server_2012_r2_x64_dvd_2708024.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Czech)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "db93a7e9717e35823514ae93e3e2865b79a4dac1",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "4094 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54504,
+      "FileName": "de_windows_server_2012_r2_x64_dvd_2707952.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (German)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "5b5816b43b90b5f5c01bda20d123f678e38e5d0a",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "4103 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54505,
+      "FileName": "en_windows_server_2012_r2_x64_dvd_2707946.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (English)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "b6f063436056510357cb19cb77db781ed9c11df3",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4071 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54506,
+      "FileName": "es_windows_server_2012_r2_x64_dvd_2708013.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Spanish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "6cf5a443cda8593a13a913eda8bda1fbe93d1394",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "4121 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54507,
+      "FileName": "fr_windows_server_2012_r2_x64_dvd_2707985.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (French)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "af04c5c20d786989515a50edffea2de94a749c60",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "4111 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54508,
+      "FileName": "hu_windows_server_2012_r2_x64_dvd_2707991.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Hungarian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "6c7e937c0f22d111a8336e71e7020da65eded8a5",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "4095 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54509,
+      "FileName": "it_windows_server_2012_r2_x64_dvd_2707995.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Italian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "e3ea26373311a0c1cfb776fa55d575a3ea2cdc64",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "4111 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54510,
+      "FileName": "ja_windows_server_2012_r2_x64_dvd_2708001.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Japanese)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "5a3d42febcc9a07b8dc44d03320ad0dd51df43d0",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4136 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54511,
+      "FileName": "ko_windows_server_2012_r2_x64_dvd_2708005.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Korean)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "8f816f5dd5c61db188805a486f49a6c605602410",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4137 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54512,
+      "FileName": "nl_windows_server_2012_r2_x64_dvd_2707982.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Dutch)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "c21b6a2deda78a17b42b3ea136fd44f88a613930",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "4086 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54513,
+      "FileName": "pl_windows_server_2012_r2_x64_dvd_2708028.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Polish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "55780d32862e091d4c727401c3b669298409aa67",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "4098 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54514,
+      "FileName": "pt_windows_server_2012_r2_x64_dvd_2708007.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Portuguese-Brazil)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "fc34078d6bd534b972feb4ec43c03c707e9728b4",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "4117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54515,
+      "FileName": "pp_windows_server_2012_r2_x64_dvd_2708031.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Portuguese-Portugal)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "4615ba3a9ea755814d8645dc7c12634eda7a7379",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "4101 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54516,
+      "FileName": "ru_windows_server_2012_r2_x64_dvd_2708010.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Russian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "167fc7903b38946efe457129a97fc17457fb8b7d",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "4124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54517,
+      "FileName": "sv_windows_server_2012_r2_x64_dvd_2708036.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Swedish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "014a5f2c7e840b48bb7a39e24f6d2ca11a9eb885",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "4093 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54518,
+      "FileName": "tr_windows_server_2012_r2_x64_dvd_2708020.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Turkish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "f5b75f76b4d6d2905d691553c3a6132af0d069bc",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "4113 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54519,
+      "FileName": "cn_windows_server_2012_r2_x64_dvd_2707961.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Chinese-Simplified)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "8f9a21c80b80d861e59f69d140e7f66e4c49289f",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4209 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54520,
+      "FileName": "hk_windows_server_2012_r2_x64_dvd_2707968.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Chinese-Hong Kong SAR)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "9a85f03b83a3f4a024671170e6128427ef063430",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "4198 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54521,
+      "FileName": "tw_windows_server_2012_r2_x64_dvd_2707973.iso",
+      "Description": "Windows Server 2012 R2 (x64) - DVD (Chinese-Taiwan)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "582f340758044962c732d0067d0db93807471b6e",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "4188 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54522,
+      "FileName": "en_windows_server_2012_r2_essentials_debug_checked_x64_dvd_2707170.iso",
+      "Description": "Windows Server 2012 R2 Essentials Debug/Checked (x64) - DVD (English)\r\n",
+      "Notes": "<p>During Setup, an application dialog box appears referencing application error 0xc0000420 in TabTip.exe. You can safely click OK and continue with Setup.</p>\n<a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a>",
+      "Sha1Hash": "a3e8a0f07e757417325bb010dbb54a370e63e448",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-10-07T15:55:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3809 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54523,
+      "FileName": "cs_windows_server_2012_r2_essentials_x64_dvd_2707214.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Czech)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "64d7d86eb8beb0224345d5c7fb043c604934b3ec",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3879 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54524,
+      "FileName": "de_windows_server_2012_r2_essentials_x64_dvd_2707185.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (German)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "7e1eb004727d7ee793cc9c0de0b4d50313664e55",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3896 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54525,
+      "FileName": "en_windows_server_2012_r2_essentials_x64_dvd_2707177.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (English)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "8a4cb96563dda4f1bf637e57a992f3255d56b6f8",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3861 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54526,
+      "FileName": "es_windows_server_2012_r2_essentials_x64_dvd_2707312.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Spanish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "764f3dc41927e731add197b5739cbede62f28714",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3903 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54527,
+      "FileName": "fr_windows_server_2012_r2_essentials_x64_dvd_2707232.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (French)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "aeadccc5c6203d7a10c1afe04694ada91e3d35b3",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3893 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54528,
+      "FileName": "hu_windows_server_2012_r2_essentials_x64_dvd_2707240.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Hungarian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "3d116031a35b3f3a31fb8568e3431db7f052cddc",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3881 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54529,
+      "FileName": "it_windows_server_2012_r2_essentials_x64_dvd_2707249.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Italian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "9534afa6334c343e028a816fc75792ab71fb1e93",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3897 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54530,
+      "FileName": "ja_windows_server_2012_r2_essentials_x64_dvd_2707258.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Japanese)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "4cd0d4efcd4581c9028265f837a558a982bd3a67",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3926 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54531,
+      "FileName": "ko_windows_server_2012_r2_essentials_x64_dvd_2707268.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Korean)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "1b309e5055c57edf2c0f263ed30c15e01018e6bf",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3926 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54532,
+      "FileName": "nl_windows_server_2012_r2_essentials_x64_dvd_2707223.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Dutch)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "864a96d3dde2d76e1290d0bc3477d41c7138d62c",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3886 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54533,
+      "FileName": "pl_windows_server_2012_r2_essentials_x64_dvd_2707276.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Polish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "142307bb1fcec38c924f6e10740cfd13f2c07210",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3889 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54534,
+      "FileName": "pt_windows_server_2012_r2_essentials_x64_dvd_2707285.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Portuguese-Brazil)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "7a424e3cfa1f2821e92567e5aac349a33e815b89",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3899 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54535,
+      "FileName": "pp_windows_server_2012_r2_essentials_x64_dvd_2707294.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Portuguese-Portugal)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "ae3dfc4ffd2441406bd3d7ded4e16273ca76123b",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3890 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54536,
+      "FileName": "ru_windows_server_2012_r2_essentials_x64_dvd_2707303.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Russian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "b1c0e1bb871ea2c1b96c8b33288cfb5508b03216",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3904 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54537,
+      "FileName": "sv_windows_server_2012_r2_essentials_x64_dvd_2707330.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Swedish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "69176ff0bf44c8a5ef6d4a66ac026f7bb23a3195",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3884 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54538,
+      "FileName": "tr_windows_server_2012_r2_essentials_x64_dvd_2707321.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Turkish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "4de8a3a20b60f811f6eb05a7f976396dcf6ab94c",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3877 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54539,
+      "FileName": "cn_windows_server_2012_r2_essentials_x64_dvd_2707190.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Chinese-Simplified)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "d16ebeebea1e6741bf457d97ddf85f8f6e385da1",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3990 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54540,
+      "FileName": "hk_windows_server_2012_r2_essentials_x64_dvd_2707197.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Chinese-Hong Kong SAR)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "bdb6e00dd529a08f72175f935fc7346abdeec8ac",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "3985 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54541,
+      "FileName": "tw_windows_server_2012_r2_essentials_x64_dvd_2707205.iso",
+      "Description": "Windows Server 2012 R2 Essentials (x64) - DVD (Chinese-Taiwan)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "5307b07e6766c84b99495420e3e5d663a0e35c65",
+      "ProductFamilyId": 523,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "3973 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54542,
+      "FileName": "en_microsoft_hyper-v_server_2012_r2_debug_checked_x64_dvd_2708216.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 Debug/Checked (x64) - DVD (English)",
+      "Notes": "<p>During Setup, an application dialog box appears referencing application error 0xc0000420 in TabTip.exe. You can safely click OK and continue with Setup.</p>\n<a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a>",
+      "Sha1Hash": "473f25e814ba54d9a932921fb9330ee5e931304c",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-10-07T15:55:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1837 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54543,
+      "FileName": "de_microsoft_hyper-v_server_2012_r2_x64_dvd_2708255.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (German)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "c6171d3a41d417162f4cfa783b7e721120bb1be4",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1951 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54544,
+      "FileName": "en_microsoft_hyper-v_server_2012_r2_x64_dvd_2708236.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (English)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "1eec2ee8dd77e8eb970b210c9b0e01986d7210dd",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1917 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54545,
+      "FileName": "es_microsoft_hyper-v_server_2012_r2_x64_dvd_2708370.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Spanish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "1045901bf7574c3afee76186108af3bf9b376ec5",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1950 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54546,
+      "FileName": "fr_microsoft_hyper-v_server_2012_r2_x64_dvd_2708321.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (French)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "5f732f60c00ec96761d15b300249bf0228a1d768",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1951 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54547,
+      "FileName": "it_microsoft_hyper-v_server_2012_r2_x64_dvd_2708326.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Italian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "b1b812b120f6d5f50a9db7c347be65370cc69be5",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1950 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54548,
+      "FileName": "ja_microsoft_hyper-v_server_2012_r2_x64_dvd_2708332.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Japanese)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "a259688714fbb62a2b324f54d95a256f5157a08a",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1982 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54549,
+      "FileName": "ko_microsoft_hyper-v_server_2012_r2_x64_dvd_2708338.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Korean)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "fd8f5a49153c21658f931022b5c508a9e84f96ee",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1981 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54550,
+      "FileName": "pt_microsoft_hyper-v_server_2012_r2_x64_dvd_2708343.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Portuguese-Brazil)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "642504cf404df94398c319daf069e6f4f1ef8201",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "1949 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54551,
+      "FileName": "ru_microsoft_hyper-v_server_2012_r2_x64_dvd_2708357.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Russian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "187b4a5ecc64313caa2f62a5306fd566ae1dfa31",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1962 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54552,
+      "FileName": "cn_microsoft_hyper-v_server_2012_r2_x64_dvd_2708277.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Chinese-Simplified)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "e99ac484042b38126b8292c996114de994712365",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2045 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54553,
+      "FileName": "hk_microsoft_hyper-v_server_2012_r2_x64_dvd_2708298.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Chinese-Hong Kong SAR)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "71aedce8344f2a22016cbb4e9fba3b4db940bab8",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "2031 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54554,
+      "FileName": "tw_microsoft_hyper-v_server_2012_r2_x64_dvd_2708315.iso",
+      "Description": "Microsoft Hyper-V Server 2012 R2 (x64) - DVD (Chinese-Taiwan)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "523870b11344270f8434a967cff0e173e75cf95a",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "2031 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54555,
+      "FileName": "mu_windows_server_2012_r2_language_pack_x64_dvd_2710896.iso",
+      "Description": "Windows Server 2012 R2 Language Pack (x64) - DVD (Multiple Languages)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "e0bd3827bd885e5e4e559158a64d650bcaca991e",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1562 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54556,
+      "FileName": "tw_windows_server_2012_r2_language_pack_x64_dvd_2710900.iso",
+      "Description": "Windows Server 2012 R2 Language Pack (x64) - DVD (Chinese-Taiwan)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "44123ba507e94d6a90c508c7a91abf811cd7b56e",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54557,
+      "FileName": "cs_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708474.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Czech)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "a60670ae32d6de33f7af5fb0f0d1ae7e1ff3322c",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3865 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54558,
+      "FileName": "de_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708437.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (German)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "c6c8a4bc0ed7612266afc9158ed516ac2ae2edbc",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3894 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54559,
+      "FileName": "en_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708426.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (English)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "e3f320eacacfc7f2b000d3e6b02872133bca547c",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3860 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54560,
+      "FileName": "es_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708567.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Spanish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "12bbe206acddd4904a9f172f76f28991ef109eb4",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3901 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54561,
+      "FileName": "fr_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708494.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (French)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "e0a4dafcadfb38cac6c2cbb5693bdfc82ea27845",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3892 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54562,
+      "FileName": "hu_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708503.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Hungarian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "58e1e626b63c653ddc3a0ee1eb44f648ab11aaa7",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3880 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54563,
+      "FileName": "it_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708513.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Italian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "44658cece0b4196c1110aa559abb28bfe9cf25c1",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3894 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54564,
+      "FileName": "ja_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708524.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Japanese)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "ac2e3457f94f32dd6888207f04269dd9d9e7889f",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3925 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54565,
+      "FileName": "ko_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708531.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Korean)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "0a9deace7b4136b56d7db500edfd1a51115c0dd6",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3923 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54566,
+      "FileName": "nl_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708485.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Dutch)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "db4b9125d870fb828b26d8d97752f8cd79de5f71",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3885 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54567,
+      "FileName": "pl_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708590.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Polish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "ec7c75465d8dc25a554bc65803c2fff3f966aa28",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3887 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54568,
+      "FileName": "pt_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708540.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Portuguese-Brazil)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "692a64f989f978a131d90c4ddae45b9499bc4765",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3896 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54569,
+      "FileName": "pp_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708547.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Portuguese-Portugal)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "ff1cc8049f7ece691ddb75616f3135a11c0b00ba",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3889 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54570,
+      "FileName": "ru_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708557.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Russian)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "9e23ddcebb59c680f31e9f59313f9769dac2d74f",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3902 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54571,
+      "FileName": "sv_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708573.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Swedish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "5f25c18fff14ff0231c48c43841ad34828630d2a",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3881 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54572,
+      "FileName": "tr_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708584.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Turkish)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "f914836c93aa7c6ac64427a39fa31b5ff0a6b860",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3876 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54573,
+      "FileName": "cn_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708447.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Chinese-Simplified)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "ce602c0e6ad700e795146fd1e69098d903f42ccc",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3989 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54574,
+      "FileName": "hk_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708455.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Chinese-Hong Kong SAR)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "57318383cbb1e24603eedf29592c6875cb0c9342",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "3984 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54575,
+      "FileName": "tw_windows_storage_server_2012_r2_and_windows_server_2012_r2_foundation_x64_dvd_2708463.iso",
+      "Description": "Windows Storage Server 2012 R2 and Windows Server 2012 R2 Foundation (x64) - DVD (Chinese-Taiwan)",
+      "Notes": "<p><a href=\"http://technet.microsoft.com/en-us/library/dn303421.aspx\" target=\"_blank\">Automatic Virtual Machine Activation</a><br>\n<a href=\"http://technet.microsoft.com/en-us/library/dn387077.aspx\" target=\"_blank\">Release Notes: Important Issues in Windows Server 2012 R2</a></p>",
+      "Sha1Hash": "44ee99a16467398ebc4a0334b1344f51be19494f",
+      "ProductFamilyId": 522,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "3970 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54963,
+      "FileName": "nb_windows_embedded_8_1_industry_pro_x86_dvd_2707569.iso",
+      "Description": "Windows Embedded 8.1 Industry Pro (x86) - DVD (Norwegian, Bokmal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0ea54e5eef1698cb879f84636d767d0d7aea7b2d",
+      "ProductFamilyId": 525,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "2549 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54964,
+      "FileName": "nb_windows_embedded_8_1_industry_enterprise_x64_dvd_2710624.iso",
+      "Description": "Windows Embedded 8.1 Industry Enterprise (x64) - DVD (Norwegian, Bokmal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7ecee64d285ff4abf76c8d58ab35fa45d061c740",
+      "ProductFamilyId": 525,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "3478 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54965,
+      "FileName": "nb_windows_embedded_8_1_industry_enterprise_x86_dvd_2710903.iso",
+      "Description": "Windows Embedded 8.1 Industry Enterprise (x86) - DVD (Norwegian, Bokmal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "70c66d3e6c946c19ed279e07b5f936e3750d4901",
+      "ProductFamilyId": 525,
+      "PostedDate": "2013-09-09T16:45:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "2550 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 54977,
+      "FileName": "mu_office_2010_sp2_x86_dvd_2803287.iso",
+      "Description": "Office 2010 SP2 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a576331fae1c0151daa55a3c340975ffa9e99566",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:45:58Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cs",
+        "hr",
+        "hu",
+        "ro",
+        "sk",
+        "sl",
+        "sr",
+        "tr"
+      ],
+      "Languages": [
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Croatian",
+        "Hungarian",
+        "Romanian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Turkish"
+      ],
+      "Size": "1758 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54978,
+      "FileName": "mu_office_2010_sp2_x64_dvd_2803289.iso",
+      "Description": "Office 2010 SP2 (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "75a6317edc0ea8878f360d900cabea8389c6c776",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:45:58Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cs",
+        "hr",
+        "hu",
+        "ro",
+        "sk",
+        "sl",
+        "sr",
+        "tr"
+      ],
+      "Languages": [
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Croatian",
+        "Hungarian",
+        "Romanian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Turkish"
+      ],
+      "Size": "1658 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54979,
+      "FileName": "mu_office_2010_sp2_x86_dvd_2803290.iso",
+      "Description": "Office 2010 SP2 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "25969c20d7dcc616463defdb7a843c76c7975552",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:45:59Z",
+      "LanguageCodes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pp",
+        "pt"
+      ],
+      "Languages": [
+        "English",
+        "Danish",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1573 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54980,
+      "FileName": "mu_office_2010_sp2_x64_dvd_2803291.iso",
+      "Description": "Office 2010 SP2 (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "74c5bf462fd516580fa49ffa2abb4f21b0013f74",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:45:59Z",
+      "LanguageCodes": [
+        "da",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "nl",
+        "pp",
+        "pt"
+      ],
+      "Languages": [
+        "English",
+        "Danish",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1507 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54981,
+      "FileName": "mu_office_2010_sp2_x86_dvd_2803292.iso",
+      "Description": "Office 2010 SP2 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9855c682533be35f5872f468e336868c655dfccd",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:45:59Z",
+      "LanguageCodes": [
+        "el",
+        "et",
+        "fi",
+        "kk",
+        "lt",
+        "lv",
+        "no",
+        "pl",
+        "ru",
+        "sv",
+        "uk"
+      ],
+      "Languages": [
+        "Greek",
+        "Estonian",
+        "Finnish",
+        "Kazakh",
+        "Lithuanian",
+        "Latvian",
+        "Norwegian",
+        "Polish",
+        "Russian",
+        "Swedish",
+        "Ukrainian"
+      ],
+      "Size": "1847 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54982,
+      "FileName": "mu_office_2010_sp2_x64_dvd_2803293.iso",
+      "Description": "Office 2010 SP2 (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "de3441727a778a96409b7fce6b4fcd88284b7e39",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:46:00Z",
+      "LanguageCodes": [
+        "el",
+        "et",
+        "fi",
+        "kk",
+        "lt",
+        "lv",
+        "no",
+        "pl",
+        "ru",
+        "sv",
+        "uk"
+      ],
+      "Languages": [
+        "Greek",
+        "Estonian",
+        "Finnish",
+        "Kazakh",
+        "Lithuanian",
+        "Latvian",
+        "Norwegian",
+        "Polish",
+        "Russian",
+        "Swedish",
+        "Ukrainian"
+      ],
+      "Size": "1635 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54983,
+      "FileName": "mu_office_2010_sp2_x86_dvd_2803296.iso",
+      "Description": "Office 2010 SP2 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cbe41f3ea12f82ecb640a5ce82408024f9b55033",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:46:00Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "he",
+        "hi",
+        "hk",
+        "ja",
+        "ko",
+        "th"
+      ],
+      "Languages": [
+        "Japanese",
+        "Korean",
+        "Hebrew",
+        "Hindi",
+        "Thai",
+        "Chinese - Traditional",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified"
+      ],
+      "Size": "1808 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 54984,
+      "FileName": "mu_office_2010_sp2_x64_dvd_2803299.iso",
+      "Description": "Office 2010 SP2 (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8882e2570bad1b22bb3ddb1e9e6913e1e0d5aebf",
+      "ProductFamilyId": 383,
+      "PostedDate": "2013-09-12T16:46:01Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "he",
+        "hi",
+        "hk",
+        "ja",
+        "ko",
+        "th"
+      ],
+      "Languages": [
+        "Japanese",
+        "Korean",
+        "Hebrew",
+        "Hindi",
+        "Thai",
+        "Chinese - Traditional",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified"
+      ],
+      "Size": "1621 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

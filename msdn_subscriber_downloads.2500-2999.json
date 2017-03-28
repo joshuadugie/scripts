@@ -1,0 +1,412 @@
+{
+  "Files": [
+    {
+      "FileId": 2501,
+      "FileName": "en_unixsrvcs.exe",
+      "Description": "Windows Services for UNIX 2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "56b9927be6ec5126a64d68ddc89940f5e7882bc9",
+      "ProductFamilyId": 143,
+      "PostedDate": "2000-07-22T04:46:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 2502,
+      "FileName": "ja_unixsrvcs.exe",
+      "Description": "Windows Services for UNIX 2.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b1701ef1d778192e2a9940acc07f8165e0494f7d",
+      "ProductFamilyId": 143,
+      "PostedDate": "2000-07-22T04:46:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "83 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 2528,
+      "FileName": "mssecsdk.exe",
+      "Description": "Security SDK 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "a712a85eff8f3ef183debbc2d142b28b18d46a99",
+      "ProductFamilyId": 282,
+      "PostedDate": "2000-08-03T06:39:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2529,
+      "FileName": "wmp7.exe",
+      "Description": "Windows Media Player 7 (English)",
+      "Notes": null,
+      "Sha1Hash": "ba7d174af3187439226a812d06893efc0819ec26",
+      "ProductFamilyId": 310,
+      "PostedDate": "2000-08-04T01:24:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2530,
+      "FileName": "wmpsdk7.exe",
+      "Description": "Windows Media Player SDK 7 (English)",
+      "Notes": null,
+      "Sha1Hash": "a306fd1df4054dc688267457cc8da0e0ba23de9d",
+      "ProductFamilyId": 310,
+      "PostedDate": "2000-08-04T01:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2531,
+      "FileName": "wmptoys.exe",
+      "Description": "Windows Media Player 7 PowerToys (English)",
+      "Notes": null,
+      "Sha1Hash": "d124c0351dd56fc83802989e25a5e09fa53413ec",
+      "ProductFamilyId": 310,
+      "PostedDate": "2000-08-04T01:26:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.464 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2532,
+      "FileName": "wmformatsdk.exe",
+      "Description": "Windows Media Format SDK 7 (English)",
+      "Notes": null,
+      "Sha1Hash": "7cc2ce63c8316214ac3a53dda0c2d070ad756e1c",
+      "ProductFamilyId": 310,
+      "PostedDate": "2000-08-04T01:27:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2536,
+      "FileName": "en_netwaresvcs5.exe",
+      "Description": "Services for Netware 5.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "eb4eb212fb081b0b799ceee253cadffb4d2162cc",
+      "ProductFamilyId": 284,
+      "PostedDate": "2000-08-05T05:40:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2610,
+      "FileName": "fr_netwaresvcs.exe",
+      "Description": "Services for Netware 5.0 (French)",
+      "Notes": null,
+      "Sha1Hash": "49bdf40ee19a17e64c30cb70410f51468a701f66",
+      "ProductFamilyId": 284,
+      "PostedDate": "2000-08-25T01:22:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2611,
+      "FileName": "it_netwaresvcs.exe",
+      "Description": "Services for Netware 5.0 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "72a95437513ffcd0763348d24d6bcd65171c53f2",
+      "ProductFamilyId": 284,
+      "PostedDate": "2000-08-25T01:23:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2612,
+      "FileName": "es_netwaresvcs.exe",
+      "Description": "Services for Netware 5.0 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "61bed783592e6b40bc9ed5c5620dfe2a6906490e",
+      "ProductFamilyId": 284,
+      "PostedDate": "2000-08-25T01:24:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2613,
+      "FileName": "en_smartcardtlk_11.exe",
+      "Description": "Smart Card Toolkit June 2000 (English)",
+      "Notes": null,
+      "Sha1Hash": "55b0a4ffb6b64fe4f8f92ee4e119795825a3a465",
+      "ProductFamilyId": 286,
+      "PostedDate": "2000-08-25T01:52:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2715,
+      "FileName": "en_webstorage_sdk.exe",
+      "Description": "Web Storage SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "ca09a0fad4871273c5827cc229dd173b67e3be5e",
+      "ProductFamilyId": 304,
+      "PostedDate": "2000-10-06T00:50:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2716,
+      "FileName": "ja_sfn50.exe",
+      "Description": "Services for Netware 5.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "40703274dd5f4f237661b08975f6a23f640492c9",
+      "ProductFamilyId": 284,
+      "PostedDate": "2000-10-06T00:51:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2736,
+      "FileName": "en_msdos60.exe",
+      "Description": "MS-DOS 6.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "877b0b8e391ed07cb83214cb09e8f3b10c4b206f",
+      "ProductFamilyId": 155,
+      "PostedDate": "2000-10-13T04:36:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 2737,
+      "FileName": "en_msdos622.exe",
+      "Description": "MS-DOS 6.22 (English)",
+      "Notes": null,
+      "Sha1Hash": "d01aa47a5d85908185f8987e972afc66dc92a735",
+      "ProductFamilyId": 155,
+      "PostedDate": "2000-10-13T04:36:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "11 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 2747,
+      "FileName": "en_uddi_sdk.exe",
+      "Description": "Universal Description Discovery and Integration (UDDI) SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "39b4803a2b721da02b0a3fef04e4455a831b7860",
+      "ProductFamilyId": 297,
+      "PostedDate": "2000-10-24T06:56:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2813,
+      "FileName": "en_directx8.exe",
+      "Description": "DirectX 8.0 SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "49037481efaf1708709ecc8f30dd3ecce708bd32",
+      "ProductFamilyId": 251,
+      "PostedDate": "2000-12-09T03:54:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "383 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2823,
+      "FileName": "en_speechsdk_50.exe",
+      "Description": "Speech SDK 5.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "4388f908d666cf95a02a146253865fa5f2151734",
+      "ProductFamilyId": 291,
+      "PostedDate": "2001-01-13T01:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "143 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2858,
+      "FileName": "tc_windows31.exe",
+      "Description": "Windows 3.1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7e83467e5321fda4d390e5177d52fb366fe6034b",
+      "ProductFamilyId": 147,
+      "PostedDate": "2001-03-07T03:19:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2859,
+      "FileName": "sc_windows31.exe",
+      "Description": "Windows 3.1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "65bc761ceffd6280da3f7677d6f3dda2baec1e19",
+      "ProductFamilyId": 147,
+      "PostedDate": "2001-03-07T03:19:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2860,
+      "FileName": "sc_windows32_144.exe",
+      "Description": "Windows 3.2.144 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "363c2a9b8caa2cc6798daa80cc9217ef237fdd10",
+      "ProductFamilyId": 149,
+      "PostedDate": "2001-03-07T03:21:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2861,
+      "FileName": "sc_windows32_12.exe",
+      "Description": "Windows 3.2.12 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1d91ac9eb3cbc1f9c409cf891415bb71e8f594f7",
+      "ProductFamilyId": 149,
+      "PostedDate": "2001-03-07T03:21:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 2988,
+      "FileName": "directx80a_sdk.exe",
+      "Description": "DirectX 8.0a SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "309e422262ea6e086f3c43985dfce7bf32b342aa",
+      "ProductFamilyId": 251,
+      "PostedDate": "2001-04-03T12:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "123 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

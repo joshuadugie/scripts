@@ -1,0 +1,1458 @@
+{
+  "Files": [
+    {
+      "FileId": 71501,
+      "FileName": "fr_visual_cpp_redistributable_for_visual_studio_2017_x86_10050242.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (French)",
+      "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
+      "Sha1Hash": "a275fcfdb2da95c3a4fc55bd17999c27810ca910",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-07T14:13:02Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71502,
+      "FileName": "mu_agents_for_visual_studio_2017_x86_x64_test_controller_10049788.exe",
+      "Description": "Agents for Visual Studio 2017 (x86 and x64) - Test Controller (Multiple Languages)",
+      "Notes": "Agents for Visual Studio 2017 can be used for load, functional, and automated testing. For more details, please refer to the <a href=\"https://aka.ms/tctaversionblog\">ALM blog</a><br/>.",
+      "Sha1Hash": "ba7c0f40eed8f8b174ada77b92b1df279c03da77",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-07T14:13:02Z",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pl",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "0.989 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71503,
+      "FileName": "cn_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095630.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "93a8c444f5b05d3b7071d0b11faeac609142807b",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:54Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71504,
+      "FileName": "ko_team_foundation_server_express_2017_update_1_x64_web_installer_10095711.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Korean)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "e10ed747ab3daba4b1ad600c36c5aa3c06b4821b",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:44Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71505,
+      "FileName": "es_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095607.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Spanish)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "efd5b2f033f289b4bf0bc75cbc990ed5e7181c1d",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:14Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71506,
+      "FileName": "ru_team_foundation_server_express_2017_update_1_x64_web_installer_10095710.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Russian)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "5e8f7b659980a67ba7851e94df1ec0cb4d34b9f4",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:45Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71507,
+      "FileName": "fr_team_foundation_server_express_2017_update_1_x64_web_installer_10095712.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (French)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "60e44cc492a91a2aa59491072eecbde20dd90a5c",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:45Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71508,
+      "FileName": "fr_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095629.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (French)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "8d7fb036e62d0094c3e97b2358e77b001bf0ad84",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:55Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71509,
+      "FileName": "ko_team_foundation_server_express_2017_update_1_x64_dvd_10095744.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Korean)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "4c83bf39dc492818b7491ee5250eb33e92513f18",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:46Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71510,
+      "FileName": "ja_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095625.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Japanese)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "3f7c0454c7a371c3c8a2564adc9f7e3b76457c47",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71511,
+      "FileName": "en_team_foundation_server_2017_update_1_x64_dvd_10095676.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (English)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "16351c810ce4726170b8d75bd11fc77902d70edd",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "420 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71512,
+      "FileName": "en_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095591.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (English)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "de4f3264225e6d817071917c9e86f7c398d76c33",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71513,
+      "FileName": "ja_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095595.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Japanese)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "47cb1e7e6a443f69f014028bc8f424749366c6a6",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:57Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71514,
+      "FileName": "ru_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095633.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Russian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "3b4aa797aee8df4429013535dcfc65475827fc33",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:58Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71515,
+      "FileName": "fr_team_foundation_server_express_2017_update_1_x64_dvd_10095737.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (French)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "32bdc5408d2b1c887363a94aa90e02c1df28922f",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:47Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71516,
+      "FileName": "ru_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095600.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Russian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "bd028932055db690398561bae236ff5cc6ccf8cf",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:58Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71517,
+      "FileName": "es_team_foundation_server_2017_update_1_x64_dvd_10095715.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Spanish)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "8ff82e5cf7255e86767710bed3878ff24c0836ca",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:44Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71518,
+      "FileName": "es_team_foundation_server_express_2017_update_1_x64_dvd_10095736.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Spanish)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "3e23e41dd8364eb457d2302662596d090cc32eb7",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:47Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71519,
+      "FileName": "es_team_foundation_server_express_2017_update_1_x64_web_installer_10095706.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Spanish)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "ec6666f2003a63697b981f4108c5419a8c8aa5fd",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:48Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71520,
+      "FileName": "fr_team_foundation_server_2017_update_1_x64_web_installer_10095693.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (French)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "5a624b1fe9b82db9eb516772ad48ba721cbea89b",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:45Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71521,
+      "FileName": "de_team_foundation_server_2017_update_1_x64_web_installer_10095708.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (German)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "79d5303f20b392a82a71e759bc6f33f40cf1373d",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:45Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71522,
+      "FileName": "it_team_foundation_server_2017_update_1_x64_dvd_10095718.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Italian)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "c0b334c192c77f705e20cc0a293c597b6f47a4a5",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:46Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71523,
+      "FileName": "ct_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095596.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "e3abec521b87d1f46294b58b14899c3d3697c7df",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:15Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71524,
+      "FileName": "it_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095644.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Italian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "c3fc8b91c47ac353a538dba44ef73acf247941b6",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:59Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71525,
+      "FileName": "ru_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095587.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Russian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "ea2bbd09ef5cf6bd9b047a1f75f1050d8d3ba770",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:16Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71526,
+      "FileName": "de_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095603.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (German)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "9bcae52ac76461fd5780add9b43830bbdfd312e4",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71527,
+      "FileName": "ct_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095631.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "e818e094530a27b8564d2774e21c94fb1ed4cb5c",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71528,
+      "FileName": "cn_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095576.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "0b91cc9be6650e8f1990daf4865982914ee33fe0",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:16Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71529,
+      "FileName": "it_team_foundation_server_express_2017_update_1_x64_web_installer_10095707.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Italian)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "a7a3354ba1e1e0f2d95f16672105698a62d4fae8",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71530,
+      "FileName": "cn_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095581.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "5de2bedcb443e728c17d3eeee74f861c5728caa6",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:17Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71531,
+      "FileName": "fr_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095617.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (French)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "1fba823a477c5728286caf856a2ee48d55585f52",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:17Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71532,
+      "FileName": "de_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095580.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (German)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "d9efb68ba2e2c1c573ca6ad3ffc348be7de735ca",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:18Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71533,
+      "FileName": "ct_team_foundation_server_2017_update_1_x64_web_installer_10095688.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "237012fce3e0cf4e795528150372b441aae9f1b7",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:47Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71534,
+      "FileName": "de_team_foundation_server_express_2017_update_1_x64_web_installer_10095704.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (German)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "4db6f05fe7686b133bd28d09ecbd5fca39adf54d",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:49Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71535,
+      "FileName": "ct_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095584.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "c6d955ec51760dcb07aab63d9015303e6ac2a098",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71536,
+      "FileName": "it_team_foundation_server_2017_update_1_x64_web_installer_10095690.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Italian)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "8e9a99d9224c4a5b7d194f0cabc322ec32c2f50b",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71537,
+      "FileName": "fr_team_foundation_server_2017_update_1_x64_dvd_10095714.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (French)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "5733173d2f4f47abf7b7a07b03c29709e7128a65",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:48Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71538,
+      "FileName": "es_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095585.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Spanish)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "a2030de05f0ac405b9260dd42c5785c8ffeaacf7",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:19Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71539,
+      "FileName": "ko_team_foundation_server_2017_update_1_x64_dvd_10095713.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Korean)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "f04dcebf83d2efb38c6acf7f811acc07d652a936",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:48Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71540,
+      "FileName": "ja_team_foundation_server_2017_update_1_x64_web_installer_10095682.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Japanese)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "5b0c8742ee7d4315ef1549848bd1547ce4c0c564",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:49Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71541,
+      "FileName": "ja_team_foundation_server_express_2017_update_1_x64_web_installer_10095698.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Japanese)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "66a55d949fe3ec7d015d27928bea35151b6975df",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:50Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71542,
+      "FileName": "en_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095622.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (English)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "c3f9c312162913f6f9b35c97510ed92843d5c31f",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71543,
+      "FileName": "de_team_foundation_server_2017_update_1_x64_dvd_10095720.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (German)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "9e4592196c4918c7dec2f9efba423b966f7eb503",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:50Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71544,
+      "FileName": "it_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095609.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Italian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "03ef0b2334cc2712826326a749f290b11cb9010e",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:20Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71545,
+      "FileName": "fr_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095582.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (French)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "befaa62542bd8c916610636937828c91ccea27dd",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:21Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71546,
+      "FileName": "ja_team_foundation_server_express_2017_update_1_x64_dvd_10095746.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Japanese)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "201a5a74322cd8f8853cd91baaf863c92385091a",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71547,
+      "FileName": "fr_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095594.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (French)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "2ad6a5b28df5be03af10f77cc23f54c4b1b9f064",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:01Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71548,
+      "FileName": "de_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095652.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (German)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "b779526bc3a46a2bbf6f75d27523432b9f960aff",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:02Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "468 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71549,
+      "FileName": "ko_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095588.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Korean)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "75c0dd2330d9b98db905a84993196799a4bc6be1",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:21Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71550,
+      "FileName": "cn_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095593.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "8ee66a36d29c8ef87ba0eeaba48f855d86c2c053",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:03Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71551,
+      "FileName": "en_team_foundation_server_express_2017_update_1_x64_web_installer_10095696.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (English)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "74684f28091ed31c5d436713b612b2e69eaf6084",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71552,
+      "FileName": "es_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095618.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Spanish)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "8536e7a4db8e554d159650498af977fff21cee4c",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:03Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71553,
+      "FileName": "ja_team_foundation_server_2017_update_1_x64_dvd_10095681.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Japanese)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "a56a6109600b957c836657ce3e6de42ed4afc254",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:50Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71554,
+      "FileName": "it_team_foundation_server_express_2017_update_1_x64_dvd_10095732.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Italian)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "ff28746dfab08920fc3460d10d291158e799fc98",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:52Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71555,
+      "FileName": "cn_team_foundation_server_express_2017_update_1_x64_web_installer_10095703.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "b0403883e7ff732fbdb32c09f636d03f7b97119c",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:53Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71556,
+      "FileName": "ko_team_foundation_server_2017_update_1_x64_web_installer_10095695.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Korean)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "d694381fe55e98ecfaf3e3fe9d5dd74765cdb2dd",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71557,
+      "FileName": "ct_team_foundation_server_2017_update_1_x64_dvd_10095722.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Chinese-Traditional)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "b16c02d47ec4e0819df6eedd7b254b9c48f9c0df",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:52Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71558,
+      "FileName": "es_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095597.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Spanish)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "195912d7d9c91274f5074d98db213585b40c0a16",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71559,
+      "FileName": "it_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095583.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Italian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "af1eb357db3735d330808d71fa047e552e2cebb4",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:22Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71560,
+      "FileName": "ko_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095613.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Korean)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "20610cf4d3312df9324c9dcab09a2e5a19aed48e",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:23Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71561,
+      "FileName": "ru_team_foundation_server_2017_update_1_x64_dvd_10095719.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Russian)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "9712c6ea82ce73f791f4bb87c516ca2dc808cb09",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:52Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71562,
+      "FileName": "ct_team_foundation_server_express_2017_update_1_x64_dvd_10095729.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Chinese-Traditional)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "69d6c075e35ba2f429229b8e6b78b8121105ece1",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:53Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71563,
+      "FileName": "de_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095598.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (German)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "f23aee3923aa42089ca364eb0e557a6a3b00475d",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:23Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "468 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71564,
+      "FileName": "ko_team_foundation_server_express_2015_update_4_rc_x86_x64_dvd_10095627.iso",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - DVD (Korean)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "70403a63a93d551f50c7fb6b604c1885c1624f1a",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:04Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71565,
+      "FileName": "en_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095649.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (English)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "e7d57478651b491277a02c06f136c07fce2563a7",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71566,
+      "FileName": "en_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095586.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (English)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "13abf3c97c1eb33dba5d57f38dc85b1bf641d64e",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:25Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71567,
+      "FileName": "ja_team_foundation_server_2015_update_4_rc_x86_x64_web_installer_10095577.exe",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - Web Installer (Japanese)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "83c60ff3de97648af846905aa00f3f10e206ed1a",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:25Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71568,
+      "FileName": "cn_team_foundation_server_express_2017_update_1_x64_dvd_10095731.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Chinese-Simplified)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "0e37d27d97d1b2da919c4ef57bb07ded43b392a3",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:54Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71569,
+      "FileName": "cn_team_foundation_server_2017_update_1_x64_web_installer_10095700.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Chinese-Simplified)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "337d661204b1079a9a8db770faccef90e9c5d77d",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:53Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71570,
+      "FileName": "ru_team_foundation_server_express_2017_update_1_x64_dvd_10095739.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (Russian)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "8fe2c78703aaeec1d2eb74b266707d229d8a37ec",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:54Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71571,
+      "FileName": "cn_team_foundation_server_2017_update_1_x64_dvd_10095689.iso",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - DVD (Chinese-Simplified)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "3ed0d22202c7c52092b47e7f21aaeeab6a117844",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:53Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71572,
+      "FileName": "ko_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095599.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Korean)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "ee174777863bb4a31769aa19ca4344fadae27e0b",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:05Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71573,
+      "FileName": "ja_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095578.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Japanese)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "dc6d991fc3b3ddd4ada5fad9ad9c49b0c979247a",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:26Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71574,
+      "FileName": "ru_team_foundation_server_2015_update_4_rc_x86_x64_dvd_10095626.iso",
+      "Description": "Team Foundation Server 2015 Update 4 RC (x86 and x64) - DVD (Russian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server 2015.\r\n\r\n<br></br>\r\n\r\nTeam Foundation Server 2015 Update 4 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.\r\n",
+      "Sha1Hash": "010a451d74fb4011b7146b0a6e4799c6e7efe5ea",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:28:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71575,
+      "FileName": "de_team_foundation_server_express_2017_update_1_x64_dvd_10095738.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (German)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "429c598d0732a2342de1b15311bf6a0d640f5778",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:55Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71576,
+      "FileName": "ct_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095589.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "66b46d90f533d624e77d56ce7cc4de494476d8bd",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:05Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71577,
+      "FileName": "it_team_foundation_server_express_2015_update_4_rc_x86_x64_web_installer_10095602.exe",
+      "Description": "Team Foundation Server Express 2015 Update 4 RC (x86 and x64) - Web Installer (Italian)",
+      "Notes": "This update is the latest in a cumulative series of feature additions and bug fixes for Team Foundation Server Express 2015. \r\n\r\n<br></br>\r\n\r\nTeam Foundation Server Express 2015 Update 4 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2015 Update 4 on your desktop or laptop, no dedicated server needed.\r\n",
+      "Sha1Hash": "12a7a1c4a8849a7905d05815914e9172a839fb8e",
+      "ProductFamilyId": 682,
+      "PostedDate": "2017-03-14T16:29:06Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71578,
+      "FileName": "ct_team_foundation_server_express_2017_update_1_x64_web_installer_10095701.exe",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - Web Installer (Chinese-Traditional)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "d7772a648a69e40404b1b069291a02d3408d3da7",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:56Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71579,
+      "FileName": "es_team_foundation_server_2017_update_1_x64_web_installer_10095692.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Spanish)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "fdbbf374ecf59a1298d08606b354c11fffd6633a",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:54Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71580,
+      "FileName": "en_team_foundation_server_express_2017_update_1_x64_dvd_10095733.iso",
+      "Description": "Team Foundation Server Express 2017 Update 1 (x64) - DVD (English)",
+      "Notes": "Team Foundation Server Express 2017 Update 1 is a free, source code-control platform for individual developers and small teams of five or less.\n\n",
+      "Sha1Hash": "492353cbe904dc7e395126adc17ddf9656f2b426",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:04:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "420 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71581,
+      "FileName": "en_team_foundation_server_2017_update_1_x64_web_installer_10095685.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (English)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "45bf2e894f9b07e4df7d77d65e9b200755cc185a",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71582,
+      "FileName": "ru_team_foundation_server_2017_update_1_x64_web_installer_10095697.exe",
+      "Description": "Team Foundation Server 2017 Update 1 (x64) - Web Installer (Russian)",
+      "Notes": "Team Foundation Server 2017 Update 1 provides a set of collaboration tools, including Application Lifecycle Management (ALM), continuous integration (CI), and DevOps.\n\n",
+      "Sha1Hash": "1a6690d973d94cbe1620e86160ffa9ee0be672d5",
+      "ProductFamilyId": 681,
+      "PostedDate": "2017-03-09T19:03:55Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71583,
+      "FileName": "en_sql_server_vnext_ctp1.4_x64_dvd_10134872.iso",
+      "Description": "SQL Server vNext CTP1.4 (x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "077d25df7644591ded06c983ae34d0632cdd7495",
+      "ProductFamilyId": 677,
+      "PostedDate": "2017-03-17T15:48:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2002 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 71584,
+      "FileName": "en_windows_embedded_compact_2013_february_2017_x86_x64_dvd_10146253.iso",
+      "Description": "Windows Embedded Compact 2013 - February 2017 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "cb1985f704e498544e06ed0823f875a8aab4dede",
+      "ProductFamilyId": 553,
+      "PostedDate": "2017-03-21T16:29:21Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2216 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "FileId": 985,
+      "FileName": "sc_vb6_ent_cd1.iso",
+      "Description": "Visual Basic 6.0 Enterprise Edition (Simplified Chinese), Disc 1",
+      "Notes": null,
+      "Sha1Hash": "cd4e425c309a274e25842f9dc4bf51cb2233c7dd",
+      "ProductFamilyId": 79,
+      "PostedDate": "1999-04-10T02:02:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "261 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 986,
+      "FileName": "sc_vb6_ent_cd2.iso",
+      "Description": "Visual Basic 6.0 Enterprise Edition (Simplified Chinese), Disc 2",
+      "Notes": null,
+      "Sha1Hash": "bf882919c8bc12a263477d9623068832500dda51",
+      "ProductFamilyId": 79,
+      "PostedDate": "1999-04-10T02:02:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 988,
+      "FileName": "cht_vb6_ent_cd1.iso",
+      "Description": "Visual Basic 6.0 Enterprise Edition (Traditional Chinese), Disc 1",
+      "Notes": null,
+      "Sha1Hash": "28d9628e4b07b6f9e1b69c5d97242f9057bf5eee",
+      "ProductFamilyId": 79,
+      "PostedDate": "1999-04-10T02:02:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "312 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 989,
+      "FileName": "cht_vb6_ent_cd2.iso",
+      "Description": "Visual Basic 6.0 Enterprise Edition (Traditional Chinese), Disc 2",
+      "Notes": null,
+      "Sha1Hash": "734b258daf2cd8f107ab174b274362d70b8f68ae",
+      "ProductFamilyId": 79,
+      "PostedDate": "1999-04-10T02:02:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 995,
+      "FileName": "ja_vc60_wincetk.exe",
+      "Description": "Windows CE Toolkit for Visual C++ 6.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bfa477debec480f7d0435b2f14c2c1d1f4e36612",
+      "ProductFamilyId": 161,
+      "PostedDate": "1999-04-10T02:02:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

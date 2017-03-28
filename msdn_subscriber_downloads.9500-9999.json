@@ -1,0 +1,6049 @@
+{
+  "Files": [
+    {
+      "FileId": 9507,
+      "FileName": "en_iis_diagnostics_x86.msi",
+      "Description": "Internet Information Services Diagnostics Toolkit (x86) (English)",
+      "Notes": null,
+      "Sha1Hash": "dbaea28567b9fe7830ffef631f65dcf5873b215b",
+      "ProductFamilyId": 261,
+      "PostedDate": "2006-02-08T03:47:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9508,
+      "FileName": "en_iis_diagnostics_ia64.msi",
+      "Description": "Internet Information Services Diagnostics Toolkit (ia64) (English)",
+      "Notes": null,
+      "Sha1Hash": "44d1a6e4fa6151fb430aca9bc9bbcdddd4efafe2",
+      "ProductFamilyId": 261,
+      "PostedDate": "2006-02-08T03:47:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9509,
+      "FileName": "en_iis_diagnostics_x64.msi",
+      "Description": "Internet Information Services Diagnostics Toolkit (x64) (English)",
+      "Notes": null,
+      "Sha1Hash": "741580d3c5ae60d13f5b791f546a697370f6cb0b",
+      "ProductFamilyId": 261,
+      "PostedDate": "2006-02-08T03:47:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9510,
+      "FileName": "en_sql_2005_ua_ctp_jan06.msi",
+      "Description": "SQL Server 2005 Upgrade Advisor - January 2006 (English)",
+      "Notes": null,
+      "Sha1Hash": "0460e6a505acb3ce824a4002787d638b4b21a8bb",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-08T03:46:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9515,
+      "FileName": "br_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "aa194699a11fa79fa1f43889e9a754c1c0973ef1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9516,
+      "FileName": "br_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "42123b29b65318fa4eb7aff14180a1bf745f3224",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9517,
+      "FileName": "br_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "b477cbbbe799b2af6127e63584950b68341b2167",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9518,
+      "FileName": "br_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "9231a085ea15cb518f0e3ac69a47e6213dc345c9",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9519,
+      "FileName": "cz_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "af3b81300b799b33b3f73a8cab50ceee532183a1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:40:07Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "584 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9520,
+      "FileName": "cz_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "e5e83e0546b198d0d844999f4fe656a55eb2a1bf",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:40:07Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9521,
+      "FileName": "cz_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "dc1e53d4ab6c8792cd53285c63d65510f246a7cb",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:40:07Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9522,
+      "FileName": "cz_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "f352fbffb24afc04c4703577e2d301ca792d2656",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:40:07Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9523,
+      "FileName": "es_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f4fbadd72a51a59ec11d56aea9b6c1934fc96a95",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9524,
+      "FileName": "es_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7aa47037bb3c69fdb8a93c789afda4d8bae594a9",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9525,
+      "FileName": "es_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "002eb063fb8ab57aaec9f6e3a7e786f2c8e1b283",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9526,
+      "FileName": "es_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5630a5ebe1a1e7c76a85fd275e43e089ca1c0876",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9527,
+      "FileName": "fr_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "d26001061177a88e83f565cdfdc2ffae91cfd499",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:01Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9528,
+      "FileName": "fr_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "7312390471f2b96bd6acca778ff126d58a9ccda8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:01Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9529,
+      "FileName": "fr_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "0b40dc40d710e3dfcb865e13b2193806da2c5b1d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:01Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9530,
+      "FileName": "fr_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "82fcba66923464284901dbf95a2c4597ace676b8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:01Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9531,
+      "FileName": "hu_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "ae407ab11bc398d88cea588c9bf1c62cc3b629ce",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:39Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9532,
+      "FileName": "hu_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "90edf2c95af8b64e3318341b0da114e06be58158",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:39Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9533,
+      "FileName": "hu_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "37823e8379cecbe71c4480e4fb57a97babdaeca7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:39Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9534,
+      "FileName": "hu_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "254a33ade39d162262a1bbbb102ebc003c9b4f4b",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:39Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9535,
+      "FileName": "it_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "864c11026fe052906262bebbcc829d37e3daa238",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:14Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9536,
+      "FileName": "it_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "c9657b4a9131a1b9fe9b86527c5f529bbece0b73",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:14Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9537,
+      "FileName": "it_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "04f50d156e3c27d1ecd703092025fdc0c52aa4c7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:14Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9538,
+      "FileName": "it_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9f946d4c5c4f958302a67fdbdc59bb5b21deeb0e",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:38:14Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9539,
+      "FileName": "nl_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "663a4f4b934069eda4604d0e3b88ff846c760e82",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:25Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9540,
+      "FileName": "nl_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "2b455eb9938ab1b43847f8b1d2a81592066c51f8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:25Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9541,
+      "FileName": "nl_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "9567823800029334149031a2fb7546fd3b8f9641",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:25Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9542,
+      "FileName": "nl_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "1a15c14788afd57f9ba6e8f8bf96cc114126f7d9",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:39:25Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9543,
+      "FileName": "po_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "7f0a9652f65eb7da3ec0a162384aefda69b8c6a2",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:37:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "586 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9544,
+      "FileName": "po_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "f3c0173f7de99647c2715acac9d002ed6ebed353",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:37:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9545,
+      "FileName": "po_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "5768266ba01794f948dfffd1f4fe185273641ae5",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:37:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "585 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9546,
+      "FileName": "po_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "28f17519e3e94a8eb9e69f503600a59ba2754683",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:37:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9547,
+      "FileName": "pt_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "cd1184b881c0da420b80eff2d2afeaf1596e04dc",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9548,
+      "FileName": "pt_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "9e96daaa05d9f44e69acab3c3257a14d44064ac7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9549,
+      "FileName": "pt_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Portuguese- Portugual)",
+      "Notes": null,
+      "Sha1Hash": "8a14bffd2df1371972465e3439ca8c507e35961f",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9550,
+      "FileName": "pt_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "51b3f7f54909da9b7757a4ec48f1b92ec727fc41",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9551,
+      "FileName": "ru_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "e34ea0e4dab5b031d70fa32fdd2c309f38d0cae0",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "584 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9552,
+      "FileName": "ru_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "e722f53d5aa66b5a76bae94f84b982489c777fae",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9553,
+      "FileName": "ru_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "9601faa4f4eddf79a59d2eefd02cd093e85dc909",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "583 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9554,
+      "FileName": "ru_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "969b5cd312ac5288ff91c5da104bde2f690e7b25",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:36:27Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9555,
+      "FileName": "sv_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "e548a77573a65fd6596902663ec2ce98c938a6ba",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:36Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9556,
+      "FileName": "sv_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "c412412da505877a89642d52a49cadfe055eb4d1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:36Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9557,
+      "FileName": "sv_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "af0f87000cb99079e60ee05ce98ca94544b1ec6d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:36Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9558,
+      "FileName": "sv_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "bb48be7395f195eea9536de06c7a2284c817c31b",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:36Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9559,
+      "FileName": "tk_win_srv_2003_r2_enterprise_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "990a0c3d088b83b72ba1ce65580cae3d1bc95713",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9560,
+      "FileName": "tk_win_srv_2003_r2_enterprise_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "053ebb0703572549cd4e0c98bc681ef3b22f7595",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "123 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9561,
+      "FileName": "tk_win_srv_2003_r2_standard_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "111ed10526fa54b515c7143d1e8e47aa51598cf2",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9562,
+      "FileName": "tk_win_srv_2003_r2_standard_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "5d35537b5e7e2974da853800f4ff1c6e5167714a",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-08T08:35:11Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "123 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9563,
+      "FileName": "en_win_ce_net_cd1.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "2d4c5ca30d414b9a4920f6c8d8635d9f352a2f07",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "509 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9564,
+      "FileName": "en_win_ce_net_cd2.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "bd8f0c00075f29a2857dd7ac6e5197a94bae4729",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9565,
+      "FileName": "en_win_ce_net_cd3.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "930e4d8db7cdbebda86846a1117e62fc0ef6d2a8",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "604 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9566,
+      "FileName": "en_win_ce_net_cd4.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 4 (English)",
+      "Notes": null,
+      "Sha1Hash": "fca5c4ebdd8beb58822efcfbf1012954de22e436",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "450 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9567,
+      "FileName": "en_win_ce_net_cd5.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 5 (English)",
+      "Notes": null,
+      "Sha1Hash": "edef23031e8bf5b0ff35702ad92cb31baaab5718",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "479 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9568,
+      "FileName": "en_win_ce_net_cd6.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 6 (English)",
+      "Notes": null,
+      "Sha1Hash": "4306947ec8fccdd9118c75f2c5bd14cd78e28f5e",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:54:59Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "394 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9569,
+      "FileName": "jp_win_ce_net_cd1.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c8606f510252e8108176bc344532d290dca261ab",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9570,
+      "FileName": "jp_win_ce_net_cd2.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "df70421b7fc9667b79d38d4054c25a53fcfc5217",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9571,
+      "FileName": "jp_win_ce_net_cd3.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b9fa51604b16cb04c3a45f6827490e4aec896f75",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "604 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9572,
+      "FileName": "jp_win_ce_net_cd4.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 4 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "107e503fe9903e71f19764daed78a1b45465f412",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "450 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9573,
+      "FileName": "jp_win_ce_net_cd5.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 5 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "645691a81d615140a9ba27d2c6f7d4faa0640ae8",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "479 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9574,
+      "FileName": "jp_win_ce_net_cd6.iso",
+      "Description": "Windows Embedded CE 5.0, Disc 6 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "804ea4f8196f9d147028bed9f50f533a5b368623",
+      "ProductFamilyId": 159,
+      "PostedDate": "2006-02-09T02:55:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "392 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9577,
+      "FileName": "br_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "d4156e4d26211f50b79c136cef2272b5a8170669",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:18:12Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9578,
+      "FileName": "br_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "42123b29b65318fa4eb7aff14180a1bf745f3224",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:18:12Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9579,
+      "FileName": "br_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "4b8dfefaca65a9d5c5f69e1bb84e5aa34ef10be4",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:18:12Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9580,
+      "FileName": "br_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Portuguese -Brazil)",
+      "Notes": null,
+      "Sha1Hash": "8f52bede29027854609420f7740ba8fe5bc7526b",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:18:12Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9581,
+      "FileName": "cz_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "188a5577f3ca6d99bf25f2d8b1862e1e34700de1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:23Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "584 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9582,
+      "FileName": "cz_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "7c96f7c4c06109e688f3f19c23fa4a453c3569d7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:23Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9583,
+      "FileName": "cz_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "7f4440ecf9d0e0ba741cca999931579cda3275d5",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:23Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9584,
+      "FileName": "cz_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "f352fbffb24afc04c4703577e2d301ca792d2656",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:23Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9585,
+      "FileName": "es_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5746d1d064cdd6946c346a1420cb7886fa48ee5d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:40Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9586,
+      "FileName": "es_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7aa47037bb3c69fdb8a93c789afda4d8bae594a9",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:40Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9587,
+      "FileName": "es_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "9bc766c28fbf79eaf0085245a7a81659eb87a0c1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:40Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9588,
+      "FileName": "es_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5630a5ebe1a1e7c76a85fd275e43e089ca1c0876",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:40Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9589,
+      "FileName": "fr_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "445267edb3dc49c210cadc3b549f4308e31d759c",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9590,
+      "FileName": "fr_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "7312390471f2b96bd6acca778ff126d58a9ccda8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9591,
+      "FileName": "fr_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "db30ce996e7c86d18043041ba20d271e06077a15",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9592,
+      "FileName": "fr_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "82fcba66923464284901dbf95a2c4597ace676b8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9593,
+      "FileName": "hu_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "c526589e1f7895cb98ec7dd5cf06610862d9f2d6",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:18Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9594,
+      "FileName": "hu_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "8f87d59d381d30d3380ae8f2de3ccac1823b4339",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:18Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9595,
+      "FileName": "hu_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "cc7ff91044fe190c63575973b2d6a3e74891f8de",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:18Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9596,
+      "FileName": "hu_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "254a33ade39d162262a1bbbb102ebc003c9b4f4b",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:14:18Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9597,
+      "FileName": "it_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "180767ff9e3e96131df73c78298c036a9666f0f5",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9598,
+      "FileName": "it_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "c9657b4a9131a1b9fe9b86527c5f529bbece0b73",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9599,
+      "FileName": "it_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "855a93d5bc4a164b7fb1175ea03f89617009df0d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9600,
+      "FileName": "it_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9f946d4c5c4f958302a67fdbdc59bb5b21deeb0e",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9601,
+      "FileName": "nl_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "1912333e565018633930019c92ab42ac9a1e9779",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "577 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9602,
+      "FileName": "nl_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "2b455eb9938ab1b43847f8b1d2a81592066c51f8",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9603,
+      "FileName": "nl_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "a4face6f7a8fb70712d499ce07c4eebd8255ca6d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9604,
+      "FileName": "nl_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "1a15c14788afd57f9ba6e8f8bf96cc114126f7d9",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:17:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9605,
+      "FileName": "po_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "37f945aa0108c7747dc8e539a026026bfee39649",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:06Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "586 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9606,
+      "FileName": "po_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "f3c0173f7de99647c2715acac9d002ed6ebed353",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:06Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9607,
+      "FileName": "po_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "3adc124fed4ce27ed0110bcd2d96def86e7775eb",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:06Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "585 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9608,
+      "FileName": "po_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "28f17519e3e94a8eb9e69f503600a59ba2754683",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:13:06Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9609,
+      "FileName": "pt_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "333ceb2db29819bc1d8b94f64151ae2a5ca056f6",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9610,
+      "FileName": "pt_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "9e96daaa05d9f44e69acab3c3257a14d44064ac7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9611,
+      "FileName": "pt_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "dcdf679fd23ecdc776c905a1f91d3bce86856b1c",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9612,
+      "FileName": "pt_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "51b3f7f54909da9b7757a4ec48f1b92ec727fc41",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9613,
+      "FileName": "ru_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "af02a022890116bd52ae10a0166109dcbfd3eadb",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:05Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "584 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9614,
+      "FileName": "ru_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "e722f53d5aa66b5a76bae94f84b982489c777fae",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:05Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9615,
+      "FileName": "ru_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "a5aaa17063a9a987a87a24656cc023309075bc81",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:05Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "583 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9616,
+      "FileName": "ru_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "969b5cd312ac5288ff91c5da104bde2f690e7b25",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:12:05Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9617,
+      "FileName": "sv_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "d35646dc9844144362ab450b3e3207b65608b5be",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9618,
+      "FileName": "sv_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "c412412da505877a89642d52a49cadfe055eb4d1",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9619,
+      "FileName": "sv_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "11befc32bf8bfe4943ead0dbaf51756ee4fd5ed6",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9620,
+      "FileName": "sv_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "bb48be7395f195eea9536de06c7a2284c817c31b",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:11:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9621,
+      "FileName": "tk_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "927a2680ad73ce97c3927a1b4f1e770a2c1d8a5a",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:10:53Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9622,
+      "FileName": "tk_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "053ebb0703572549cd4e0c98bc681ef3b22f7595",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:10:53Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "123 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9623,
+      "FileName": "tk_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "2a364908ae978b1a12a69dfe1e9f93667a716d96",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:10:53Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9624,
+      "FileName": "tk_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "5d35537b5e7e2974da853800f4ff1c6e5167714a",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-09T11:10:53Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "123 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9631,
+      "FileName": "mui_isa_2004_sp2.iso",
+      "Description": "ISA Server 2004 Service Pack 2 (English, French, German, Japanese, Simplified Chinese, Spanish, Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "188ff436888bfb39e3ccc8a320fad2bfa0567398",
+      "ProductFamilyId": 193,
+      "PostedDate": "2006-02-09T11:20:53Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "ja"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "168 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9637,
+      "FileName": "de_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "57656dc0d91683c9222f8d4fd728776b491e6b4d",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:15:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9638,
+      "FileName": "de_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "29152c5c5a499c802cfd86011b84ea3431b43eb7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:15:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9639,
+      "FileName": "de_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "c64ef216b1a6ea299bc4209f9ffda1d97e47793a",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:15:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "574 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9640,
+      "FileName": "de_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "b0be99fcbf9726601bb3c1660266b96d0b304a57",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:15:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9641,
+      "FileName": "jp_win_srv_2003_r2_enterprise_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 1 - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "740996989e501cfb0288bd09c7b68ac57a8100e7",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:39:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "618 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9642,
+      "FileName": "jp_win_srv_2003_r2_enterprise_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Enterprise Edition - Disc 2 - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ed8a6bee78df47f981a8a608a79a26ad46d1b521",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:39:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9645,
+      "FileName": "jp_win_srv_2003_r2_standard_vl_cd1.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 1 - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "43f8d150179aeda324c1cd897295e491ff4b4ba3",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:39:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "616 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9646,
+      "FileName": "jp_win_srv_2003_r2_standard_vl_cd2.iso",
+      "Description": "Windows Server 2003 R2 Standard Edition - Disc 2 - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e2098b9be9715e27fbf39dc922d2ceb64f03401f",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-02-10T04:39:10Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9649,
+      "FileName": "ko_vcpp_tools_for_itanium.iso",
+      "Description": "Visual C++ Tools for Itanium-based Systems (Korean)",
+      "Notes": null,
+      "Sha1Hash": "796b6daa6ca7da85b3d678c7fec893dabb4765af",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-02-10T04:39:49Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "617 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9650,
+      "FileName": "cht_net_framework_sdk_20_x64.iso",
+      "Description": ".NET Framework 2.0 SDK (x64) (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "884cf106894ce8be313552495187faa50d7cfb9b",
+      "ProductFamilyId": 234,
+      "PostedDate": "2006-02-10T04:42:59Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "531 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9651,
+      "FileName": "en_dxsdk_dec2005.exe",
+      "Description": "DirectX SDK (December 2005) (English)",
+      "Notes": null,
+      "Sha1Hash": "1dca39b63e5f1371ee47fccf3fbb755ab69a7891",
+      "ProductFamilyId": 251,
+      "PostedDate": "2006-02-10T04:43:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9691,
+      "FileName": "cr_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Croatian (Croatia)",
+      "Notes": null,
+      "Sha1Hash": "537344569e97cbebfe1bcb9aecef8d6145ca0d07",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:03Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9692,
+      "FileName": "cr_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Croatian (Croatia)",
+      "Notes": null,
+      "Sha1Hash": "3e9f6a22d33a1fc6666ca19818c3170415e59f15",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:03Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9693,
+      "FileName": "cz_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Czech (Czech Republic)",
+      "Notes": null,
+      "Sha1Hash": "1c69ceca4947095131ad2376972937e827e0e172",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:25Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "430 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9694,
+      "FileName": "cz_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Czech (Czech Republic)",
+      "Notes": null,
+      "Sha1Hash": "89f3e30fec25519ef60c78c455a48d8e7288d4f5",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:25Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "340 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9695,
+      "FileName": "da_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Danish (Denmark)",
+      "Notes": null,
+      "Sha1Hash": "52d96ba136b0b6f10bc3986a5b9f2811db36b3cd",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:46Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9696,
+      "FileName": "da_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Danish (Denmark)",
+      "Notes": null,
+      "Sha1Hash": "2e6ad26593a57c0c5625655653d34f2d24393dac",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:46:46Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "339 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9697,
+      "FileName": "de_austria_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - German (Austria)",
+      "Notes": null,
+      "Sha1Hash": "0fda9af4b948c87e5dc904c467e56852a4200030",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:45:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9698,
+      "FileName": "de_austria_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - German (Austria)",
+      "Notes": null,
+      "Sha1Hash": "c1576d633c98acf5e546257c895be55a9965c04d",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:45:07Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "357 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9699,
+      "FileName": "de_germany_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - German (Germany)",
+      "Notes": null,
+      "Sha1Hash": "0ff5bf2ea0d07a9ae32407778705eb9a759fa3a6",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:49:04Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9700,
+      "FileName": "de_germany_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - German (Germany)",
+      "Notes": null,
+      "Sha1Hash": "a661953d7d55302319eef095efba0b0b76c86a21",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:49:04Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "357 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9701,
+      "FileName": "de_switzerland_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - German (Switzerland)",
+      "Notes": null,
+      "Sha1Hash": "33bc72e435ba682363e569f4f383f2d2539e55b4",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:02:39Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "626 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9702,
+      "FileName": "de_switzerland_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - German (Switzerland)",
+      "Notes": null,
+      "Sha1Hash": "755c00e69b5d600f3302167842ff939880324a16",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:02:39Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "621 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9703,
+      "FileName": "el_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Greek (Greece)",
+      "Notes": null,
+      "Sha1Hash": "aee4b6cafb28d6ab391e3f03a6f3d97382fa8b2c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:49:25Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9704,
+      "FileName": "el_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Greek (Greece)",
+      "Notes": null,
+      "Sha1Hash": "2b4c2eef0c04178531b828122d14566160d30b96",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:49:25Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "387 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9705,
+      "FileName": "en_au_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (Australia/New Zealand)",
+      "Notes": null,
+      "Sha1Hash": "73fac93944cd155008aaa6349addb70b2a462fc0",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:44:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "445 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9706,
+      "FileName": "en_au_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (Australia/New Zealand)",
+      "Notes": null,
+      "Sha1Hash": "8400caa4bad916d8d5f0140951e5330dbdb39952",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:44:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "527 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9707,
+      "FileName": "en_india_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (India)",
+      "Notes": null,
+      "Sha1Hash": "262732c2d078c2f117b0a9a5e177651579cee835",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:51:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9708,
+      "FileName": "en_india_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (India)",
+      "Notes": null,
+      "Sha1Hash": "259747b14e4c875c33e2712c1d4e732bd13ef15e",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:51:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "345 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9709,
+      "FileName": "en_indonesia_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (Indonesia)",
+      "Notes": null,
+      "Sha1Hash": "9db4f2396b6d8b57623f89c84a5267ce8dcf3440",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:51:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9710,
+      "FileName": "en_indonesia_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (Indonesia)",
+      "Notes": null,
+      "Sha1Hash": "3853ded80bc3005e34e96bb98dbff4da70789227",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:51:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9711,
+      "FileName": "en_ma_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (Malaysia)",
+      "Notes": null,
+      "Sha1Hash": "cc6764ad6c5920e9efa6d1f6a92fbdc75e5140fe",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:53:39Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9712,
+      "FileName": "en_ma_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (Malaysia)",
+      "Notes": null,
+      "Sha1Hash": "1d483288c4335f05339b39a2eddc2dfc02bc9158",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:53:39Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "342 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9713,
+      "FileName": "en_ph_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (Philippines)",
+      "Notes": null,
+      "Sha1Hash": "ef992470ca9f880315028a0799f18925f742e81d",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9714,
+      "FileName": "en_ph_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (Philippines)",
+      "Notes": null,
+      "Sha1Hash": "9a09a5d3c7a6ebb72a06f37b92c3ad4b9b1efcb3",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "345 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9715,
+      "FileName": "en_si_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (Singapore)",
+      "Notes": null,
+      "Sha1Hash": "b5a15ca55d0d952b7942823d97f86f7368484feb",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:57:39Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9716,
+      "FileName": "en_si_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (Singapore)",
+      "Notes": null,
+      "Sha1Hash": "0dc4c83fa9caf131450c497f14ff57966bf3dc1b",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:57:39Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9717,
+      "FileName": "en_uk_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (United Kingdom)",
+      "Notes": null,
+      "Sha1Hash": "5cdfd0ca8c1501257cef2d0de3e73e213ba97cca",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:04:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9718,
+      "FileName": "en_uk_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (United Kingdom)",
+      "Notes": null,
+      "Sha1Hash": "b705534d6e05a6312b87677cdae27dce6f0e1eaa",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:04:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "340 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9719,
+      "FileName": "en_us_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - English (United States)",
+      "Notes": null,
+      "Sha1Hash": "3533635a62d7f3028718da463e006aded7600c5b",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:05:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "611 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9720,
+      "FileName": "en_us_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - English (United States)",
+      "Notes": null,
+      "Sha1Hash": "8c7ea680d16590f0d6338d0f2f10e1796d1a231b",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:05:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9721,
+      "FileName": "es_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Spanish (Spain)",
+      "Notes": null,
+      "Sha1Hash": "1f6fb51957054db029533527cf440dd53e4d45af",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:00:23Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "405 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9722,
+      "FileName": "es_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Spanish (Spain)",
+      "Notes": null,
+      "Sha1Hash": "cd5d670836c1affdf1b794e0095cfb9c2dd2d45c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:00:23Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "344 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9723,
+      "FileName": "est_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Estonian (Estonia)",
+      "Notes": null,
+      "Sha1Hash": "777bbf11af10c3267b9b34c46d13386f5b23a8f5",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:47:21Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9724,
+      "FileName": "est_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Estonian (Estonia)",
+      "Notes": null,
+      "Sha1Hash": "1b63af044e50bb28d80696914c6ea82a5e0f3745",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:47:21Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "339 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9725,
+      "FileName": "fi_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Finnish (Finland)",
+      "Notes": null,
+      "Sha1Hash": "ab46eaa5b98ef1f84bc40ee13df7614c60d5cc7b",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:47:57Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9726,
+      "FileName": "fi_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Finnish (Finland)",
+      "Notes": null,
+      "Sha1Hash": "d6d8a91bd10073450116bc7be50b22bc68952817",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:47:57Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "438 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9727,
+      "FileName": "fr_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - French (France)",
+      "Notes": null,
+      "Sha1Hash": "0ee3039d12c9d2071732138fe9f80872da2f16da",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:48:37Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9728,
+      "FileName": "fr_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - French (France)",
+      "Notes": null,
+      "Sha1Hash": "c188dad0b3e574f919bafc522725cdb9f2c8a053",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:48:37Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "342 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9729,
+      "FileName": "hu_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Hungarian (Hungary)",
+      "Notes": null,
+      "Sha1Hash": "f75c4b8be4c7a8b8360a021ae9b59e5bf0c0381e",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:50:03Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9730,
+      "FileName": "hu_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Hungarian (Hungary)",
+      "Notes": null,
+      "Sha1Hash": "0d881b550dc0952a59321c8cc82a0bea993855f1",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:50:03Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9731,
+      "FileName": "ic_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Icelandic (Iceland)",
+      "Notes": null,
+      "Sha1Hash": "2eca9c64b2faa2511b4d0b1f6cf5c371fa2a2403",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:50:39Z",
+      "LanguageCodes": [
+        "is"
+      ],
+      "Languages": [
+        "Icelandic"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9732,
+      "FileName": "ic_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Icelandic (Iceland)",
+      "Notes": null,
+      "Sha1Hash": "1273174162332b945355d37e8441d2b088171d80",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:50:39Z",
+      "LanguageCodes": [
+        "is"
+      ],
+      "Languages": [
+        "Icelandic"
+      ],
+      "Size": "339 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9733,
+      "FileName": "it_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Italian (Italy)",
+      "Notes": null,
+      "Sha1Hash": "7b7039b35d46285664b8723253a9557e266aa31c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:52:04Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9734,
+      "FileName": "it_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Italian (Italy)",
+      "Notes": null,
+      "Sha1Hash": "16d274004a82d3c037cd94682d980bd29c8cd39c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:52:04Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "354 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9735,
+      "FileName": "la_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Latvian (Latvia)",
+      "Notes": null,
+      "Sha1Hash": "85899d61c4e4983bc53bc5afcea99b96fd70a344",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:52:44Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9736,
+      "FileName": "la_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Latvian (Latvia)",
+      "Notes": null,
+      "Sha1Hash": "650c3a7509fe00cdd48c4fb3539a17216e841a15",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:52:44Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9737,
+      "FileName": "li_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Lithuanian (Lithuania)",
+      "Notes": null,
+      "Sha1Hash": "2a0428b7579771f20d91a83dfb31d8cb7b203bc6",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:53:07Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9738,
+      "FileName": "li_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Lithuanian (Lithuania)",
+      "Notes": null,
+      "Sha1Hash": "1ee0542dde726f06b82a949a9dc226fb0cb7afe1",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:53:07Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "340 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9739,
+      "FileName": "nl_fr_belgium_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Dutch/French (Belgium)",
+      "Notes": null,
+      "Sha1Hash": "6c1fde65d43a72a1ec0b074e488e5f1f583372f9",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:45:41Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9740,
+      "FileName": "nl_fr_belgium_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Dutch/French (Belgium)",
+      "Notes": null,
+      "Sha1Hash": "7700a354ec308639235223c25f33b5a0fbb47a12",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:45:41Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9741,
+      "FileName": "nl_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Dutch (Netherlands)",
+      "Notes": null,
+      "Sha1Hash": "a4cf42d5a05527f1d9669d476f16cf4a74b6c4cf",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:54:08Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "405 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9742,
+      "FileName": "nl_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Dutch (Netherlands)",
+      "Notes": null,
+      "Sha1Hash": "19b7d4eb1baa53e1b4ca645a09de8e325bc9db67",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:54:08Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9743,
+      "FileName": "no_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Norwegian (Norway)",
+      "Notes": null,
+      "Sha1Hash": "8d1ec9a8d38c12eefe0b3fc3fa9ab190de741212",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:54:35Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9744,
+      "FileName": "no_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Norwegian (Norway)",
+      "Notes": null,
+      "Sha1Hash": "0de7390dd344c2bce7a9607069556e2c0966f994",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:54:35Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9745,
+      "FileName": "po_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Polish (Poland)",
+      "Notes": null,
+      "Sha1Hash": "79adbdbec6c6d763629644f0ba8cb0617b11d00c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:26Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "430 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9746,
+      "FileName": "po_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Polish (Poland)",
+      "Notes": null,
+      "Sha1Hash": "9d90a43d26f2cfc66ca250479f6b5192d57d758f",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:26Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "344 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9747,
+      "FileName": "pt_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Portuguese (Portugal)",
+      "Notes": null,
+      "Sha1Hash": "a3a1c99e287f640408b3c4e9c6b3a81640a87ffc",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:53Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "430 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9748,
+      "FileName": "pt_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Portuguese (Portugal)",
+      "Notes": null,
+      "Sha1Hash": "0c77181ec11274845d07256738101285c0ff468a",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:55:53Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "357 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9749,
+      "FileName": "ro_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Romanian (Romania)",
+      "Notes": null,
+      "Sha1Hash": "8d70d7b72f1d9567e92adfdc2e104cd7a405dccd",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:56:20Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9750,
+      "FileName": "ro_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Romanian (Romania)",
+      "Notes": null,
+      "Sha1Hash": "c7ad1c63fbcf20ecde057ee6098bb8ced4fe2997",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:56:20Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9751,
+      "FileName": "ru_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Russian (Russia)",
+      "Notes": null,
+      "Sha1Hash": "f6875b4afabfcf12014730af0f4e83c45780b367",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:56:48Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9752,
+      "FileName": "ru_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Russian (Russia)",
+      "Notes": null,
+      "Sha1Hash": "312bc5b6c82642866f43bbe17073fc58307084ac",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:56:48Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "366 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9753,
+      "FileName": "ser_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Serbian (Serbia and Montenegro)",
+      "Notes": null,
+      "Sha1Hash": "fcf4fabec3d53d367e4b2b3886924ff192a2f2df",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:57:11Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9754,
+      "FileName": "ser_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Serbian (Serbia and Montenegro)",
+      "Notes": null,
+      "Sha1Hash": "84f5964117c3df26b8e00a8a78e999fd8255ce89",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:57:11Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9755,
+      "FileName": "slo_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Slovenian (Slovenia)",
+      "Notes": null,
+      "Sha1Hash": "d76fad1ae9779c129bf642098c224f3e72baf34c",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:58:13Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9756,
+      "FileName": "slo_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Slovenian (Slovenia)",
+      "Notes": null,
+      "Sha1Hash": "5bdd14a00cdfa48b51601841603cbde76056a537",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T06:58:13Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "342 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9757,
+      "FileName": "sv_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Swedish (Sweden)",
+      "Notes": null,
+      "Sha1Hash": "a98e5226a8ca9a675e882cad2c80b79b924f9b31",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:02:07Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9758,
+      "FileName": "sv_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Swedish (Sweden)",
+      "Notes": null,
+      "Sha1Hash": "aa7de5e1bf7cd742b34069b9b20e2b9319c23729",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:02:07Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9759,
+      "FileName": "th_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Thai (Thailand)",
+      "Notes": null,
+      "Sha1Hash": "beaa8bf07084bd5ce15dfb553279e1466d4c6bc9",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:03:13Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "432 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9760,
+      "FileName": "th_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Thai (Thailand)",
+      "Notes": null,
+      "Sha1Hash": "60e2d22ab55e4cb071a19615b1edde51916cbb59",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:03:13Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "345 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9762,
+      "FileName": "tk_navision_with_sp2_cd1.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 1 - Turkish (Turkey)",
+      "Notes": null,
+      "Sha1Hash": "a5c9e681e81653cff7ca70365502585d6a444d24",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:03:44Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9763,
+      "FileName": "tk_navision_with_sp2_cd2.iso",
+      "Description": "Navision 4.0 with Service Pack 2 - Disc 2 - Turkish (Turkey)",
+      "Notes": null,
+      "Sha1Hash": "b1319135f17281a9cdcff2a51ee9f832c3e6397d",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-02-15T07:03:44Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "342 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9776,
+      "FileName": "en_sbf_9.0.iso",
+      "Description": "Small Business Financials 9.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "ffc02b07a45cd125262ad19ebf2b45a76de57744",
+      "ProductFamilyId": 125,
+      "PostedDate": "2006-02-15T07:53:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "561 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9777,
+      "FileName": "cht_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f0710894adb6746d22ae2d4d31d7cb47258f52c0",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9778,
+      "FileName": "cs_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ed9afabc14c19781890773eaf81305a3eb240bed",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9779,
+      "FileName": "de_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (German)",
+      "Notes": null,
+      "Sha1Hash": "bbcedd2a8f6860ac602a1d8931387e75472fa527",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9780,
+      "FileName": "en_vb6_codeadvisor.exe",
+      "Description": "Visual Basic 6.0 Code Advisor (English)",
+      "Notes": null,
+      "Sha1Hash": "9235c8973d047ad56d7971e32fdabed15e001c93",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9781,
+      "FileName": "es_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2282e6b55440b6bfcf0a72748e579e0e0aaef63c",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9782,
+      "FileName": "fr_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (French)",
+      "Notes": null,
+      "Sha1Hash": "b60b969c604a7d26e4b7e99973b2842fd5fa2b59",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9783,
+      "FileName": "it_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b9cf8b22f25720ea9836b0d51a648836d3fef760",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9784,
+      "FileName": "jp_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f2d89f7622697778bb09409210d44ad82341d581",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9785,
+      "FileName": "ko_vb6_codeadvisor.msi",
+      "Description": "Visual Basic 6.0 Code Advisor (Korean)",
+      "Notes": null,
+      "Sha1Hash": "16916d11b02776ef66b1a4b27d77179766282957",
+      "ProductFamilyId": 81,
+      "PostedDate": "2006-02-15T08:06:54Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9787,
+      "FileName": "cht_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9788,
+      "FileName": "cht_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9789,
+      "FileName": "cht_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9790,
+      "FileName": "cs_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9791,
+      "FileName": "cs_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9792,
+      "FileName": "cs_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9793,
+      "FileName": "es_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9794,
+      "FileName": "es_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9795,
+      "FileName": "es_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9796,
+      "FileName": "fr_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (French)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9797,
+      "FileName": "fr_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (French)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9798,
+      "FileName": "fr_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (French)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9799,
+      "FileName": "it_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (Italian)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9800,
+      "FileName": "it_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9801,
+      "FileName": "it_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (Italian)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9802,
+      "FileName": "ko_net_framework_20_redist_ia64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (ia64) (Korean)",
+      "Notes": null,
+      "Sha1Hash": "857b5a7928258aefd3649c8186bd9e5858338d0f",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "52 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9803,
+      "FileName": "ko_net_framework_20_redist_x64.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x64) (Korean)",
+      "Notes": null,
+      "Sha1Hash": "e59cca309463a5d98daeaada83d1b05fed5126c5",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "45 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9804,
+      "FileName": "ko_net_framework_20_redist_x86.exe",
+      "Description": ".NET Framework Version 2.0 Redistributable Package (x86) (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a3625c59d7a2995fb60877b5f5324892a1693b2a",
+      "ProductFamilyId": 231,
+      "PostedDate": "2006-02-15T09:04:18Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9805,
+      "FileName": "en_dxsdk_feb2006.exe",
+      "Description": "DirectX SDK (February 2006) (English)",
+      "Notes": null,
+      "Sha1Hash": "c7d6182451e62ad9f4d76a47382e67cb24b2a11f",
+      "ProductFamilyId": 251,
+      "PostedDate": "2006-02-15T09:25:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "337 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9806,
+      "FileName": "en_connected_services_framework_dev_25.iso",
+      "Description": "Connected Services Framework 2.5 Developer Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "c3b4c44c6404126587ece41f25ead9b40ddca017",
+      "ProductFamilyId": 174,
+      "PostedDate": "2006-02-16T04:03:42Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "10 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9807,
+      "FileName": "en_bcm_update_and_sba_sp2.exe",
+      "Description": "Service Pack 2 for Business Contact Manager Update and Small Business Accounting (English)",
+      "Notes": null,
+      "Sha1Hash": "6ea8bf21db93de05497912c82aebfbf80f3b7b7a",
+      "ProductFamilyId": 33,
+      "PostedDate": "2006-02-17T06:21:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9808,
+      "FileName": "de_sql_2005_dev_all_dvd.iso",
+      "Description": "SQL Server 2005 Developer Edition - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "8511af927c86bff0343494be7d4fdbc3db88296e",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:10:03Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2835 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9809,
+      "FileName": "de_sql_2005_ent_ia64_dvd.iso",
+      "Description": "SQL Server 2005 Enterprise Edition - 64-bit Itanium - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "3fc485fedea009d67e27538c1aaff930f61f0e59",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:10:41Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1080 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9810,
+      "FileName": "de_sql_2005_ent_x86_dvd.iso",
+      "Description": "SQL Server 2005 Enterprise Edition - 32-bit - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "b501d4d5eb4ccdb70e8e80e67d8f2f5bf04b08b4",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:10:41Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "925 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9811,
+      "FileName": "de_sql_2005_ent_x64_dvd.iso",
+      "Description": "SQL Server 2005 Enterprise Edition - 64-bit Extended - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "7133a9e96084dd13db863a34b2224d82419790ad",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:10:41Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "969 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9812,
+      "FileName": "de_sql_2005_std_ia64_dvd.iso",
+      "Description": "SQL Server 2005 Standard Edition - 64-bit Itanium - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "0b343c28e40cfa341cc2d065460fca3aec9a87d0",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:19:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1080 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9813,
+      "FileName": "de_sql_2005_std_x86_dvd.iso",
+      "Description": "SQL Server 2005 Standard Edition - 32-bit - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "e29fdbfbe43c1bfb4d4b6512c1a7b838d2e49895",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:19:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "925 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9814,
+      "FileName": "de_sql_2005_std_x64_dvd.iso",
+      "Description": "SQL Server 2005 Standard Edition - 64-bit Extended - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "63d176f4965d4a1c941337684605e43943a69a69",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:19:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "969 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9815,
+      "FileName": "de_sql_2005_wgp_x86_dvd.iso",
+      "Description": "SQL Server 2005 Workgroup Edition - 32-bit - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "8d478c6d4768bece613bdb3b98261546e96a7fe0",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-02-18T06:19:48Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "853 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9816,
+      "FileName": "br_access_2003.iso",
+      "Description": "Office Access 2003 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "19da1fdc10b10a7063ec9eee46db1da71196ef7a",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "355 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9817,
+      "FileName": "cht_access_2003.iso",
+      "Description": "Office Access 2003 (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "38a8f7428e890a525e35658d3a7506e070592014",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "499 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9818,
+      "FileName": "da_access_2003.iso",
+      "Description": "Office Access 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "c178e69ab23dfb03c030bbb9359885c19f722282",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "351 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9819,
+      "FileName": "de_access_2003.iso",
+      "Description": "Office Access 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "6e2f91801a43b0ae28dbab5363b72c949a9c54ec",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "390 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9820,
+      "FileName": "en_access_2003.iso",
+      "Description": "Office Access 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "ca2e346823c15a6fa546b84cae3cc83b27554911",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "406 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9821,
+      "FileName": "es_access_2003.iso",
+      "Description": "Office Access 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5254d5aa82613c439a136bab3a9dd9e54e560a9c",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "380 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9822,
+      "FileName": "fi_access_2003.iso",
+      "Description": "Office Access 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "8adf89501e972b2fec3a0a149a199f53790ccd2d",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "355 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9823,
+      "FileName": "fr_access_2003.iso",
+      "Description": "Office Access 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "f755b568102def0e79d6bee15684a18e95c44951",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "397 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9824,
+      "FileName": "hk_access_2003.iso",
+      "Description": "Office Access 2003 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "2ca4f37578bce5ffa18dc34b895cdc2ed183a365",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "528 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9825,
+      "FileName": "it_access_2003.iso",
+      "Description": "Office Access 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "90350f68e2dc829cd914664ee0765c052b4854a3",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "378 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9826,
+      "FileName": "jp_access_2003.iso",
+      "Description": "Office Access 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "5e0de639ad79e4fd2eac3e9d5ce6315fc61a25be",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "449 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9827,
+      "FileName": "ko_access_2003.iso",
+      "Description": "Office Access 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a410720c2cb4fbc5a7d9bd49738f527bde09a693",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "455 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9828,
+      "FileName": "nl_access_2003.iso",
+      "Description": "Office Access 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "29bf0712082c19e24ecd08be3bf549cd04bb2c7e",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "377 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9829,
+      "FileName": "no_access_2003.iso",
+      "Description": "Office Access 2003 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "b5ae263a4bbc6979ae1e3ab79fd841d25b2c6f84",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "349 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9830,
+      "FileName": "po_access_2003.iso",
+      "Description": "Office Access 2003 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "7f91f3439ce32a795325e7be7dc98a77e6b0b798",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "349 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9831,
+      "FileName": "sc_access_2003.iso",
+      "Description": "Office Access 2003 (Simplifed Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0f36e27491b3d5b72689d62aadbe1a56e67048c9",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "616 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9832,
+      "FileName": "sv_access_2003.iso",
+      "Description": "Office Access 2003 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "221dae8f29f4619d5ccb4157d446dcf33925f389",
+      "ProductFamilyId": 2,
+      "PostedDate": "2006-02-24T07:49:49Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "359 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9882,
+      "FileName": "en_crm_30_datamigration.exe",
+      "Description": "CRM 3.0 Data Migration Pack (English)",
+      "Notes": null,
+      "Sha1Hash": "7a43d5b03f0f3e50769e5161ab855ea4f160e72a",
+      "ProductFamilyId": 107,
+      "PostedDate": "2006-03-08T05:47:15Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9883,
+      "FileName": "en_greatplains_8.0_sp4a.exe",
+      "Description": "Great Plains 8.0 Service Pack 4a (English)",
+      "Notes": null,
+      "Sha1Hash": "52eed58f4698ddfeed389782bfb25ee2f952f7ee",
+      "ProductFamilyId": 110,
+      "PostedDate": "2006-03-08T05:48:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "66 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9884,
+      "FileName": "en_greatplains_8.0_sp4_install_guide.pdf",
+      "Description": "Great Plains 8.0 Service Pack 4a (Installation Guide) (English)",
+      "Notes": null,
+      "Sha1Hash": "b4dd479b405589d06cee17401175f120a1228325",
+      "ProductFamilyId": 110,
+      "PostedDate": "2006-03-08T05:50:02Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.864 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9890,
+      "FileName": "sl_navision_cd1_x12-09880.iso",
+      "Description": "Navision 4.0 with Service Pack 1 - Disc 1 - Slovak (Slovakia)",
+      "Notes": null,
+      "Sha1Hash": "f1d7a88026b38f94d7597dd266fa17319a0d6cc1",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-03-16T05:10:53Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "429 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9891,
+      "FileName": "sl_navision_cd2_x12-09882.iso",
+      "Description": "Navision 4.0 with Service Pack 1 - Disc 2 - Slovak (Slovakia)",
+      "Notes": null,
+      "Sha1Hash": "7fa2ab0488d85e5f403ac6d15ab2676fd1e9e7c7",
+      "ProductFamilyId": 115,
+      "PostedDate": "2006-03-16T05:10:53Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "341 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9893,
+      "FileName": "en_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "0d4b59b347529f8ea2e10662be4e9e47b622031e",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-03-18T02:15:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "448 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9893,
+      "FileName": "en_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "0d4b59b347529f8ea2e10662be4e9e47b622031e",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-03-18T02:15:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "448 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9894,
+      "FileName": "en_vs_2005_tfs_trial.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Trial Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "6f04a24f454dd955f3130ba3d3cab1a317757139",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-03-18T02:15:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "448 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9895,
+      "FileName": "en_msdn_library_may2006_cd1.iso",
+      "Description": "MSDN Subscriptions Library, May 2006 Edition - Disc 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "6a61f3c0dc00ce32a00871fc469ded2dfff77108",
+      "ProductFamilyId": 129,
+      "PostedDate": "2006-03-18T02:15:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9896,
+      "FileName": "en_msdn_library_may2006_cd2.iso",
+      "Description": "MSDN Subscriptions Library, May 2006 Edition - Disc 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "3d97a05e3ec046b14c281622b639881f6dfd0342",
+      "ProductFamilyId": 129,
+      "PostedDate": "2006-03-18T02:15:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9897,
+      "FileName": "en_msdn_library_may2006_cd3.iso",
+      "Description": "MSDN Subscriptions Library, May 2006 Edition - Disc 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "4824b605f7cf4ebd5de000656ff28bd517773aa6",
+      "ProductFamilyId": 129,
+      "PostedDate": "2006-03-18T02:15:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9898,
+      "FileName": "en_msdn_library_may2006_dvd.iso",
+      "Description": "MSDN Subscriptions Library, May 2006 Edition - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "0db4fdf7bdfb76900fd29865d998d34e6998d0cc",
+      "ProductFamilyId": 129,
+      "PostedDate": "2006-03-18T02:15:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1731 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9903,
+      "FileName": "en_dev_security_resourcekit.iso",
+      "Description": "Microsoft Developer Security Resource Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "b0971b7557deed231386c04212872e5382f60ab4",
+      "ProductFamilyId": 327,
+      "PostedDate": "2006-03-22T08:02:34Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1335 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9904,
+      "FileName": "cs_crm_30_pro_cd1.iso",
+      "Description": "Microsoft Dynamics CRM 3.0 Professional Edition, Disc 1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0c0410caae8fc267ebaf2ab7193fbfd57f9ecce8",
+      "ProductFamilyId": 107,
+      "PostedDate": "2006-03-22T07:38:21Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "608 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9906,
+      "FileName": "cs_crm_30_small_business_cd1.iso",
+      "Description": "Microsoft Dynamics CRM 3.0 Small Business Edition, Disc 1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0c0410caae8fc267ebaf2ab7193fbfd57f9ecce8",
+      "ProductFamilyId": 107,
+      "PostedDate": "2006-03-22T07:38:21Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "608 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9911,
+      "FileName": "br_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "c18ecac3bd0a13b1b2fb32698c5a92a74da0ed6a",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "56 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9912,
+      "FileName": "cs_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "4b2064a3e6f8d148d25fa40d5b466741a1174ae1",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9913,
+      "FileName": "cht_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "223c6b6cb5aefbf93547edb483a05d8cb3d7b034",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9914,
+      "FileName": "nl_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "651c9b9cd4a21d56fd9ab69edf5852fd2aab9551",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "56 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9915,
+      "FileName": "es_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "241fd37510a9bb111db03b99071c53fefe9eb939",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9916,
+      "FileName": "fr_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "95770aadcefe1525df77980476be8ac40b8cf855",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "58 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9917,
+      "FileName": "de_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "02b23d13c2f22cdf41a2aed63573e21b5e3b1831",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "58 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9918,
+      "FileName": "it_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e427d07e770836889b2dbfdf9335dceb4b8daba0",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9919,
+      "FileName": "ko_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "6fa94783df2b5fc292fb651ff2b5613537b9239f",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "57 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9920,
+      "FileName": "sv_sql_2005_express.exe",
+      "Description": "SQL Server 2005 Express Edition (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "ebba3b6a2f97ce3a47b0d210ff928daaf924514f",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-03-24T06:42:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "56 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9924,
+      "FileName": "en_biztalk_server_2006_accel_hipaa_ent_33.iso",
+      "Description": "BizTalk Accelerator for HIPAA Enterprise Edition 3.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "4b817f9aacb2b0e66635c96af607d8e11204b6bd",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9925,
+      "FileName": "en_biztalk_server_2006_accel_hipaa_sta_33.iso",
+      "Description": "BizTalk Accelerator for HIPAA Standard Edition 3.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "b3857ccc10a15c0571d17a3f0b512992feacce9b",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9926,
+      "FileName": "en_biztalk_server_2006_accel_hl7_ent_13.iso",
+      "Description": "BizTalk Accelerator for HL7 Enterprise Edition 1.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "a2cb415dee5db7732b7f95a7b5d1c867430c7a47",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9927,
+      "FileName": "en_biztalk_server_2006_accel_hl7_sta_13.iso",
+      "Description": "BizTalk Accelerator for HL7 Standard Edition 1.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "fcec1ea0693eae7cd966db91cdc60e54af2b85b6",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9928,
+      "FileName": "en_biztalk_server_2006_accel_rosettanet_ent_33.iso",
+      "Description": "BizTalk Accelerator for RosettaNet Enterprise Edition 3.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "a6e78ca8a4ca9406271074e9e072a7e933224137",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "50 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9929,
+      "FileName": "en_biztalk_server_2006_accel_rosettanet_sta_33.iso",
+      "Description": "BizTalk Accelerator for RosettaNet Standard Edition 3.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "f15205b4574e8fc109ab1a6e524058a72a6fc74d",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "50 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9930,
+      "FileName": "en_biztalk_server_2006_accel_swift_ent_23.iso",
+      "Description": "BizTalk Accelerator for SWIFT Enterprise Edition 2.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "52ea1cdb4fca3a155d0528ec0fbc637241b6c3a8",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "173 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9931,
+      "FileName": "en_biztalk_server_2006_accel_swift_sta_23.iso",
+      "Description": "BizTalk Accelerator for SWIFT Standard Edition 2.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "0bef0ae7df5f39f5495cea52ff2ba7edd61a9e3b",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "173 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9932,
+      "FileName": "en_biztalk_server_2006_adapters_enterprise.iso",
+      "Description": "BizTalk Adapters for Enterprise Applications (English)",
+      "Notes": null,
+      "Sha1Hash": "082a90f7ff4ad48e32124b3370939ca0ed3b8b10",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9933,
+      "FileName": "en_biztalk_server_2006_dev.iso",
+      "Description": "BizTalk Server 2006 Developer Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "7d93a538722718c479e9e3db3b46062edc667f12",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "456 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9934,
+      "FileName": "en_biztalk_server_2006_ent.iso",
+      "Description": "BizTalk Server 2006 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "ad28cf095094addb877f6b7a9066dff42b28ecbd",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "456 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9935,
+      "FileName": "en_biztalk_server_2006_sta.iso",
+      "Description": "BizTalk Server 2006 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "c57b96fca3092118a45f7a946d73ad87e579457f",
+      "ProductFamilyId": 171,
+      "PostedDate": "2006-03-28T06:33:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "456 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9936,
+      "FileName": "mui_windows_server_2003_r2_cd1.iso",
+      "Description": "Windows Server 2003 R2 Multilingual User Interface Pack Disc 1 (French, German, Japanese, Spanish)",
+      "Notes": null,
+      "Sha1Hash": "717fe1e1facbf509a4af296d1a2192dfa9dca062",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "de",
+        "es",
+        "fr",
+        "ja"
+      ],
+      "Languages": [
+        "Japanese",
+        "German",
+        "Spanish",
+        "French"
+      ],
+      "Size": "609 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9937,
+      "FileName": "mui_windows_server_2003_r2_cd2.iso",
+      "Description": "Windows Server 2003 R2 Multilingual User Interface Pack Disc 2 (Korean, Simplified Chinese, Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0393745a2231422452ac7a6643d185b5079a5161",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "ko"
+      ],
+      "Languages": [
+        "Korean",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "486 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9938,
+      "FileName": "mui_windows_server_2003_r2_cd3.iso",
+      "Description": "Windows Server 2003 R2 Multilingual User Interface Pack Disc 3 (Dutch, Italian, Portuguese-Brazil, Swedish)",
+      "Notes": null,
+      "Sha1Hash": "c39f6182d53561166ccb94b741d00eb3aba5a0b5",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "it",
+        "nl",
+        "pt",
+        "sv"
+      ],
+      "Languages": [
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Swedish"
+      ],
+      "Size": "484 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9939,
+      "FileName": "mui_windows_server_2003_r2_cd4.iso",
+      "Description": "Windows Server 2003 R2 Multilingual User Interface Pack Disc 4 (Czech, Polish, Russian)",
+      "Notes": null,
+      "Sha1Hash": "b984aca8a6ab3ce1363c0ccf861209bc9414cbbc",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "cs",
+        "pl",
+        "ru"
+      ],
+      "Languages": [
+        "Czech",
+        "Polish",
+        "Russian"
+      ],
+      "Size": "385 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9940,
+      "FileName": "mui_windows_server_2003_r2_cd5.iso",
+      "Description": "Windows Server 2003 R2 Multilingual User Interface Pack Disc 5 (Hungarian, Portuguese-Portugal, Turkish)",
+      "Notes": null,
+      "Sha1Hash": "cef01ded5e37a1c2d1c0665c591b59d4cdbbd615",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "378 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9941,
+      "FileName": "mui_windows_server_2003_r2_x64_cd1.iso",
+      "Description": "Windows Server 2003 R2 x64 Edition Multilingual User Interface Pack Disc 1 (German, Japanese)",
+      "Notes": null,
+      "Sha1Hash": "748bc2d412ec56f6527821b6730f8565094b0c0a",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "de",
+        "ja"
+      ],
+      "Languages": [
+        "Japanese",
+        "German"
+      ],
+      "Size": "468 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9942,
+      "FileName": "mui_windows_server_2003_r2_x64_cd2.iso",
+      "Description": "Windows Server 2003 R2 x64 Edition Multilingual User Interface Pack Disc 2 (French, Italian, Spanish)",
+      "Notes": null,
+      "Sha1Hash": "991887a2f9214905a932f49bbf54b20ec8345a21",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "es",
+        "fr",
+        "it"
+      ],
+      "Languages": [
+        "Spanish",
+        "French",
+        "Italian"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9943,
+      "FileName": "mui_windows_server_2003_r2_x64_cd3.iso",
+      "Description": "Windows Server 2003 R2 x64 Edition Multilingual User Interface Pack Disc 3 (Korean, Simplified Chinese, Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "c2800d4aed5245962f11ae0d2396c8c25829c630",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-03-29T02:01:10Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "ko"
+      ],
+      "Languages": [
+        "Korean",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "587 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9945,
+      "FileName": "de_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (German)",
+      "Notes": null,
+      "Sha1Hash": "7b7d1617424036138cf31d029af823b7ac9186da",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9946,
+      "FileName": "en_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (English)",
+      "Notes": null,
+      "Sha1Hash": "31f9ee43c5208fcb7a901da2200360e958d5b219",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9947,
+      "FileName": "es_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "de89350e10802dd3d7385f87fec9e45ccd51345f",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9948,
+      "FileName": "fr_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (French)",
+      "Notes": null,
+      "Sha1Hash": "2fb752a8a091886dde4baa810dbb4b22fc2f8125",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9949,
+      "FileName": "it_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (Italian)",
+      "Notes": null,
+      "Sha1Hash": "79195ebcf65afdf361f876154d7dc71f81dd175e",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9950,
+      "FileName": "jp_vss_60d.iso",
+      "Description": "Visual SourceSafe 6.0d (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "9f4e008aa521a7fc4acfcad1f312e7b84ed2a874",
+      "ProductFamilyId": 94,
+      "PostedDate": "2006-03-30T07:35:58Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9953,
+      "FileName": "jp_msdn_library_june2006_cd1.iso",
+      "Description": "MSDN Subscriptions Library, June 2006 Edition - Disc 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f400991f1e0775e0e344ba5e74acc47fca10f9a0",
+      "ProductFamilyId": 130,
+      "PostedDate": "2006-05-02T01:27:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9954,
+      "FileName": "jp_msdn_library_june2006_cd2.iso",
+      "Description": "MSDN Subscriptions Library, June 2006 Edition - Disc 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "4b760a61d81756105f48e5a22d3393f8b62f8c3f",
+      "ProductFamilyId": 130,
+      "PostedDate": "2006-05-02T01:27:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9955,
+      "FileName": "jp_msdn_library_june2006_cd3.iso",
+      "Description": "MSDN Subscriptions Library, June 2006 Edition - Disc 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "1bb075ab5cfdcb0696de3220ec08b462609d0834",
+      "ProductFamilyId": 130,
+      "PostedDate": "2006-05-02T01:27:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9956,
+      "FileName": "jp_msdn_library_june2006_cd4.iso",
+      "Description": "MSDN Subscriptions Library, June 2006 Edition - Disc 4 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d7403c50b0790239cfff3d91264f73d0e3fcd604",
+      "ProductFamilyId": 130,
+      "PostedDate": "2006-05-02T01:27:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "213 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9957,
+      "FileName": "jp_msdn_library_june2006_dvd.iso",
+      "Description": "MSDN Subscriptions Library, June 2006 Edition - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "65a8b5160b7474519d9627a22ce3365ef5cfb041",
+      "ProductFamilyId": 130,
+      "PostedDate": "2006-05-02T01:27:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2133 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9958,
+      "FileName": "jp_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "6f3cc05d4bd9730833a96a3d68d17166f02deb2a",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:18:09Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9958,
+      "FileName": "jp_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "6f3cc05d4bd9730833a96a3d68d17166f02deb2a",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:18:09Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9959,
+      "FileName": "jp_vs_2005_tfs_trial.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Trial Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3c187daa18b54bcb25a46e30bbaa91009acbd1a2",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-18T06:26:45Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9960,
+      "FileName": "cht_msdn_library_june2006_cd1.iso",
+      "Description": "MSDN Library, July 2006 - Disc 1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "0371329d091b503a3e72c08ff3caef4d1ca671c7",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9961,
+      "FileName": "cht_msdn_library_june2006_cd2.iso",
+      "Description": "MSDN Library, July 2006 - Disc 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "9e1aee6b0d96bf66c2c4f697e75a25e8ff33ce7d",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9962,
+      "FileName": "cht_msdn_library_june2006_cd3.iso",
+      "Description": "MSDN Library, July 2006 - Disc 3 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "27e8690d89d8caa70f7b7452073b376962966d8f",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "569 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9963,
+      "FileName": "cht_msdn_library_june2006_dvd.iso",
+      "Description": "MSDN Library, July 2006 - DVD (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "658dcbe8855724bfcf407caefc80d39988db01f0",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1850 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9964,
+      "FileName": "ko_msdn_library_july2006_cd1.iso",
+      "Description": "MSDN Library, July 2006 - Disc 1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "abc83f6a1e0b52ba8acf417c929127d77295b11b",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9965,
+      "FileName": "ko_msdn_library_july2006_cd2.iso",
+      "Description": "MSDN Library, July 2006 - Disc 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "8f192badd8e926fcd4ea80ce2b7b5993b9e90dce",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9966,
+      "FileName": "ko_msdn_library_july2006_cd3.iso",
+      "Description": "MSDN Library, July 2006 - Disc 3 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "e14ca5a15e736cf74bc035e61a3208d38d8afefe",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "589 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9967,
+      "FileName": "ko_msdn_library_july2006_dvd.iso",
+      "Description": "MSDN Library, July 2006 - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "3cba28da2a06a68a9831c614664bcb408d7e3ce2",
+      "ProductFamilyId": 131,
+      "PostedDate": "2006-05-02T01:29:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1869 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9968,
+      "FileName": "ko_vs_2005_tfs_trial.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Trial Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "feaf0c94078af4afef98f1002d07f45e0e7ee134",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-18T06:27:06Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9969,
+      "FileName": "ko_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "649d8c1db957054b3ba4839e203185f37c944ce1",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:19:58Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9969,
+      "FileName": "ko_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "649d8c1db957054b3ba4839e203185f37c944ce1",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:19:58Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "469 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9970,
+      "FileName": "cht_vs_2005_tfs_trial.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Trial Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a010cc725ebb95e195fbcb1e3bb5e67b31c99d47",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-18T06:29:46Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9971,
+      "FileName": "cht_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e81b1b502584d02d66c90dc2a338e82d6b62a661",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:20:50Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 9971,
+      "FileName": "cht_vs_2005_tfs_wgp.iso",
+      "Description": "Visual Studio 2005 Team Foundation Server Workgroup Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e81b1b502584d02d66c90dc2a338e82d6b62a661",
+      "ProductFamilyId": 99,
+      "PostedDate": "2006-05-02T01:20:50Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9972,
+      "FileName": "cht_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "74793a69d71f36bb3b3fdf90f7cdbd773eda7aa2",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "317 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9973,
+      "FileName": "cht_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "56b1758af1a5c71f5f7c0f19d0a8286546a8cc3f",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "265 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9974,
+      "FileName": "cs_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "68a4b7523a525f165d6e6c0487d64a9fe509032b",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9975,
+      "FileName": "de_sql_server_sp1_ia64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 for Itanium-based Systems (German)",
+      "Notes": null,
+      "Sha1Hash": "284b75249d2ad9a352ad0d7b76ce23764cceac98",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "365 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9976,
+      "FileName": "de_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (German)",
+      "Notes": null,
+      "Sha1Hash": "b084d86f696d211f6f3db876c67ab0e6cf335eac",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9977,
+      "FileName": "de_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (German)",
+      "Notes": null,
+      "Sha1Hash": "a29f28ff5e0218822cce54c4b1261f8e7c2fa0aa",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9978,
+      "FileName": "en_sql_server_sp1_ia64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 for Itanium-based Systems (English)",
+      "Notes": null,
+      "Sha1Hash": "03420540cf0f3dc4c7b85e7d8f3a86a769be514f",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "353 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9979,
+      "FileName": "en_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (English)",
+      "Notes": null,
+      "Sha1Hash": "0f6ccaee50ccd6845ee7514f57263d19f9d04a78",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9980,
+      "FileName": "en_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "ee72a1223c5e0969d4cd488c5fca4954ac029331",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "253 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9981,
+      "FileName": "es_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f80ab5d4c2dcaf14101bbf950de5f53c5614c76b",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9982,
+      "FileName": "es_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a36e164e6a32cc2c7bbb63387338ad114bf45845",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9983,
+      "FileName": "fr_sql_server_sp1_ia64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 for Itanium-based Systems (French)",
+      "Notes": null,
+      "Sha1Hash": "d0dcf9ad2fdb8e7ff4449043f79a20b268328798",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "365 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9984,
+      "FileName": "fr_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (French)",
+      "Notes": null,
+      "Sha1Hash": "f46abd4e285f0625325a1960780dbb653bcc7c39",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9985,
+      "FileName": "fr_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "7fbe8182bb55dab3fa6c6390de79c7d991bcbad3",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9986,
+      "FileName": "it_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Italian)",
+      "Notes": null,
+      "Sha1Hash": "1a69fbaca4a80b40a3b8e1cb6e6189233950ee6b",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9987,
+      "FileName": "it_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "38e54392d192e6ccc3498c490cd3c2e7c16d77ce",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9988,
+      "FileName": "jp_sql_server_sp1_ia64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 for Itanium-based Systems (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "13c2bf5e8c404091b1368f08592eae9f42427852",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "365 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9989,
+      "FileName": "jp_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "5cda72e88d0bacd3452ddb20d741caaaca24829f",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9990,
+      "FileName": "jp_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "476be3c645ee9951bf1f48ab24c2704ae03aedd9",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9991,
+      "FileName": "ko_sql_server_sp1_x64.exe",
+      "Description": "SQL Server 2005 Service Pack 1 - 64-bit Extended (Korean)",
+      "Notes": null,
+      "Sha1Hash": "def66d94249bafc33cc1c59db63ba2bff72324c3",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9992,
+      "FileName": "ko_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7952d6fa2b140b8fb603bd0f58220857b4c117c9",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9993,
+      "FileName": "en_dxsdk_apr2006.exe",
+      "Description": "DirectX SDK (April 2006) (English)",
+      "Notes": null,
+      "Sha1Hash": "67b6a521ad5f4ac1a96a406243c67f877f337bf8",
+      "ProductFamilyId": 251,
+      "PostedDate": "2006-04-27T05:29:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "390 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9994,
+      "FileName": "en_platformsdk_windowsr2_march2006.iso",
+      "Description": "Platform SDK for Windows Server 2003 R2 - March 2006 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "4f96ff490255797835ce17115096432975f99376",
+      "ProductFamilyId": 137,
+      "PostedDate": "2006-04-28T00:11:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "410 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9995,
+      "FileName": "cs_sql_server_sp1_x86.exe",
+      "Description": "SQL Server 2005 Service Pack 1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e1caf2688f6d378a5f5d8e199eceacac60b03628",
+      "ProductFamilyId": 211,
+      "PostedDate": "2006-04-27T23:53:12Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9996,
+      "FileName": "cht_office_communicator_web_access.msi",
+      "Description": "Office Communicator Web Access (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "11db733bfe85c8b8d1755c5e3ec747cccd596637",
+      "ProductFamilyId": 10,
+      "PostedDate": "2006-04-28T03:18:08Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9997,
+      "FileName": "cs_office_communicator_web_access.msi",
+      "Description": "Office Communicator Web Access (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "af03ce24f36af7c48f7ab3e48fd94051cf532903",
+      "ProductFamilyId": 10,
+      "PostedDate": "2006-04-28T03:18:08Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9998,
+      "FileName": "de_office_communicator_web_access.msi",
+      "Description": "Office Communicator Web Access (German)",
+      "Notes": null,
+      "Sha1Hash": "576a373746a5fa506c962d5849eb6aea78af50dc",
+      "ProductFamilyId": 10,
+      "PostedDate": "2006-04-28T03:18:08Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 9999,
+      "FileName": "es_office_communicator_web_access.msi",
+      "Description": "Office Communicator Web Access (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "0b2f4ddbe9b0952bf98324d9cf92098fe254721a",
+      "ProductFamilyId": 10,
+      "PostedDate": "2006-04-28T03:18:08Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

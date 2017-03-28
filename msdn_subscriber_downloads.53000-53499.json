@@ -1,0 +1,794 @@
+{
+  "Files": [
+    {
+      "FileId": 53000,
+      "FileName": "en-gb_microsoft_dynamics_nav_2013_x86_x64_1016704.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (English-United Kingdom)",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "80baaac6be8e51aa5dddcf3549c3a861d2f48643",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "714 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53001,
+      "FileName": "fr_microsoft_dynamics_nav_2013_x86_x64_1016703.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (French)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "62568c7cf6767efca46c9b4c7f83aa83b69191c7",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:28Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "717 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53002,
+      "FileName": "es_microsoft_dynamics_nav_2013_x86_x64_1016698.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (Spanish)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "1d833dd4158de18f68500082480deabb0a480b7b",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:28Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53003,
+      "FileName": "da_microsoft_dynamics_nav_2013_x86_x64_1016697.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (Danish)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "9bfa85e61580a182542605e32f0e857d8ce2c2a6",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:29Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "714 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53004,
+      "FileName": "de_microsoft_dynamics_nav_2013_x86_x64_1016695.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (German)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "1481254bbc3cf0817fd34b917add60e4fdfe60fb",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:29Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "719 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53005,
+      "FileName": "en-au_microsoft_dynamics_nav_2013_x86_x64_1016690.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (English-Australia)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "5ace9c3c295064e8163ea403a5559c3cd3dc8fbf",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:29Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "718 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53006,
+      "FileName": "de-at_microsoft_dynamics_nav_2013_x86_x64_1968451.zip",
+      "Description": "Microsoft Dynamics NAV 2013 (x86 and x64) - (German-Austria)\r\n",
+      "Notes": "Please note that in order to successfully extract this ZIP file, the destination folder\u2019s name must be 10 characters long or less.<br> <br> Please review the Microsoft Dynamics NAV <a href=\" http://msdn.microsoft.com/en-us/library/dd338757(v=nav.70).aspx\"> Installation Options</a> prior to running setup. Note: The Demo Install Option is intended for evaluating the features of Microsoft Dynamics NAV and is not recommended as the foundation for an actual production environment.</br>",
+      "Sha1Hash": "4d30c888532e92c9c3fccf9dad8de1553fbec38a",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:30Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "710 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53007,
+      "FileName": "ja_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992126.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Japanese (Eval))",
+      "Notes": null,
+      "Sha1Hash": "d61ccc84b2da5ddccb8866c1210a1e9eebcbc2f3",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:21Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1722 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53008,
+      "FileName": "it_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992124.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "5e0c1f702e3af523613bb92470001db9b78d1930",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:21Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53009,
+      "FileName": "ja_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992125.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bc9c611a54eba22b16efb4410cda34a8812a146a",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:21Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1722 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53010,
+      "FileName": "es_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992118.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b514c1ff992bf5d1bc772a172b2c768d7143692a",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:22Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53011,
+      "FileName": "fr_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992123.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "387f8be6c9bd7827ffa328f05dbac191b5d2ab28",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:22Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53012,
+      "FileName": "ct_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992137.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "c4d8a26a2358baaad8047e899c9efacd9226a9f3",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:22Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53013,
+      "FileName": "ru_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992135.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "b6742ac57ab1f8183b73f145363a11237f297518",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:23Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53014,
+      "FileName": "cn_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992136.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "78add5bef88dd12e33460403f24f883b498e6a59",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:23Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53015,
+      "FileName": "de_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992086.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "9111145d2c3fa10fa519e763a6e09ab67a9a622d",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:24Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53016,
+      "FileName": "en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992110.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "54fc597523ea5755205b88329f6ba545c522b485",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53017,
+      "FileName": "pt_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992132.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "a5c6e17a0734b61232e9db94ad5ca9d04425aa96",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:24Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53018,
+      "FileName": "ko_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992128.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "68c3d72d62a60866a575907d839f98d6863de25f",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:25Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53019,
+      "FileName": "en_microsoft_desktop_optimization_pack_for_software_assurance_2013_x86_x64_dvd_1992393.iso",
+      "Description": "Microsoft Desktop Optimization Pack for Software Assurance 2013 (x86 and x64) - DVD (English (Eval))",
+      "Notes": null,
+      "Sha1Hash": "6a455ad6c874e54d52766327162e6e5eb97327b7",
+      "ProductFamilyId": 178,
+      "PostedDate": "2013-04-09T15:27:25Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1721 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53020,
+      "FileName": "mu_application_virtualization_hosting_for_desktops_5_0_sp1_x86_x64_dvd_1992084.iso",
+      "Description": "Application Virtualization Hosting for Desktops 5.0 Service Pack 1 (x86 and x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c3797e79aba89315ccb58185168a53d801ad0446",
+      "ProductFamilyId": 207,
+      "PostedDate": "2013-04-09T15:26:32Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "ja"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "300 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53021,
+      "FileName": "mu_application_virtualization_for_desktop_services_5_0_sp1_x86_dvd_1003941.iso",
+      "Description": "Application Virtualization for Remote Desktop Services 5.0 Service Pack 1 (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "22a47dd255f34208a5ee6d36e80cb9fe2aa295f8",
+      "ProductFamilyId": 207,
+      "PostedDate": "2013-04-09T15:26:44Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "ja"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "218 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53022,
+      "FileName": "nav_2013_msdn_license.flf",
+      "Description": "Microsoft Dynamics NAV 2013 License File (x86 and x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "9a10fc7448cdea22ef210c4a114d7d34310b02a1",
+      "ProductFamilyId": 509,
+      "PostedDate": "2013-04-18T16:35:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.006 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53023,
+      "FileName": "mu_windows_embedded_8_standard_language_pack_x86_dvd_2045226.iso",
+      "Description": "Windows Embedded 8 Standard Language Pack (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aa43b9aca160ec44307b963f3feac00b8a550426",
+      "ProductFamilyId": 506,
+      "PostedDate": "2013-04-23T16:23:56Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "el",
+        "en",
+        "es",
+        "et",
+        "eu",
+        "fi",
+        "gl",
+        "he",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Arabic",
+        "Bulgarian",
+        "Catalan",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Basque",
+        "Finnish",
+        "Galician",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Taiwan",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1946 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53024,
+      "FileName": "mu_windows_embedded_8_standard_language_pack_x64_dvd_2045374.iso",
+      "Description": "Windows Embedded 8 Standard Language Pack (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ed99b226429bdcbb5f09aa922a219215bcd4005e",
+      "ProductFamilyId": 506,
+      "PostedDate": "2013-04-23T16:23:59Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "ca",
+        "cs",
+        "da",
+        "el",
+        "en",
+        "es",
+        "et",
+        "eu",
+        "fi",
+        "gl",
+        "he",
+        "hr",
+        "hu",
+        "it",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Arabic",
+        "Bulgarian",
+        "Catalan",
+        "Czech",
+        "Danish",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Basque",
+        "Finnish",
+        "Galician",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Taiwan",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2687 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53025,
+      "FileName": "en_microsoft_dynamics_gp_sp1_2013_x86_and_x64_dvd_2046629.iso",
+      "Description": "Microsoft Dynamics GP 2013 Service Pack 1 (x86 and x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "5fe8ce845f5666e3fb0cb621c7a8e21854c31b56",
+      "ProductFamilyId": 502,
+      "PostedDate": "2013-04-22T17:09:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1837 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53027,
+      "FileName": "en_windows_embedded_compact_7_march_2013_x86_x64_dvd_2197408.iso",
+      "Description": "Windows Embedded Compact 7 \u2013 March 2013 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9e0244d0d2d3410e1dac77f6c465f2117b20fa1d",
+      "ProductFamilyId": 554,
+      "PostedDate": "2013-05-14T16:33:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7952 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53028,
+      "FileName": "en_windows_embedded_compact_2013_x86_x64_dvd_2247108.iso",
+      "Description": "Windows Embedded Compact 2013 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "259047f017768865050b4f1a0aeb5ab8da784bb2",
+      "ProductFamilyId": 553,
+      "PostedDate": "2013-06-06T15:58:09Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2060 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53163,
+      "FileName": "en_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_dvd_2339178.iso",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "3f7c19fb30d24dff39a1d22dc5dc1dee97f2b068",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1168 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53164,
+      "FileName": "en_visual_studio_team_foundation_server_2012_with_update_3_x86_x64_web_installer_2339244.exe",
+      "Description": "Visual Studio Team Foundation Server 2012 with Update 3 (x86 and x64) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "03461cc9b9878000cb69d6e8bfdec89c697bcbbd",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.725 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53165,
+      "FileName": "en_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_dvd_2339286.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "8270bcdb382d559d2e47f03b020536800dab6078",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "483 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53166,
+      "FileName": "en_visual_studio_team_foundation_server_express_2012_with_update_3_x86_x64_web_installer_2339333.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2012 with Update 3 (x86 and x64) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2012 is a source code control, project management, and team collaboration platform at the core of the Microsoft suite of Application Lifecycle Management tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255963\">Visual Studio Team Foundation Server 2012 Readme File</a>.",
+      "Sha1Hash": "632a35eef87c7b9c17e707ef0d83194c96890a2a",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.725 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 53167,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_arm_2338960.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (ARM) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "cc296c9e3f7e90cb2d5911fa3fdcdf1940f048fc",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53168,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_x64_2339112.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x64) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "c4ac45564e801e1bfd87936cac8a76c5754cdbd4",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53169,
+      "FileName": "en_visual_cpp_redistributable_for_visual_studio_2012_update_3_x86_2338994.exe",
+      "Description": "Visual C++ Redistributable for Visual Studio 2012 Update 3 (x86) - (English)\r\n",
+      "Notes": "The Visual C++ Redistributable Packages install runtime components that are required to run C++ applications built with Visual Studio 2012. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "7d6f654c16f9ce534bb2c4b1669d7dc039c433c9",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53170,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_x86_dvd_2339010.iso",
+      "Description": "Agents for Visual Studio 2012 Update 3 (x86) - DVD (English)\r\n",
+      "Notes": "Agents for Visual Studio 2012 is the essential suite of agents and controllers that you can use to build and test applications across the desktop, the server, and the cloud. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "a03de4e83917525c50b1152ee3e51864173fdb6d",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "224 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53171,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_language_pack_x86_test_agent_2339060.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Agent (English)\r\n",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "c0989fdd4a05466b8f104b190768cc699e921826",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 53172,
+      "FileName": "en_agents_for_visual_studio_2012_update_3_language_pack_x86_test_controller_2339087.exe",
+      "Description": "Agents for Visual Studio 2012 Update 3 Language Pack (x86) - Test Controller (English)\r\n",
+      "Notes": "The Agents for Microsoft Visual Studio 2012 Language Pack is a free add-on that you can use to switch the language that\u2019s displayed in the Agents user interface. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=255962\">Visual Studio 2012 Readme File</a>.\r\n",
+      "Sha1Hash": "020bc99b5dc38a5a7e92c702fc9a495a2d1acfaa",
+      "ProductFamilyId": 517,
+      "PostedDate": "2013-06-26T16:00:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

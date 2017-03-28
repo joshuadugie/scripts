@@ -1,0 +1,5117 @@
+{
+  "Files": [
+    {
+      "FileId": 44000,
+      "FileName": "sr_access_2010_x86_575377.exe",
+      "Description": "Access 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "25c0868d298319cafc174bf34593e06b79e800cb",
+      "ProductFamilyId": 401,
+      "PostedDate": "2010-09-09T16:31:27Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "280 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44001,
+      "FileName": "sr_access_2010_x64_575378.exe",
+      "Description": "Access 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "2f03139cfe7cb2c5075b9df5d07115677db7e358",
+      "ProductFamilyId": 401,
+      "PostedDate": "2010-09-09T16:31:27Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "319 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44002,
+      "FileName": "sr_access_2010_x86_x64_dvd_575452.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "5fc6aa4f09af7421d0fc18e34d61c4a1a52df739",
+      "ProductFamilyId": 401,
+      "PostedDate": "2010-09-09T16:31:28Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "653 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44003,
+      "FileName": "sr_infopath_2010_x86_575380.exe",
+      "Description": "InfoPath 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "43029785b7d8451b64561c5c17c18f7de92ce11f",
+      "ProductFamilyId": 402,
+      "PostedDate": "2010-09-09T16:33:07Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44004,
+      "FileName": "sr_infopath_2010_x64_575457.exe",
+      "Description": "InfoPath 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "fe4a67681cb9fb49c0f22703edcef57057a85a6e",
+      "ProductFamilyId": 402,
+      "PostedDate": "2010-09-09T16:33:08Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "290 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44005,
+      "FileName": "sr_infopath_2010_x86_x64_dvd_575471.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "7812c9e1cbb38463eb4481a43cfc1e26a8d55fd7",
+      "ProductFamilyId": 402,
+      "PostedDate": "2010-09-09T16:33:08Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "609 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44006,
+      "FileName": "sr_onenote_2010_x86_575510.exe",
+      "Description": "OneNote 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "9953b736e9348fdca6a0609bc1f6d0661f3c1b46",
+      "ProductFamilyId": 405,
+      "PostedDate": "2010-09-09T16:33:47Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "244 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44007,
+      "FileName": "sr_onenote_2010_x64_575511.exe",
+      "Description": "OneNote 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "6d2536b0ed2e5d04257654492d3e6cad11f1fa24",
+      "ProductFamilyId": 405,
+      "PostedDate": "2010-09-09T16:33:48Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "267 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44008,
+      "FileName": "sr_onenote_2010_x86_x64_dvd_575531.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "764fd75d725378b4ac59cbb9cff71d9410c6ff45",
+      "ProductFamilyId": 405,
+      "PostedDate": "2010-09-09T16:33:48Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "629 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44009,
+      "FileName": "sr_outlook_2010_x86_x64_dvd_575418.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "06147236504e26dee67561c6578975b2a7d56e90",
+      "ProductFamilyId": 411,
+      "PostedDate": "2010-09-09T16:34:13Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "643 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44010,
+      "FileName": "sr_outlook_2010_x64_575547.exe",
+      "Description": "Outlook 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "a7d1015e8d2c2e356a49e70363bbd7c5c4ef17cc",
+      "ProductFamilyId": 411,
+      "PostedDate": "2010-09-09T16:34:13Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44011,
+      "FileName": "sr_outlook_2010_x86_575553.exe",
+      "Description": "Outlook 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "11795586d4f921e6490387a1ed82f075a27d68c7",
+      "ProductFamilyId": 411,
+      "PostedDate": "2010-09-09T16:34:13Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "282 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44012,
+      "FileName": "sr_office_professional_plus_2010_x86_575514.exe",
+      "Description": "Office Professional Plus 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "3a57989c5caeb9087ed0a7ad2d202eefbec067a8",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:34:49Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "638 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44013,
+      "FileName": "sr_office_professional_plus_2010_x64_575516.exe",
+      "Description": "Office Professional Plus 2010 (x64) - (Serbian Latin)",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "59b9bc3701c915d232b67072203ae0d55b00b2ef",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:34:49Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "708 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44014,
+      "FileName": "sr_office_professional_plus_2010_x86_x64_dvd_575527.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "c9759b775622c4f53682312e951e6975464f9f48",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:34:49Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "1440 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44015,
+      "FileName": "sr_publisher_2010_x86_x64_dvd_575542.iso",
+      "Description": "Publisher 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "47d94883dfa00118ff8a178f7121e0f1475839e5",
+      "ProductFamilyId": 406,
+      "PostedDate": "2010-09-09T16:35:23Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "644 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44016,
+      "FileName": "sr_publisher_2010_x64_575543.exe",
+      "Description": "Publisher 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "46fefac4e295abb97abfe768ec8c597240934f18",
+      "ProductFamilyId": 406,
+      "PostedDate": "2010-09-09T16:35:23Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "309 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44017,
+      "FileName": "sr_publisher_2010_x86_575548.exe",
+      "Description": "Publisher 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "659168ff0b832d48f72c9e8c4339af809f97e86e",
+      "ProductFamilyId": 406,
+      "PostedDate": "2010-09-09T16:35:23Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "286 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44018,
+      "FileName": "sr_sharepointworkspace_2010_x86_x64_dvd_575503.iso",
+      "Description": "SharePointWorkspace 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "9dc478d2fe9860dea3d44fce9ef6799156aceb18",
+      "ProductFamilyId": 404,
+      "PostedDate": "2010-09-09T16:36:08Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44019,
+      "FileName": "sr_sharepointworkspace_2010_x64_575504.exe",
+      "Description": "SharePointWorkspace 2010 (x64) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "02b83764977f958a617a980a65eb464174231a5c",
+      "ProductFamilyId": 404,
+      "PostedDate": "2010-09-09T16:36:08Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44020,
+      "FileName": "sr_sharepointworkspace_2010_x86_575545.exe",
+      "Description": "SharePointWorkspace 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "e2d040e284547804d983f7cb071c84d7326fd150",
+      "ProductFamilyId": 404,
+      "PostedDate": "2010-09-09T16:36:08Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "243 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44021,
+      "FileName": "sr_office_language_pack_2010_x86_dvd_575374.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "4f55de218f625010512c20594ff69cd8fb0e6c70",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:36:56Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44022,
+      "FileName": "sr_office_language_pack_2010_x64_dvd_575375.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "7276d52f99bde924a9df45203cf9c42e25f37f10",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:36:56Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44023,
+      "FileName": "sr_office_standard_2010_x86_x64_dvd_575509.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Serbian Latin)",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "c1f869f8aa0f15f3a812e23666a7f0e5a424c623",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:37:20Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "1156 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44024,
+      "FileName": "sr_office_standard_2010_x64_575549.exe",
+      "Description": "Office Standard 2010 (x64) - (Serbian Latin)",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "92dc43fb7cf7bfeb2f925aee6e54a7592978c162",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:37:20Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44025,
+      "FileName": "sr_office_standard_2010_x86_575551.exe",
+      "Description": "Office Standard 2010 (x86) - (Serbian Latin)",
+      "Notes": null,
+      "Sha1Hash": "d02b4bca4d05aa5e69bdf4ae7eb64b85ad95d2f9",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-09-09T16:37:21Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "513 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44032,
+      "FileName": "mu_exchange_server_2010_sp1_x64.exe",
+      "Description": "Exchange Server 2010 Service Pack 1 (x64) - (Arabic, Chinese-Simplified, Chinese-Traditional, English, French, German, Hebrew, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish)",
+      "Notes": null,
+      "Sha1Hash": "3e1ccc1d4cd7e4da02f72d00c214f17ac3bbb88e",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:08Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "German",
+        "Spanish",
+        "French",
+        "Hebrew",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44033,
+      "FileName": "umlanguagepack.ca-es.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Catalan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e4f8fe11f571c9153216974f5ca248738e557a90",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:08Z",
+      "LanguageCodes": [
+        "ca"
+      ],
+      "Languages": [
+        "Catalan"
+      ],
+      "Size": "128 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44034,
+      "FileName": "umlanguagepack.da-dk.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Danish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cca3363f4d372116dafdfc8bd2610f669aff257b",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:09Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "108 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44035,
+      "FileName": "umlanguagepack.de-de.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2c64729db62f17ace1749a44703c757d5f77702f",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:09Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "128 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44036,
+      "FileName": "umlanguagepack.en-au.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (English-Australia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "357efa0bbabc357112ad5792cb021d84b694c663",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:09Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "99 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44037,
+      "FileName": "umlanguagepack.en-ca.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (English-Canada)\r\n",
+      "Notes": null,
+      "Sha1Hash": "af7b58e05484c059916c951e36c1ecf1405ebfbf",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:09Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "206 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44038,
+      "FileName": "umlanguagepack.en-gb.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (English-United Kingdom)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d2553c22c82675b9ace7e5c7a8f2a1a445b8bb2d",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "99 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44039,
+      "FileName": "umlanguagepack.en-us.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (English-United States)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cb78e60928a6bc81678cf744d631e68258ec8d56",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "244 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44040,
+      "FileName": "umlanguagepack.es-es.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Spanish-Spain)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aab82cffd8e30ccb010384bcff84a0f3c946203e",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "169 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44041,
+      "FileName": "umlanguagepack.es-mx.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Spanish-Mexico)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7e2df6f7b58a47632c2d5aac1e814dc91573b530",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:10Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "126 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44042,
+      "FileName": "umlanguagepack.fi-fi.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1ef1c55cf19a4b3332ade4e8d98753bbdb2eb672",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:11Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "113 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44043,
+      "FileName": "umlanguagepack.fr-ca.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (French-Canada)\r\n",
+      "Notes": null,
+      "Sha1Hash": "13020bc9b28a1490097cf0d5cb0da25ce2edfe78",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:11Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "112 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44044,
+      "FileName": "umlanguagepack.fr-fr.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (French-France)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3e6bed228618fe6a13e681cdd4b45a57298ab536",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:11Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44045,
+      "FileName": "umlanguagepack.it-it.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6413ea69b3e428104d008a12b2bcd5caa061a2c3",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:11Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44046,
+      "FileName": "umlanguagepack.ja-jp.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b208abc3f98842b4b512a702299f473f68a8cbc3",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:12Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "103 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44047,
+      "FileName": "umlanguagepack.ko-kr.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bf15a4cdd535d26afe7ac24cab3f952fc101a89e",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:12Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44048,
+      "FileName": "umlanguagepack.nb-no.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Norwegian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "709a96a969ecaf0884166583ad8d7d8b35c0b4de",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:12Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44049,
+      "FileName": "umlanguagepack.nl-nl.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Dutch)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d83a73636254eba2ddb5ed2c0248e5d7f8ff2634",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:12Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "107 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44050,
+      "FileName": "umlanguagepack.pl-pl.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Polish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d00148132faa53b7ca3c711b185d144566974597",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:13Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "157 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44051,
+      "FileName": "umlanguagepack.pt-br.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "56b5033cbfce88982edadcf3b26e44a699496b63",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:13Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44052,
+      "FileName": "umlanguagepack.pt-pt.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "139002923884c9f43ef2504331166f5084a39a17",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:13Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "192 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44053,
+      "FileName": "umlanguagepack.ru-ru.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c0336c272374f02fe27d2a2565a378906c926c33",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:14Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "113 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44054,
+      "FileName": "umlanguagepack.sv-se.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Swedish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e08893fbdc883da500d58b28d39fb84073161b83",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:14Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44055,
+      "FileName": "umlanguagepack.zh-cn.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bd27a7a944e662ad8cc3357f090096ac69440a0d",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:14Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "122 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44056,
+      "FileName": "umlanguagepack.zh-hk.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Chinese-Hong Kong SAR)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b163a8cb2bd4e19d74bc87942c71b59b2e7f168c",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:14Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "111 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44057,
+      "FileName": "umlanguagepack.zh-tw.exe",
+      "Description": "Exchange Server 2010 Service Pack 1, Unified Messaging Language Packs (x64) - (Chinese-Taiwan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "771ada7ddf11bdf331fa5b8b4f214a877d9e31cf",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-14T21:12:15Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44058,
+      "FileName": "el_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Greek)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "615f3186055a8de4af253bbd9286a1e952909568",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:19Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44059,
+      "FileName": "hu_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Hungarian)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "eb6153ce1523b8f975c256662381b497bc572b23",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:20Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44060,
+      "FileName": "hi_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Hindi)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "650d1ccdb80779f4fc632643b9c42ce2a4b0f2b6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:20Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44061,
+      "FileName": "ml-in_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Malayalam-India)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "490074502f43f443b8fef8925d03fc37c821041c",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:20Z",
+      "LanguageCodes": [
+        "ml"
+      ],
+      "Languages": [
+        "Malayalam"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44062,
+      "FileName": "or_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Oriya)",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "a997f09d96122e6a09ff3da065c49a2208298e5b",
+      "ProductFamilyId": 370,
+      "PostedDate": "2011-06-06T16:54:42Z",
+      "LanguageCodes": [
+        "or"
+      ],
+      "Languages": [
+        "Oriya"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44063,
+      "FileName": "ta-in_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Tamil-India)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "85fb11ad0a22d860795697e43fb27348bf1457be",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:20Z",
+      "LanguageCodes": [
+        "ta"
+      ],
+      "Languages": [
+        "Tamil"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44065,
+      "FileName": "ar_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Arabic)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "aa6191c2d7e94cc989aaeb33dcdd930676112e02",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:21Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44066,
+      "FileName": "th_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Thai)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "d7700f22277596797b73c832fcb17b385b116ac2",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:21Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44067,
+      "FileName": "he_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Hebrew)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "d8d06722786f5d96b1f5de679eed82a147557ca1",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:21Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44068,
+      "FileName": "ms_captions_language_interface_pack_for_microsoft_visual_studio_2010_x86.msi",
+      "Description": "Captions Language Interface Pack for Microsoft Visual Studio 2010 (x86) - (Malay)\r\n",
+      "Notes": "<p></p>\r\n<p><b>This download is supported on the following Visual Studio 2010 products:</b></p>\r\n<ul>\r\n<li>Visual Studio 2010 Professional</li>\r\n<li>Visual Basic 2010 Express</li>\r\n<li>Visual C# 2010 Express</li>\r\n<li> Visual C++ 2010 Express</li>\r\n<li> Visual Web Developer 2010 Express</li>\r\n</ul>\r\n<p>The Microsoft Captions Language Interface Pack (CLIP) is a simple language translation solution that uses tooltip captions to display translations for English user interface terms.</p>\r\n<p>CLIP can help users learn and use Visual Studio 2010 by providing translation for the <i>most common </i>user interface elements of the Visual Studio Integrated Development Environment (IDE). </p>\r\n<p>\r\nTo use, simply move your mouse around the screen and halt briefly over any text you want translated. Users can also add their own translations and copy and paste any translation results.\r\n</p>\r\n<p><b>Requirements:</b></p>\r\n<p>CLIP requires that the .NET Framework 3.5 is installed on the user's computer.</p>\r\n<p>For additional information see <a href=\"https://www.microsoft.com/downloads/en/details.aspx?FamilyID=e25a32c3-49b4-494b-8a2a-ef0e84598fa7&displaylang=en\">CLIP</a>.</p>\r\n",
+      "Sha1Hash": "aaab20851a62e4497780ccaa2cfee2fd587dc1c0",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-09-15T20:28:22Z",
+      "LanguageCodes": [
+        "ms"
+      ],
+      "Languages": [
+        "Malay"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44069,
+      "FileName": "en-au_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Australia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fa9013511362e5242fc203e69ec3ad03c1194e27",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:32Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44070,
+      "FileName": "de-at_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (German-Austria)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6f940d20ccfa064125ce52e9641fab7be64a0364",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:33Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44071,
+      "FileName": "nl-fr-be_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Dutch/French-Belgium)\r\n",
+      "Notes": null,
+      "Sha1Hash": "689ff359194c7e098fa835fb4434ef0d954f49f0",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:33Z",
+      "LanguageCodes": [
+        "fr",
+        "nl"
+      ],
+      "Languages": [
+        "French",
+        "Dutch"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44072,
+      "FileName": "en-ca_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Canada)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3d1b9a68730e9620bbfb82374082f415d9073421",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:33Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44074,
+      "FileName": "da-dk_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Danish-Denmark)\r\n",
+      "Notes": null,
+      "Sha1Hash": "309a2f9658f011616a22cc839440c6a1a27385c0",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:33Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44075,
+      "FileName": "fr-fr_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (French-France)\r\n",
+      "Notes": null,
+      "Sha1Hash": "989680b1950b2baf1fd845f544593ba740ed8c69",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:34Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44076,
+      "FileName": "de-de_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (German-Germany)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9d0fc9e181f72114fed9ef19aeb46f9bfad36669",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:34Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44077,
+      "FileName": "en-gb_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-United Kingdom)\r\n",
+      "Notes": null,
+      "Sha1Hash": "048587d181e2116ec588b8b8455f864f61e4e349",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:34Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44078,
+      "FileName": "en-in_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-India)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bb5e751ae55e848243c006212ff6a71dbbb9b6fc",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:34Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44079,
+      "FileName": "en-id_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Indonesia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "99e098e676cf72256e7e8c5366eb182534f59d53",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:35Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44080,
+      "FileName": "en-ie_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Ireland)\r\n",
+      "Notes": null,
+      "Sha1Hash": "239540d8abcf4c6022d1259c1e664419d0f4fce0",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:35Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44081,
+      "FileName": "it-it_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Italian-Italy)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c36086bcd1013f02da991b4810e6e90e61d9f115",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:35Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44082,
+      "FileName": "en-my_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Malaysia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "35e0c7e749989844a630aa872610fe3be3666b09",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:35Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44083,
+      "FileName": "en-mt_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Malta)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6f511ceaa4b802a8b12081658515787cfd7bd926",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:36Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44086,
+      "FileName": "nl-nl_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Dutch-Netherlands)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1ee225210ab9b02919dd1081e2b5a6e8bb24eb4d",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:36Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44087,
+      "FileName": "en-nz_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-New Zealand)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "d7259a622b9fb306add2c0e432eee1de08f39a36",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:36Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44089,
+      "FileName": "no-no_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Norwegian-Norway)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ce04bfb7c79016f708f59762b680db6d4bdb63ad",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:36Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44090,
+      "FileName": "en-ph_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Republic of Philippines)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7c116c143698ca3ac1014024c562a7b8ecf1eb15",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44091,
+      "FileName": "en-sg_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-Singapore)\r\n",
+      "Notes": null,
+      "Sha1Hash": "73c488e3bcb2bbaa490731ae7dd7c66ec9c38750",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44092,
+      "FileName": "en-za_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-South Africa)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "f044ff9cea172417e2d9b9cd3e92aa24c387400c",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44093,
+      "FileName": "es-es_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Spanish-Spain)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c802fdc22a10aa773c9b90306520d67bb14bc96a",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:38Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44094,
+      "FileName": "sv-se_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (Swedish-Sweden)\r\n",
+      "Notes": null,
+      "Sha1Hash": "10649bbcb8cd380830e09391e9d3feb79a5b59d3",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:38Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "0.005 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44095,
+      "FileName": "fr-de-it-ch_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (French/German/Italian-Switzerland)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f723595051317457e91633b692c46809a823883b",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:38Z",
+      "LanguageCodes": [
+        "de",
+        "fr",
+        "it"
+      ],
+      "Languages": [
+        "German",
+        "French",
+        "Italian"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44095,
+      "FileName": "fr-de-it-ch_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (French/German/Italian-Switzerland)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f723595051317457e91633b692c46809a823883b",
+      "ProductFamilyId": 373,
+      "PostedDate": "2010-10-19T23:24:38Z",
+      "LanguageCodes": [
+        "de",
+        "fr",
+        "it"
+      ],
+      "Languages": [
+        "German",
+        "French",
+        "Italian"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44099,
+      "FileName": "en-us_dynamics_nav_4_5_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English-United States)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "bffc85307d3954e3d68f75f99752370c43f55440",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-10-19T23:24:38Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44113,
+      "FileName": "en_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567456.iso",
+      "Description": "BizTalk Server 2010 RFID Enterprise (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "9b62745390045e02168472561e45ae3ea46330be",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "81 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44114,
+      "FileName": "en_biztalk_server_2010_branch_edition_x86_x64_dvd_567456.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "cd6268eb4ee42b8d48f849811aa5ff12a2c0cd3f",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "660 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44115,
+      "FileName": "en_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567456.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "522cb2eed6f963b22ad9c771ba3096e542ac3fbc",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:32Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "965 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44116,
+      "FileName": "en_biztalk_server_2010_standard_edition_x86_x64_dvd_567456.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8b3e88b63a6e20968d2c4bcc2dd1dff2d19e10e3",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "965 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44117,
+      "FileName": "en_host_integration_server_2010_enterprise_edition_x86_x64_cd_567513.iso",
+      "Description": "Host Integration Server 2010 Enterprise Edition (x86 and x64) - CD (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8bb60335f5f558f5bd94abe82be4db982672249f",
+      "ProductFamilyId": 510,
+      "PostedDate": "2013-05-14T18:38:29Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "321 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44118,
+      "FileName": "de_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567628.iso",
+      "Description": "BizTalk Server 2010 RFID Enterprise (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "a1e33f82dca4915f18c0bbbea8f0a37cfb21d363",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:02Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44119,
+      "FileName": "de_biztalk_server_2010_branch_edition_x86_x64_dvd_567628.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "90c8aef997040550d5e6a69d72cfcf41a9df2248",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:48Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "699 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44120,
+      "FileName": "de_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567628.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "312ccfd7e03064e2c1c2f56554d37abc80547d93",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:33Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1005 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44121,
+      "FileName": "de_biztalk_server_2010_standard_edition_x86_x64_dvd_567628.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "0316f230eec5803c5d76092ed4879115fb7099c7",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:18Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1005 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44122,
+      "FileName": "mu_windows_storage_server_2008_r2_embed_stand_ent_work_iscsi_software_target_3.3__x64_dvd_587719.iso",
+      "Description": "Windows Storage Server 2008 R2 Embedded (Standard, Enterprise, Workgroup) with iSCSI Software Target 3.3 (x64) - DVD (Multiple Languages)\r\n ",
+      "Notes": "<p><b>You must first install Windows Server 2008 R2 before installing this product.</b></p>\n<p>The license agreement for this product references a 180-day term. This download will retain full functionality even after 180 days.</p>\n\n<p>The following languages are included in this download: Chinese-Simplified, Chinese-Traditional, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.</p>\n",
+      "Sha1Hash": "cac10773b6dd63fd397f5f00252b252caf70ee40",
+      "ProductFamilyId": 369,
+      "PostedDate": "2010-09-27T22:01:52Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "947 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44123,
+      "FileName": "es_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567688.iso",
+      "Description": "BizTalk Server 2010 RFID Enterprise (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "f1b01bb12b843025c8a831d8e911a6d20a9d9704",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:02Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44124,
+      "FileName": "es_biztalk_server_2010_branch_edition_x86_x64_dvd_567688.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "dbbeee48ee7990bdc9ac492481fb259892ee4388",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:48Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "699 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44125,
+      "FileName": "es_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567688.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "b53296d37260a32d354423bfc8cc4235009bc870",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:33Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44126,
+      "FileName": "es_biztalk_server_2010_standard_edition_x86_x64_dvd_567688.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "b5dc0e64e7307c656941a630b204d499690aa4e5",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:19Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44127,
+      "FileName": "it_biztalk_server_2010_branch_edition_x86_x64_dvd_567741.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "b5fa7794cb5a12b1a42c6bb02b824595e38b2abb",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "685 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44128,
+      "FileName": "it_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567741.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "b16895b3337e74eef13191420a6af6a529fa0af2",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:34Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "990 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44129,
+      "FileName": "it_biztalk_server_2010_standard_edition_x86_x64_dvd_567741.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "ca76789ecb36d2af2f73a1317be5a177e54b21f8",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:19Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "990 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44130,
+      "FileName": "ko_biztalk_server_2010_branch_edition_x86_x64_dvd_567745.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "06a84b67e87eb7f24172da8a159a6d0de4ccb993",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:49Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "688 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44131,
+      "FileName": "ko_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567745.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "81e6cc0d32359b96122b902bda706b9efcc96cb3",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:34Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "993 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44132,
+      "FileName": "ko_biztalk_server_2010_standard_edition_x86_x64_dvd_567745.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "45baddc62259e02db9ba660b6e64b0824f0d48da",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:20Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "993 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44135,
+      "FileName": "ja_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567690.iso",
+      "Description": "BizTalk Server 2010  RFID Enterprise (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "44802bdd4ed10c4cc285403efbdd45e83e9a06e6",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:03Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "97 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44136,
+      "FileName": "ja_biztalk_server_2010_branch_edition_x86_x64_dvd_567690.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "9f018bae4d0bc2bc906f68f5a5fcbec2f7b92188",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:50Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "704 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44137,
+      "FileName": "ja_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567690.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8104c70ba89a66c35aa4d1a4eac22e95d074185b",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:35Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1011 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44138,
+      "FileName": "ja_biztalk_server_2010_standard_edition_x86_x64_dvd_567690.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8c568a27758cca9609ea9c3e8e93be880a0cfb03",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:21Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1011 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44139,
+      "FileName": "cn_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567729.iso",
+      "Description": "BizTalk Server 2010 RFID Enterprise (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "718ad1f1c829593f2ad6b0cb86004109a9231fbc",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:04Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "92 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44140,
+      "FileName": "cn_biztalk_server_2010_branch_edition_x86_x64_dvd_567729.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "380f87d83e47bcbc3c8a8f1874ab550230cfa7fd",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:50Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "698 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44141,
+      "FileName": "cn_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567729.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "967e95560f799f498687a37a4036abf1a848b16b",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:36Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44142,
+      "FileName": "cn_biztalk_server_2010_standard_edition_x86_x64_dvd_567729.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8130ffd5612223a445a0e88e62e16bb6ab6ef376",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:21Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44143,
+      "FileName": "ct_biztalk_server_2010_rfid_enterprise_x86_x64_dvd_567737.iso",
+      "Description": "BizTalk Server 2010  RFID Enterprise (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "463762e561771553718dc379eb6ec5a775b7ec08",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:04Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44144,
+      "FileName": "ct_biztalk_server_2010_branch_edition_x86_x64_dvd_567737.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "8ecfd62e4d7bf0ebf871d09ac604e8314a47b164",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "698 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44145,
+      "FileName": "ct_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567737.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "5117a069902d4487336169678d335b722732e616",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:36Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44146,
+      "FileName": "ct_biztalk_server_2010_standard_edition_x86_x64_dvd_567737.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "60110e06480f656dc1cf22aafa3f340636c253f6",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:22Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1004 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44147,
+      "FileName": "fr_biztalk_server_2010_branch_edition_x86_x64_dvd_567739.iso",
+      "Description": "BizTalk Server 2010 Branch Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "eaf26479a630b1383c0e5b84fd3d4e6a3f2be759",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:16:52Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "686 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44148,
+      "FileName": "fr_biztalk_server_2010_enterprise_edition_x86_x64_dvd_567739.iso",
+      "Description": "BizTalk Server 2010 Enterprise Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "022e47656171ef789c8c719f53cb54d7a8f6cee0",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:37Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "991 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44149,
+      "FileName": "fr_biztalk_server_2010_standard_edition_x86_x64_dvd_567739.iso",
+      "Description": "BizTalk Server 2010 Standard Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "724d9568e14a3816eea8dbcf35ac661f7be4db4b",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:18:22Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "991 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44151,
+      "FileName": "en_exchange_server_2010_with_sp1_x64_dvd_587827.iso",
+      "Description": "Exchange Server 2010 with Service Pack 1 (x64) - DVD (English)",
+      "Notes": "<p>The MSDN and Volume License Media for Exchange 2010 SP1 include the latest versions of Client and Server Language Packs that were available at the time of release. These are the same versions that are distributed with the Exchange 2010 SP1 package available on the Microsoft Download Center.</p> <p>Installing Exchange 2010 from the MSDN and Volume License media will automatically install client and server language support for all languages available on the DVD. The Unified Messaging Language Packs used by the Unified Messaging Role are also included on the DVD for convenience but will not be installed automatically by setup.</p>\n\n<p>For more information, please visit <a href=\"http://technet.microsoft.com/en-us/library/aa996885.aspx\">Post Installation Tasks</a> or <a href=\"http://technet.microsoft.com/en-us/library/dd876951.aspx\">UM Language Pack Installation</a>.</p>\n",
+      "Sha1Hash": "7e377dd0b36aaea7ec7f53a24cf1e88f9da4679e",
+      "ProductFamilyId": 362,
+      "PostedDate": "2010-09-29T22:14:42Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4658 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44163,
+      "FileName": "en_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "6c910f628f5eed1f63827584ddae3aef905adf3a",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "552 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44164,
+      "FileName": "en_host_integration_server_2010_developer_edition_x86_x64.exe",
+      "Description": "Host Integration Server 2010 Developer Edition (x86 and x64) - (English)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "c2d1c78556ab30a18ab97a4d071f869089105269",
+      "ProductFamilyId": 510,
+      "PostedDate": "2013-05-14T18:38:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "152 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44165,
+      "FileName": "es_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Spanish)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "2a6d1c6b396117f9eb180032fefad9ce87b8f3ba",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:06Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44166,
+      "FileName": "fr_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (French)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "812d92b45d96f938f6ade45866289b4e90cf3f4d",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:07Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44167,
+      "FileName": "it_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Italian)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "c6c7c4e6983beb4cfe55d85960907930e149e9e7",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:08Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "557 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44168,
+      "FileName": "ct_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Chinese-Traditional)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "3a7050d5254d6844fbbc8e79e7be98994c788c6d",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:08Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44169,
+      "FileName": "cn_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Chinese-Simplified)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "e9ce85597875b605f5ad76b75c30febe56c67e27",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:09Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44170,
+      "FileName": "de_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (German)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "20886dec89e1c39d727746ac9d18849b50f8b7c7",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T16:17:09Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44171,
+      "FileName": "ko_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Korean)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "421e291d743e174300f49746312c246e89e4bc05",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T18:43:20Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "560 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44172,
+      "FileName": "ja_biztalk_server_2010_developer_edition_x86_x64.exe",
+      "Description": "BizTalk Server 2010 Developer Edition (x86 and x64) - (Japanese)\r\n",
+      "Notes": "Please note:  BizTalk Server 2010 Accelerators and Adapters are integrated with the BizTalk Server ISO.  ",
+      "Sha1Hash": "0df89ccba42c5d81d2964168e76bcc87e64b2870",
+      "ProductFamilyId": 419,
+      "PostedDate": "2010-10-01T18:43:21Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "571 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44173,
+      "FileName": "en_office_for_mac_home_and_business_2011_mac_dvd_581902.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (English)\r\n\r\n\r\n\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul>\n<li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 67CB7246. The CRC of the DMG in the ISO dragged into Disk Utility is 925128EF.</p></li></ul><p>Microsoft continues to provide you with verified secure installs to your machine. With the recent change in the Apple operating system 10.8, when you launch the installer of earlier versions of Office for Mac 2011 you may encounter an alert indicating that the installation is from an unidentified source. In order to complete launch of the product we suggest you follow Apple\u2019s instructions for overriding the security setting. You can locate these instructions from the \u2018?\u2019 button in the alert or for more information please go to <a href=\"http://go.microsoft.com/fwlink/?LinkId=255462\">http://go.microsoft.com/fwlink/?LinkId=255462</a>\n</p>",
+      "Sha1Hash": "d00168f7eceae6588a1902c859eb7a6b5d979f56",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "890 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44175,
+      "FileName": "ja_office_for_mac_home_and_business_2011_mac_dvd_582447.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Japanese)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 25DF28F0. The CRC of the DMG in the ISO dragged into Disk Utility is D37E3C35.</p></li></ul>",
+      "Sha1Hash": "b2eaf6500cc9970845e873d3b08f17c706ab6a39",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:29Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1026 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44176,
+      "FileName": "fr_office_for_mac_home_and_business_2011_mac_dvd_582463.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (French)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 775F5962.</p></li></ul>",
+      "Sha1Hash": "51795810fbdd7501734590b2e4a47216c872843a",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:29Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "840 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44177,
+      "FileName": "de_office_for_mac_home_and_business_2011_mac_dvd_579291.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (German)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is F5B4500B.The CRC of the DMG in the ISO dragged into Disk Utility is 15F2128B.</p></li></ul>",
+      "Sha1Hash": "908deaa8a34c747e5677305bc2a98c0ffd24014f",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:29Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "839 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44178,
+      "FileName": "es_office_for_mac_home_and_business_2011_mac_dvd_585283.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Spanish)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 86CFFC59.</p></li></ul>",
+      "Sha1Hash": "1e84b4a31083831d3c708923f5518b86040116e2",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:30Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "925 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44179,
+      "FileName": "sv_office_for_mac_home_and_business_2011_mac_dvd_588219.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Swedish)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul>\n<li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 04F56158. The CRC of the DMG in the ISO dragged into Disk Utility is EC8B5BE1.</p></li></ul>",
+      "Sha1Hash": "d108f483c6d2ce974cd06ba75ebcfdbaabed105b",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:30Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "872 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44180,
+      "FileName": "fi_office_for_mac_home_and_business_2011_mac_dvd_588263.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Finnish)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 2E243C2D. The CRC of the DMG in the ISO dragged into Disk Utility is 9AB113D3.</p></li></ul>",
+      "Sha1Hash": "def99fcaab6d1580617b1c829fe891ae45b56f38",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:30Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "912 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44181,
+      "FileName": "da_office_for_mac_home_and_business_2011_mac_dvd_588238.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Danish)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 2B23E30B. The CRC of the DMG in the ISO dragged into Disk Utility is 12138A09.</p></li></ul>",
+      "Sha1Hash": "7cf85eca8c726fcf86e2cebc0635ce11534e163e",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:30Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "912 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44182,
+      "FileName": "no_office_for_mac_home_and_business_2011_mac_dvd_588277.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Norwegian)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is BF986379. The CRC of the DMG in the ISO dragged into Disk Utility is 6922D625.</p></li></ul>",
+      "Sha1Hash": "1dc6332470948ffe15d72d2bed267d2ec0c2a7af",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:31Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "871 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44183,
+      "FileName": "it_office_for_mac_home_and_business_2011_mac_dvd_590405.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Italian)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 011DCE38. The CRC of the DMG in the ISO dragged into Disk Utility is 15081A88.</p></li></ul>",
+      "Sha1Hash": "2688ba9611d69bd9d2d389392278e881ebf3e977",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:31Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "934 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44184,
+      "FileName": "nl_office_for_mac_home_and_business_2011_mac_dvd_590832.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Dutch)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 29C32202. The CRC of the DMG in the ISO dragged into Disk Utility is 557BA917.</p></li></ul>",
+      "Sha1Hash": "49043a03bc89c93afa729d92f71293f8b7eaf217",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:31Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "886 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44185,
+      "FileName": "en_dynamics_gp_2010_service_pack_1_x86_dvd_590519.iso",
+      "Description": "Dynamics GP 2010 Service Pack 1 (x86) - DVD (English)\r\n",
+      "Notes": "<b>Please note:</b> The 90-day trial period does not apply to the lesson company, Fabrikam, Inc. We recommend developers use the lesson company to avoid this limitation.",
+      "Sha1Hash": "5beac19652361175e85b58f04a03e406b4651546",
+      "ProductFamilyId": 416,
+      "PostedDate": "2010-10-07T19:21:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1955 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44186,
+      "FileName": "en_dynamics__gp_10.0_service_pack_5_x86_dvd_588222.iso",
+      "Description": "Dynamics GP 10.0 Service Pack 5 (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "265c58403ae706828d32b61b6f3b281029ff9fb0",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-10-07T19:20:52Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1613 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44189,
+      "FileName": "en_dynamics_gp_10.0_sdk_service_pack_5_x86_593863.msp",
+      "Description": "Dynamics GP 10.0 SDK Service Pack 5 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d19b525525b0a1e60566a89a75367ea0035d3ee9",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-10-12T00:02:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44191,
+      "FileName": "en_dynamics_gp_2010_sdk_service_pack_1_x86_593864.msp",
+      "Description": "Dynamics GP 2010 SDK Service Pack 1 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "54df330aff089511d3c0891a86e4b98581b94b7a",
+      "ProductFamilyId": 416,
+      "PostedDate": "2010-10-12T00:02:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44192,
+      "FileName": "pl_office_for_mac_home_and_business_2011_mac_dvd_595087.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Polish)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is 493025AE. The CRC of the DMG in the ISO dragged into Disk Utility is 65D8558B.</p></li></ul>",
+      "Sha1Hash": "380a2a08afa7956b456607eeeb21fc66b6f32fec",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:31Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "892 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44193,
+      "FileName": "ru_office_for_mac_home_and_business_2011_mac_dvd_595082.iso",
+      "Description": "Office for Mac Home and Business 2011 (Mac) - DVD (Russian)\r\n",
+      "Notes": "<p><b>Please note:</b></p><ul><li><p>In order to use this file, you must open it on a Mac.</p></li><li><p>The CRC of the DMG in the mounted ISO is F43961BF. The CRC of the DMG in the ISO dragged into Disk Utility is 66AAD70E.</p></li></ul>",
+      "Sha1Hash": "ee4ee9c8b56e78fda0cfb8c14314caa5ee02e698",
+      "ProductFamilyId": 421,
+      "PostedDate": "2010-10-26T16:33:32Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "891 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44194,
+      "FileName": "gl_office_language_pack_2010_x86_dvd_x16-62650.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Galician)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7e43fddfbffd6b9414b8a0bd74ccb5dfc1358523",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-03-11T22:07:15Z",
+      "LanguageCodes": [
+        "gl"
+      ],
+      "Languages": [
+        "Galician"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44195,
+      "FileName": "gl_office_language_pack_2010_x64_dvd_x16-87443.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Galician)\r\n",
+      "Notes": null,
+      "Sha1Hash": "48683fcc8b2b2eb943b9a2cc56f3622bb5b88e52",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-03-11T22:07:15Z",
+      "LanguageCodes": [
+        "gl"
+      ],
+      "Languages": [
+        "Galician"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44196,
+      "FileName": "eu_office_language_pack_2010_x86_dvd_x16-62647.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Basque)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b0c95588f2d13fa43110e7e8a2860b1247264b95",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-03-11T22:07:15Z",
+      "LanguageCodes": [
+        "eu"
+      ],
+      "Languages": [
+        "Basque"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44197,
+      "FileName": "eu_office_language_pack_2010_x64_dvd_x16-87441.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Basque)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c89548ad57e1282e9a4cbcc92c553f21dcb97044",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-03-11T22:07:16Z",
+      "LanguageCodes": [
+        "eu"
+      ],
+      "Languages": [
+        "Basque"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44203,
+      "FileName": "en_dynamics_gp_10.0_sdk_x86_598754.msi",
+      "Description": "Dynamics GP 10.0 SDK (x86) - (English)\r\n",
+      "Notes": "Please note the SDK for Dynamics GP 10.0 SP5 is cumulative.   The Content folder contains the SDK updates for all previous Dynamics GP 10.0 service packs.",
+      "Sha1Hash": "0c9f2a2bfc3af86d6a806ebeae791f8f1665a0e6",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-10-29T17:37:21Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44204,
+      "FileName": "en_visual_studio_2010_pex_0.94.51023.0_power_tools_x86_598803.exe",
+      "Description": "Visual Studio 2010 Pex 0.94.51023.0 Power Tools (x86) -  (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c809a4db9626347864c5f996dc61031d70b18f88",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-10-29T16:44:26Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44205,
+      "FileName": "en_visual_studio_2010_pex_0.94.51023.0_power_tools_x64_598803.exe",
+      "Description": "Visual Studio 2010 Pex 0.94.51023.0 Power Tools (x64) -  (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "80b7227d88ed8fba4bc9f2a679e00b5f7d16f259",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-10-29T16:44:26Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44208,
+      "FileName": "ja_system_center_configuration_manager_2007_r3_x86_dvd_592507.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (Japanese)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "5b047e5387940151317371902fdfc807d5dd5d4d",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-01T20:30:01Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44209,
+      "FileName": "de_system_center_configuration_manager_2007_r3_x86_dvd_592569.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (German)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "6e94d4ee1b41b017334b4951771bee57b2819a86",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-01T20:30:01Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44210,
+      "FileName": "fr_system_center_configuration_manager_2007_r3_x86_dvd_598832.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (French)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "9e88ab47a0f457c17996061315e4cd819acb510b",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-01T21:01:41Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44211,
+      "FileName": "cn_system_center_configuration_manager_2007_r3_x86_dvd_598848.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "1a7656d38d7934de6ee7cce73b27526beb7e5cc0",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-01T21:01:41Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44215,
+      "FileName": "en_dynamics_sl_7.0_feature_pack_dvd_x86_288776.iso",
+      "Description": "Microsoft Dynamics SL 7.0 Feature Pack (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "adf4952d6748b9012cd98fe9530275c84f2ecfbf",
+      "ProductFamilyId": 120,
+      "PostedDate": "2010-11-22T20:58:04Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1381 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44220,
+      "FileName": "en_system_center_configuration_manager_2007_r3_x86_dvd_587807.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (English)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "6038c2f4566af8c0a571d3034ac15a8ec8915a35",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-01T20:30:02Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44221,
+      "FileName": "en_dynamics_sl_7.0_sp3_x86_290379.zip",
+      "Description": "Microsoft Dynamics SL 7.0 Service Pack 3 (x86) - (English)\r\n",
+      "Notes": "<b>Please note:</b> Dynamics SL 7.0 Service Pack 3 can only be installed for Dynamics SL 7.0 Feature Pack.\n",
+      "Sha1Hash": "eb35f4a42d5fa25fb7427de886fd2665acf51204",
+      "ProductFamilyId": 120,
+      "PostedDate": "2010-11-22T20:58:04Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "280 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44226,
+      "FileName": "en_expression_studio_4_ultimate_x86_msdnaa_dvd_537046.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (English) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "de63ce2d7c795d0013c4121bb62352ad77ad3b33",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:33Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "284 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44227,
+      "FileName": "ja_expression_studio_4_ultimate_x86_msdnaa_dvd_554305.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Japanese) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "15c9016d621ffdb3644e2e0e7e4135194cfe3f74",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:33Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "371 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44228,
+      "FileName": "de_expression_studio_4_ultimate_x86_msdnaa_dvd_554380.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (German) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5a111bb4c4aa77363b6a760fb8d4cf434e3770b7",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:34Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44229,
+      "FileName": "ko_expression_studio_4_ultimate_x86_msdnaa_dvd_554527.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Korean) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a8b731202ecd0af67180068cb6c57aa02d23e6ea",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:34Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "349 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44231,
+      "FileName": "cn_expression_studio_4_ultimate_x86_msdnaa_dvd_554556.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Chinese-Simplified) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "704b511b0fbd6a1fef895d60151083359d1f9a18",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:34Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "399 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44232,
+      "FileName": "ct_expression_studio_4_ultimate_x86_msdnaa_dvd_554574.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Chinese-Traditional) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d594fb3a7651028c8b8780d24d7ab0c48def9207",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:34Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "402 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44233,
+      "FileName": "fr_expression_studio_4_ultimate_x86_msdnaa_dvd_554637.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (French) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7db35242e806753d8bbcd7316a6ac2cb1e1c1cd6",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:35Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44234,
+      "FileName": "it_expression_studio_4_ultimate_x86_msdnaa_dvd_554670.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Italian) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "43d537063aa87069b75ce489072213d43a865d89",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:35Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44235,
+      "FileName": "es_expression_studio_4_ultimate_x86_msdnaa_dvd_554763.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (Spanish) (MSDN AA)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d7d332b85200b0c458cf8fb226cde1bbf6ae6a2c",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-11-03T02:29:35Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44237,
+      "FileName": "en_lync_server_2010_x64_dvd_598415.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (English)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "ad4b3d0893bf81b0aa840a3da31b9702b084ea0c",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-11-17T17:29:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1524 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44238,
+      "FileName": "en_lync_2010_x86_598490.exe",
+      "Description": "Lync 2010 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ffdc5b1d1c5816b2c202fb34128b677178151cb4",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-11-17T17:29:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44239,
+      "FileName": "en_lync_2010_x64_598497.exe",
+      "Description": "Lync 2010 (x64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d458a175dbaa912dc6a0feacda9ab5bb6606bff0",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-11-17T17:29:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44240,
+      "FileName": "en_unified_communications_managed_api_3.0_sdk_x64_598827.exe",
+      "Description": "Unified Communications Managed API 3.0 SDK (x64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5bc05322996da8a6d747d901c5eb720307f00f31",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-11-17T17:29:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "258 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44241,
+      "FileName": "fr_dynamics_gp_10.0_service_pack_5_x86_599246.exe",
+      "Description": "Dynamics GP 10.0 Service Pack 5 (x86) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8ec978f04ac546b352ee41a84e958ae0ca095a73",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-11-16T22:52:14Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "210 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44242,
+      "FileName": "es_dynamics_gp_10.0_service_pack_5_x86_593868.exe",
+      "Description": "Dynamics GP 10.0 Service Pack 5 (x86) - (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cba7db44e0cc50f561611c9eaa2ee04ba20d8d9f",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-11-16T22:52:14Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "206 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44264,
+      "FileName": "en_visual_studio_2010_fp2_x86_604352.msi",
+      "Description": "Visual Studio 2010 Feature Pack 2 (x86) - (English)\r\n",
+      "Notes": "<p>Microsoft Visual Studio 2010 Feature Pack 2 brings more advanced platform and tool support for both manual and automated testing scenarios, powered by Visual Studio 2010 Premium, Visual Studio 2010 Ultimate, or Visual Studio Test Professional 2010.</p><p>Feature Pack 2 expands testing support for Silverlight 4 and Firefox applications. It also includes a graphical Coded UI Test Editor. For more information, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkId=192777\">\nVisual Studio 2010 Feature Pack MSDN page</a>.</p>",
+      "Sha1Hash": "e82af5ce5941acdc620e23cd1a3d37b4ae2472d1",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-15T17:32:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44265,
+      "FileName": "fr_dynamics_gp_10.0__service__pack_4_x86_604041.msp",
+      "Description": "Dynamics GP 10.0 Service Pack 4 (x86) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "506d77c9f86a774aa757dc5f8796753e827f57af",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-11-16T22:52:14Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "209 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44266,
+      "FileName": "es_dynamics_gp_10.0_service_pack_4_x86_604032.msp",
+      "Description": "Dynamics GP 10.0 Service Pack 4 (x86) - (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "79e48df086c211899afe2a5444b616a9701cd2b6",
+      "ProductFamilyId": 112,
+      "PostedDate": "2010-11-16T22:52:15Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "205 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44349,
+      "FileName": "ja_visual_studio_2010_lab_management_deployment_guide_x86_590134.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "921d4323ef9970cf5dd93283185dbb190c231bc9",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:30Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.252 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44350,
+      "FileName": "ko_visual_studio_2010_lab_management_deployment_guide_x86_602992.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ae9ff273b551b90d9dc49ece4ffea14bbdc0b7ea",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:30Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.277 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44356,
+      "FileName": "cn_visual_studio_2010_lab_management_deployment_guide_x86_602982.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e9e48211b763264c58ba4f339e5a63442a46afbb",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:31Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.383 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44357,
+      "FileName": "ct_visual_studio_2010_lab_management_deployment_guide_x86_602983.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2997d4a97c7486b8b77bac51465157072e4a832f",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:31Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.285 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44358,
+      "FileName": "fr_visual_studio_2010_lab_management_deployment_guide_x86_602997.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7bc8acf21361d44a0d9bb4216ba0ef0f891d5058",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:47Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.198 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44359,
+      "FileName": "es_visual_studio_2010_lab_management_deployment_guide_x86_603000.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "00a2b5859ffcbe4883f588f8815f0b93413c2bda",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:47Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.198 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44360,
+      "FileName": "de_visual_studio_2010_lab_management_deployment_guide_x86_602995.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9f75238b1f027961d0363861ea7fe557c51c9d0c",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:47Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44361,
+      "FileName": "it_visual_studio_2010_lab_management_deployment_guide_x86_603001.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7389b9df4b9aa2fc841fafb59406aa91adc3aced",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:48Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.198 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44362,
+      "FileName": "ru_visual_studio_2010_lab_management_deployment_guide_x86_603006.exe",
+      "Description": "Visual Studio 2010 Lab Management Deployment Guide (x86) -  (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d40d5354bc06950eb645d75895d11a5e4df71fac",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-11-16T22:53:48Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.306 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44366,
+      "FileName": "en_solver_foundation_standard_edition_redistributable_installation_v3.0_x86_605481.msi",
+      "Description": "Solver Foundation Standard Edition Redistributable Installation v3.0 (x86) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "f73c49dee96c713253c7ed5a0ffc9f8c53e966b7",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44367,
+      "FileName": "en_solver_foundation_standard_edition_redistributable_installation_v3.0_x64_605481.msi",
+      "Description": "Solver Foundation Standard Edition Redistributable Installation v3.0 (x64) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "3bda23608118d08536ee26f76cfe29c1df2e9546",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44368,
+      "FileName": "en_solver_foundation_standard_edition_v3.0_x86_605481.msi",
+      "Description": "Solver Foundation Standard Edition v3.0 (x86) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "89f6361e97485bbe3f3e56ce01116405e848e45e",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44369,
+      "FileName": "en_solver_foundation_standard_edition_v3.0_x64_605481.msi",
+      "Description": "Solver Foundation Standard Edition v3.0 (x64) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "68721e5b492bf4567669837921c71dec5fc262dc",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44370,
+      "FileName": "en_solver_foundation_enterprise_edition_v3.0_x86_605490.msi",
+      "Description": "Solver Foundation Enterprise Edition v3.0 (x86) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "da71bd86ab7fdcc55fe20bd44efe93afac450226",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44371,
+      "FileName": "en_solver_foundation_enterprise_edition_v3.0_x64_605490.msi",
+      "Description": "Solver Foundation Enterprise Edition v3.0 (x64) - (English)\r\n",
+      "Notes": "Please visit <a href=\"http://msdn.microsoft.com/en-us/library/ff524509(v=vs.93).aspx\">Microsoft Solver Foundation 3.0</a> for more information.",
+      "Sha1Hash": "556933426032ca1130f3ced63391d7016422ad7f",
+      "ProductFamilyId": 348,
+      "PostedDate": "2010-11-16T21:22:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44373,
+      "FileName": "ru_system_center_configuration_manager_2007_r3_x86_dvd_606388.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (Russian)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "da84b050e2857faab906e5dcbd2f13202e40d9a6",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-16T22:54:34Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44374,
+      "FileName": "ct_system_center_configuration_manager_2007_r3_x86_dvd_606230.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "06b16acb928e516844c04ea942d5cccf81427635",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-16T22:54:34Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44375,
+      "FileName": "ko_system_center_configuration_manager_2007_r3_x86_dvd_606233.iso",
+      "Description": "System Center Configuration Manager 2007 R3 (x86) - DVD (Korean)\r\n",
+      "Notes": "<b><p>This product requires that System Center Configuration Manager 2007 with Service Pack 2 be installed first.</p><p>This installation requires <a href=\"http://support.microsoft.com/kb/977384\">hotfix KB977384</a>.</p>\n",
+      "Sha1Hash": "0b651e977111b5146a43e45cdfaf106a49b69346",
+      "ProductFamilyId": 215,
+      "PostedDate": "2010-11-16T22:54:34Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44376,
+      "FileName": "en_windows_xp_service_pack_3_checked_build_x86.exe",
+      "Description": "Windows XP Service Pack 3 Checked Build (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e0f7fd1996a34d80fa68cdbf9515419dfe074f29",
+      "ProductFamilyId": 140,
+      "PostedDate": "2010-11-22T22:11:13Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44377,
+      "FileName": "de_web_platform_installer_2.0_x86.msi",
+      "Description": "Web Platform Installer 2.0 (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "6cc246230a735f16abc991404670ab4dfceb8e75",
+      "ProductFamilyId": 379,
+      "PostedDate": "2010-11-24T19:25:37Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44380,
+      "FileName": "da_sharepoint_server_2010_x64_dvd_521385.iso",
+      "Description": "SharePoint Server 2010 (x64) - DVD (Danish)",
+      "Notes": null,
+      "Sha1Hash": "b94e8997d1c04f76e6b49c3a0db2283585d4d0f8",
+      "ProductFamilyId": 393,
+      "PostedDate": "2010-11-30T22:35:14Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "729 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44381,
+      "FileName": "en_silverlight_4_for_windows_embedded_standard_2009_x86_611337.exe",
+      "Description": "Silverlight 4 for Windows Embedded Standard 2009 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b0042ee9afe7d7842455e6ac714a052175768c12",
+      "ProductFamilyId": 557,
+      "PostedDate": "2010-12-01T22:36:12Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44405,
+      "FileName": "de_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3567e5f3db0d8098319be548b5b2e3f1a8ad3eff",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:43Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44406,
+      "FileName": "cn_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f03c1320a490f148d86f8cbaed1b183980b8bd05",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:43Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44407,
+      "FileName": "fr_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "55a22e12b4ad85d333260cb0710819993b4d8e3d",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44408,
+      "FileName": "en_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (English)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "6b6a26916bef1b9803c5b110574647692d205d8b",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:44Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44409,
+      "FileName": "ja_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (Japanese)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "ee5e9535f5d6cb2bdb6e1d748c47aaf758c66a58",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:44Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44410,
+      "FileName": "ru_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (Russian)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "025f830726bc472c8b10c3339f0f33afb366d396",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:44Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "75 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44411,
+      "FileName": "mu_forefront_endpoint_protection_2010_x86_x64_dvd_612261.iso",
+      "Description": "Forefront Endpoint Protection 2010 (x86 and x64) - DVD (English, German, Japanese, French, Chinese-Simplified, Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0a43c9920220508c46baaf520c174e6fa25108fa",
+      "ProductFamilyId": 427,
+      "PostedDate": "2010-12-16T17:23:45Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "fr",
+        "ja",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "French",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "327 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44412,
+      "FileName": "en_forefront_unified_access_gateway_2010_with_sp1_x64_dvd_611549.iso",
+      "Description": "Forefront Unified Access Gateway 2010 with Service Pack 1 (x64) - DVD (English)\r\n\r\n",
+      "Notes": "Forefront UAG 2010 may not be downloaded for use or distribution in China.",
+      "Sha1Hash": "339b81fb28dad8210b47178af61220d4ca9105c3",
+      "ProductFamilyId": 398,
+      "PostedDate": "2010-12-10T17:19:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1421 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44414,
+      "FileName": "en_forefront_unified_access_gateway_2010_sp1_x64_dvd_611664.iso",
+      "Description": "Forefront Unified Access Gateway 2010 Service Pack 1 (x64) - DVD (English)\r\n",
+      "Notes": "Forefront UAG 2010 may not be downloaded for use or distribution in China.",
+      "Sha1Hash": "531bb12f00b0951a2eb4f1c689e51ace19025f18",
+      "ProductFamilyId": 398,
+      "PostedDate": "2010-12-10T17:18:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44416,
+      "FileName": "he_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Hebrew)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ac36f82e65eaa851c72f7d98ac56b3cec232103a",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:39Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44417,
+      "FileName": "cn_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ef9a42870c11eed2515855de4d2b9226e4db9a69",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:40Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44418,
+      "FileName": "th_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Thai)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f68c1fd0294fbcab46650ae1d87cbfd4d64bcc77",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:40Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44419,
+      "FileName": "ct_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "235aa789589e95d7aac45dd24c084e9b46d46988",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:40Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44420,
+      "FileName": "ko_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b439db7ba4fb7db46699d072f7524f6607f39e94",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:40Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44421,
+      "FileName": "ja_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1d3662c6259ea02fc00a7ec759d4de9a9ad6f6b8",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:41Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44422,
+      "FileName": "ar_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Arabic)\r\n",
+      "Notes": null,
+      "Sha1Hash": "219f315c4a87b4a132c5dfedebd0bbf53500d6fb",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:41Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44423,
+      "FileName": "ru_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b1e9ca975051bfb50cfd1960e82bcaa67849aa34",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:41Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44424,
+      "FileName": "sv_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Swedish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f0abfea157b78e06b8ff8013433a4e02cb1da01a",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:41Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44425,
+      "FileName": "da_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Danish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0bd4828f1e51bbb4b47ab519388e06a8463596ab",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:42Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44426,
+      "FileName": "bg_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Bulgarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "090b42aa7cd568e925bec29a4d60bbf144bc120a",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:42Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44427,
+      "FileName": "uk_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "26cb0daf2d7b282304c778f24abb6d5bd6a45ba8",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:42Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44428,
+      "FileName": "no_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Norwegian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ad057d8679c98408919b65f1c794019c59520011",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:42Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44429,
+      "FileName": "fr_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8b4fdf29232b8ebb47c7ffc705ea993ac21f073c",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44430,
+      "FileName": "sl_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Slovenian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a2907c280544374ecf206860c1d20ec9fc40ed94",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:43Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44431,
+      "FileName": "it_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0a9ef03377e3667dfb22f44c0024cbca6f6debf2",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:43Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44432,
+      "FileName": "tr_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a0923384e90268357c363659f180c2bf3c72fe5f",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:44Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44433,
+      "FileName": "lt_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Lithuanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2051558adc43654e78000dba06e7b7eddf2b25f5",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:44Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44434,
+      "FileName": "sr_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Serbian Latin)\r\n",
+      "Notes": null,
+      "Sha1Hash": "873d827777e33cf37279eb39e68e50635f2acdaf",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:44Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44435,
+      "FileName": "fi_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "99b4a72697fb7d853f38d6acc140e80b9d6636d3",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:44Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44436,
+      "FileName": "hr_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Croatian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "975d130df84bf338961137e222a0168e579f9013",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:45Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44437,
+      "FileName": "nl_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Dutch)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dacdbe0e35aa48c8ff35d54212038a0bef154935",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:45Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44438,
+      "FileName": "pp_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "29b2b24a415b267b6e466d80cd0f518b7fed4b04",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:45Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44439,
+      "FileName": "kk_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Kazakh)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a5402314713b42a587d58a1cc4f937502e0f4d96",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:45Z",
+      "LanguageCodes": [
+        "kk"
+      ],
+      "Languages": [
+        "Kazakh"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44440,
+      "FileName": "hi_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Hindi)\r\n",
+      "Notes": null,
+      "Sha1Hash": "026c074944d35544a59cd4f29fe436a334505ab4",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:46Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44441,
+      "FileName": "pt_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "03ce5e4e3e0e9418cee734be59bf6655db4c7b2f",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:46Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44442,
+      "FileName": "ro_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Romanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "af5be897464c218bc34d57c413a096dfaff04a21",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:46Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44443,
+      "FileName": "es_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2fbbee24a363871ecc83bca9d605fc27f71b20b7",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:46Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44444,
+      "FileName": "et_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Estonian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1910ed2600fe85d45843bd8db72c237256eb2b3b",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:47Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44445,
+      "FileName": "el_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3252585dd4418282fed103d4ceedd0dabf8a7d5f",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:47Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44446,
+      "FileName": "sk_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Slovak)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6b32b9e462c38a81e35bc0371fca6805b380a6f9",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:47Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44447,
+      "FileName": "de_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cc2e71f17acd342416c45470a75f71d978c69365",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:48Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44448,
+      "FileName": "cs_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3b267aff05a672c0008f56b3773145272b11296e",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:48Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44449,
+      "FileName": "ca_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Catalan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3d4ebd3950f810eaa46b24a25117ec10c18c7612",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:48Z",
+      "LanguageCodes": [
+        "ca"
+      ],
+      "Languages": [
+        "Catalan"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44450,
+      "FileName": "lv_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Latvian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a2ff6c18e1177890d7bb7dfc116fa0234da29f7a",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:48Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44451,
+      "FileName": "pl_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Polish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "23789c1c3032e88f3bc0820d6475cc9112b33e14",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:49Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44452,
+      "FileName": "hu_lync_2010_x86_615692.exe",
+      "Description": "Lync 2010 (x86) - (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2ae879d27eba13f001cf5945a296ee06837cbb5d",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:49Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44453,
+      "FileName": "cn_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "80db513acd8ee033c55619fc4b4bbd6986b4b68c",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:49Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44454,
+      "FileName": "he_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Hebrew)\r\n",
+      "Notes": null,
+      "Sha1Hash": "baa0627c01a7d2b744c4371353c13eb4ece26495",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:49Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44455,
+      "FileName": "ct_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2e1d61017b25546b1c4229d11df8401a83884b46",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:50Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44456,
+      "FileName": "ar_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Arabic)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dd773224b3b724a71f1e5b0ffc204abd7146b8d5",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:50Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44457,
+      "FileName": "th_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Thai)\r\n",
+      "Notes": null,
+      "Sha1Hash": "80cd637eb0dd438ee9ae5595aaab21b74998fcbf",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:50Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44458,
+      "FileName": "ko_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ef22b9fc31e8ae349d9afb7db042ed19ada5404c",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44459,
+      "FileName": "ja_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "80efb70ab0836225f78e435e0c212670deadd59b",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44460,
+      "FileName": "sv_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Swedish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a4f9705ecf689a5d0f3176f2dcce104b0d55b1b4",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:51Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44461,
+      "FileName": "et_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Estonian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "053099d156e3c04464ab0ddbc42106c5c3fc6f6b",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:51Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44462,
+      "FileName": "ru_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2ba85e1aeadf2eb5ff303bf7a62ebedfedfe871b",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44463,
+      "FileName": "bg_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Bulgarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7b2088574beae2c2daab3d508a35b96d7b384e92",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:52Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44464,
+      "FileName": "hr_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Croatian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0200ef1999392827fa9d383b033de86aa798d5b6",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:52Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44465,
+      "FileName": "lv_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Latvian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "967e3fd1630cc18ed3e77f9cbc8e29bd5a3d9e5f",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:52Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44466,
+      "FileName": "no_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Norwegian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "11fe65f633982a085119a6681f9371ba62ebb3af",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:52Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44467,
+      "FileName": "fi_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Finnish)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "9f28ff0b225d1c4bd0ce460ced1ba0068cc972a8",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:53Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44468,
+      "FileName": "nl_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Dutch)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cadf9cc0455fed25069e7dd33037e82b921ddbcc",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:53Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44469,
+      "FileName": "da_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Danish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1e24908f5ba6f591b8f6aad4647e7d4f4bc9020d",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:53Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44470,
+      "FileName": "lt_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Lithuanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "317a31cacd56495a1f0e61e1a775584427a03539",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:54Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44471,
+      "FileName": "sl_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Slovenian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a762e2bed8d38a5dbb4d0a328f863c108ef8a05c",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:54Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44472,
+      "FileName": "sk_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Slovak)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bcb7f3f302128f8aab280f6d469a08077645e173",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:54Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44473,
+      "FileName": "pt_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1e0a2991d932cf78b18f893e4b43cde517259069",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:54Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44474,
+      "FileName": "uk_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8bf4b2ef1d9159909dc788139a9ef9bbf05d0b05",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:55Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44475,
+      "FileName": "sr_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Serbian Latin)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a2faa225e14fad3ae63852358c346e367c24b410",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:55Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44476,
+      "FileName": "tr_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c6aa8ed1c6d9ea93a60ad06f43c26c5b47ca76b0",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:55Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44477,
+      "FileName": "cs_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ca829343586384a7f7a158f5c9b502ab4d8321f5",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:55Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44478,
+      "FileName": "it_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7fb8b39eb667acc8de61513963687c5db92c2af7",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:56Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44479,
+      "FileName": "ro_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Romanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "79d61e025b0c28b98948fb8fdab3314907064820",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:56Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44480,
+      "FileName": "fr_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "94725142e1580f84a012562e8ea028657d234d66",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:56Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44481,
+      "FileName": "pp_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d6b0b99766d804d19cd10b3af192baa9c895f7fa",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:56Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44482,
+      "FileName": "ca_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Catalan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "50c2400f57537a3b2e1726e8012fac52e384b067",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:57Z",
+      "LanguageCodes": [
+        "ca"
+      ],
+      "Languages": [
+        "Catalan"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44483,
+      "FileName": "kk_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Kazakh)\r\n",
+      "Notes": null,
+      "Sha1Hash": "81e0a5452736d7fac82b19a4bf8cfb4c8f7b4c79",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:57Z",
+      "LanguageCodes": [
+        "kk"
+      ],
+      "Languages": [
+        "Kazakh"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44484,
+      "FileName": "de_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "20a994dc746499e16abb0754cc8082cb34414e03",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:57Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44485,
+      "FileName": "es_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5676ce07effa6eeec5d7c684a217628717f435bf",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:58Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44486,
+      "FileName": "hu_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9de75e68fb6bbe2fbd9cd5d09d86292ad92af1a9",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:58Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44487,
+      "FileName": "hi_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Hindi)\r\n",
+      "Notes": null,
+      "Sha1Hash": "901af3f9807df905f45fed1d4f0e6bbf7eab84fe",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:58Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44488,
+      "FileName": "el_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e9e82e6ad854515057f225f309e11ce597765a37",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:58Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44489,
+      "FileName": "pl_lync_2010_x64_615697.exe",
+      "Description": "Lync 2010 (x64) - (Polish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f75afd0675ddb55402e89043b1a32c6d2ec3f79f",
+      "ProductFamilyId": 424,
+      "PostedDate": "2010-12-16T00:04:59Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "55 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44490,
+      "FileName": "pt_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "54a285f2884af94743020a0b3741509a2e9a48b0",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:37Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "1534 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44491,
+      "FileName": "cn_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "bd52eb9dcf2d348fe41166c01008be2568c0f3dc",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:37Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1534 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44492,
+      "FileName": "ct_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "bb627292b3257c6a6b4ce8c09d976b1af59ae495",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:38Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1534 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44493,
+      "FileName": "es_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Spanish)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "1fdd2b69fbe751663b632a9ab292795e58c5323a",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:38Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1535 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44494,
+      "FileName": "it_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Italian)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "045a6f7a03f241ef72adf11df1e0a4e5c086db27",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:38Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1535 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44495,
+      "FileName": "de_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (German)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "6c33e72349dfec43c31a3240e94c854c8faabbe1",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:38Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1535 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44496,
+      "FileName": "fr_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (French)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "b1102ff312653ae386015a008aa839a94992bbbf",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:39Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1535 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44497,
+      "FileName": "ja_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Japanese)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "a03ea5bec3694371e141ad00342c8c4350703c04",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:39Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44498,
+      "FileName": "ko_lync_server_2010_x64_dvd_615426.iso",
+      "Description": "Lync Server 2010 (x64) - DVD (Korean)\r\n",
+      "Notes": "This DVD contains both Standard and Enterprise editions of Lync Server 2010.",
+      "Sha1Hash": "03f0592d712bf55a84d4e7921e80999bb180610d",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:03:39Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1536 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44499,
+      "FileName": "en_lync_2010_sdk_x86_611418.exe",
+      "Description": "Lync 2010 SDK (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "79519650c918233db15774519c93992e6b524fd0",
+      "ProductFamilyId": 425,
+      "PostedDate": "2010-12-16T00:04:01Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

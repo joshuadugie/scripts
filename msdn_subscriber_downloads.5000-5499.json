@@ -1,0 +1,5240 @@
+{
+  "Files": [
+    {
+      "FileId": 5000,
+      "FileName": "sc_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1c7072262cee4586806fc78df82dee9bde7769a1",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:21:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5001,
+      "FileName": "sc_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ebb883c8b5c2986ee391aef3412454b18f2c6d90",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:22:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "199 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5002,
+      "FileName": "sc_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "583e5c6a78a0961b20156aa79dc2d15d36de0a16",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:24:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5003,
+      "FileName": "sc_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "d17573c92d8f53c3a628a0055a3cc6d0a0099a18",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:25:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5004,
+      "FileName": "sc_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "806c14fa75108e77094a7c46aad688c14ef5d2c4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:25:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "600 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5005,
+      "FileName": "sc_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "71cc1ebd0cbb358bdb75482945e96fb57bac5cfd",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:26:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "625 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5006,
+      "FileName": "sc_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "da01d41272a86c59d5029ffbf04142fd577cc9ed",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:26:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "502 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5007,
+      "FileName": "sc_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ee02963a818072d92eb732d38cc8c566ad7faaf7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:27:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "608 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5008,
+      "FileName": "sc_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "417187994ac46ab3f6d9f7b79c5ed344a1322f87",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:28:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "494 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5016,
+      "FileName": "sc_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "5f8c5ebca2a56d9fe60f82a48c16fdaa22257eb2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T03:25:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1729 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5017,
+      "FileName": "cht_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "c4754c59976ccf29ad60a7e71e66001e4767217d",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T03:26:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1731 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5018,
+      "FileName": "ko_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (Korean)",
+      "Notes": null,
+      "Sha1Hash": "941696a0681ee15e6adcb200dab193687aea80fd",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T03:26:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1756 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5019,
+      "FileName": "cht_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f809d19bab76dcf9cff9e22971be4fe70cf6eac2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T05:20:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5020,
+      "FileName": "cht_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "78fbd1f138062bebc608ec1e7c7486f35a67e8ac",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T05:21:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "612 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5021,
+      "FileName": "cht_vs.net_2003_enar_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "475a7ad11f3934f4ad8cc7c82542933c9d03cf0b",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T05:22:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "612 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5022,
+      "FileName": "ko_vs.net_2003_enar_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Korean)",
+      "Notes": null,
+      "Sha1Hash": "dc5309944bfae5e063ffa3d4ed7066b9b3fb4ee3",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T05:23:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "626 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5023,
+      "FileName": "ko_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (Korean)",
+      "Notes": null,
+      "Sha1Hash": "139a1a3455667b0020eeb67e194de218dde5f04e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T05:23:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "626 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5024,
+      "FileName": "ko_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Korean)",
+      "Notes": null,
+      "Sha1Hash": "5eca17737986e517a19f172e451661bf2e5d31ac",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-09T23:22:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "602 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5025,
+      "FileName": "sc_vs.net_2003_enar_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "922ba46262a5ed74d09dea4631f817235d4f383c",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-10T00:35:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "611 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5026,
+      "FileName": "sc_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "10c8a1c5ff7cbe36d68df96ad2b0e70d9b986c3d",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-10T00:39:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "611 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5027,
+      "FileName": "sc_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "cfa87f9e94bceb7870afbbbeb1f7d678cd8e1b15",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-10T00:40:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "587 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5028,
+      "FileName": "ja_his2000a.iso",
+      "Description": "Host Integration Server 2000a (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "6a166cc3b47fe3301a1bea5267011579c8d34e16",
+      "ProductFamilyId": 188,
+      "PostedDate": "2003-05-15T00:46:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "206 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5029,
+      "FileName": "ko_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "054263e6e69672e43ff3680e33b594e68437e8dc",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:48:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "513 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5030,
+      "FileName": "ko_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "2d64bcf159fd4b9f3d66126b8ae6346f2c2d5c07",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:49:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5031,
+      "FileName": "ko_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "58d5b3612af053524c0063cab1a0735671228fae",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:49:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5032,
+      "FileName": "ko_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a5cc2f91f8ce4239e1d8794bd52837b1ed5965a6",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:50:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5033,
+      "FileName": "ko_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Korean)",
+      "Notes": null,
+      "Sha1Hash": "65a08fea3a38a0a1055c98a590944c115cfce63a",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:51:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "175 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5034,
+      "FileName": "ko_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Korean)",
+      "Notes": null,
+      "Sha1Hash": "ac3f4d7eb17fbf64f49583110201e89b8e501f52",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:52:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "200 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5037,
+      "FileName": "ko_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "1b86893ee14d5231c2cb25e46556b59be89734bb",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:54:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "513 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5038,
+      "FileName": "ko_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a0da20c1978e01932b219ec604532c246e2b87db",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:55:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "505 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5039,
+      "FileName": "cht_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a637ab01dedd1d641187ab17b993743c3f58636b",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:56:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "501 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5040,
+      "FileName": "cht_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "8d8ac7d93b7215c76e2f71beccea22cec67c1c6f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:57:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5041,
+      "FileName": "cht_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "6c948ec615b88c76dc6b630abcd58998bd63f935",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:58:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "206 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5042,
+      "FileName": "cht_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "81605667da3ea39a22b1cc8d7ec2deb772c90525",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:58:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5043,
+      "FileName": "cht_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1bd3e62713bab7a2d1a2a57a628554ad3dffc981",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T00:59:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5044,
+      "FileName": "cht_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "92d513bc912768a830aa0a8564c2445b11aae11f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:00:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "602 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5045,
+      "FileName": "cht_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "b58fd0628399f5f7bb32ab7da2bb5a235a49a4b9",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:18:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "501 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5046,
+      "FileName": "cht_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "60a281b3e6f2022850f21d8059ebeef1cf811d0c",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:19:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5050,
+      "FileName": "it_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "5ab1ade0283c41da5c441aa1ef3b185088615812",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:31:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5051,
+      "FileName": "it_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "342ec457123009b0a1d9743c5b214d16831647c4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:32:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5052,
+      "FileName": "it_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Italian)",
+      "Notes": null,
+      "Sha1Hash": "d02cf7316e08227189c98b7350c2d018b56bdc4f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:32:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5053,
+      "FileName": "it_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Italian)",
+      "Notes": null,
+      "Sha1Hash": "03f368ec89e0dd978256a5a1e56f01f995a81119",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:33:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "197 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5055,
+      "FileName": "it_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "df97c97afac067ba92210a507802e8aa0078770e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:34:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "641 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5056,
+      "FileName": "it_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "64688e3b6b10be09f0af016c0e030ed8deeaf4da",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:35:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5057,
+      "FileName": "it_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9af45c8c9d016d3d721e30ea4989e34f3a741fae",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:35:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "509 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5058,
+      "FileName": "it_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e9605332f57ef502c0b9413dcd260a143de3b2b7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:36:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "600 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5059,
+      "FileName": "it_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "acf7e2258fdb86f427789f62e8001051c353ae4f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:37:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5060,
+      "FileName": "it_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "12db5ba3ce5f47e60d0da074694cf1896da8268f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:38:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5061,
+      "FileName": "it_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9357acda3d363bfda93d5d4a6864b9cc01497d50",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-15T01:38:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5062,
+      "FileName": "cht_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "51d21b63365b0b6df22b406b01f888501ec480e1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-05-15T01:41:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "457 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5063,
+      "FileName": "mui_windows_server_2003_cd2.iso",
+      "Description": "Windows Server 2003 Multilingual User Interface - (Spanish, French, Swedish, Dutch, Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "7ec520ff22b501c2210cbeb895f14eed73c95680",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-05-15T01:55:00Z",
+      "LanguageCodes": [
+        "es",
+        "fr",
+        "pt",
+        "sv"
+      ],
+      "Languages": [
+        "Spanish",
+        "French",
+        "Portuguese-Brazil",
+        "Swedish"
+      ],
+      "Size": "510 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5064,
+      "FileName": "mui_windows_server_2003_cd1.iso",
+      "Description": "Windows Server 2003 Multilingual User Interface - (Chinese-Simplified, Chinese-Traditional, German, Japanese, Korean)",
+      "Notes": null,
+      "Sha1Hash": "91484ebd491c66381b059fa6f241f2996c8c8194",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-05-15T01:55:00Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "ja",
+        "ko"
+      ],
+      "Languages": [
+        "Japanese",
+        "Korean",
+        "German",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5066,
+      "FileName": "ja_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7b0977f9dbed299be82e5282d6362f0ac70d0bf0",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5067,
+      "FileName": "de_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (German)",
+      "Notes": null,
+      "Sha1Hash": "5838ccea3943f6c91c15e4d76e7382417d69eb61",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5068,
+      "FileName": "br_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "b2e58668ee5b04c99746a8ca130cd62bd8ba5b04",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5069,
+      "FileName": "fr_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (French)",
+      "Notes": null,
+      "Sha1Hash": "4bfe78e5c839cbfde83ba9cd601e1ce51e1a758c",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "271 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5070,
+      "FileName": "es_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "4876d520711a753b44a7864891983f7b8fd8f20d",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5071,
+      "FileName": "no_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "a17c3c5fc7a63cf2aed78555deb8681a1433de9b",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "266 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5072,
+      "FileName": "fi_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "154f26e75973b62f8c9afa19ff47d9c1380e9e60",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5073,
+      "FileName": "da_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Danish)",
+      "Notes": null,
+      "Sha1Hash": "a35d1450778e993985b4cbad0e2f1f16ee7d9b78",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5074,
+      "FileName": "cht_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "c4501c5db6fb6b038084a990817b722dac799df4",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "283 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5075,
+      "FileName": "nl_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "325a5920514894bb6fd36132210dacb4a7b27831",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5076,
+      "FileName": "en_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (English)",
+      "Notes": null,
+      "Sha1Hash": "78695ed9c004715eab636b009012e910945d5a7b",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "294 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5077,
+      "FileName": "sc_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "91ed98e131db968b8c4b2391501bc87955c97cb6",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "283 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5078,
+      "FileName": "it_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Italian)",
+      "Notes": null,
+      "Sha1Hash": "124a783af6f037c9c5594ce70ebcee6416af3fa2",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "271 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5079,
+      "FileName": "sv_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "e4d2207b3530b5558e8651c9333678fd539b8621",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "270 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5080,
+      "FileName": "ko_visio2002_pro_sr1.iso",
+      "Description": "Visio 2002 Professional (Korean)",
+      "Notes": null,
+      "Sha1Hash": "169c16ae5315705543ca930d8f701cf3a9d2984d",
+      "ProductFamilyId": 57,
+      "PostedDate": "2003-05-15T02:28:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "293 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5081,
+      "FileName": "fr_windows_server_2003_enterprise_64bit.iso",
+      "Description": "Windows Server 2003 Enterprise Edition For 64-Bit Itanium-based Systems (French)",
+      "Notes": null,
+      "Sha1Hash": "d5016f8de5a17f8a697b0b5f826c7c3280ad68fb",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-05-15T03:36:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5082,
+      "FileName": "pl_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "aff26b842b374068b3d8d8a30065cf4389dcbde5",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "203 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5083,
+      "FileName": "nl_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "225eba38d98ec0b58f1d2c26b21645e1a5c7c423",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "203 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5084,
+      "FileName": "no_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "b90c098c47b07d295e13d342a4940211ef7ebe2d",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "203 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5085,
+      "FileName": "sv_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "1158b0e2c24e33724d0c5db704ec1642036ee973",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5086,
+      "FileName": "fi_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "af20130284206328cc7115d4aad0f95248f59feb",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5087,
+      "FileName": "da_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "8507b8c4d3abf0bdbf601630a522326b99804661",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "202 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5088,
+      "FileName": "ru_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "560428bd8aa3cf73e16cf15f08c41bc9a189bbae",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "194 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5089,
+      "FileName": "es_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6bd9249d6ebf60789813bc05d731dbc8f74a7898",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "205 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5090,
+      "FileName": "it_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e80adb110d2df9c44755c83f14a5db9103358173",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "211 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5091,
+      "FileName": "ja_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7552c25d2af58d692598947fa666b12ac45fcb66",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "277 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5092,
+      "FileName": "fr_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (French)",
+      "Notes": null,
+      "Sha1Hash": "ddeff51abfb3aa2e6229e55449d8bb17c3073828",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "214 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5093,
+      "FileName": "cht_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "03e9f95eb40e2890e1f8bcaa316bcfffb4f9aac9",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "276 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5094,
+      "FileName": "sc_project_pro_2002a.iso",
+      "Description": "Project Standard 2002 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "30fa5dd2dc7d98d7e67c73021e8801eece989f5a",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "397 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5095,
+      "FileName": "ko_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "707706f9069eabe9821d70a0167f6f7e74cd34d8",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "320 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5096,
+      "FileName": "de_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (German)",
+      "Notes": null,
+      "Sha1Hash": "fc6112b191c3fbb44b1cf9588e1d94d9ea426093",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "210 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5097,
+      "FileName": "pt_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "5473f805760c18885c00524dace1647eb7f78c4a",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-16T01:43:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "200 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5098,
+      "FileName": "en_project_pro_2002a.iso",
+      "Description": "Project Professional 2002 (English)",
+      "Notes": null,
+      "Sha1Hash": "98894d50c56be91b6215fbd3c5ce0c5f5ab927ec",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-05-21T01:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "201 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5100,
+      "FileName": "cht_.net_framework_1.1_sdk.iso",
+      "Description": ".NET Framework SDK 1.1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a2b9a9c05e6ae78572103b24e7700bb5ef3c9f96",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-21T01:25:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "232 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5101,
+      "FileName": "sc_.net_framework_1.1_sdk.iso",
+      "Description": ".NET Framework SDK 1.1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "667aa0c7ee81c1f994e9bbfbaa26dd058c4d21be",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-21T01:25:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "231 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5102,
+      "FileName": "ko_.net_framework_1.1_sdk.iso",
+      "Description": ".NET Framework SDK 1.1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "80f3296a186d30cbe39a19ab272209541e4bee2a",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-21T01:25:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "238 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5106,
+      "FileName": "it_.net_platform_sdk_1.1.iso",
+      "Description": ".NET Framework SDK 1.1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "42cd8664cdd52ed20fff7a8e0c1e3876398b3624",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-22T01:46:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "225 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5107,
+      "FileName": "cht_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "df2aeab4141dade41bbfab6b26ce17b8891fee3a",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T02:46:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "609 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5108,
+      "FileName": "ko_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "008e4f6953b2d80c6d2a60c257d9e44ca6346eb2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T02:46:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "610 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5109,
+      "FileName": "cht_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f7f9cf7cdc6bda3bd396823becf69fe387198e77",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T02:47:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5110,
+      "FileName": "ko_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "22cf5657653738d3b14f18ab41dceb24a5247802",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T02:47:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5111,
+      "FileName": "ko_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7014bed505d76deb83c8b6082e2ada6209a90505",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T02:47:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5112,
+      "FileName": "cht_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7c6e34c5271408cec863886a33a602199d568559",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-23T03:04:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5126,
+      "FileName": "en_wince.net_4.2_cd4.iso",
+      "Description": "Windows CE .NET 4.2 - CD4 (English)",
+      "Notes": null,
+      "Sha1Hash": "e4c25f01da1154bd2fae92d5e87283a317c4c74c",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "528 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5127,
+      "FileName": "en_wince.net_4.2_cd5.iso",
+      "Description": "Windows CE .NET 4.2 - CD5 (English)",
+      "Notes": null,
+      "Sha1Hash": "4e2e2f1f80137f4b0dd1096088faa98d988d84a3",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5128,
+      "FileName": "en_wince.net_4.2_cd6.iso",
+      "Description": "Windows CE .NET 4.2 - CD6 (English)",
+      "Notes": null,
+      "Sha1Hash": "8b05ab439b307666c8b9ab706c934fb8a59c7ea9",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5129,
+      "FileName": "en_wince.net_4.2_cd1.iso",
+      "Description": "Windows CE .NET 4.2 - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "7843b090b5e5fcf862ff63784086b8da83462a43",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5130,
+      "FileName": "en_wince.net_4.2_cd2.iso",
+      "Description": "Windows CE .NET 4.2 - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "97d5b418bfa99c2dac0c8a559ffd8952ad57962d",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5131,
+      "FileName": "en_wince.net_4.2_cd3.iso",
+      "Description": "Windows CE .NET 4.2 - CD3 (English)",
+      "Notes": null,
+      "Sha1Hash": "74ed67e1e4030bd151b29939db07ee1ef1e2bc81",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "526 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5132,
+      "FileName": "ja_wince.net_4.2_cd5.iso",
+      "Description": "Windows CE .NET 4.2 - CD5 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "4e2e2f1f80137f4b0dd1096088faa98d988d84a3",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5133,
+      "FileName": "ja_wince.net_4.2_cd6.iso",
+      "Description": "Windows CE .NET 4.2 - CD6 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8b05ab439b307666c8b9ab706c934fb8a59c7ea9",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "269 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5134,
+      "FileName": "ja_wince.net_4.2_cd1.iso",
+      "Description": "Windows CE .NET 4.2 - CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "9ecc5589ee6b58896b5ddf06fdbceb30ec3d34b9",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5135,
+      "FileName": "ja_wince.net_4.2_cd2.iso",
+      "Description": "Windows CE .NET 4.2 - CD2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "97d5b418bfa99c2dac0c8a559ffd8952ad57962d",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5136,
+      "FileName": "ja_wince.net_4.2_cd3.iso",
+      "Description": "Windows CE .NET 4.2 - CD3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "74ed67e1e4030bd151b29939db07ee1ef1e2bc81",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "526 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5137,
+      "FileName": "ja_wince.net_4.2_cd4.iso",
+      "Description": "Windows CE .NET 4.2 - CD4 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e4c25f01da1154bd2fae92d5e87283a317c4c74c",
+      "ProductFamilyId": 157,
+      "PostedDate": "2003-06-04T01:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "528 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5143,
+      "FileName": "cz_windows_server_2003_ent_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "58e1bd5924b1b4a15993a70b08bd0eb206707140",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:13:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "561 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5144,
+      "FileName": "cz_windows_server_2003_std_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Czech)",
+      "Notes": null,
+      "Sha1Hash": "6edb9c9ea49101caf7807c50e316b51c2ab2f120",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:13:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "560 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5145,
+      "FileName": "he_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "2762d79afda52db4066f36e1519931e5d1cdbfce",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-12T00:35:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "290 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5146,
+      "FileName": "ru_windows_server_2003_std_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "60de612394fb6ca87fb231d4608eda04f05be462",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:41:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "560 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5147,
+      "FileName": "pl_windows_server_2003_ent_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "1f2012c6e1070de6a9dbbde15b738e625de1a960",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:41:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5148,
+      "FileName": "pl_windows_server_2003_std_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Polish)",
+      "Notes": null,
+      "Sha1Hash": "fe5f73a29f4e86b10cfa73aed1ddcb9b00a0f340",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:41:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5149,
+      "FileName": "ru_windows_server_2003_ent_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Russian)",
+      "Notes": null,
+      "Sha1Hash": "cfe02fdf7fd3b16624288e261381ec09f9855963",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:41:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "561 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5150,
+      "FileName": "pl_windows_server_2003_std.iso",
+      "Description": "Windows Server 2003 Standard Edition (Polish)",
+      "Notes": null,
+      "Sha1Hash": "3c187a0caa2395559353a569a60253d53ac4e8f1",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:47:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5151,
+      "FileName": "pl_windows_server_2003_ent.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Polish)",
+      "Notes": null,
+      "Sha1Hash": "1a18f0dd47bc1388da12a0c63e5dc7c86ff23fa4",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:47:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5152,
+      "FileName": "pl_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Polish)",
+      "Notes": null,
+      "Sha1Hash": "9cf31ed881ec796f5ed8bdd3dcb91925a7c22f3c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:48:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5153,
+      "FileName": "ru_windows_server_2003_std.iso",
+      "Description": "Windows Server 2003 Standard Edition (Russian)",
+      "Notes": null,
+      "Sha1Hash": "996fbfcc229645458b906b46e6186c20f9ea81b3",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:48:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "560 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5154,
+      "FileName": "ru_windows_server_2003_ent.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Russian)",
+      "Notes": null,
+      "Sha1Hash": "327bd0ebaa1e5831a1c675d5b3398ef1410774db",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-06-12T00:49:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "561 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5155,
+      "FileName": "en_operations_manager_sp1.iso",
+      "Description": "Microsoft Operations Manager 2000 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "4c5d96eb363e76b015b2096dd72dc8087bf726a4",
+      "ProductFamilyId": 197,
+      "PostedDate": "2003-06-12T00:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "387 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5161,
+      "FileName": "fr_winxp_sp1a_tablet_pc_cd2.iso",
+      "Description": "Windows XP Tablet PC Edition CD2 (French)",
+      "Notes": null,
+      "Sha1Hash": "1012c0658cd6e19c41c71493676c15e414cb322f",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-06-17T02:51:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5162,
+      "FileName": "fr_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (French)",
+      "Notes": null,
+      "Sha1Hash": "fc9ef47ece560831bfcf6a7820d120ecb7d4c88c",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-06-17T06:08:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "543 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5163,
+      "FileName": "ja_vb2_pro_control_dev_kit.exe",
+      "Description": "Visual Basic 2.0 Control Development Kit (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "010f1afb95a2c13cfcf9c0b354743a2b4fb52f11",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.981 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5164,
+      "FileName": "ja_vb2_pro_odbc.zip",
+      "Description": "Visual Basic 2.0 ODBC (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b53639c398908972100e948b769e8e233565b84d",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.276 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5165,
+      "FileName": "ja_vb2_std_1.exe",
+      "Description": "Visual Basic 2.0 Standard - Disc 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "5a2c0647b71cf2d83f070d9fe7b1b11f6ea7b51c",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5166,
+      "FileName": "ja_vb2_std_2.exe",
+      "Description": "Visual Basic 2.0 Standard - Disc 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "9004a9a6a3154fbfc02b14d39e7a0854c61ede72",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.556 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5167,
+      "FileName": "ja_vb2_std_3.exe",
+      "Description": "Visual Basic 2.0 Standard - Disc 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8da84debb9d2b2ddb0b35a3a13cbc5e960af5028",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5168,
+      "FileName": "ja_vb2_control_pack_desk1.exe",
+      "Description": "Visual Basic 2.0 Control Pack Desk - Disc 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d93e0484a8a07e84bc2c9ddc2f5ab01f2b925e13",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5169,
+      "FileName": "ja_vb2_control_pack_desk2.exe",
+      "Description": "Visual Basic 2.0 Control Pack Desk - Disc 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2a92d6bde7b12d05e7b0cee499d4a2b332d5a256",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5171,
+      "FileName": "ja_vb2_pro.exe",
+      "Description": "Visual Basic 2.0 Professional (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2e73fb5a803f8562ee71b1b87de45aa69347156e",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-06-25T00:40:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.389 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5173,
+      "FileName": "fi_project_2002_server.iso",
+      "Description": "Project Server 2002 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "7569707462651c9166651ca5b887128683a1da48",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-28T02:38:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "160 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5174,
+      "FileName": "pl_project_2002_server.iso",
+      "Description": "Project Server 2002 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "445abcb89fa8c73322918a175f41cc23ba9ea03a",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-28T02:38:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "160 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5175,
+      "FileName": "ru_project_2002_server.iso",
+      "Description": "Project Server 2002 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "04a05e87e12b89e41b24c06bee46d0eaf8b8c289",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-28T02:38:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "160 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5176,
+      "FileName": "sv_project_2002_server.iso",
+      "Description": "Project Server 2002 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "e505329ac33e0b6d4c65f284c04670de013abbc4",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-28T02:38:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "162 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5177,
+      "FileName": "cs_project_2002_server.iso",
+      "Description": "Project Server 2002 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "b82de84bf7f9b85cb0e4676e9729443d86c09851",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-06-28T02:38:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "160 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5190,
+      "FileName": "en_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "f9c711e4513697712de8ec9d9e55d70e1ff24e7a",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-03T01:45:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5196,
+      "FileName": "en_identity_integration_server_2003.iso",
+      "Description": "Identity Integration Server 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "e4b981e2c338b688de465e4ce9bf310f59b1a69c",
+      "ProductFamilyId": 191,
+      "PostedDate": "2003-07-09T06:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "24 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5202,
+      "FileName": "tr_windows_sever_2003_enterprise_x86_dvd.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "e6750b8dc7b633a2762fada468c2378ff23c2270",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:47:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "559 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5203,
+      "FileName": "tr_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "1663c3298de8339be3b4eccd5496878c1f30113d",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:47:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5204,
+      "FileName": "tk_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "48c4f70fb3c5e1ff4314d23d072c4de652b9b889",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:48:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "559 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5205,
+      "FileName": "tk_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "74d9b0bf59fa2267d4810c59c964c633767bec82",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:48:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5206,
+      "FileName": "pt_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "2bc83d75f0f14ce96c71b0715807a854645eb021",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:57:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5207,
+      "FileName": "pt_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "370a490b4103e6ac12ef257c18f213c485ad7392",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:57:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "552 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5208,
+      "FileName": "pt_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "7eb727de67722db19dbe3192909d59c397d85fee",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:57:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5209,
+      "FileName": "pt_windows_server_2003_ent.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "170c38c333f3ccdd378155b092661bb9ea56a073",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:57:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5210,
+      "FileName": "pt_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "4399aedd73d16a4731db301c9bac7d68c313c41a",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T05:57:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "552 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5211,
+      "FileName": "hu_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "b38adb1028fa330eef0a91cd6f70b23416bfafdc",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T06:10:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "557 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5212,
+      "FileName": "hu_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "7730918ac6eaed10b8dc9e91e47ad80b000dc558",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T06:10:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5213,
+      "FileName": "hu_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "9e7203b2dbbbfa8f8186e2b7ff98293e3e3ef7f7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T06:10:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "557 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5214,
+      "FileName": "hu_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "a821adfaa13ce1a80feae099f799ec2ff90d7a9b",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T06:10:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5215,
+      "FileName": "mui_windows_server_2003_cd4.iso",
+      "Description": "Windows Server 2003 Multilingual User Interface - (Finnish, Hebrew, Arabic, Danish, Greek, Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "0779973960ef572bfe293c5168e956c9d7223953",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-10T06:12:00Z",
+      "LanguageCodes": [
+        "ar",
+        "da",
+        "el",
+        "fi",
+        "he",
+        "no"
+      ],
+      "Languages": [
+        "Arabic",
+        "Danish",
+        "Greek",
+        "Finnish",
+        "Hebrew",
+        "Norwegian"
+      ],
+      "Size": "80 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5239,
+      "FileName": "en_netwaresvcs5_sp2.iso",
+      "Description": "Services for Netware 5.0 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "bfa4c1a722f838aeebcbb82fd891abe27a69e62f",
+      "ProductFamilyId": 284,
+      "PostedDate": "2003-07-12T01:52:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5240,
+      "FileName": "mui_windows_server_2003_cd3.iso",
+      "Description": "Windows Server 2003 Multilingual User Interface - (Hungarian, Turkish, Czech, Polish, Russian, Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "7638dc90b7fa0ddfbc92a4a277dff4adcaf360c7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-07-12T04:10:00Z",
+      "LanguageCodes": [
+        "cs",
+        "hu",
+        "pl",
+        "pp",
+        "ru",
+        "tr"
+      ],
+      "Languages": [
+        "Czech",
+        "Hungarian",
+        "Polish",
+        "Russian",
+        "Turkish",
+        "Portuguese-Portugal"
+      ],
+      "Size": "529 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5242,
+      "FileName": "ko_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "43b502aea93c80cfe5c5fd19b7431df13b5cfc86",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:30:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5243,
+      "FileName": "ja_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a4a8b7f6b7b1977fb3f4bc70c02b0749d97cdbeb",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5244,
+      "FileName": "it_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "0342ca8cd5c018e1a6367c1cbf87298c5c349588",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5245,
+      "FileName": "es_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "dbbfe17362ef7ca6e94f31f43d8188b9ce7b17e1",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5246,
+      "FileName": "de_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "b6dc32dc3adceed244cea832f6c1aaaf23d6248c",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "374 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5247,
+      "FileName": "fr_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "ef5b4e67758a3d3d5d3822c13d082a83ca6daef9",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "374 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5248,
+      "FileName": "tc_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "2d324837a0025dcf01967afaa7e7f23357e00305",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5249,
+      "FileName": "sc_exch2003_ent.iso",
+      "Description": "Exchange Server 2003 Enterprise Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "8636f9f0e251e9d03c6484c0b9e0366fd0142939",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:31:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5250,
+      "FileName": "fr_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "88d342cd65d060397c351544a071d3cdc055ef2c",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "374 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5251,
+      "FileName": "it_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "1182c53922fdb33473072ac92b35e8a667acad1a",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5252,
+      "FileName": "tc_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "c7a7617cf6bb9e45984c2b2ddde060b8b082bfcb",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5253,
+      "FileName": "en_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "451916a847afc851e5df1e893c7a8919a0ed792a",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5254,
+      "FileName": "sc_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "295865ae6924c9259e128ef21411f049bb54e916",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5255,
+      "FileName": "ja_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "663d6108c06e535e871ab30cdc07adab90d3fb67",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5256,
+      "FileName": "ko_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "880313bc660f62f483e3055f1ca03bbf990bd2a7",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5257,
+      "FileName": "es_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "8a247844e93f71e8aa6488d11fb6bf6f1bcd1928",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5258,
+      "FileName": "de_exch2003_standard.iso",
+      "Description": "Exchange Server 2003 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "8a4c25e9f2ed12610537407919d1e01df8f32f0d",
+      "ProductFamilyId": 179,
+      "PostedDate": "2003-07-17T05:41:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "374 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5259,
+      "FileName": "cz_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "49b6f54b7d5dfc8fae5b67fa78c73539ea4626a8",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-07-19T02:11:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "202 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5264,
+      "FileName": "en_vb2.0.exe",
+      "Description": "Visual Basic 2.0 Professional - Full Install (English)",
+      "Notes": null,
+      "Sha1Hash": "edb7f2c4ac779a37c005318d317bdf804d332fed",
+      "ProductFamilyId": 76,
+      "PostedDate": "2003-07-30T01:13:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5265,
+      "FileName": "en_vb3.0.exe",
+      "Description": "Visual Basic 3.0 Professional - Full Install (English)",
+      "Notes": null,
+      "Sha1Hash": "7ea2a9fc3f78ead5dd9fed3784f703f8d9eb7a6e",
+      "ProductFamilyId": 77,
+      "PostedDate": "2003-07-30T01:15:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5277,
+      "FileName": "en_msdn_library_vs.net_03_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "81cfe39b0aed5fba3b4468717aecfdebc5a7ac2c",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:06:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5278,
+      "FileName": "en_msdn_library_vs.net_03_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "7188160e51fb7e2c3122f8c9ff77d7ad0441f36f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:06:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5279,
+      "FileName": "en_msdn_library_vs.net_03_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (English)",
+      "Notes": null,
+      "Sha1Hash": "d6239f9c2f8d1b8c2bfc207c0c3608ec040a6ca9",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:06:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "616 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5280,
+      "FileName": "ja_msdn_library_vs.net_03_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a5ee75142a6314adde593300eb2ffe6cd5f16540",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5281,
+      "FileName": "ja_msdn_library_vs.net_03_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d373d89d709b9787064d74832b01c3f720fc0ffa",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "466 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5282,
+      "FileName": "ja_msdn_library_vs.net_03_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "1092b65569ca8a75a9a84f14f4f9e8fee6cf316e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-07-30T02:17:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5326,
+      "FileName": "en_biztalk_financial_services_1.0_sr1_ent.exe",
+      "Description": "BizTalk Accelerator for Financial Services 1.0 Service Release 1, Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "d93e706446d172b2c182331704c997b66def50e5",
+      "ProductFamilyId": 168,
+      "PostedDate": "2003-08-05T06:24:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5336,
+      "FileName": "en_project_std_2002a.iso",
+      "Description": "Project Standard 2002 (English)",
+      "Notes": null,
+      "Sha1Hash": "296e320937ebbd51a59722e4477f4f774ace257d",
+      "ProductFamilyId": 38,
+      "PostedDate": "2003-08-08T02:33:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "201 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5349,
+      "FileName": "en_solomon_fr_forecaster6.5.img",
+      "Description": "FRx Financial Reporter 6.5 for Solomon and Forecaster 6.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "00785f9e556986e5b6d403a6e376b9d7636c7f12",
+      "ProductFamilyId": 121,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "179 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5350,
+      "FileName": "en_solomon_5.5_installation_instructions.pdf",
+      "Description": "Solomon 5.5 Installation Guide (English)",
+      "Notes": null,
+      "Sha1Hash": "2393e1bf06a14ecac5cc6d61ec631489ff380085",
+      "ProductFamilyId": 117,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5351,
+      "FileName": "en_solomon_5.5_sp1.img",
+      "Description": "Solomon 5.5 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "09a3c4a1550c1d87dfcf6e94d01b778382ccbdf5",
+      "ProductFamilyId": 117,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5352,
+      "FileName": "en_greatplains_7.5_cd1.img",
+      "Description": "Great Plains 7.5 Disc 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "229664af24afd7521ff95d9da812f269d6dcfea8",
+      "ProductFamilyId": 109,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "627 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5353,
+      "FileName": "en_greatplains_7.5_cd2.img",
+      "Description": "Great Plains 7.5 Disc 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "50c150ee60aa92af186fcf21fa6cac8ce531c55e",
+      "ProductFamilyId": 109,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5354,
+      "FileName": "en_greatplainssqlinstallation7.5.pdf",
+      "Description": "Great Plains 7.5 Installation Guide (English)",
+      "Notes": null,
+      "Sha1Hash": "c5d38117a4d0f6964bc795572b075bb958f81fe0",
+      "ProductFamilyId": 109,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5355,
+      "FileName": "en_smallbusinessmanager_7.5.img",
+      "Description": "Small Business Manager 7.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "81364ef563c4dd7445578f175022e0833d0e2e2a",
+      "ProductFamilyId": 123,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "611 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5356,
+      "FileName": "en_smallbusinessmanager_7.5_usersguide.pdf",
+      "Description": "Small Business Manager 7.5 Installation Guide (English)",
+      "Notes": null,
+      "Sha1Hash": "aca0a0c0e58d4509e0ad6b88f7624ed48f5d5a80",
+      "ProductFamilyId": 123,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5357,
+      "FileName": "en_solomon_5.5_cd1.img",
+      "Description": "Solomon 5.5 Volume 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "ff8aa536cdb2b640bbd184fb5468df8bfc615a27",
+      "ProductFamilyId": 117,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "645 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5358,
+      "FileName": "en_solomon_5.5_cd2.img",
+      "Description": "Solomon 5.5 Volume 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "22825536c2b68dbacbe4cc9db3023ea1f390fe66",
+      "ProductFamilyId": 117,
+      "PostedDate": "2003-08-26T05:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "382 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5360,
+      "FileName": "en_greatplains_fr_forecaster6.5.img",
+      "Description": "FRx Financial Reporter 6.5 for Great Plains and Forecaster 6.5 (English)",
+      "Notes": null,
+      "Sha1Hash": "ecd809af88c0f7a7fbab350f815004a0a537234a",
+      "ProductFamilyId": 109,
+      "PostedDate": "2003-08-26T05:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "180 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5361,
+      "FileName": "en_windows_mobile_2003_sdk.exe",
+      "Description": "Windows Mobile 2003 Platform SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "d0d30069f76e7360b465b06907501d4bac79848f",
+      "ProductFamilyId": 313,
+      "PostedDate": "2003-08-29T01:27:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5369,
+      "FileName": "it_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Italian)",
+      "Notes": null,
+      "Sha1Hash": "7b68ed57ab716ab88a29140f4848f51de38aa62a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "257 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5370,
+      "FileName": "ja_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "97cc7817b50be9465be20aa383eba8a339039216",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "257 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5371,
+      "FileName": "ko_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Korean)",
+      "Notes": null,
+      "Sha1Hash": "8e9887b72d4c118e335cda9e821750ce5d592689",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "256 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5372,
+      "FileName": "sc_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "57cfdf499237c9e2ac3ded6ebe71d7ac01cfe008",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "255 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5373,
+      "FileName": "cht_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "5fd64a666100d03c9087a0533e64066ab654f1f2",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "256 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5374,
+      "FileName": "de_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (German)",
+      "Notes": null,
+      "Sha1Hash": "5dc02aefc03eb81912bd6d290167a2e58d187d4a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "258 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5375,
+      "FileName": "en_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (English)",
+      "Notes": null,
+      "Sha1Hash": "a92cd684777dfac6bc51ba3ffe0e522067404d43",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "250 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5376,
+      "FileName": "es_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5699f7e037f10a58d3e8a5f5ce9be43f5dc3b18d",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "257 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5377,
+      "FileName": "fr_sql2000_sp3a.iso",
+      "Description": "SQL Server 2000 Service Pack 3a (French)",
+      "Notes": null,
+      "Sha1Hash": "8f3a1e0696b393e158a5e02bbea18dd097a584c1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "258 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5378,
+      "FileName": "en_office_live_2003_std.iso",
+      "Description": "Office Live Communications Server 2003, Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "9ab23451940989434cdaa72e973837beb4004712",
+      "ProductFamilyId": 195,
+      "PostedDate": "2003-09-04T03:50:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "76 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5379,
+      "FileName": "br_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Portuguese - Brazil)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "63aca13f2da913b6ae6c8cb12457b929b5330503",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "361 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5380,
+      "FileName": "tw_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Chinese-Taiwan)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "5d598016d470984b3ae7e62dbc364c876418c077",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "483 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5381,
+      "FileName": "da_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Danish)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "663d8a0a52509ce1fe6c2d6ab69e308e04d14d9f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "357 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5382,
+      "FileName": "de_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (German)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "dbae1dcc0a1f5556f02bfc2fe1f71d7da334a8b3",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "378 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5383,
+      "FileName": "en_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (English)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "0d90f58105dcbc74a8972802340b3226679e7119",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "401 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5384,
+      "FileName": "es_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Spanish)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "9ca1b4a1767c4e64d19adf5199a3939d9bcfb907",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "373 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5385,
+      "FileName": "fr_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (French)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "e9f6ff48c985a2e45144552c34e8ed36c5324721",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "388 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5386,
+      "FileName": "hk_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "2117ed82a72762e59ea4fb83e60ef9571ccd45a9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "479 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5387,
+      "FileName": "it_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Italian)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "9d7a9e0aa6472abb6c2fb8682481e1d73daaa081",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "372 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5388,
+      "FileName": "ko_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Korean)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "5b148548a0e84ef981f1578e558ea5980b3f6ca5",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "436 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5389,
+      "FileName": "nl_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Dutch)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "58c1b8dee4253c5d7e9c4a1dc415d4715e00f484",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "372 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5390,
+      "FileName": "sc_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Simplified Chinese)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "dcb35d3a7fc2870b336a04fa071fcbf63a1c5d61",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5391,
+      "FileName": "ar_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Arabic)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "aef9a1af0f783df104ad59ae38bf790a749494e1",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-04T03:58:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "357 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5392,
+      "FileName": "it_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f6ac2c4452bb05121192483c64bfcf456af8c2e9",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5393,
+      "FileName": "ja_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f28c5beb98750ac35b15c4a468a8c6476da0bfb5",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "195 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5394,
+      "FileName": "nl_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "2fd002697e7ac736422c0367fffacc9b78c8ec51",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "161 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5395,
+      "FileName": "es_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6deb656edbf80ee9f46ee1de43bc50dda8852c96",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "161 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5396,
+      "FileName": "br_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "abd2f187f61d6aab9d9b233f7024f4981131c768",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "151 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5397,
+      "FileName": "da_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "0f77e6a62edf049b2b3c65eee9c36296828e2a43",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "155 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5398,
+      "FileName": "en_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "7bf337d1720b3ca3937f183f0a4775d22f5d452f",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "199 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5399,
+      "FileName": "fr_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "2604700d3e2b502e5ff2d7f65c6f7158660b1130",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-04T04:07:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5400,
+      "FileName": "nl_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "c9be203ce48e833aca6bfa52593177fa75de0de6",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "73 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5401,
+      "FileName": "br_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "f7095b8de6d062d2c7dc89f7a29739798baeee9d",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "77 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5402,
+      "FileName": "da_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "614c91dd85830b1af6e02953c2eaa7f236d5f20a",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "82 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5403,
+      "FileName": "en_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "39afdbb714b4fe5fc29ed44fac5af7b408251aeb",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5404,
+      "FileName": "es_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "4e0dae69f5eec015f27d74650f2185447f7cee06",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5405,
+      "FileName": "fr_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "8fe02852348de8239f9ec5b1368f2e887503d22c",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "102 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5406,
+      "FileName": "it_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "356a80d5f5623c91c3453e3b75b033274e43c645",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "91 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5407,
+      "FileName": "ja_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7edd31df57dff9458912b99942bda1e8bc9ef9e4",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-04T04:12:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "148 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5408,
+      "FileName": "en_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "ad94f317ff1e2f3a4b63d9daf580942a63a14c61",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-04T04:16:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "182 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5409,
+      "FileName": "fr_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "a8433e2b67542a1961cf38f57fb3e0f12ed75e65",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-04T04:16:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "159 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5410,
+      "FileName": "it_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "ce16fe03fe910ad8998b7a1cbbac919490aa194d",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-04T04:16:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "142 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5411,
+      "FileName": "es_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2e724c8f48227f920a85a1c9b3db065f89b3fa46",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-04T04:16:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "143 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5412,
+      "FileName": "en_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "91a9763ac21d363dc8623d5308b0469e47e0d964",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-04T04:19:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "155 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5413,
+      "FileName": "en_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "6cc3ba698e24aaabfd761a172da6f8924130fdcc",
+      "ProductFamilyId": 40,
+      "PostedDate": "2003-09-04T04:19:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5414,
+      "FileName": "ja_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "000f5cc27d3bc29e739dbac7288d914b6b62d552",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-04T04:19:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "298 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5415,
+      "FileName": "ja_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e0ec6052974362e5b1e4ae35859fe6b25bf24a21",
+      "ProductFamilyId": 40,
+      "PostedDate": "2003-09-04T04:19:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "277 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5416,
+      "FileName": "de_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "b523739835a82b60aac26a36ddd0988341bc454c",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-04T04:22:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "148 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5417,
+      "FileName": "en_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "7b803de7cdbf437950bc382a3fd0bb99aff73332",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-04T04:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "228 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5418,
+      "FileName": "fr_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "e8027075c86778273d5a7f18d61cf7a47e109ca1",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-04T04:22:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "162 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5419,
+      "FileName": "ja_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "46a1f885954f628eeb80b7d9249c6e4fb20083ea",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-04T04:22:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "163 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5420,
+      "FileName": "es_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "381a028d6f85714bdcf911c672a0b5088474de95",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-04T04:22:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "144 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5421,
+      "FileName": "nl_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "8f2b7df3924e35ddee335294497829710d217928",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:32:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "77 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5423,
+      "FileName": "en_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "758be3187bb93c436b1b07b82b5df4da1648ff1e",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:32:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "135 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5426,
+      "FileName": "fr_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "80414a2f8d78f39002dd6a53affe347bbb917995",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:32:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5428,
+      "FileName": "it_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "6873a09cefab26eedc0db7fc76b8614acbdde547",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:32:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5429,
+      "FileName": "ja_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7eefd0d70f5f50077e77c98b99c5e26c933e94e1",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:32:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "124 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5430,
+      "FileName": "es_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ae684d7e3ab8faff8a75b5e4f9a3be0977b3b8bc",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-04T04:33:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5432,
+      "FileName": "he_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "831838fc9ec914b61decbb44fcc3f9920f57435f",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5433,
+      "FileName": "ja_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "12cac853d31a95f57eedf7bdee9abe10ecaf0740",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5434,
+      "FileName": "ko_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "f2886656b21be7ce8ac945af91866a177d693738",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5435,
+      "FileName": "sc_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "19570bd765782b79ce56f073ee8c1d005b2c2f57",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5436,
+      "FileName": "ar_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "0671eadd8d535018ca4f284616cca764f33e7f0b",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5437,
+      "FileName": "cht_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "3e6b4a5a81d715afb6cfa18917de9b7d92391db2",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5438,
+      "FileName": "de_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (German)",
+      "Notes": null,
+      "Sha1Hash": "d38b5ffc40d5857b0895c9233b1dc0356f059998",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5439,
+      "FileName": "en_mdac_typ_2.8.exe",
+      "Description": "MDAC 2.8 (English)",
+      "Notes": null,
+      "Sha1Hash": "91bd59f0b02b67f3845105b15a0f3502b9a2216a",
+      "ProductFamilyId": 67,
+      "PostedDate": "2003-09-10T00:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5440,
+      "FileName": "en_smartphone_2003_sdk.msi",
+      "Description": "Windows Mobile 2003-based Smartphones SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "7eb4e8fbcb2bec33db9c2fa9d0563f16b2aba6f4",
+      "ProductFamilyId": 313,
+      "PostedDate": "2003-09-10T00:54:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "53 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5441,
+      "FileName": "ja_office_2003_project_std.iso",
+      "Description": "Office Project Standard 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "99333285d985206f8d9229afdfc90c2ba35c233d",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-10T00:58:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "298 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5442,
+      "FileName": "en_office_2003_project_std.iso",
+      "Description": "Office Project Standard 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "1a82f53aca884344013e9480a5c33b058c3d8bef",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-10T00:58:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "154 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5453,
+      "FileName": "de_mappoint_2004_euro_cd2.iso",
+      "Description": "MapPoint 2004 European - Run Disc (German)",
+      "Notes": null,
+      "Sha1Hash": "8dc77a5eb54d5ea4cb094b1b451f07dd7fab6017",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5454,
+      "FileName": "de_mappoint_2004_euro_cd1.iso",
+      "Description": "MapPoint 2004 European - Setup Disc (German)",
+      "Notes": null,
+      "Sha1Hash": "6bcc0c0ed1aa0f11e58bac6df10bb77acb4b8479",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "423 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5455,
+      "FileName": "en_mappoint_2004_cd1.iso",
+      "Description": "MapPoint 2004 North America - Setup Disc (English)",
+      "Notes": null,
+      "Sha1Hash": "279d6ca6baaedf125a3460f4c9d9f9af1693eacd",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5456,
+      "FileName": "en_mappoint_2004_cd2.iso",
+      "Description": "MapPoint 2004 North America - Run Disc (English)",
+      "Notes": null,
+      "Sha1Hash": "f7cadd0b04ae4b317115d6c7234a94d6ad936fdb",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "602 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5457,
+      "FileName": "en_mappoint_2004_euro_cd1.iso",
+      "Description": "MapPoint 2004 European - Setup Disc (English)",
+      "Notes": null,
+      "Sha1Hash": "68bbd1e5a7d60849fd3748cb82d332972fce6b05",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "420 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5458,
+      "FileName": "en_mappoint_2004_euro_cd2.iso",
+      "Description": "MapPoint 2004 European - Run Disc (English)",
+      "Notes": null,
+      "Sha1Hash": "8512fe01c2b17ae1df403b6dbdac91ce5367ab1e",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5459,
+      "FileName": "es_mappoint_2004_euro_cd1.iso",
+      "Description": "MapPoint 2004 European - Setup Disc (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "1bd6df802f6d5b29045940bd56ba3da4ee4bf1b7",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "423 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5460,
+      "FileName": "es_mappoint_2004_euro_cd2.iso",
+      "Description": "MapPoint 2004 European - Run Disc (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "19185811245f0b4475b3a6708134a72017c78168",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5461,
+      "FileName": "fr_mappoint_2004_euro_cd1.iso",
+      "Description": "MapPoint 2004 European - Setup Disc (French)",
+      "Notes": null,
+      "Sha1Hash": "92eefd60156a5b8df87ffa20897c4a1f4e0e14af",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "423 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5462,
+      "FileName": "fr_mappoint_2004_euro_cd2.iso",
+      "Description": "MapPoint 2004 European - Run Disc (French)",
+      "Notes": null,
+      "Sha1Hash": "0f7bb55bef3a68bcd726e24a0b7f87c64f12384a",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:09:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5463,
+      "FileName": "it_mappoint_2004_euro_cd1.iso",
+      "Description": "MapPoint 2004 European - Setup Disc (Italian)",
+      "Notes": null,
+      "Sha1Hash": "0d54524c0fd6c70058e5dfdedaef164c05e4827c",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:10:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "423 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5464,
+      "FileName": "it_mappoint_2004_euro_cd2.iso",
+      "Description": "MapPoint 2004 European - Run Disc (Italian)",
+      "Notes": null,
+      "Sha1Hash": "92931dbfbffb83c2549af5b1ab0731c09b1e7ef4",
+      "ProductFamilyId": 20,
+      "PostedDate": "2003-09-17T02:10:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5465,
+      "FileName": "ja_office_2003_professional.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Japanese)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "6d0153993692364f05660305483016ae2159f7e9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-17T02:12:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "516 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5466,
+      "FileName": "en_sbs_2003_outlook.iso",
+      "Description": "Office Outlook 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "c06d94066c10ea4903aaade9896238d1c75ba59f",
+      "ProductFamilyId": 33,
+      "PostedDate": "2003-09-19T01:53:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "172 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5469,
+      "FileName": "da_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "8cf942533476292560e5a4869810328d4ac841b7",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5470,
+      "FileName": "da_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "0a64f1b9c7aad7f8b91dfbf9eaf222b2864a6c24",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "137 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5471,
+      "FileName": "de_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "3290b90cc09ddf7c7a1d28cb78b538bb698fb20f",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "171 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5472,
+      "FileName": "de_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "9b6e8d2f3e356c22aebe1b8ab117e62595493ced",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "100 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5473,
+      "FileName": "de_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "6ed63835192f4fc96311d8d7e3c81b0c33e886ac",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "89 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5474,
+      "FileName": "de_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "3c4406d3e598d2d96282b1aa7f96804ed3539aec",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "146 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5475,
+      "FileName": "de_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "5690cd881d8afcf4676945fea262f21dde697a00",
+      "ProductFamilyId": 40,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "302 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5476,
+      "FileName": "en_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "f5689402ede43433d9e1bde2c5f99550d6b1cc88",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "592 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5477,
+      "FileName": "es_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "918dc0b8687b7521740be566cd56cc1ca49ba784",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "136 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5478,
+      "FileName": "es_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "3b58064027d168394878be7a33c1adb2defcd6b9",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "603 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5480,
+      "FileName": "fi_office_2003_infopath.iso",
+      "Description": "Office InfoPath 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "816faf8af182c8713992fce5fa19cf79c4d55429",
+      "ProductFamilyId": 14,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "74 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5481,
+      "FileName": "fi_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "3e102231923b3348891f8804fcc89960223e934d",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5482,
+      "FileName": "fi_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Finnish)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "7ae507b9497ee93ac4ce48a23d72939a1d34b09f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-19T02:55:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "365 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5483,
+      "FileName": "fi_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "1c388af72cecb6da7c034b17c18ad1e83bc9455e",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "138 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5484,
+      "FileName": "fi_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "0b0032c62571a53e877bc3a31603949bb298e56f",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5485,
+      "FileName": "fr_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "98428b0fd4daa2cd9731102aa526083c23cd99da",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "152 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5486,
+      "FileName": "fr_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "76289bec418d978e0312ca03cdd6ec5b71c403c7",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "607 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5487,
+      "FileName": "he_office_2003_pro.iso",
+      "Description": "Office Professional Enterprise Edition 2003 (Hebrew)",
+      "Notes": "This software version includes a particular custom XML tagging implementation, and is not available in the United States and its territories.",
+      "Sha1Hash": "e8f1629a9ecf348bb131de7642d72a6a31758c5f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "358 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5488,
+      "FileName": "he_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "7bdc76b693017d51013628c441512898348544cb",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "270 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5489,
+      "FileName": "he_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "516502ac727f63e6b7f4d617d56cef1f8038e495",
+      "ProductFamilyId": 40,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "287 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5490,
+      "FileName": "it_office_2003_project_pro.iso",
+      "Description": "Office Project Professional 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "8daead9c5308e59d41e886080a94c77e7d46f6b1",
+      "ProductFamilyId": 39,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "140 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5491,
+      "FileName": "it_office_2003_project_server.iso",
+      "Description": "Office Project Server 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b2d5fe6ea9c7f718abe0a13baab0ed8f07d45401",
+      "ProductFamilyId": 40,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5492,
+      "FileName": "it_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "acb84bf0c2d6835cae6ea71482b1b79313781aec",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "600 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5493,
+      "FileName": "it_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "7e412400b1b30e4468989ec846cc22c82b8da062",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "148 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5494,
+      "FileName": "ja_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "5d63ae298f2bd294f2807c39e38ac3f896db0fcf",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5495,
+      "FileName": "ja_office_2003_sps.iso",
+      "Description": "Office SharePoint Portal Server 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "da5a66d31a92ce975e981588bbe0e127472c199c",
+      "ProductFamilyId": 203,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "604 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 5496,
+      "FileName": "ko_office_2003_frontpage.iso",
+      "Description": "Office FrontPage 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "dbafcbbf40d878e10ebe941b99ea695259006443",
+      "ProductFamilyId": 12,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "211 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5497,
+      "FileName": "ko_office_2003_onenote.iso",
+      "Description": "Office OneNote 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "3cc1cd10e0e38b564137087a1faba643dbe748c2",
+      "ProductFamilyId": 30,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "121 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5498,
+      "FileName": "ko_office_2003_visio_pro.iso",
+      "Description": "Office Visio Professional 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "54af7ac6a65ae0a5700ed86eb77d507b10524d8c",
+      "ProductFamilyId": 58,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "182 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 5499,
+      "FileName": "nl_office_2003_publisher.iso",
+      "Description": "Office Publisher 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "afd7e3373cc1cf4405c78b7a67d87292d8906daf",
+      "ProductFamilyId": 46,
+      "PostedDate": "2003-09-19T02:56:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "143 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

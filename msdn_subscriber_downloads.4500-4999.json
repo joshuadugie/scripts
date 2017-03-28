@@ -1,0 +1,4530 @@
+{
+  "Files": [
+    {
+      "FileId": 4504,
+      "FileName": "ja_sql_ce_2.0.exe",
+      "Description": "Microsoft SQL Server 2000 Windows CE Edition version 2.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c9d0d30204ad04ddc247d4a3fa0d1f332188a9c3",
+      "ProductFamilyId": 210,
+      "PostedDate": "2002-12-07T03:22:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "48 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4506,
+      "FileName": "en_platformsdk_nov2002.exe",
+      "Description": "Platform SDK - November 2002 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "e0a31e2aeefeaac9a410b2989ed0ee300d63d088",
+      "ProductFamilyId": 279,
+      "PostedDate": "2002-12-07T03:27:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "396 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4516,
+      "FileName": "en_win_adv_svr_1.2.iso",
+      "Description": "Windows Advanced Server, Limited Edition Version 1.2 Eval (English)",
+      "Notes": null,
+      "Sha1Hash": "2442fc9ad66a962912a821eab28e85b89c7dbb1e",
+      "ProductFamilyId": 141,
+      "PostedDate": "2002-12-11T06:07:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "570 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4517,
+      "FileName": "mui_winxp_embedded_cd1.exe",
+      "Description": "Windows XP Embedded with Service Pack 1 - MUI CD1",
+      "Notes": null,
+      "Sha1Hash": "96c0920b44b97da49e30c1491c3887d9e277320b",
+      "ProductFamilyId": 102,
+      "PostedDate": "2002-12-13T06:14:00Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "391 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4518,
+      "FileName": "mui_winxp_embedded_cd2.exe",
+      "Description": "Windows XP Embedded with Service Pack 1 - MUI CD2",
+      "Notes": null,
+      "Sha1Hash": "d0639cbf099639ae35608ca2ef5f396ffc46346f",
+      "ProductFamilyId": 102,
+      "PostedDate": "2002-12-13T06:14:00Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "372 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4530,
+      "FileName": "en_biz_hipaa_2.0.exe",
+      "Description": "BizTalk Accelerator for HIPAA Enterprise 2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "e8a85f52bde5f1b0412ca79b081ab20d443f9485",
+      "ProductFamilyId": 168,
+      "PostedDate": "2002-12-17T02:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4541,
+      "FileName": "en_hct_11.1.exe",
+      "Description": "Windows Hardware Compatibility Test Kit 11.1 (English)",
+      "Notes": null,
+      "Sha1Hash": "ab38e4c83b15908a2e5cc8ed4c1443deae3ef13d",
+      "ProductFamilyId": 308,
+      "PostedDate": "2002-12-19T06:51:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "512 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4546,
+      "FileName": "ko_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "f7cbe0a234d2fd54b25c0bce28978e622da642d1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:42:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4547,
+      "FileName": "sc_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "5246245af5ef05d74da21e9994a3b19ef6a87b44",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4548,
+      "FileName": "cht_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "00e286e0e4036248a100a28572a340a067cf509e",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4549,
+      "FileName": "de_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "ca0dcb933f0b86e3c00de926c4edecfa5a79fa49",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4550,
+      "FileName": "en_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "07f590ce13f6dd40ac275f63b3cbdf26f02fb22f",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4551,
+      "FileName": "es_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "0292bb0f7b841706e1d1de1fa725b9d9056fa9f8",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4552,
+      "FileName": "fr_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "35407037bbe34ba50dde22ef0d506c9350edf73c",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4553,
+      "FileName": "it_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "12bac57d86ddb870d126c33b44711915a77d1bc8",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4554,
+      "FileName": "ja_ent_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Enterprise Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d4f93cc01a3fc29475b5893236b7995ea229e896",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4555,
+      "FileName": "ko_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "41a806679319eef10d9305cae1659fb8c8f5e068",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4556,
+      "FileName": "sc_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "38f35c42027a1217c390d522f81eb35036087180",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:43:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4557,
+      "FileName": "cht_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7009c0efa692117cc1555083b86916b2811d6ac1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4558,
+      "FileName": "de_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "e1e7a0331535a5e49ac00ff571becefadb6ec91f",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4559,
+      "FileName": "en_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "4b6131c5ca16f9a816bca3b463b89eaa13b0d36c",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4560,
+      "FileName": "es_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "e4a8c2385e5ae3023dede35ea1c913f2c7ddcda8",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4561,
+      "FileName": "fr_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "e0ffaae99b8d2bf3ceaf3de0503833231de1348a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4562,
+      "FileName": "it_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "38c470df2bc076df24e75f99e98129deb172dd9c",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4563,
+      "FileName": "ja_std_microsoftsqlservernotificationservices.exe",
+      "Description": "Microsoft SQL Server 2000 Notification Services 2.0 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "90c8c9f55a9aeb6ba3fe4e34bea76dfbec3a729c",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-04T02:44:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4565,
+      "FileName": "en_sql_server_2000_web_services_toolkit.exe",
+      "Description": "SQL Server 2000 Web Services Toolkit (English)",
+      "Notes": null,
+      "Sha1Hash": "2511523ec26ec18f83296db3f041657ebb1838af",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-01-07T02:55:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4568,
+      "FileName": "ork_cd.exe",
+      "Description": "Office Resource Kit - XP and 2000 - (English)",
+      "Notes": null,
+      "Sha1Hash": "505503556944995eaaed2c999f2f1f7430f5ec49",
+      "ProductFamilyId": 274,
+      "PostedDate": "2003-01-07T07:15:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "109 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4569,
+      "FileName": "en_dx9sdk.exe",
+      "Description": "DirectX 9.0 SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "267880280b82bae7d399fc2e15f9eaf182328380",
+      "ProductFamilyId": 251,
+      "PostedDate": "2003-01-10T02:12:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "222 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4571,
+      "FileName": "en_web_services_enhancements_1.0.msi",
+      "Description": "Web Services Enhancements 1.0 for Microsoft .NET (English)",
+      "Notes": null,
+      "Sha1Hash": "62948de37b7f0ef27e7e51604d9b2976562e020c",
+      "ProductFamilyId": 303,
+      "PostedDate": "2003-01-17T03:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4603,
+      "FileName": "ru_ie6_sp1.exe",
+      "Description": "Internet Explorer 6.0 with Service Pack 1 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "83bab92635b0d83ec1eb6e204e0b68f7795fd43a",
+      "ProductFamilyId": 154,
+      "PostedDate": "2003-02-01T07:32:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4604,
+      "FileName": "tr_ie6_sp1.exe",
+      "Description": "Internet Explorer 6.0 with Service Pack 1 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "e0be04a0782ac3b565046379d3957ac5b13f8ba7",
+      "ProductFamilyId": 154,
+      "PostedDate": "2003-02-01T07:32:00Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4605,
+      "FileName": "el_ie6_sp1.exe",
+      "Description": "Internet Explorer 6.0 with Service Pack 1 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "8fb08d244e8d8ccad14af4742827c5b97b092910",
+      "ProductFamilyId": 154,
+      "PostedDate": "2003-02-01T07:32:00Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "78 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4633,
+      "FileName": "en_winxp_mce_cd1.iso",
+      "Description": "Windows XP Media Center Edition CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "02695740d94ffb094fc3e80a7111c9501d534f6d",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-02-05T06:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "540 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4634,
+      "FileName": "en_winxp_mce_cd2.iso",
+      "Description": "Windows XP Media Center Edition CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "736618b009aeadf61b9e4987d1eea949f1d39872",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-02-05T06:44:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "153 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4635,
+      "FileName": "en_visualfoxpro8.exe",
+      "Description": "Visual FoxPro 8.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "4e34d06d00f9a6bd0bc74d6fc7ccc18000c53f87",
+      "ProductFamilyId": 89,
+      "PostedDate": "2003-02-06T03:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4637,
+      "FileName": "en_biztalk_financial_services.exe",
+      "Description": "BizTalk Accelerator for Financial Services (English)",
+      "Notes": null,
+      "Sha1Hash": "3542c203cc3e4334c6c00f8100dfa60d0a884819",
+      "ProductFamilyId": 168,
+      "PostedDate": "2003-02-11T03:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4694,
+      "FileName": "en_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "5f280f38ef1f82e57326c04d3dafd2d254182309",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:47:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4695,
+      "FileName": "en_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "718925a7f16e832060d78bd59d25b7d62088c517",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4696,
+      "FileName": "en_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (English)",
+      "Notes": null,
+      "Sha1Hash": "beb9d97162d8cec96f2d71143da155cf682d28fa",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4697,
+      "FileName": "en_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (English)",
+      "Notes": null,
+      "Sha1Hash": "8f680ba25414e02af3a92425ce07876c6744cde5",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4698,
+      "FileName": "es_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5583eee3b0ea30b6e8d4d86159299f5ddc7775e3",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4699,
+      "FileName": "es_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f3a3fb62be672108fd63edf0362a5e701d613c84",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4700,
+      "FileName": "es_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "091a4a37dcf35408126cbc5b4558721a77f0775b",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4701,
+      "FileName": "es_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f7d0d403a486e39c557668381896fc1e26f3b21c",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4702,
+      "FileName": "es_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f2be7463b8dd2cccbc02b206d5e40ff8838b9478",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4703,
+      "FileName": "fr_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "ddd03f94170ca7d1804be2f867aa08130b499f91",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4704,
+      "FileName": "fr_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "cb1c21313bba7ccfcbfb5672a2a53587255cc5f1",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4705,
+      "FileName": "fr_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (French)",
+      "Notes": null,
+      "Sha1Hash": "c3287572e4f60945e67bc37399ab5f0a7f1c4af8",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4706,
+      "FileName": "fr_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (French)",
+      "Notes": null,
+      "Sha1Hash": "c6273d2298825128f91bb2f78bd6b6128fbab928",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4707,
+      "FileName": "fr_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (French)",
+      "Notes": null,
+      "Sha1Hash": "865d528c867474d417f1979587ba792cb47a0b40",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4708,
+      "FileName": "it_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "961b99554b3ce81032b8d9d5e2787083cd4e4601",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4709,
+      "FileName": "it_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e0a0738c89234308b401d65099fb0e46ea4fb480",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4710,
+      "FileName": "it_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "0c459bcd98d521326967b02949c3a185ac49a401",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4711,
+      "FileName": "it_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "20fc371cc7897b6acc4e4f43104ab48ea68fb3dc",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4712,
+      "FileName": "it_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "5518939ad04cc42dc0abed201581b9df91914f95",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4713,
+      "FileName": "ja_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "867656eb21b4da3f91adcc702a9f0cb4899dfda9",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4714,
+      "FileName": "ja_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "185dac0b2dec8084b287642792c05860d7775dac",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4715,
+      "FileName": "ja_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "eb877a09a4374455c7eebf4a60615ec99986d067",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4716,
+      "FileName": "ja_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3df3cc8071d977e4c99387d370ab4dc165b2d715",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4717,
+      "FileName": "ja_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "1567cb3973b287121ebf450ad68078d7a334b04b",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4718,
+      "FileName": "de_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (German)",
+      "Notes": null,
+      "Sha1Hash": "8cb4d762efea09b65a9d95408449a5cd2fe34500",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4719,
+      "FileName": "de_spsfull2.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "c363db85849027e4d88125268daa07cb31ead9e1",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4720,
+      "FileName": "de_spsfull3.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 3 (German)",
+      "Notes": null,
+      "Sha1Hash": "d01dc3d750789f492ce950558f3c4f1b70e259c9",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4721,
+      "FileName": "de_spsfull4.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 4 (German)",
+      "Notes": null,
+      "Sha1Hash": "19d2e1524f3cfe666adc06cdcb13b094f92487c0",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4722,
+      "FileName": "de_spsfull5.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 5 (German)",
+      "Notes": null,
+      "Sha1Hash": "2d3589c8f3487f76685ad62c0078c92186dc32c2",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4723,
+      "FileName": "en_spsfull1.exe",
+      "Description": "SharePoint Portal Server 2001 Service Pack 2A - 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "e9013c3d2c940fc0e7c548452f81017a8024b95b",
+      "ProductFamilyId": 204,
+      "PostedDate": "2003-03-04T02:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4756,
+      "FileName": "en_windows_2003_enterprise_64bit_chk.iso",
+      "Description": "Windows Server 2003 Enterprise Edition For 64-Bit Itanium-based Systems - Debug/Checked Version (English)",
+      "Notes": null,
+      "Sha1Hash": "de1a70367e0e8a99403618262ab1ebea8ac478e6",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:43:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "633 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4757,
+      "FileName": "en_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "0309ffb4181ba5122c692a6e1079e9fc1d53fce4",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:45:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "543 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4758,
+      "FileName": "en_windows_server_2003_enterprise_64bit.iso",
+      "Description": "Windows Server 2003 Enterprise Edition For 64-Bit Itanium-based Systems (English)",
+      "Notes": null,
+      "Sha1Hash": "96357f7ce32549f8797379d604848e31fa46d2c1",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:46:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4759,
+      "FileName": "en_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "a600409482a5678ef6af2b26d3576d6d9894178d",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "542 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4760,
+      "FileName": "en_windows_server_2003_web.iso",
+      "Description": "Windows Server 2003 Web Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "46c1ccb2cfc96803e304a35bef50cd71b2c1de38",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:49:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "487 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4761,
+      "FileName": "en_windows_xp_pro_64bit.iso",
+      "Description": "Windows XP 64-bit Edition Version 2003  (English)",
+      "Notes": null,
+      "Sha1Hash": "defc235255c9b92792199e0001abdb755e463c0c",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-03-27T01:52:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "501 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4762,
+      "FileName": "server2003_usa_3790_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (English)",
+      "Notes": null,
+      "Sha1Hash": "e34c18bf81791919eaac48cd0df1b69048c21102",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:56:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4763,
+      "FileName": "en_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (English)",
+      "Notes": null,
+      "Sha1Hash": "ded4f516370ae54d0eeb2dec8ec69e95ae5594d6",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "543 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4764,
+      "FileName": "en_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (English)",
+      "Notes": null,
+      "Sha1Hash": "cb59a385a9df46bfe45f8682bf7094781bc061e3",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "542 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4765,
+      "FileName": "en_windows_server_2003_web_vl.iso",
+      "Description": "Windows Server 2003 Web Edition - VL (English)",
+      "Notes": null,
+      "Sha1Hash": "9c76dd2b4185d1a4eefc41b2369088b57a0a3fde",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-03-27T01:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "487 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4766,
+      "FileName": "en_hct_11.2.zip",
+      "Description": "Windows Hardware Compatibility Test Kit for Windows XP Version 11.2 (English)",
+      "Notes": null,
+      "Sha1Hash": "70ca8a68c361ced62f3b0e4bb00c0cba38b171f5",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-03-28T05:38:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "512 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4767,
+      "FileName": "en_windows_server_2003_enterprise_chk.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - Debug/Checked (English)",
+      "Notes": null,
+      "Sha1Hash": "eef5f921cc8fc20fb29a862e1e132359e0d151bb",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:21:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4769,
+      "FileName": "de_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "06d7b1db37e6f2310a6f539151a17a39e6a3af22",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:33:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "551 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4770,
+      "FileName": "de_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (German)",
+      "Notes": null,
+      "Sha1Hash": "c6d4d07c401ccc08c0cddb5369c092d045720ec3",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:33:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4771,
+      "FileName": "de_windows_server_2003_enterprise_64bit.iso",
+      "Description": "Windows Server 2003 Enterprise Edition For 64-Bit Itanium-based Systems (German)",
+      "Notes": null,
+      "Sha1Hash": "d771a612e125bdb93fc911674f281e8967074392",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:33:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "571 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4772,
+      "FileName": "de_windows_server_2003_enteprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "07c188b5ebd0f943e5da094db16477dc590d6f8e",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:38:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "552 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4773,
+      "FileName": "de_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (German)",
+      "Notes": null,
+      "Sha1Hash": "9c85c97714e8c82470d6b40e533278d2c009efaf",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-01T03:38:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "551 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4777,
+      "FileName": "de_sql2000_dev_64bit.iso",
+      "Description": "SQL Server 2000 Developer Edition - 64-bit (German)",
+      "Notes": null,
+      "Sha1Hash": "49c86722178b1f92334bc54c24429592c3dd2de5",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-05T05:03:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "358 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4778,
+      "FileName": "en_sql2000_dev_64bit.iso",
+      "Description": "SQL Server 2000 Developer Edition - 64-bit (English)",
+      "Notes": null,
+      "Sha1Hash": "ea1c3b5d18c9ca9010705e3933d65eabce15975b",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-05T05:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "315 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4779,
+      "FileName": "fr_sql2000_dev_64bit.iso",
+      "Description": "SQL Server 2000 Developer Edition - 64-bit (French)",
+      "Notes": null,
+      "Sha1Hash": "f07381b332c9aeeedeac36f4adbfdf2d95085fe5",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-05T05:03:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "358 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4780,
+      "FileName": "ja_sql2000_dev_64bit.iso",
+      "Description": "SQL Server 2000 Developer Edition - 64-bit (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "30de6363605a57adece44a3afa91b944819cfab7",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-05T05:03:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "359 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4782,
+      "FileName": "en_platformsdk_win2003.exe",
+      "Description": "Platform SDK - February 2003 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "33e0434f63effc0a04b3401d992ae4478e4c80e7",
+      "ProductFamilyId": 279,
+      "PostedDate": "2003-04-05T05:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "325 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4783,
+      "FileName": "de_windows_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "84f4fba290c9ce4ae311a861fe8a80d5c334390f",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-05T06:31:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "552 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4784,
+      "FileName": "en_vs.net_2003_enarch_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (English)",
+      "Notes": null,
+      "Sha1Hash": "d7aca93ca12b4f028a1c16b72af17e909bc96d7d",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-07T09:31:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "696 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4785,
+      "FileName": "en_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (English)",
+      "Notes": null,
+      "Sha1Hash": "5125754a665ac757740bba6d223caa8a17a372ae",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-07T09:32:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "585 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4786,
+      "FileName": "en_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (English)",
+      "Notes": null,
+      "Sha1Hash": "cabf0cb6dc833490467b5f4fb39f86c5e8f8bac0",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-07T09:33:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "561 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4787,
+      "FileName": "ja_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b80d6e06014124833238cb5fccbf13380ac6b163",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:11:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "596 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4788,
+      "FileName": "ja_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3e0ae32fe8fd5f88771b8ee9e0537bd5c591c9b2",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:13:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4789,
+      "FileName": "ja_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "cb2010589267e50fc02bb4e5b784cf407f25ea09",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:14:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4790,
+      "FileName": "ja_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "c48b9f7b26b5f286af393415ad129f730abb6c4f",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:14:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4791,
+      "FileName": "ja_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "78fb17036d9272046a876d1c7c7384300d1d38f6",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:14:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "596 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4792,
+      "FileName": "ja_windows_server_2003_enterprise_64bit.iso",
+      "Description": "Windows Server 2003 Enterprise Edition For 64-Bit Itanium-based Systems (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7b3a7feb71f2391993e718fe4fa60df2eb60e322",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-08T10:27:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "606 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4793,
+      "FileName": "en_windows_server_2003_ddk.exe",
+      "Description": "Windows Server 2003 DDK (English)",
+      "Notes": null,
+      "Sha1Hash": "3fa5703f75749ba0e5f01c8eb13872968ad7bf71",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-10T00:16:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "184 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4795,
+      "FileName": "en_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "adb19368ee9f5bd7e31a5699061c44b1db41c68b",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:02:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "649 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4796,
+      "FileName": "en_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "83e9bc2059afc4934a42d6651fefa0c842b1ddc2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "413 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4797,
+      "FileName": "en_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (English)",
+      "Notes": null,
+      "Sha1Hash": "ac05b5880a40b74e8ea3cce9d15c7ba226a44231",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:04:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "161 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4798,
+      "FileName": "en_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "86e4616a48fff728171099cdd90cfda53642003e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:05:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "637 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4799,
+      "FileName": "en_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "9237561f6efbc4c1c94ae726137eb0de3f45c562",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:06:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4801,
+      "FileName": "en_vs.net_2003_enarch_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "f65a035ffc7b8bc4c875bfc81c8b39a699d91c02",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:08:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "637 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4802,
+      "FileName": "en_vs.net_2003_enarch_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (English)",
+      "Notes": null,
+      "Sha1Hash": "1349b8db147314f950bbe659d6214eef52b3c65f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:10:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4803,
+      "FileName": "en_visio_ent_arch_2003.iso",
+      "Description": "Visio for Enterprise Architects (English)",
+      "Notes": null,
+      "Sha1Hash": "f134caa50b2aa60af8584464aedbc64b4e817159",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-13T02:12:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "221 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4805,
+      "FileName": "fr_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "2fd9213f03084ac83ecde819a40efae4ef539784",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:26:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4806,
+      "FileName": "fr_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "ac0dbc54d8d25f4d89ede136d29c7f487ae3baad",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:26:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4807,
+      "FileName": "fr_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (French)",
+      "Notes": null,
+      "Sha1Hash": "ae108adedbe90913058bc7bebdb6f3fa6cba0772",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:28:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4808,
+      "FileName": "it_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f79f3e1d24ce9fd93b60a05931cc7dd89e3da5f1",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:29:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4809,
+      "FileName": "it_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "7457cae0c41d8ef8b755531995555d4e2a68a427",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:30:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4810,
+      "FileName": "it_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Italian)",
+      "Notes": null,
+      "Sha1Hash": "76b442b3a99fa01b74c21e29aefaf322ef628c2e",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:31:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4811,
+      "FileName": "es_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "d840149e9b3dc7c8fc0c02091d51e779ce18ed49",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:34:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4812,
+      "FileName": "es_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "da7bb24fbad7d66495f1cbf9b2f9aed104e01aa5",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:34:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4813,
+      "FileName": "es_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2c6e8d331940d14c7c56f5c85de1e2861a0c088a",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:35:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4815,
+      "FileName": "br_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "41ace53954254fcac110b33d4c7afcd80424e48a",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:39:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4816,
+      "FileName": "br_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "9d5589bf605241b1ec6c6f2f99e3fdb64f17ffed",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:40:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4817,
+      "FileName": "br_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "128d7509213826a99f904da24e3305d867289493",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-13T02:41:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4819,
+      "FileName": "ja_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7b95f991ff3d209ed89dd29f2cb719a3a26a3a19",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-15T00:10:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "618 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4820,
+      "FileName": "ja_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "57c4ecc6099aac60272e5b07bd6518e7f99eb9a4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-15T00:37:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "644 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4825,
+      "FileName": "ja_vs.net_2003_enarch_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e5345f6edc3768d926ab8a2bb8a7bd71065e3ac6",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-15T02:50:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "644 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4826,
+      "FileName": "ja_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "925b3d3e243c88f97c1691c4636f5c8f41af1a7e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-15T08:23:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "190 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4828,
+      "FileName": "en_vs.net_framework_sdk_1.1.iso",
+      "Description": ".NET Framework SDK 1.1 (English)",
+      "Notes": null,
+      "Sha1Hash": "ac9ada1783a5814339215125c527e1c3048269c8",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-04-16T01:33:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "219 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4829,
+      "FileName": "en_his_2000.iso",
+      "Description": "Host Integration Server 2000a (English)",
+      "Notes": null,
+      "Sha1Hash": "8ed5c5af92a055df22b73aa80ed146eb3bdc6144",
+      "ProductFamilyId": 188,
+      "PostedDate": "2003-04-16T01:36:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "194 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4833,
+      "FileName": "cht_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "79ebe34dcaefd07a6e4d6552ea3d4d1c06680028",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:34:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4834,
+      "FileName": "cht_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "4a0e481ba7bed29a0cd1102432bb7f9c0c34d0fc",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:34:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4835,
+      "FileName": "sc_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "b902b3f1c46dd018d65bc242396857a2fbab8d9c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:34:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4836,
+      "FileName": "sc_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "449f6f787393d566a3666dfed11832cfd488d5e8",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:34:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4837,
+      "FileName": "cht_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "a056b6f9266f6f4e0b04012291e1573c78f8b03e",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:36:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "564 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4838,
+      "FileName": "cht_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "c292efda0ff31daac4c43364eca14a92cbfedf7c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:38:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4839,
+      "FileName": "cht_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "67f659c418049aed7d3e999e39414769341aace7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:39:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4840,
+      "FileName": "sc_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "7aeeb80f6680c21120b4aef485eb8271ed327b15",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:40:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4841,
+      "FileName": "sc_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "812fe87411e4c2d6408494dc64c95b40aa67e0c2",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:41:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4842,
+      "FileName": "sc_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "d827f756881c51e0005dda54264599ddd4c68ddc",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-18T03:41:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4843,
+      "FileName": "fr_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (French)",
+      "Notes": null,
+      "Sha1Hash": "036c6a9a87c705e7ddcf15df393fb5fb7143d5c5",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:36:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4844,
+      "FileName": "fr_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (French)",
+      "Notes": null,
+      "Sha1Hash": "c59e5944952166ca1befac1b3b244807e3e4b085",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:37:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1642 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4845,
+      "FileName": "de_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (German)",
+      "Notes": null,
+      "Sha1Hash": "122869b8c2a7c4246d430167dd125c70c58f70a5",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:37:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "574 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4846,
+      "FileName": "de_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (German)",
+      "Notes": null,
+      "Sha1Hash": "d775acb08d3af46451f3a35d9cd8b5a6a0dea516",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:38:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1662 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4847,
+      "FileName": "fr_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (French)",
+      "Notes": null,
+      "Sha1Hash": "0608b749231d3dfc359cadc7dedd818c41a3f796",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:45:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "601 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4848,
+      "FileName": "de_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (German)",
+      "Notes": null,
+      "Sha1Hash": "77c976813bc0f17f5ddc9d78c4e29d857f0125b0",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:45:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4849,
+      "FileName": "fr_vs.net_2003_enarch_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (French)",
+      "Notes": null,
+      "Sha1Hash": "84d7f916b6ce14abd22bffa0c2459735a6e5a699",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:46:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "692 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4850,
+      "FileName": "de_vs.net_2003_enarch_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (German)",
+      "Notes": null,
+      "Sha1Hash": "4f20b9ec20600d6523ba16910e7cf61dcf571e96",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-19T00:47:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "694 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4851,
+      "FileName": "it_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e93bd8c69b9ce1e33d85b53ca375fc44347dc574",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4852,
+      "FileName": "ja_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "1ed05d22e211d311f85ddc3a8f359811e09baf35",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "461 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4853,
+      "FileName": "ko_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "cbd8ce138a242bb8708c4c718456abef995965a2",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4854,
+      "FileName": "sc_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "6c3412529872c39336b45340a33e3c154c7856b0",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "455 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4855,
+      "FileName": "cht_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "3a7b6919978e97a53d33e5ca3612ab14c6e407ba",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "457 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4856,
+      "FileName": "de_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "4c57e17b359cf91385b2d0a08b88ab3144c9ac8d",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "461 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4857,
+      "FileName": "en_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "86d4f18196bcc4b76ced8277759d977d2a014fe6",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4858,
+      "FileName": "es_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "202f3c5030a630e8ac3c69dcc1a78bd3b33c372a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4859,
+      "FileName": "fr_sql_2000a_ent.iso",
+      "Description": "SQL Server 2000 Enterprise Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "d1d28878be09c482f61fc424cbf06a2343e6d474",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:41:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "463 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4860,
+      "FileName": "it_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "03cb5c8d89d3a2afac48120faedcf8ea8bfef678",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4861,
+      "FileName": "de_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "8b6c75ce59c75de1d8e861f05c5c6ee554156276",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4862,
+      "FileName": "es_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "dcd4aad792bd7c253286bddbadd92c622f8a0d0d",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4863,
+      "FileName": "ko_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "4d9f0540f2cb7001da6a42729e804ce2c27ce2c1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4864,
+      "FileName": "sc_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "2a2e57aa233024bebcc9ad86d24f51d82aef48ff",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "455 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4865,
+      "FileName": "en_sql_2000_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "d60368713680b948f84199567ab8630ebb105b81",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4866,
+      "FileName": "ja_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "10dc3612ebd5653cf8e8dc46c5fd28b9129a30e4",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4867,
+      "FileName": "fr_sql_2000a_dev.iso",
+      "Description": "SQL Server 2000 Developer Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "7283df2a2b8ed0244c0e1fdbbd0f5af4a5849df1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:46:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "462 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4868,
+      "FileName": "en_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "9e07147383618d85a1be236554f7f6ba92b68d87",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:51:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4869,
+      "FileName": "ja_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e25dd9a59bca10c0eb8ea36b96576ac573015a1a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:51:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4870,
+      "FileName": "fr_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "5c7d977de26ad32999432e4086ea3cacec7745a3",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:51:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "462 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4871,
+      "FileName": "it_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "42bef197613a6edd4e563f760ba9d777be94adac",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4872,
+      "FileName": "de_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "305fea429938fc163e3fa19cdb645024fb70fcef",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4873,
+      "FileName": "es_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "586d48a295292da635b4ddd6c06230e5a06f301a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4874,
+      "FileName": "ko_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "bbbd069bd7ea268e82814d1cec32029eeddec5f1",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4875,
+      "FileName": "cht_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "af7cdef30eca420186e8b8b0e23ae6dabde76c3b",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "457 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4876,
+      "FileName": "sc_sql_2000a_personal.iso",
+      "Description": "SQL Server 2000 Personal Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "8fa9a3c346b2c068407702bb1ec01a275d593b8f",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:52:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "454 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4877,
+      "FileName": "es_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7c358e44b7bf9c5d5ba229733a12fec51df00e90",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4878,
+      "FileName": "ko_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "d00c9a0d564154852305c66b38c8ec76e2f83b52",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4879,
+      "FileName": "cht_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "030bfe8087f36ebbeacac1c9991eb761ac11defe",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "457 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4880,
+      "FileName": "sc_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ccb47865f1c025be8887e2b3376c620d1d5a93ed",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "454 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4881,
+      "FileName": "ja_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "46275d6a32ff73611cc8be57811bbe89354b390f",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4882,
+      "FileName": "fr_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "1b753a900407140e27b44265ef78f528fabb22ce",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "462 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4883,
+      "FileName": "it_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (Italian)",
+      "Notes": null,
+      "Sha1Hash": "7c8af2cecef2f128efe98c007c9b5fd142df8758",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "458 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4884,
+      "FileName": "de_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (German)",
+      "Notes": null,
+      "Sha1Hash": "0dbf470fe13b13627777320498d6902ef5000b7c",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-04-22T00:56:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "460 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4885,
+      "FileName": "hk_windows_server_2003_ent_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "65631139aa24eea99146f36f5809c5b181d15c92",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-22T01:51:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4886,
+      "FileName": "hk_windows_server_2003_std_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "3435f9ed1b0d61367ef71aa37f198b135d7c9ca3",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-22T01:51:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4887,
+      "FileName": "hk_windows_server_2003_ent.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "3506e0b8afab7dda1839962e900f3a2f9499dbe9",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-22T01:51:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4888,
+      "FileName": "hk_windows_server_2003_std.iso",
+      "Description": "Windows Server 2003 Standard Edition (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "d6a6775eeb09b266cf25fa2a219e4104699952bc",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-22T01:51:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "563 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4889,
+      "FileName": "hk_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "b084435b180f3ef95435376113518cdc0753db29",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-22T01:51:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4892,
+      "FileName": "en_enterprise_instrumentation.exe",
+      "Description": "Enterprise Instrumentation Framework (English)",
+      "Notes": null,
+      "Sha1Hash": "3f242c8e308c3a8d3617ef46528d29da3a5410f5",
+      "ProductFamilyId": 252,
+      "PostedDate": "2003-04-29T00:34:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.862 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4893,
+      "FileName": "de_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (German)",
+      "Notes": null,
+      "Sha1Hash": "cd8825870fb8438da01c79b3e4e08d946438ea2f",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "163 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4894,
+      "FileName": "de_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (German)",
+      "Notes": null,
+      "Sha1Hash": "68fc407c3a040ee50a46cfa089245bb62834955d",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4895,
+      "FileName": "de_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (German)",
+      "Notes": null,
+      "Sha1Hash": "07df5dacb411321aa6f9a30d670f70adb52d8bd4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "434 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4896,
+      "FileName": "de_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (German)",
+      "Notes": null,
+      "Sha1Hash": "2c9ba4781c06efeb435b666ff9174a697e5fef8b",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "598 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4897,
+      "FileName": "de_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (German)",
+      "Notes": null,
+      "Sha1Hash": "a2f38e0fb1abdba91257a9fa4ea8baf02689dbf7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4898,
+      "FileName": "de_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (German)",
+      "Notes": null,
+      "Sha1Hash": "ec012619b2b681b1cfe30abb20170b096b03c5db",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "598 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4899,
+      "FileName": "de_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (German)",
+      "Notes": null,
+      "Sha1Hash": "47e165ff13a130607a820772163c1f620d6ffeff",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:11:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4902,
+      "FileName": "de_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (German)",
+      "Notes": null,
+      "Sha1Hash": "fdd859933c90502f44bc0187f5597ff00904e352",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T01:13:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "195 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4906,
+      "FileName": "fr_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (French)",
+      "Notes": null,
+      "Sha1Hash": "d031b4d39f7678a05bb80ef141dc75731d0277e7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4907,
+      "FileName": "fr_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (French)",
+      "Notes": null,
+      "Sha1Hash": "501cb7a008891d1132624b8dbe590070e19d3fd7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4909,
+      "FileName": "fr_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (French)",
+      "Notes": null,
+      "Sha1Hash": "514373bd5c79ec0cbc6c77ef2a4e91eac64224cd",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "197 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4910,
+      "FileName": "fr_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (French)",
+      "Notes": null,
+      "Sha1Hash": "7899fcf7fb3a83986399d098a66d550a58a92646",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4911,
+      "FileName": "fr_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (French)",
+      "Notes": null,
+      "Sha1Hash": "64582731131c1b9afc1eef78feccd734e83477e7",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4912,
+      "FileName": "fr_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (French)",
+      "Notes": null,
+      "Sha1Hash": "9470749c117a92061c46138227cfbaa1db553ba5",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4913,
+      "FileName": "fr_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (French)",
+      "Notes": null,
+      "Sha1Hash": "fae78cfdbdaf963c980bc55a63043c7d9022b1a4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4914,
+      "FileName": "fr_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (French)",
+      "Notes": null,
+      "Sha1Hash": "b229197165ba128c802246f02313b9b3825711c4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:00:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "434 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4915,
+      "FileName": "ko_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Korean)",
+      "Notes": null,
+      "Sha1Hash": "6a3974f6df8b908780f951ae7d5853afd63c1e5f",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4916,
+      "FileName": "nl_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "1f381b17b5c249c1cb6db900d0da31968aab3de5",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4917,
+      "FileName": "nl_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "10218d48804edcc31a760696b15dbd025eb1043c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4918,
+      "FileName": "sv_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "f1ba36b7caf4201b3a0271b7f424d51dc2c2afd2",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4919,
+      "FileName": "sv_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "90f709bd0054bd0aa253f73551ce14e0ec62ec63",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4920,
+      "FileName": "ko_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Korean)",
+      "Notes": null,
+      "Sha1Hash": "886da96df5f10b6f9611c165f00be6c03fac069b",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:27:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4921,
+      "FileName": "ko_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "179cbe163aa467c0e7f4bce112d8e5b89d99b8a6",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:29:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4922,
+      "FileName": "ko_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Korean)",
+      "Notes": null,
+      "Sha1Hash": "986b728e5a80969e76bfbadf7e02b91150dfd2b6",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:29:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "565 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4923,
+      "FileName": "ko_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Korean)",
+      "Notes": null,
+      "Sha1Hash": "4348b15a470be231a5e5f9ce7e1087f789998a06",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:29:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4924,
+      "FileName": "nl_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Standard)",
+      "Notes": null,
+      "Sha1Hash": "b45a36f5b556d39b319cd0669d7fe5495a2999a7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:29:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4925,
+      "FileName": "nl_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "2af374dac8eec1e2e9f18719e449790cdffc9fd8",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:29:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4926,
+      "FileName": "sv_windows_server_2003_standard.iso",
+      "Description": "Windows Server 2003 Standard Edition (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "6f10d214c29b5bf01b3ada9243a608c97a4ea6b0",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:30:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4927,
+      "FileName": "sv_windows_server_2003_wsrm.iso",
+      "Description": "Windows Server 2003 System Resource Manager (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "0ebe4cb2e8fb075f5961c42507f7eaad8bde4c31",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:30:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4928,
+      "FileName": "sv_windows_server_2003_enterprise.iso",
+      "Description": "Windows Server 2003 Enterprise Edition (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "a3413dced3c5b642bbd8e9cc7bf28b1252590416",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-29T02:30:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4929,
+      "FileName": "es_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f96bef096c0567902b4be129e86af501bd58e0aa",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:42:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "572 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4930,
+      "FileName": "es_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ccb209a2f0355a523e351ec2b2c425bc6eaf64b1",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:43:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1636 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4931,
+      "FileName": "es_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "1be2ba334d33c54e57fb2facb7a242037dc6b764",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:44:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4932,
+      "FileName": "es_vs.net_2003_enar_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ef17c8d7c8d6bca0a7e6d1d51d16e9f7dd955d36",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:44:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "685 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4933,
+      "FileName": "fr_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (French)",
+      "Notes": null,
+      "Sha1Hash": "0087cb265c8b6ec58f3f01995111a0eaa5292a08",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:57:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "641 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4934,
+      "FileName": "fr_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (French)",
+      "Notes": null,
+      "Sha1Hash": "2bcebccd731cef56cee43bd82628629823757018",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:57:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4935,
+      "FileName": "fr_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (French)",
+      "Notes": null,
+      "Sha1Hash": "918a82303a1bb2aa8c2db10ceec78a5a8a2ee472",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-29T02:57:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4936,
+      "FileName": "fr_.net_framework_sdk_1.1.iso",
+      "Description": ".NET Framework SDK 1.1 (French)",
+      "Notes": null,
+      "Sha1Hash": "94180c2a80e65d659c289af1fd12e9a522224e07",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-04-30T01:09:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "227 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4939,
+      "FileName": "de_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (German)",
+      "Notes": null,
+      "Sha1Hash": "99f273576b3838c6524e655b3b007fd49ddb4bc3",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:27:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4940,
+      "FileName": "de_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (German)",
+      "Notes": null,
+      "Sha1Hash": "45302f30c94f4faa4210c024a80c6b7a90d4e9a2",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:28:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "531 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4941,
+      "FileName": "fr_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "10f97221e2d9c6507ddc5cfc8bc1f4d98cab82c7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:32:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4942,
+      "FileName": "fr_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (French)",
+      "Notes": null,
+      "Sha1Hash": "c04944a9108f4a911c77b29cd79585ef62b00b4c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4943,
+      "FileName": "it_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "df265e4a635dbd8777293f3f7689f973e49f9c72",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4944,
+      "FileName": "it_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Italian)",
+      "Notes": null,
+      "Sha1Hash": "4f30754dae48db5fbbabc0e44ac7c2c4f1e2f486",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4945,
+      "FileName": "br_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "f3eafd4c0f6447c8ee5320c12159c7b20112564c",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4946,
+      "FileName": "br_windows_server_2003_standard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "ee12cdf1ad96cc625d8462739ed268a4d4b0d11e",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4947,
+      "FileName": "es_windows_server_2003_enterprise_vl.iso",
+      "Description": "Windows Server 2003 Enterprise Edition - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "af28413b5409d9c2c21269eb8bcd31976430b35b",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "555 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4948,
+      "FileName": "es_windows_server_2003_stanard_vl.iso",
+      "Description": "Windows Server 2003 Standard Edition - VL (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "77b91f7f2956f9239d0eb75f150d4b52d2ae52c7",
+      "ProductFamilyId": 138,
+      "PostedDate": "2003-04-30T01:33:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4949,
+      "FileName": "ja_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3f7876a3671095796bb7f5bd04cd28bab50cd929",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:43:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "611 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4950,
+      "FileName": "ja_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "053d814d0222419376f3c70489589e90d38e4f5c",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:43:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "512 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4951,
+      "FileName": "ja_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "93d3846423b733ca47d258a011e05f2f9f83e810",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:44:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "629 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4952,
+      "FileName": "ja_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f0d7d2c735bb52276c89fd53d04e347ffc41b883",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:45:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "629 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4953,
+      "FileName": "ja_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d87829ce42f08fc8c56ffca2eeb429f70ff31e54",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:45:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4954,
+      "FileName": "ja_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "66fd3b1bad49e4ee0cbee348da1c08fdd4e6ab8e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:46:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "184 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4957,
+      "FileName": "ja_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "09cb78f68371465580facda3e13a3a591c590a51",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-04-30T01:53:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4971,
+      "FileName": "es_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "0e3e4a14f8dd01b15de3415772d30cd37d065880",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:37:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4972,
+      "FileName": "es_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "93f6e80e8e5d6d60f6eceb87017045ee360dc895",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:38:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "439 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4973,
+      "FileName": "es_vs.net_2003_prereq.iso",
+      "Description": "Visual Studio .NET 2003 Prerequisites Disc (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "91d2b53e945f0a0af648797d5e674f01a4ecf2d3",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:40:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4974,
+      "FileName": "es_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "87eee472494e4e5fe3b953980696b315d918cd7e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:40:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "641 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4975,
+      "FileName": "es_vs.net_2003_library_cd2.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "78b6b045e060e8c5960c6f5d783ddbca57510647",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:41:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "639 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4976,
+      "FileName": "es_vs.net_2003_library_cd3.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD3 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "22222904b2dfe3e2ed2ff492ddb34efd2bdc7c76",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:41:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "506 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4977,
+      "FileName": "es_visio_enar_2003.iso",
+      "Description": "Visio for Enterprise Architects (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2b3f5f94cab7c1277fd39e4eabd41b0bd6de4e02",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:42:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "189 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4979,
+      "FileName": "es_vs.net_2003_ent_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7a973274ec56a2dfc2e1acb95d45bebf413ea4de",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:43:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4980,
+      "FileName": "es_vs.net_2003_ent_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - CD2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "df6e76bb0449cc509051c93056fcd747ea6aa5d8",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:44:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "439 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4981,
+      "FileName": "es_vs.net_2003_pro_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6d8142371d06b78949ddfdc846259a9cbb271db9",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:44:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "619 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4982,
+      "FileName": "es_vs.net_2003_pro_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Professional - CD2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a85ffdb0575feebcf827b49f5a880b89d8a981b4",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T01:45:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "392 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4983,
+      "FileName": "de_.net_framework_sdk_1.1.iso",
+      "Description": ".NET Framework SDK 1.1 (German)",
+      "Notes": null,
+      "Sha1Hash": "3477dcefd5fb76c5f0a7ff94e9db12e2c91c7e8b",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-02T01:46:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "227 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4984,
+      "FileName": "ja_.net_framework_sdk_1.1.iso",
+      "Description": ".NET Framework SDK 1.1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bfdf328b9737298970a37e67e51e167d966bd0ff",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-02T01:46:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "244 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4985,
+      "FileName": "es_.net_framework_1.1_sdk.iso",
+      "Description": ".NET Framework SDK 1.1 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ff21860ba2b04c37d195c02bc0e7af36114e25e7",
+      "ProductFamilyId": 234,
+      "PostedDate": "2003-05-02T01:48:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "225 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4986,
+      "FileName": "it_vs.net_2003_pro_full.exe",
+      "Description": "Visual Studio .NET 2003 Professional - Full Install (Italian)",
+      "Notes": null,
+      "Sha1Hash": "2dc0fbd26dfef49042d0c81a5ee70d8e04c6582e",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T02:04:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4987,
+      "FileName": "it_vs.net_2003_ent_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Developer - Full Install (Italian)",
+      "Notes": null,
+      "Sha1Hash": "db9abdc0761e0a6b040ada80af57c13ddfb99ddf",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T02:05:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "600 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4988,
+      "FileName": "it_vs.net_2003_enar_full.exe",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - Full Install (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b52995cd7cb8f0d958410cc670b6211f52a44f58",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T02:05:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "690 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4989,
+      "FileName": "it_vs.net_2003_library_full.exe",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - Full Install (Italian)",
+      "Notes": null,
+      "Sha1Hash": "246a8a73d8d36f146cfc2e99176d168f729c3733",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T02:11:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1640 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4990,
+      "FileName": "de_vs.net_2003_library_cd1.iso",
+      "Description": "MSDN Library for Visual Studio .NET 2003 - CD1 (German)",
+      "Notes": null,
+      "Sha1Hash": "41f6449cb7629410f675cae9738927448b3acc32",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-02T02:12:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "641 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4991,
+      "FileName": "en_sql_2000a_std.iso",
+      "Description": "SQL Server 2000 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "3000065e6d4454d913eb483407224879cc73ff5a",
+      "ProductFamilyId": 210,
+      "PostedDate": "2003-05-02T03:20:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4992,
+      "FileName": "en_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (English)",
+      "Notes": null,
+      "Sha1Hash": "f11f8615131d2d50cf1d7494bc56e133725b28d4",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4993,
+      "FileName": "ja_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3b72bbcb30427091b38c423d867d1dacf2d9d781",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "583 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4994,
+      "FileName": "ko_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "4834c3948f1b4d1d8d982a67af599a50799e8a9e",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4995,
+      "FileName": "de_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (German)",
+      "Notes": null,
+      "Sha1Hash": "9f1776985080ceadb2a62b84b815a132e73251e8",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "542 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4996,
+      "FileName": "tc_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "202b0cba3a83b43f7786d3dfcad19be3f3c0e473",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4997,
+      "FileName": "sc_winxp_sp1a_tablet_pc_cd1.iso",
+      "Description": "Windows XP Tablet PC Edition CD1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "9f1194c2a25bf20fbfbc829b8b57305883971f98",
+      "ProductFamilyId": 140,
+      "PostedDate": "2003-05-08T01:02:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "559 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 4998,
+      "FileName": "sc_vs.net_2003_enar_cd1.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD1 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "5ac0effd5f21397b24fc4ca77ff686103d1efe30",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:20:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "625 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 4999,
+      "FileName": "sc_vs.net_2003_enar_cd2.iso",
+      "Description": "Visual Studio .NET 2003 Enterprise Architect - CD2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "9cec6fa76690f695c9b1cc89c10d8871dbd9bd0a",
+      "ProductFamilyId": 98,
+      "PostedDate": "2003-05-08T01:20:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "502 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

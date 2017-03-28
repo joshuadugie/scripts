@@ -1,0 +1,4015 @@
+{
+  "Files": [
+    {
+      "FileId": 56501,
+      "FileName": "ko_visual_studio_ultimate_2013_x86_web_installer_3175342.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Korean)",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "e44e2223097bd34bddbae835d141902eac3b8e76",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56503,
+      "FileName": "ru_visual_studio_ultimate_2013_x86_web_installer_3175343.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Russian)",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "df4f42286ae4ab0adb7ae33841ff0cbc8b356569",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56506,
+      "FileName": "en_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175501.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (English)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "aac270fdd1b0018f5183f012d8f32a06d8e30c65",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "506 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56507,
+      "FileName": "en_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175511.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (English)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "e00ecef171450dc051b8be68d81a4f3735a36b20",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.768 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56508,
+      "FileName": "fr_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175503.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (French)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "35605e569528e0755f11d8321cadd0d56cd72ad1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56509,
+      "FileName": "fr_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175513.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (French)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "9e2b8dcebdccae62f81887d9208aa5bf819ab3f8",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.784 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56510,
+      "FileName": "ja_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175505.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Japanese)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "2a4597d661d48f7d1736d5e73c007f76570e1273",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56511,
+      "FileName": "ja_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175515.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Japanese)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "dc21418647705c135d840413f614ae61efc22fba",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.784 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56516,
+      "FileName": "ct_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175499.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "823c1dec40fad61955f04b2d2da2e87b91f54095",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "538 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56517,
+      "FileName": "ko_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175506.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Korean)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "711cafb43fb674f99020b28eccea6d14c4c7b745",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56518,
+      "FileName": "es_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175502.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Spanish)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "00543d99b674c95e9dbfb1d01495233b38799342",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56519,
+      "FileName": "ru_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175507.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Russian)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "9293c0c5817aece96b9824b2712e5e7c50c21a8a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "540 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56520,
+      "FileName": "it_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175504.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Italian)",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "f9bbd3e715152243745488ed0ad434a88cde00e9",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56526,
+      "FileName": "en_team_explorer_for_visual_studio_2013_x86_dvd_3175477.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (English)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "1c2b0bcc9352440a643a16559fa473d9549e0a16",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "132 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56532,
+      "FileName": "de_team_explorer_for_visual_studio_2013_x86_dvd_3175475.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (German)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "a26584d2ed9c09c3be6bf47fa4cab6005d8bf8d4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56540,
+      "FileName": "ct_team_explorer_for_visual_studio_2013_x86_web_installer_3175487.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Chinese-Traditional)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "5596c3d1b3607f30d25d2b6425b7b7be0ac780c7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.952 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56541,
+      "FileName": "ko_team_explorer_for_visual_studio_2013_x86_web_installer_3175496.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Korean)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "5c9001c0af603b273bec9e0aa32bf463ff47f821",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.954 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56542,
+      "FileName": "es_team_explorer_for_visual_studio_2013_x86_web_installer_3175491.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Spanish)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "15d73c181dfed9b202afb428080c0cca2468da85",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.952 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56543,
+      "FileName": "ru_team_explorer_for_visual_studio_2013_x86_web_installer_3175497.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Russian)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "63a09434222320696d146acc891e456f55ad8d47",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.955 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56544,
+      "FileName": "it_team_explorer_for_visual_studio_2013_x86_web_installer_3175495.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Italian)",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "5bc3a5b4c0a8b3a77443cf658aec2d11b42d8265",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.952 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56546,
+      "FileName": "fr_visual_studio_2013_shell_isolated_language_pack_x86_3175433.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (French)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "75fdb75f464cb19a9da0f58ebb96f6c0f5189dda",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56547,
+      "FileName": "ja_visual_studio_2013_shell_isolated_language_pack_x86_3175440.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "4d70be4a5a17553127d766d5e2cbb24c87bd309c",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56548,
+      "FileName": "cn_visual_studio_2013_shell_isolated_language_pack_x86_3175415.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "a6772dc5df4e1176d04913bfcc0bd090ddb6c0ac",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56549,
+      "FileName": "de_visual_studio_2013_shell_isolated_language_pack_x86_3175422.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (German)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "39b278edbe85d34cde1673c1f287e70027dbc937",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56554,
+      "FileName": "it_visual_studio_2013_shell_isolated_language_pack_x86_3175439.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Italian)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "219c710ac20132120d23eaad50877c0d63b3011a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56555,
+      "FileName": "pt_visual_studio_2013_shell_isolated_language_pack_x86_3175447.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Portuguese-Brazil)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d03d098be73ecdd29dad7c92f26f5feb315acd93",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "28 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56556,
+      "FileName": "fr_visual_studio_2013_shell_isolated_x86_3175461.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (French)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e97276c3f3d164367e43b4c78eb6b819a8d6ad7c",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "195 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56557,
+      "FileName": "en_visual_studio_2013_shell_isolated_x86_3175456.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (English)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d16e4432094bb0f9e8f2b459f5d9c68105873dae",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "188 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56558,
+      "FileName": "ja_visual_studio_2013_shell_isolated_x86_3175463.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "306370a29f76065394a2cb84def3999ce38eb111",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "194 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56559,
+      "FileName": "de_visual_studio_2013_shell_isolated_x86_3175453.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (German)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "12f09df7e9031a3cd77b6f5de8247bfea54cc1a3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "196 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56561,
+      "FileName": "ct_visual_studio_2013_shell_isolated_x86_3175451.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "0dbba120023a4c9aab8f90f3f8db9c75da464cf6",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "194 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56562,
+      "FileName": "ko_visual_studio_2013_shell_isolated_x86_3175467.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Korean)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "9d52419622972c29a2c1909202cdc2c25bef911b",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "194 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56563,
+      "FileName": "es_visual_studio_2013_shell_isolated_x86_3175458.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "348943e108b5a6831c930868abf7c880a341efa1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "195 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56565,
+      "FileName": "it_visual_studio_2013_shell_isolated_x86_3175465.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Italian)",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "c2bed7564a48ae18cecf8df3a9b1d40bd38327ef",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "195 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56566,
+      "FileName": "en_visual_studio_2013_shell_integrated_language_pack_x86_3175363.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (English)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8798403f7bf0702222dc6f9f91184eb8f8f0e6b4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56567,
+      "FileName": "fr_visual_studio_2013_shell_integrated_language_pack_x86_3175366.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (French)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "30b074e2cf5798fd14c26c01c66a7ed97ef32bd0",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56568,
+      "FileName": "ja_visual_studio_2013_shell_integrated_language_pack_x86_3175370.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Japanese)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "b00db60ddf9cfa7a8adea0eaac335adb8d23684b",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56569,
+      "FileName": "cn_visual_studio_2013_shell_integrated_language_pack_x86_3175359.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e458cd71d3e66cce7f209e25f2448e56cfe56b53",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56571,
+      "FileName": "ct_visual_studio_2013_shell_integrated_language_pack_x86_3175361.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Chinese-Traditional)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d29203134cf03fb64274b8881dde11926c0493b8",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56573,
+      "FileName": "es_visual_studio_2013_shell_integrated_language_pack_x86_3175364.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Spanish)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e348f301752010a78d308aea52dd47b82a527407",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56574,
+      "FileName": "ru_visual_studio_2013_shell_integrated_language_pack_x86_3175378.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Russian)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "0697a78b07b224787301ac69904d2b405d5a344d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56575,
+      "FileName": "it_visual_studio_2013_shell_integrated_language_pack_x86_3175368.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Italian)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "6daaf6027b3ed9a0c31bbba6d8b094a7d33685e2",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56576,
+      "FileName": "pt_visual_studio_2013_shell_integrated_language_pack_x86_3175376.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Portuguese-Brazil)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "7ff63522fc998a0ecff54d8402c8e8f3d55dff50",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56577,
+      "FileName": "fr_visual_studio_2013_shell_integrated_x86_3175402.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (French)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "599a4cffaa211f33c761fe194a0650bfde98a776",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56580,
+      "FileName": "de_visual_studio_2013_shell_integrated_x86_3175389.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (German)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "ccdfd8bb3a01986d6a950585cd5e81a198e67850",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56581,
+      "FileName": "cn_visual_studio_2013_shell_integrated_x86_3175381.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "7a967d623bbdd7d75ca1cd53b085cd5b6fc342d3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56590,
+      "FileName": "ko_visual_studio_professional_2013_x86_web_installer_3175313.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Korean)",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "37fd08a294f18e2ab1797e3f6a8a919205f37005",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56593,
+      "FileName": "ru_visual_studio_professional_2013_x86_web_installer_3175314.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Russian)",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "ae9b3cdf8d3bedee577bd4c1f0939a8bae86a039",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56605,
+      "FileName": "ru_visual_studio_professional_2013_x86_dvd_3175304.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Russian)",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "3b71ed0a4034a0b45464ee8397dbe95dcfb3302f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2891 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56608,
+      "FileName": "de_visual_studio_premium_2013_x86_dvd_3175274.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (German)",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "2f3d1b6c09404741c713e28460ab87b7cbec2419",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2921 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56611,
+      "FileName": "fr_visual_studio_premium_2013_x86_dvd_3175277.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (French)",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "4a1c32ed0e907b3f2509b022de9d85e0e0b7f1db",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2920 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56623,
+      "FileName": "it_visual_studio_premium_2013_x86_web_installer_3175290.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Italian)",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "bfcd6e81c96dc13e409f0d069e3bdcc267176467",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56625,
+      "FileName": "en_visual_studio_2013_language_pack_x86_web_installer_3175353.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (English)",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "6d26993074a79a970cfe0678e358e44ecfa11ef6",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56626,
+      "FileName": "cn_visual_studio_2013_language_pack_x86_web_installer_3175350.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Chinese-Simplified)",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "bee6693be0a11bbb5d612e6ce1cb85efcbaf0fe4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56638,
+      "FileName": "it_visual_studio_2013_language_pack_x86_web_installer_3175356.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Italian)",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "77474b8da6073819949c922cc4e39a0c9dfc4015",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56642,
+      "FileName": "pl_visual_studio_express_2013_for_web_language_pack_x86_3175245.exe",
+      "Description": "Visual Studio Express 2013 for Web Language Pack (x86) - (Polish)",
+      "Notes": "The Visual Studio Express 2013 for Web Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n  <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.",
+      "Sha1Hash": "5efccedc447e058ec6809a2287ae4d9a226a81da",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "50 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56649,
+      "FileName": "ko_visual_studio_express_2013_for_web_x86_web_installer_3175270.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Korean)",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8055e33d6b250290a5654b954694b44dc0a1f724",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.978 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56662,
+      "FileName": "ru_visual_studio_express_2013_for_web_x86_dvd_3175261.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Russian)",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "c9fbad4b9099cf349fbb163afcf6fb4c2c9cdf11",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "637 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56673,
+      "FileName": "es_visual_studio_express_2013_for_windows_desktop_x86_web_installer_3175247.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop (x86) - Web Installer (Spanish)",
+      "Notes": "Visual Studio Express 2013 for Windows Desktop enables the creation of desktop apps in C#, Visual Basic, and C++, and supports Windows Presentation Foundation (WPF), Windows Forms, and Win32.\n  <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "74c5f11f0c729422623f9a29610c3fc1943347a3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.992 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56688,
+      "FileName": "en_visual_studio_express_2013_for_windows_desktop_x86_web_installer_3175241.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop (x86) - Web Installer (English)",
+      "Notes": "Visual Studio Express 2013 for Windows Desktop enables the creation of desktop apps in C#, Visual Basic, and C++, and supports Windows Presentation Foundation (WPF), Windows Forms, and Win32.\n  <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8a4c07fa11b20b85126988e7eaf792924b319ae0",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.989 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56690,
+      "FileName": "en_visual_studio_ultimate_2013_x86_web_installer_3175337.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (English)",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "5a12d60add7100565674dda59012e0a31ea0e369",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-08T19:37:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56722,
+      "FileName": "ru_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187967.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Russian)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "791f2a7270c530d6e19f111e9304a868350d51b6",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T21:37:03Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2544 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56723,
+      "FileName": "ko_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187968.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "a56b6c2bbffe8f5e9c21787cd8e69866d96ac674",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:22Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2541 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56724,
+      "FileName": "ja_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187970.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "937463593240cf1c8a209b07f9bd5a6ecfc8f4bd",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:22Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2540 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56725,
+      "FileName": "it_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187966.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "66f9975cd15d54f04bc8c0025cfa233510a89b77",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:23Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2542 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56726,
+      "FileName": "fr_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187969.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (French)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "911155cee41d772b7b845a626e2ce58f433ac55f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:23Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2542 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56727,
+      "FileName": "es_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187975.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "41766bbb1abff0890da19c162d236c3d8bfb6298",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:24Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2547 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56728,
+      "FileName": "en_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187971.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "df278ca008c8037d2cb81a310d5bdf8cd0836393",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2481 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56729,
+      "FileName": "de_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187973.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "675264aac10b3dff0acfb0c37a96d420a915b6af",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:25Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2544 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56730,
+      "FileName": "ct_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187972.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "d3bf1aa96a5ce43d67441dfe54236906609fe3e4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:26Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2537 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56731,
+      "FileName": "cn_visual_studio_team_foundation_server_2013_x86_x64_dvd_3187974.iso",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "a0a1a03882e80520512e9521784ca52867358495",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-11T19:45:26Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2537 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56732,
+      "FileName": "en_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "338a36b4040f902f065bd5a35f6629e570523186",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "997 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56733,
+      "FileName": "de_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e7cbabed847de2901aa462c177d55ee615380825",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:46Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1027 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56734,
+      "FileName": "it_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6b1f631b8b849ccec79dd8cc15669ab847fbdcde",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1051 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56735,
+      "FileName": "fr_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7b9b7b0aba45433fc56e437db846e5663f451bd3",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:47Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1053 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56736,
+      "FileName": "ko_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9525c44a6a60a5c160dc8f2ea3b0be2f1649286a",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:48Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1055 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56737,
+      "FileName": "cn_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "eb33ef78a291f4ad93364094631b281422781607",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56738,
+      "FileName": "es_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "bc7b664e3feafff91cc316cac7a261ffd44f49dc",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:49Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56739,
+      "FileName": "ct_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7f913b02aa0f75a9b664fa6ee440a74834626c95",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:49Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1068 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56740,
+      "FileName": "ja_biztalk_server_2013_standard_edition_x86_x64_dvd_3195899.iso",
+      "Description": "BizTalk Server 2013 Standard Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "38aacb376e5eeca8dc982b505fa4b92abba96365",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:50Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1073 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56741,
+      "FileName": "en_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6c7ca432f908d4f6898c21e1f8c8f9e5ab990f5e",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "705 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56742,
+      "FileName": "de_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6509f8d7d5d2823c768f458b92002cf2a3a4ed8a",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:45Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "736 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56743,
+      "FileName": "it_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8ca62a0b426d120ead8e6080c5ac54e4bfee2d73",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:46Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "760 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56744,
+      "FileName": "fr_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7dfb33784336262271a7e45a81471f16f3143367",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:46Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "761 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56745,
+      "FileName": "ko_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "87d4032fdf1c83fa282b7f3083dbe6d215725299",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:47Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "763 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56746,
+      "FileName": "cn_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "89af08dd0ee6c70d1e0f0b34adeeb0a58a7b1f79",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:47Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "765 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56747,
+      "FileName": "es_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a58d96a5c155485c1bdd05e1e4ebe63acab71c7e",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:48Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "773 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56748,
+      "FileName": "ct_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "190162c15c430928e3f5dd4a5aaeb349ec5d9085",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:48Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "774 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56749,
+      "FileName": "ja_biztalk_server_2013_branch_edition_x86_x64_dvd_3195515.iso",
+      "Description": "BizTalk Server 2013 Branch Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "01f1cd270399ad0d6ea23c5d3c81660ec42501cc",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:28:49Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "780 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56750,
+      "FileName": "en_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f7da80de19da1d2c536bd3be6a396777dd8a7b59",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:48Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "997 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56751,
+      "FileName": "de_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c0c4e7f73050f6232b134deb193e7c4aa4ee2ef6",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:48Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1027 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56752,
+      "FileName": "it_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2c414e1cd1bc9f0248cc199a51d8655d04b6cacc",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1051 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56753,
+      "FileName": "fr_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5eff86ec93aca9a1575ce76349b837724356b9c1",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:49Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1053 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56754,
+      "FileName": "ko_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "eb1a62daeec71e4886b52318f07467a239b0ef02",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1054 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56755,
+      "FileName": "cn_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "33679a91baa97f96f54a0b86f3e2b16b834e2143",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:50Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56756,
+      "FileName": "es_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cfc2b2655697f28621645e2c3d333be8cef69689",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56757,
+      "FileName": "ct_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f0002413693d593bfb0bdef266f6f9dad4f31bf2",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1068 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56758,
+      "FileName": "ja_biztalk_server_2013_developer_edition_x86_x64_dvd_3192107.iso",
+      "Description": "BizTalk Server 2013 Developer Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a8e131267c0920f1699f51caad963a7975e9c4d6",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:29:52Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1073 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56759,
+      "FileName": "en_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "31700555c16cec5bbc91ae2199b2b93b5708978c",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:22Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "997 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56760,
+      "FileName": "de_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "92841fd4e21bcfc07a11b058ab9a7af84e388ec3",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:23Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1027 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56761,
+      "FileName": "it_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Italian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ed21c7cf4baab9d5afdf50c773bf493615313b9a",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:23Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1051 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56762,
+      "FileName": "fr_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "479e822a7a8d5b732fa0ea6e7d33b563e1ac9387",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:24Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1053 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56763,
+      "FileName": "ko_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d9c080b93d24ca375bbb1e1af1eaf13d014a1963",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:24Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1055 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56764,
+      "FileName": "cn_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d7e64a26d708cb22dca3487973e982e06ec0e8b8",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:25Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56765,
+      "FileName": "es_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5035cd625a3f02094a6af080ead541233975c408",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:25Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1065 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56766,
+      "FileName": "ct_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Chinese-Traditional)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f604a97756b03958224139a735d327df37afabf4",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:26Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1068 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56767,
+      "FileName": "ja_biztalk_server_2013_enterprise_edition_x86_x64_dvd_3195244.iso",
+      "Description": "BizTalk Server 2013 Enterprise Edition (x86 and x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d753482ef2d8f9267adeb455b1b3cb94d5763d02",
+      "ProductFamilyId": 504,
+      "PostedDate": "2013-11-14T17:30:26Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1073 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56768,
+      "FileName": "en_visual_studio_ultimate_2013_x86_dvd_3175319.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "dfc763dbe91060d0a5fc25d5db2effd5c5a2163e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2884 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56769,
+      "FileName": "en_team_explorer_for_visual_studio_2013_x86_web_installer_3175490.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (English)\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "ae654d264af16117f1c3ebfb2cbe4bc12c19a0fd",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:42Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.945 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56770,
+      "FileName": "en_visual_studio_2013_shell_isolated_language_pack_x86_3175426.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (English)\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "9262067fd66f71150b3c691b8b40f78698addd49",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56771,
+      "FileName": "en_visual_studio_2013_shell_integrated_x86_3175394.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (English)\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "121a1b879a9d29940245153619cb29a6588b58fb",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56772,
+      "FileName": "en_visual_studio_professional_2013_x86_web_installer_3175305.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "29a8b7c46265171cf8962d805140cc0d768e4409",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56773,
+      "FileName": "en_visual_studio_professional_2013_x86_dvd_3175298.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "4e0527c5a8b167a0d1eb28106ee66ae491c290ff",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:25Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2830 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56774,
+      "FileName": "en_visual_studio_premium_2013_x86_dvd_3175275.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8c170080b5c3260cebc3ba3b1d85a3e55c1a2747",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:17Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2865 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56775,
+      "FileName": "en_visual_studio_premium_2013_x86_web_installer_3175286.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "41843d4b92cf85008715860031ab6f2facec5373",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56776,
+      "FileName": "en_visual_studio_express_2013_for_web_x86_web_installer_3175265.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "5433bbe180acd5278fc35e4829d7e01a96c11e01",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:53Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.97 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56777,
+      "FileName": "en_visual_studio_express_2013_for_web_x86_dvd_3175255.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "96987700dfc95ed92521072173afa24ad87fbe6c",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:54Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "603 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56778,
+      "FileName": "en_visual_studio_express_2013_for_windows_desktop_x86_dvd_3175225.iso",
+      "Description": "Visual Studio Express 2013 for Windows Desktop (x86) - DVD (English)\r\n",
+      "Notes": "Visual Studio Express 2013 for Windows Desktop enables the creation of desktop apps in C#, Visual Basic, and C++, and supports Windows Presentation Foundation (WPF), Windows Forms, and Win32.\n  <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e61419e51f42254ee07decf628b85c9861286250",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:24:58Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "790 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56779,
+      "FileName": "en_visual_studio_team_foundation_server_2013_x86_x64_web_installer_3182482.exe",
+      "Description": "Visual Studio Team Foundation Server 2013 (x86 and x64) - Web Installer (English)\r\n",
+      "Notes": "Visual Studio Team Foundation Server 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n </br>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "986330b9a19c705d0c547ee68b6c23d7566c3a70",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:26:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.778 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56830,
+      "FileName": "tw_ui_strings_glossary_november_2013_x86_x64_3183035.zip",
+      "Description": "UI Strings Glossary November 2013 (x86 and x64) - (Chinese-Taiwan)\r\n",
+      "Notes": null,
+      "Sha1Hash": "ce2788cfb3f5a60621be25cfff59eda26c19029f",
+      "ProductFamilyId": 267,
+      "PostedDate": "2013-11-20T17:24:26Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "136 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56856,
+      "FileName": "uz_ui_strings_glossary_november_2013_x86_x64_3183076.zip",
+      "Description": "UI Strings Glossary November 2013 (x86 and x64) - (Uzbek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "70cfc47041855e477d377763cc867aaababc6b0d",
+      "ProductFamilyId": 267,
+      "PostedDate": "2013-11-20T17:22:35Z",
+      "LanguageCodes": [
+        "uz"
+      ],
+      "Languages": [
+        "Uzbek"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56886,
+      "FileName": "mu_system_center_2012_service_manager_with_sp1_x64_dvd_3220482.iso",
+      "Description": "System Center 2012 \u2013 Service Manager with Service Pack 1 (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": "<p>Please review <a href=\"http://support.microsoft.com/kb/2801987\">KB Article 2801987</a> for important installation information.</p>\nFor the following languages, System Center 2012 with Service Pack 1 (SP1) includes SQL Server Technology database software in English only:\n<ul><li>Czech</li><li>Dutch</li><li>Hungarian</li>\n<li>Polish</li>\n<li>Portuguese</li>\n<li>Swedish</li>\n<li>Turkish</li>\n</ul>\n",
+      "Sha1Hash": "a9433431b26e645590d238544ab26ab7b8f4a8e8",
+      "ProductFamilyId": 463,
+      "PostedDate": "2013-11-18T16:54:58Z",
+      "LanguageCodes": [
+        "cn",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Simplified"
+      ],
+      "Size": "404 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56887,
+      "FileName": "fr_visual_studio_ultimate_2013_x86_dvd_3175327.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "12013d1cbb442767e104feb51b58c58792b0a6e1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:57Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2939 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56888,
+      "FileName": "fr_visual_studio_ultimate_2013_x86_web_installer_3175339.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (French)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "12ded1700604e692599c13d4616a8eada93115d9",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:58Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56889,
+      "FileName": "ja_visual_studio_ultimate_2013_x86_dvd_3175331.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "461d7c5bb25c9e28537b8f4c12b7bfa05f42dfe7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:58Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2939 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56890,
+      "FileName": "ja_visual_studio_ultimate_2013_x86_web_installer_3175341.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "6bf9ce51634249e236d7d8dd32da3ea751bff058",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:59Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56891,
+      "FileName": "de_visual_studio_ultimate_2013_x86_dvd_3175318.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (German)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "b522d15dca53f97f2a32f65d60b51499ae538870",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:00:59Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2940 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56892,
+      "FileName": "ct_visual_studio_ultimate_2013_x86_dvd_3175317.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "ca6bae9a02b1f51e2d8e90f0906358b28c723886",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2935 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56893,
+      "FileName": "ko_visual_studio_ultimate_2013_x86_dvd_3175333.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "52ff23b7edbf3171c425c457aedb223e65f66377",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2941 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56894,
+      "FileName": "es_visual_studio_ultimate_2013_x86_dvd_3175320.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "1846db159a54ad1c1a04579cceba67950da9f4f4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:01Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2938 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56895,
+      "FileName": "ru_visual_studio_ultimate_2013_x86_dvd_3175315.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "c49bc141fed361b657916b1de8b13ae2862cd2ea",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:02Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2946 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56896,
+      "FileName": "de_visual_studio_ultimate_2013_x86_web_installer_3175336.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (German)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "d2653709756d1c736eec3abaf9d932e8e496bc82",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:02Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56897,
+      "FileName": "cn_visual_studio_ultimate_2013_x86_web_installer_3175334.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "8cc0f4a94ee8964355626269903e133c4a09cc67",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:03Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56898,
+      "FileName": "ct_visual_studio_ultimate_2013_x86_web_installer_3175335.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "fbf99be1877b78a12b46d7c6711368d6a9056853",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:03Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56899,
+      "FileName": "es_visual_studio_ultimate_2013_x86_web_installer_3175338.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "1b1a55e04444d4ee94aebec62f2b9f950d46d2f3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:04Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56900,
+      "FileName": "it_visual_studio_ultimate_2013_x86_web_installer_3175340.exe",
+      "Description": "Visual Studio Ultimate 2013 (x86) - Web Installer (Italian)\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "5aeeb3cab90a7250085f9411b9bf4ba2ca0e57e7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:04Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56901,
+      "FileName": "it_visual_studio_ultimate_2013_x86_dvd_3175328.iso",
+      "Description": "Visual Studio Ultimate 2013 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Ultimate 2013 is the state-of-the-art development solution that empowers teams of all sizes to design and create compelling apps to delight users. For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "3a1f12c1021af228ca5317b54a3b3d5a31188497",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:01:05Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2938 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56902,
+      "FileName": "cn_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175498.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "2836cabc1b5b1a50f14341d4d5625099623df5ec",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:11Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "538 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56903,
+      "FileName": "cn_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175508.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "d7ddfbdec0070732b0a3679dafebdd846b6732bd",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:12Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.782 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56904,
+      "FileName": "de_visual_studio_team_foundation_server_express_2013_x86_x64_dvd_3175500.iso",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - DVD (German)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "5468f08fa00f1915e52c86f4a108bf8be43e9b1c",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:12Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "539 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56905,
+      "FileName": "de_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175510.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (German)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "b21b97c5148335f107fe8d474156b360ee89fda3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:13Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.784 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56906,
+      "FileName": "ct_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175509.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Chinese-Traditional)\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "771e912c8e5f9dbaef52b1579295871e779a46d3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:14Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.782 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56907,
+      "FileName": "ko_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175516.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "b18701cf98394bf19509ac082e939bb7ed516296",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:14Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.783 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56908,
+      "FileName": "es_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175512.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "f98a38fb87374c5bb8b4c55b7b76241c6e32dc45",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:15Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.783 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56909,
+      "FileName": "ru_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175517.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "c8434dab77ac56e37f4d74032aab433d414b5734",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:15Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.786 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56910,
+      "FileName": "it_visual_studio_team_foundation_server_express_2013_x86_x64_web_installer_3175514.exe",
+      "Description": "Visual Studio Team Foundation Server Express 2013 (x86 and x64) - Web Installer (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Team Foundation Server Express 2013 is a source-code-control, project-management, and team-collaboration platform at the core of the Microsoft suite of Application Lifecycle Management (ALM) tools, which help individuals and small teams be more agile, collaborate more effectively, and deliver quality software more consistently.\n<br/>For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323491\">Team Foundation Server 2013 Readme</a>.\n",
+      "Sha1Hash": "c2927410956d0b609a65256795ecc2e2a06e0c3d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:03:16Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.783 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56911,
+      "FileName": "fr_team_explorer_for_visual_studio_2013_x86_dvd_3175479.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "b14d7c608840a65539d72cd346f39717cc6b6c13",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56912,
+      "FileName": "fr_team_explorer_for_visual_studio_2013_x86_web_installer_3175493.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (French)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "710b8d39c2ccc23c8496491e23c62aa352b853e5",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.952 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56913,
+      "FileName": "ja_team_explorer_for_visual_studio_2013_x86_dvd_3175481.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "42970232fae9c6da003efcf3683664c9736532f9",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:44Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56914,
+      "FileName": "ja_team_explorer_for_visual_studio_2013_x86_web_installer_3175494.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Japanese)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "2a962995eb556217c70b764581439a84cd4ca646",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:44Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.952 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56915,
+      "FileName": "ct_team_explorer_for_visual_studio_2013_x86_dvd_3175473.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "c80e80fe91ba6a203bfae71e81adc1e0e8322d15",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:45Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56916,
+      "FileName": "ko_team_explorer_for_visual_studio_2013_x86_dvd_3175482.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "4d2d101560d5499cac7fd305aa58a224723bb2a3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:45Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56917,
+      "FileName": "es_team_explorer_for_visual_studio_2013_x86_dvd_3175478.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "323e194768fe9fb53d5d78d2b500dc72056d6ea7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:46Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56918,
+      "FileName": "ru_team_explorer_for_visual_studio_2013_x86_dvd_3175483.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "9402bc27c37787f0c1c93dd73895979422c90a0d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:46Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56919,
+      "FileName": "it_team_explorer_for_visual_studio_2013_x86_dvd_3175480.iso",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "e922d40e664e0170648df012d72fc13574f8e0cc",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:47Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "141 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56920,
+      "FileName": "de_team_explorer_for_visual_studio_2013_x86_web_installer_3175488.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (German)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "388835273b301b6624bc7faf5c6ddbadb55af2b5",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:47Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.953 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56921,
+      "FileName": "cn_team_explorer_for_visual_studio_2013_x86_web_installer_3175485.exe",
+      "Description": "Team Explorer for Visual Studio 2013 (x86) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Team Explorer is the client software that you use to access Visual Studio Team Foundation Server 2013 functionality from Visual Studio.\n <br/> For important information about this release, see the <a href=\"\"http://go.microsoft.com/fwlink/?LinkId=323490\"\">Visual Studio 2013 Readme</a>.\r\n",
+      "Sha1Hash": "47b49cc0db08f967da4b4cf5f2fe46e8f5e1e07a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:05:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.951 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56922,
+      "FileName": "ct_visual_studio_2013_shell_isolated_language_pack_x86_3175421.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Chinese-Traditional)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "3088f471ac8dc38253635abc0794bfbdb778c235",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56923,
+      "FileName": "ko_visual_studio_2013_shell_isolated_language_pack_x86_3175444.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Korean)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "62b9db70555818ca9b8169d4d33813e60191053f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:20Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56924,
+      "FileName": "es_visual_studio_2013_shell_isolated_language_pack_x86_3175430.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Spanish)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "762d61f7c528c5dae84809e77644c7454adb5f0b",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:20Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56925,
+      "FileName": "ru_visual_studio_2013_shell_isolated_language_pack_x86_3175448.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) Language Pack (x86) - (Russian)\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 Shell (Isolated) itself.\n<br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "f90ea05c309d9a729208ba4531896694fda15df1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:21Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "33 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56926,
+      "FileName": "cn_visual_studio_2013_shell_isolated_x86_3175449.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Chinese-Simplified)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "5cb9d827422c8f4321be0e8726e005de70ae6e09",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:21Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "193 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56927,
+      "FileName": "ru_visual_studio_2013_shell_isolated_x86_3175469.exe",
+      "Description": "Visual Studio 2013 Shell (Isolated) (x86) - (Russian)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Isolated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Isolated).\n <br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8c7f2ae3e30c3744a5d0ba3e37804d12a94b312b",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:22Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "199 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56928,
+      "FileName": "de_visual_studio_2013_shell_integrated_language_pack_x86_3175362.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (German)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "623507458911262141f777f21b86e4e32d5d4bd9",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:22Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56929,
+      "FileName": "ko_visual_studio_2013_shell_integrated_language_pack_x86_3175372.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) Language Pack (x86) - (Korean)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Language Pack is a free add-on that can be installed on top of Visual Studio 2013 RC Shell (Integrated) itself.\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "45531730a114fd8dbe6b342593d92a66cec36e62",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:23Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56930,
+      "FileName": "ja_visual_studio_2013_shell_integrated_x86_3175407.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Japanese)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "375fbbf5d955a211f8bbb0515991b58fd7c365f7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:23Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56931,
+      "FileName": "ct_visual_studio_2013_shell_integrated_x86_3175383.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Chinese-Traditional)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "014ab4d753fa115faaeb1810e745faff93ff7274",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:24Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56932,
+      "FileName": "ko_visual_studio_2013_shell_integrated_x86_3175412.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Korean)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "5b325c773bea3bad5bf956ec1f4952584ca3fb1e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:24Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56933,
+      "FileName": "es_visual_studio_2013_shell_integrated_x86_3175397.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Spanish)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "b7df32f169c16ac37ef8ab3010f09ea13a8eb692",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:25Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56934,
+      "FileName": "ru_visual_studio_2013_shell_integrated_x86_3175416.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Russian)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e172d747c24a946d103b3dcecdd51d12f9565fb4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:25Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56935,
+      "FileName": "it_visual_studio_2013_shell_integrated_x86_3175404.exe",
+      "Description": "Visual Studio 2013 Shell (Integrated) (x86) - (Italian)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Shell (Integrated) Redistributable Package contains the run-time binaries that are required to deploy an application that's based on the Visual Studio 2013 Shell (Integrated).\n <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "472d5b5ada745c7ee26bf9e94115dd51ecfeacf3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:10:26Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56936,
+      "FileName": "cn_visual_studio_professional_2013_x86_web_installer_3175308.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d983346ddf01703245b4d65005ed109e8979559d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:25Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56937,
+      "FileName": "ct_visual_studio_professional_2013_x86_web_installer_3175309.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "fa6d0c3132f02c906ffba94bf5dba313eb99f7a0",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:26Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56938,
+      "FileName": "de_visual_studio_professional_2013_x86_web_installer_3175310.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (German)\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "6468df5a5f00bce6779e5a6fa8650d7f32a8398a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:26Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56939,
+      "FileName": "es_visual_studio_professional_2013_x86_web_installer_3175311.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "42c914eeb5d756e9e79e4bac55d0ce86149037c7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:27Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56940,
+      "FileName": "it_visual_studio_professional_2013_x86_web_installer_3175312.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "fdedbc63bc0a64c20bebbf1f66beafc5c9337517",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:28Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56941,
+      "FileName": "fr_visual_studio_professional_2013_x86_web_installer_3175306.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (French)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "5a333a392c7873ccf926c74402239b7ac8ca86cf",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:28Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56942,
+      "FileName": "ja_visual_studio_professional_2013_x86_web_installer_3175307.exe",
+      "Description": "Visual Studio Professional 2013 (x86) - Web Installer (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "e57151ac25db5044b6a1f0345efd48d6e8cb9843",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:29Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56943,
+      "FileName": "cn_visual_studio_professional_2013_x86_dvd_3175294.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "9a5e0d930efeba7f04c523399921ccec4a507953",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:29Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2881 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56944,
+      "FileName": "ct_visual_studio_professional_2013_x86_dvd_3175295.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "bed1c10c5e0828f3fc9606a73d889af46b55dfac",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:30Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2881 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56945,
+      "FileName": "de_visual_studio_professional_2013_x86_dvd_3175296.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (German)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "6693a3cc03b827de9d3f4a97083974cb94999756",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:31Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2886 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56946,
+      "FileName": "es_visual_studio_professional_2013_x86_dvd_3175299.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "a65f4792b92a5af7534f795494e6153c55cd7b9e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:31Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2884 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56947,
+      "FileName": "fr_visual_studio_professional_2013_x86_dvd_3175300.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "47d5c0f80cffbd569c0a97e89ca5baf820487c24",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:32Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2884 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56948,
+      "FileName": "it_visual_studio_professional_2013_x86_dvd_3175301.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "56403223f4bf7d56417eeefe3664a9f81b60bd17",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:32Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2883 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56949,
+      "FileName": "ja_visual_studio_professional_2013_x86_dvd_3175302.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Japanese)\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "b64d0c7a53e07585afaf0191ed23d869fa943e95",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:33Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2884 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56950,
+      "FileName": "ko_visual_studio_professional_2013_x86_dvd_3175303.iso",
+      "Description": "Visual Studio Professional 2013 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Professional 2013 is a professional-quality integrated development environment that simplifies the tasks of creating, debugging, and deploying applications for Windows, Windows Phone, Office, the web, and the cloud.\n <br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "3a60e52526a41265cde810a665e103752fc2e826",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:14:33Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2886 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56951,
+      "FileName": "cn_visual_studio_premium_2013_x86_dvd_3175272.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "b11a51d0760859b9a2f7d2d76a65f52bd53be430",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:18Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2916 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56952,
+      "FileName": "ct_visual_studio_premium_2013_x86_dvd_3175273.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "a52a3f25b20b6731d4472b862c24cb96ddccacd3",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2916 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56953,
+      "FileName": "es_visual_studio_premium_2013_x86_dvd_3175276.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Spanish)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d6ab9b27a5eaea8c30b0f456d003c425dab7941c",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:20Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2919 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56954,
+      "FileName": "it_visual_studio_premium_2013_x86_dvd_3175278.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d7953791b9dbf6edd33852ad61f943ffa89f8b42",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:20Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "2918 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56955,
+      "FileName": "ja_visual_studio_premium_2013_x86_dvd_3175279.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Japanese)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "1f597eef50c8670e9d35fc0eddd5938aa329ea8a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:21Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2919 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56956,
+      "FileName": "ko_visual_studio_premium_2013_x86_dvd_3175280.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Korean)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "babb069dda118679011162281e3d358eba0691fa",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:21Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2921 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56957,
+      "FileName": "ru_visual_studio_premium_2013_x86_dvd_3175281.iso",
+      "Description": "Visual Studio Premium 2013 (x86) - DVD (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "5120a3b1690f5a43cbad4b06ce8695327f334e74",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:22Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "2926 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56958,
+      "FileName": "ct_visual_studio_premium_2013_x86_web_installer_3175283.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "bfe668ceeb11eaf0abd4ec1562a78b659337267d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:22Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56959,
+      "FileName": "de_visual_studio_premium_2013_x86_web_installer_3175285.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (German)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "c95d5825f3b86cae6f54d84568c424dd19524081",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:23Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56960,
+      "FileName": "ja_visual_studio_premium_2013_x86_web_installer_3175291.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "548c29e99f1e0c2451166a0d5a67f1fb70a953ac",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:23Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56961,
+      "FileName": "ko_visual_studio_premium_2013_x86_web_installer_3175292.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Korean)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "27fbb71f3eead576ae8683d6d4570e3cf50fc04f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:24Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56962,
+      "FileName": "cn_visual_studio_premium_2013_x86_web_installer_3175282.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "00ecbdbdd052fc62ad8dbb795db74e8b280da676",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:25Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56963,
+      "FileName": "es_visual_studio_premium_2013_x86_web_installer_3175287.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "910bcba6a5e11a931e8692bb115f93bb999587b4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:25Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56964,
+      "FileName": "fr_visual_studio_premium_2013_x86_web_installer_3175289.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (French)\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "c0e2871dfbf7f7a28e780b816b1d59a4bb06bfb2",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:26Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56965,
+      "FileName": "ru_visual_studio_premium_2013_x86_web_installer_3175293.exe",
+      "Description": "Visual Studio Premium 2013 (x86) - Web Installer (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Premium 2013 is an integrated development environment that includes advanced tools that development teams can use to plan, develop, test, and operate applications.\n\u00a0<br/> \nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "efcb8fd1b4bea942b760e3570b1afd4c8994d486",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:18:26Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 56966,
+      "FileName": "fr_visual_studio_2013_language_pack_x86_web_installer_3175355.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (French)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "2e1f1c1c8983e751af8328e506e87cfef156d342",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:53Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56967,
+      "FileName": "ja_visual_studio_2013_language_pack_x86_web_installer_3175357.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Japanese)\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "b21062b38859c30c3e35363d971a2f2dc8bd7a7d",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:53Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56968,
+      "FileName": "de_visual_studio_2013_language_pack_x86_web_installer_3175352.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (German)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "2c20f63e71b2f143199b1a072699be414fc3f535",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:54Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56969,
+      "FileName": "pt_visual_studio_2013_language_pack_x86_3175347.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - (Portuguese-Brazil)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "b6ab5ec5396dad649c4d182f2dfd89fd2247f6d4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:54Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56970,
+      "FileName": "cs_visual_studio_2013_language_pack_x86_3175344.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - (Czech)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "352d6de2dad6073c913f076e7fb22ac74268666e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:55Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56971,
+      "FileName": "tr_visual_studio_2013_language_pack_x86_3175348.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - (Turkish)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "f18c72cd1303fc7d1ac91fb72ad31c926944edf0",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:55Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56972,
+      "FileName": "pl_visual_studio_2013_language_pack_x86_3175345.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - (Polish)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "f386e39beaae48bd739b2aad920faf12e9ec43b7",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:56Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56973,
+      "FileName": "ct_visual_studio_2013_language_pack_x86_web_installer_3175351.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Chinese-Traditional)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "cc7382e58af04e78cc271e0456277447438e9866",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:56Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56974,
+      "FileName": "ko_visual_studio_2013_language_pack_x86_web_installer_3175358.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Korean)\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "5951e90e24f41d66533dc49aea1647197db28c2f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:57Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56975,
+      "FileName": "es_visual_studio_2013_language_pack_x86_web_installer_3175354.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "4f1d896c8f9565817c9a2f4e239caee5f841d5ce",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:57Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56976,
+      "FileName": "ru_visual_studio_2013_language_pack_x86_web_installer_3175360.exe",
+      "Description": "Visual Studio 2013 Language Pack (x86) - Web Installer (Russian)\r\n\r\n",
+      "Notes": "The Visual Studio 2013 Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>\nFor important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>\n",
+      "Sha1Hash": "6a983bb1fb9ebd13b74a59831a07e9a524c59faf",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:19:58Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56977,
+      "FileName": "pt_visual_studio_express_2013_for_web_language_pack_x86_3175237.exe",
+      "Description": "Visual Studio Express 2013 for Web Language Pack (x86) - (Portuguese-Brazil)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Web Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n  <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.",
+      "Sha1Hash": "22834f5a442c6136f5432a38b5db35039cdfa4e6",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:54Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "58 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56978,
+      "FileName": "cs_visual_studio_express_2013_for_web_language_pack_x86_3175243.exe",
+      "Description": "Visual Studio Express 2013 for Web Language Pack (x86) - (Czech)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Web Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n  <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.",
+      "Sha1Hash": "90b61f51abc7fcf54941e60a0c19cd7cb202fb18",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:55Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "50 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56979,
+      "FileName": "tr_visual_studio_express_2013_for_web_language_pack_x86_3175250.exe",
+      "Description": "Visual Studio Express 2013 for Web Language Pack (x86) - (Turkish)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Web Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n  <br/> For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.",
+      "Sha1Hash": "51b16d375bc9f720cc5e40fc030dadece8a9ffbc",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:55Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "49 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56980,
+      "FileName": "fr_visual_studio_express_2013_for_web_x86_web_installer_3175267.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (French)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "3afce36ecf99103ed899c3e78a94fdcda713da1a",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:56Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "0.978 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56981,
+      "FileName": "ja_visual_studio_express_2013_for_web_x86_web_installer_3175269.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Japanese)\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "68e811b8b3b23f25bacf59c1cdff058b82cba02f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "0.978 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56982,
+      "FileName": "cn_visual_studio_express_2013_for_web_x86_web_installer_3175262.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "bae46f899f81cf0c966f87612658980b983936ae",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:57Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "0.976 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56983,
+      "FileName": "de_visual_studio_express_2013_for_web_x86_web_installer_3175264.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (German)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "800fb4cf7dc8ff7d5ebb5e257e0273354f8f93e6",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:57Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "0.978 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56984,
+      "FileName": "ct_visual_studio_express_2013_for_web_x86_web_installer_3175263.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "4d91a6a92f93f019b419bc4628e82330bfe671fc",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:58Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "0.978 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56985,
+      "FileName": "es_visual_studio_express_2013_for_web_x86_web_installer_3175266.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "c0a1743c1cda2439b181342db84942a87e69ad55",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:59Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "0.977 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56986,
+      "FileName": "ru_visual_studio_express_2013_for_web_x86_web_installer_3175271.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Russian)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "0a4ad24643006ca749d198ab82528504e51ea2bd",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:21:59Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "0.981 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56987,
+      "FileName": "it_visual_studio_express_2013_for_web_x86_web_installer_3175268.exe",
+      "Description": "Visual Studio Express 2013 for Web (x86) - Web Installer (Italian)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "931d424d770c4ec312a7432907bb5c80652b39d1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "0.977 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56988,
+      "FileName": "cn_visual_studio_express_2013_for_web_x86_dvd_3175252.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Chinese-Simplified)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "6c47b6e1d26d8ffe6bfcad8f01f9429df77122aa",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "630 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56989,
+      "FileName": "ct_visual_studio_express_2013_for_web_x86_dvd_3175253.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Chinese-Traditional)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "0c213049b656de37b9caa720cf1f2ff878db0d6e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:01Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "630 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56990,
+      "FileName": "de_visual_studio_express_2013_for_web_x86_dvd_3175254.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (German)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "9f310dde2e6330e9b4a5efbde0623509db6552bf",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:01Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "633 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56991,
+      "FileName": "es_visual_studio_express_2013_for_web_x86_dvd_3175256.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Spanish)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "8ab2308228113fa97e81965073737552909e7656",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:02Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "632 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56992,
+      "FileName": "fr_visual_studio_express_2013_for_web_x86_dvd_3175257.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (French)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "773de85b995f7ea6225d0ee1b32a9e84dc5b10d4",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:02Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "632 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56993,
+      "FileName": "it_visual_studio_express_2013_for_web_x86_dvd_3175258.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Italian)\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "d8eb8cf13071e0e4e805af18222e1cb30539fe2e",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:03Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "631 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56994,
+      "FileName": "ja_visual_studio_express_2013_for_web_x86_dvd_3175259.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Japanese)\r\n\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "eb37a33c1bae91f8fdc3ee25867788935c1f32c1",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:03Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "632 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56995,
+      "FileName": "ko_visual_studio_express_2013_for_web_x86_dvd_3175260.iso",
+      "Description": "Visual Studio Express 2013 for Web (x86) - DVD (Korean)\r\n",
+      "Notes": "Visual Studio Express 2013 for Web provides the core tools for creating compelling, innovative web applications and services.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "262bec2db788dfa910dbd7aec9110fdbd954f0d9",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:22:19Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "633 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56996,
+      "FileName": "pt_visual_studio_express_2013_for_windows_desktop_language_pack_x86_3175233.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop Language Pack (x86) - (Portuguese-Brazil)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Windows Desktop Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "afd190d0b21d1721a74094cec3aaa64b19ae872f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:24:58Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "44 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56997,
+      "FileName": "cs_visual_studio_express_2013_for_windows_desktop_language_pack_x86_3175222.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop Language Pack (x86) - (Czech)\r\n",
+      "Notes": "The Visual Studio Express 2013 for Windows Desktop Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "99eb7d2685d147a8d7926b5f9b89ce4671763c20",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:24:59Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56998,
+      "FileName": "tr_visual_studio_express_2013_for_windows_desktop_language_pack_x86_3175235.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop Language Pack (x86) - (Turkish)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Windows Desktop Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "7ccb1dd851bd9ad04583748786ff9711c8da77eb",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:24:59Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 56999,
+      "FileName": "pl_visual_studio_express_2013_for_windows_desktop_language_pack_x86_3175223.exe",
+      "Description": "Visual Studio Express 2013 for Windows Desktop Language Pack (x86) - (Polish)\r\n\r\n",
+      "Notes": "The Visual Studio Express 2013 for Windows Desktop Language Pack is a free add-on that you can use to switch the language that's displayed in the Visual Studio user interface.\n<br/>  For important information about this release, see the <a href=\"http://go.microsoft.com/fwlink/?LinkId=323490\">Visual Studio 2013 Readme</a>.\n",
+      "Sha1Hash": "068a2a1ce831d995a07facb0413310548faff09f",
+      "ProductFamilyId": 529,
+      "PostedDate": "2013-11-18T17:25:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

@@ -1,0 +1,5911 @@
+{
+  "Files": [
+    {
+      "FileId": 8000,
+      "FileName": "fr_mom_2005_sp1.exe",
+      "Description": "Microsoft Operations Manager 2005 Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "d065a40139878492404f15bf5692df1b256daf52",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8001,
+      "FileName": "fr_mom_2005_with_sp1.iso",
+      "Description": "Microsoft Operations Manager 2005 with Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "8ae59830b21d49d9c45fda8cd407f9d094a22b6f",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8002,
+      "FileName": "fr_mom_2005_workgroup_with_sp1.iso",
+      "Description": "Microsoft Operations Manager 2005 Workgroup Edition with Service Pack 1 (French)",
+      "Notes": null,
+      "Sha1Hash": "40725667e60322aa632d64ea0c630840ad82247f",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8006,
+      "FileName": "ja_mom_2005_with_sp1.iso",
+      "Description": "Microsoft Operations Manager 2005 with Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "f8e30e28cb2def695ddbbe2e3604b6b2587124d6",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "89 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8007,
+      "FileName": "ja_mom_2005_workgroup_with_sp1.iso",
+      "Description": "Microsoft Operations Manager 2005 Workgroup Edition with Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "77467430751a57caed87a6b1967539243178ccc8",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "68 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8008,
+      "FileName": "ja_mom_2005_sp1.exe",
+      "Description": "Microsoft Operations Manager 2005 Service Pack 1 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2ab1311d6a61846b53fd5353cb79bf0df05dd5be",
+      "ProductFamilyId": 198,
+      "PostedDate": "2005-08-27T09:27:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8011,
+      "FileName": "ja_visio_2003_sdk.exe",
+      "Description": "Office Visio 2003 SDK (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "4367ab051684b57959ad4ce0a7a22d1d9d8ea9e2",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-08-29T17:07:46Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8016,
+      "FileName": "en_data_protection_mgr_2006.iso",
+      "Description": "System Center Data Protection Manager 2006 (English)",
+      "Notes": null,
+      "Sha1Hash": "cdad485589a84c76a19d17a942763bf8a2d3d947",
+      "ProductFamilyId": 217,
+      "PostedDate": "2005-08-27T10:03:09Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "578 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8018,
+      "FileName": "winfssdk.chm",
+      "Description": "WinFS Beta1 Refresh Documentation (English)",
+      "Notes": null,
+      "Sha1Hash": "fd1d38a71eb8c8bd604e7c6667466b7486c4740c",
+      "ProductFamilyId": 324,
+      "PostedDate": "2005-08-29T16:56:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "10 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8026,
+      "FileName": "en_sms_2003_sp1_sdk_v3.1.exe",
+      "Description": "Systems Management Server 2003 Software Development Kit (SDK) v3.1 (English)",
+      "Notes": null,
+      "Sha1Hash": "e374c114eec8a8aef533d6ea594548826b03182c",
+      "ProductFamilyId": 222,
+      "PostedDate": "2005-09-02T04:54:30Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8029,
+      "FileName": "de_jp_windows_multilingual_user_interface_x64_cd.iso",
+      "Description": "Windows Multilingual User Interface (x64) - (German, Japanese)",
+      "Notes": "This file applies to multiple editions of Windows XP and Windows Server 2003.  Please see the readme for edition and language details.",
+      "Sha1Hash": "5ddf17f4cc402fda24e606a71d9e64f093eae7c4",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-09-12T04:28:33Z",
+      "LanguageCodes": [
+        "de",
+        "ja"
+      ],
+      "Languages": [
+        "Japanese",
+        "German"
+      ],
+      "Size": "449 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8030,
+      "FileName": "fr_it_es_windows_multilingual_user_interface_x64_cd.iso",
+      "Description": "Windows Multilingual User Interface (x64) - (French, Italian, Spanish)",
+      "Notes": "This file applies to multiple editions of Windows XP and Windows Server 2003.  Please see the readme for edition and language details.",
+      "Sha1Hash": "e18a4d4eabc9e1852c3dee9448bcb285d694028e",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-09-12T04:33:35Z",
+      "LanguageCodes": [
+        "es",
+        "fr",
+        "it"
+      ],
+      "Languages": [
+        "Spanish",
+        "French",
+        "Italian"
+      ],
+      "Size": "554 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8031,
+      "FileName": "ko_chs_cht_windows_multilingual_user_interface_x64_cd.iso",
+      "Description": "Windows Multilingual User Interface (x64) - (Chinese-Simplified, Chinese-Traditional, and Korean)",
+      "Notes": "This file applies to multiple editions of Windows XP and Windows Server 2003.  Please see the readme for edition and language details.",
+      "Sha1Hash": "e0ff8e91e1e86f6387617c64e76dd8350ece5399",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-09-12T04:38:38Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "ko"
+      ],
+      "Languages": [
+        "Korean",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "562 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8032,
+      "FileName": "sv_windows_multilingual_user_interface_x64_cd.iso",
+      "Description": "Windows Multilingual User Interface (x64) - (Swedish)",
+      "Notes": "This file applies to multiple editions of Windows XP and Windows Server 2003.  Please see the readme for edition and language details.",
+      "Sha1Hash": "adbf3275a5a0ce992e5f90bffcfb098f0d485910",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-09-12T04:38:39Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "162 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8086,
+      "FileName": "dxsdk_aug2005.exe",
+      "Description": "DirectX SDK 9.0c - August 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "67b14c622f80481c433414837d43b6ed5b97f4d8",
+      "ProductFamilyId": 251,
+      "PostedDate": "2005-10-01T04:29:36Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "170 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8087,
+      "FileName": "en_vscs_sdk_7.2.exe",
+      "Description": "Volume Shadow Copy Service SDK, v7.2 (English)",
+      "Notes": null,
+      "Sha1Hash": "63ee4c6e7dc8858196577d7aa8a32798c65ea1b6",
+      "ProductFamilyId": 301,
+      "PostedDate": "2005-10-01T04:34:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "24 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8088,
+      "FileName": "br_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "55feda010a304ef719a023a24a24df88bb26e14c",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:45:03Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "313 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8089,
+      "FileName": "cs_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Czech)",
+      "Notes": null,
+      "Sha1Hash": "529741e8b17b0e41c07b815c39710b14c8e06bd0",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:45:15Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8090,
+      "FileName": "da_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Danish)",
+      "Notes": null,
+      "Sha1Hash": "55854106553f3faf1379ac8d08f7dd277607920b",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:45:26Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8091,
+      "FileName": "de_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (German)",
+      "Notes": null,
+      "Sha1Hash": "1bcfe9ca3ecdc527dd4dfbfce944c843f428f7b0",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:50:50Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "318 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8092,
+      "FileName": "el_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Greek)",
+      "Notes": null,
+      "Sha1Hash": "92ea15e783a3739135edccb68b20241ec52f1323",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:51:01Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "309 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8093,
+      "FileName": "en_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (English)",
+      "Notes": null,
+      "Sha1Hash": "a80324d240d808b09a2eadc7d60a96015d36bd54",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:51:13Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "305 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8094,
+      "FileName": "es_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "fdaa53a742b6df47017f3c5f58b5ff901bfab90c",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:56:25Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "315 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8095,
+      "FileName": "fi_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "842fbb1926b985db886c1bdd1846e217a9d5b9b4",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:56:36Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "312 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8096,
+      "FileName": "fr_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (French)",
+      "Notes": null,
+      "Sha1Hash": "cc9493d48c9ba1a47bd1c2accf524a8988f23dd2",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:56:47Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "313 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8097,
+      "FileName": "hu_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "ad642425ed1a676ea7752eef4b169d536f8e4652",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T04:56:58Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8098,
+      "FileName": "it_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Italian)",
+      "Notes": null,
+      "Sha1Hash": "daca7e94152c95cd4845f7595055a2b8c9379ab5",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:02:10Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "313 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8099,
+      "FileName": "nl_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "7342a8cd4f8fc289a93c8c7325e19d6a5944a3e3",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:02:21Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8100,
+      "FileName": "no_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "e69b2006526f5fe65fadaf56febaee8e13bc7423",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:02:32Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8101,
+      "FileName": "po_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Polish)",
+      "Notes": null,
+      "Sha1Hash": "65d16cf3240e62315661e3b3baecc7f77bfe5fb9",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:07:43Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8102,
+      "FileName": "pt_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "2d2006e8215004b4082e670419988889592f3187",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:07:54Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "310 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8103,
+      "FileName": "ru_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Russian)",
+      "Notes": null,
+      "Sha1Hash": "9c2ad24a81fc590ed9ce847000bf012b118cc109",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:13:06Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "308 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8104,
+      "FileName": "sv_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "c8a812621af14f32bd72d6887bce73e1820a5df1",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:13:17Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "313 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8105,
+      "FileName": "tu_outlook_2003_with_bcm_update.iso",
+      "Description": "Outlook 2003 with Business Contact Manager Update (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "3b942badce382359a033555c06b22da0120783fa",
+      "ProductFamilyId": 33,
+      "PostedDate": "2005-10-01T05:13:28Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "309 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8106,
+      "FileName": "en_app_compat_toolkit_4.1.msi",
+      "Description": "Application Compatibility Toolkit 4.1 (English)",
+      "Notes": null,
+      "Sha1Hash": "c5575aa9c24d1f0170b76accfe3f024a6aa4a3b7",
+      "ProductFamilyId": 239,
+      "PostedDate": "2005-10-01T05:18:40Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8107,
+      "FileName": "en_bcm_sba_sp1.exe",
+      "Description": "Service Pack 1 for Business Contact Manager Update and Small Business Accounting (English)",
+      "Notes": null,
+      "Sha1Hash": "e92cef1ca3467db05ad84743616a91729739fd85",
+      "ProductFamilyId": 122,
+      "PostedDate": "2005-10-01T05:28:53Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8108,
+      "FileName": "en_sba_sdk_1.3.exe",
+      "Description": "Small Business Accounting 2006 SDK 1.3 (English)",
+      "Notes": null,
+      "Sha1Hash": "ee5fd4b28be01ddafb211f14cc19f2ed18bb0704",
+      "ProductFamilyId": 122,
+      "PostedDate": "2005-10-01T05:29:04Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8109,
+      "FileName": "en_identity_integration_server_2003_sp1_update.iso",
+      "Description": "Update for Microsoft Identity Integration Server 2003 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "e25f3f24f73843d6aa4a812c0be20575bc44935c",
+      "ProductFamilyId": 191,
+      "PostedDate": "2005-10-01T05:39:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8110,
+      "FileName": "en_biztalk_accelerator_swift_2.1_ent.iso",
+      "Description": "BizTalk Accelerator for SWIFT v. 2.1 Enterprise Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "b7a5e0dfa1a3b1e9a657e4c1e7898968e564b2aa",
+      "ProductFamilyId": 168,
+      "PostedDate": "2005-10-01T05:44:37Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "171 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8111,
+      "FileName": "en_biztalk_accelerator_swift_2.1_std.iso",
+      "Description": "BizTalk Accelerator for SWIFT v. 2.1 Standard Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "d19aa570f0f58ad286311dbccb47520e29ad4da3",
+      "ProductFamilyId": 168,
+      "PostedDate": "2005-10-01T05:49:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "171 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8150,
+      "FileName": "en_shared_computer_toolkit_upgrade_notes.rtf",
+      "Description": "Shared Computer Toolkit for Windows XP - Beta Upgrade Notes (English)",
+      "Notes": null,
+      "Sha1Hash": "5f831efca1900e1465fcf9c9f062e57be79f9703",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-05T05:15:08Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.056 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8158,
+      "FileName": "en_ilmerge.msi",
+      "Description": "ILMerge (English)",
+      "Notes": null,
+      "Sha1Hash": "cd4e672fa50dcd8d007f2297592bdb9ad128a039",
+      "ProductFamilyId": 259,
+      "PostedDate": "2005-10-05T05:26:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.595 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8159,
+      "FileName": "en_mappoint_webservice_sdk_40.exe",
+      "Description": "MapPoint Web Service SDK Version 4.0 for Visual Studio .NET 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "573fa56abf6ace2f8c39f91272e501ccb3fb7875",
+      "ProductFamilyId": 20,
+      "PostedDate": "2005-10-05T05:26:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8160,
+      "FileName": "en_crm_upgradeadvisor.exe",
+      "Description": "CRM 3.0 Upgrade Advisor Wizard (English)",
+      "Notes": null,
+      "Sha1Hash": "9d8c05fae1a505c5285501b88d23301eb3971d65",
+      "ProductFamilyId": 107,
+      "PostedDate": "2005-10-05T05:26:43Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8161,
+      "FileName": "en_olcs_2005_groupalerts.msi",
+      "Description": "Group Alerts Sample for Microsoft Office Live Communications Server 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "183331b89c3ad4a971c75c517a5f11eabc174024",
+      "ProductFamilyId": 196,
+      "PostedDate": "2005-10-05T05:26:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.339 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8163,
+      "FileName": "en_olcs_2005_roleagent.msi",
+      "Description": "Role Agent for Microsoft Office Live Communications Server 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "f2b0aff480d1e1758f96ce2447d5c093e9737da6",
+      "ProductFamilyId": 196,
+      "PostedDate": "2005-10-05T05:27:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.718 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8172,
+      "FileName": "mui_office_communicator.msi",
+      "Description": "Office Communicator 2005 Multilingual User Interface (MUI) Package",
+      "Notes": null,
+      "Sha1Hash": "ae5d9d14944dc2159f0ce96bd1814280a031b69b",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8173,
+      "FileName": "en_office_communicator_presencecontrols.msi",
+      "Description": "Presence Controls for Microsoft Office Communicator 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "51ca1c9926da43d371ec70d7138f732035c15901",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.757 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8174,
+      "FileName": "cht_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "da860114ed399e8f96fae098943e67a215b1752a",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8175,
+      "FileName": "de_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (German)",
+      "Notes": null,
+      "Sha1Hash": "52023b8900257320ad0f0700aed896708dda3cfd",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8176,
+      "FileName": "ja_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d97f18e87f385ff3609f1f3ef6f8e0c0101b4ed4",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8177,
+      "FileName": "fr_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (French)",
+      "Notes": null,
+      "Sha1Hash": "ed0900af3fe37bb9f51087a780971033c0707ea3",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8178,
+      "FileName": "it_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "c82572a762377f1a62e80ae962237972060ca445",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8179,
+      "FileName": "es_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "338d65c7d38c7593c53bc95f299e8b80be699fde",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8180,
+      "FileName": "ko_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "e004c059fd81655b33b5ab2c3cf13530db578461",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8181,
+      "FileName": "sc_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f7d888d6bdc2d4da7ea17066dbee19ec547e8104",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8182,
+      "FileName": "en_office_communicator_2005.iso",
+      "Description": "Office Communicator 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "cb0a1e3595f90a9d363c712a7e29b2e6ebacdfd7",
+      "ProductFamilyId": 7,
+      "PostedDate": "2005-10-12T02:33:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8184,
+      "FileName": "project2003sp2-kb887620-fullfile-chs.exe",
+      "Description": "Project 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "60a1f7827b60d3e23ec06b31d359b50236aa0a02",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8185,
+      "FileName": "project2003sp2-kb887620-fullfile-deu.exe",
+      "Description": "Project 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "05f0a2e07f6201fa1c880addb7bd10ce83943afe",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8186,
+      "FileName": "project2003sp2-kb887620-fullfile-cht.exe",
+      "Description": "Project 2003 Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a2eb1f778a4635c9a00b025ad6f1595759b69f1a",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8187,
+      "FileName": "project2003sp2-kb887620-fullfile-enu.exe",
+      "Description": "Project 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "4374ff461e35c49cc305f5c26ae01d27f6e9b40b",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8188,
+      "FileName": "project2003sp2-kb887620-fullfile-esn.exe",
+      "Description": "Project 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a1bf22199d68f59c99cd75819ea762a07ecf9068",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8189,
+      "FileName": "project2003sp2-kb887620-fullfile-fra.exe",
+      "Description": "Project 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "c0e291b9c29f7115c83b03bad1a8a984f0af5b7c",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8190,
+      "FileName": "project2003sp2-kb887620-fullfile-heb.exe",
+      "Description": "Project 2003 Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "862b44d1cd0f8a3164bd85ce085d5e6896089668",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8191,
+      "FileName": "project2003sp2-kb887620-fullfile-ita.exe",
+      "Description": "Project 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "b56f70fca69cde56db34088cd5dbb8cceba63d90",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8192,
+      "FileName": "project2003sp2-kb887620-fullfile-jpn.exe",
+      "Description": "Project 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "7082379e935bd0ed1b02373928336cdffdfcab5b",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8193,
+      "FileName": "project2003sp2-kb887620-fullfile-kor.exe",
+      "Description": "Project 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7a4f01f0deb5bb32749318b48c2ce1846da62b7e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-13T03:46:26Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8194,
+      "FileName": "office2003sp2-kb887616-fullfile-ara.exe",
+      "Description": "Office 2003 Service Pack 2 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "37c286f8859b8f2bc6c3193d8aaf79a1fcfb8510",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "157 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8195,
+      "FileName": "office2003sp2-kb887616-fullfile-chs.exe",
+      "Description": "Office 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "2d1b58876a976d0ed1696952fe9b66839e54caa4",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "120 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8196,
+      "FileName": "office2003sp2-kb887616-fullfile-cht.exe",
+      "Description": "Office 2003 Service Pack 2 (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "3982ba23faa6c76e748315b70a27ba23ce8baaf4",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "115 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8197,
+      "FileName": "office2003sp2-kb887616-fullfile-deu.exe",
+      "Description": "Office 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "8cab8111f28bd4fe86d3b91c18c4ec963f5de4ee",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8198,
+      "FileName": "office2003sp2-kb887616-fullfile-enu.exe",
+      "Description": "Office 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "190426eaba1ca82d40ed0e825e98b1263558ef06",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "102 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8199,
+      "FileName": "office2003sp2-kb887616-fullfile-esn.exe",
+      "Description": "Office 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "d001d3a1fe6feb09dbff6e0dc1014f9fd646058b",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "107 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8200,
+      "FileName": "office2003sp2-kb887616-fullfile-fra.exe",
+      "Description": "Office 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "41db7f8df47bf29d5ba38b65a9015e2f38fb3535",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "108 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8201,
+      "FileName": "office2003sp2-kb887616-fullfile-heb.exe",
+      "Description": "Office 2003 Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "20dbe939de74d9f8a7c5acdcb1854dd157a197c2",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "121 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8202,
+      "FileName": "office2003sp2-kb887616-fullfile-hin.exe",
+      "Description": "Office 2003 Service Pack 2 (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "81f5e65a8ae50a40f6209707766a1f16c02d9d94",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "113 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8203,
+      "FileName": "office2003sp2-kb887616-fullfile-ita.exe",
+      "Description": "Office 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "8c4f4bdb5d659b7d5daf2f66b0b6981052502c5d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "101 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8204,
+      "FileName": "office2003sp2-kb887616-fullfile-jpn.exe",
+      "Description": "Office 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ba70be74618487de29eb32ec3085d6a73c181647",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8205,
+      "FileName": "office2003sp2-kb887616-fullfile-kor.exe",
+      "Description": "Office 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "6be2b7eed923b41298d5b96f34df13046cd60da3",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "112 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8206,
+      "FileName": "office2003sp2-kb887616-fullfile-tha.exe",
+      "Description": "Office 2003 Service Pack 2 (Thai)",
+      "Notes": null,
+      "Sha1Hash": "eaa58394c05ce469fb15cf91b437f1694a6ce6bb",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "94 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8207,
+      "FileName": "office2003sp2-kb887616-fullfile-zhh.exe",
+      "Description": "Office 2003 Service Pack 2 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "f88dfda86db09aee5f8df651c6241265e3a875ea",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-13T03:33:56Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "143 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8208,
+      "FileName": "dxsdk_oct2005.exe",
+      "Description": "DirectX SDK 9.0c - October 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "8a69683f45f25a468752190b241d32c6bfa59440",
+      "ProductFamilyId": 251,
+      "PostedDate": "2005-10-13T03:57:22Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "207 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8209,
+      "FileName": "onenote2003sp2-kb887619-fullfile-ara.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "66e41ea867d9b285c58b79ac25a1c4e5af13c37c",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8210,
+      "FileName": "onenote2003sp2-kb887619-fullfile-chs.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "fb2f3f82678b40cf2430571613654515f49a978a",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "33 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8211,
+      "FileName": "onenote2003sp2-kb887619-fullfile-cht.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "9b5be5dc90ef2ab6adab722cf32581f39ca63b6c",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8212,
+      "FileName": "onenote2003sp2-kb887619-fullfile-deu.exe",
+      "Description": "OneNote 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "0e6cbf15a8111484bf7295fa7fc071638398f879",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8213,
+      "FileName": "onenote2003sp2-kb887619-fullfile-enu.exe",
+      "Description": "OneNote 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "b5c845b9bc9c8f38803a095bcc46e48a872ba5ec",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8214,
+      "FileName": "onenote2003sp2-kb887619-fullfile-esn.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5a86c9ede920dda7bfd3c2b615b9bbd42c798341",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "33 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8215,
+      "FileName": "onenote2003sp2-kb887619-fullfile-fra.exe",
+      "Description": "OneNote 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "59cbfae282c71bd7f7ed965442b3fa08ccdc9880",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8216,
+      "FileName": "onenote2003sp2-kb887619-fullfile-heb.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "b1b186b96941af5b7fe2535a05563089c65844da",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8217,
+      "FileName": "onenote2003sp2-kb887619-fullfile-ita.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "4ab4043315974dd0d16923d84b9e42270ffda982",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8218,
+      "FileName": "onenote2003sp2-kb887619-fullfile-jpn.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b0a8cca7024f0e1eb98dee0a31dc3ef5ba6138a2",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8219,
+      "FileName": "onenote2003sp2-kb887619-fullfile-kor.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "48b6d844cdb79556025c8e3c4858747ac133f2f7",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8220,
+      "FileName": "onenote2003sp2-kb887619-fullfile-zhh.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "5d9b105af5c05b1cca2d865e93c032f5237a2eb2",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-13T03:41:16Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8231,
+      "FileName": "sc_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1c52ff0c7a672f6beb2b043ea5269945c15507f9",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8232,
+      "FileName": "en_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "59bd8c23730b78167a23d913c2c8818b891278bf",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8233,
+      "FileName": "fr_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (French)",
+      "Notes": null,
+      "Sha1Hash": "d20626ac9fe6aec2248209894ab72040ff29ce61",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8234,
+      "FileName": "de_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (German)",
+      "Notes": null,
+      "Sha1Hash": "be923dbf4887facc2ad8a42baa1749cd8b95e779",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8235,
+      "FileName": "it_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "0f6e63312b604ccbb9eff3917336ceb2a64a50c0",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8236,
+      "FileName": "jp_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "2674552c5987ff6ddb7fd21e2b0895cd6d0257ae",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8237,
+      "FileName": "ko_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7df06eb37a222c40e65ffbe1587c204369375a5a",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8238,
+      "FileName": "nl_winxp_mce_2005_update2.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "b7c99ef5fdcc632f82a914bedd4c29fdf85d1d6a",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8239,
+      "FileName": "mui_winxp_mce_2005_update2_symbols.iso",
+      "Description": "Update Rollup 2 for Windows XP Media Center Edition 2005 Symbols (Multi-Language)",
+      "Notes": null,
+      "Sha1Hash": "6389aa7334ff226aaba6ff11889b2d7fe01e3db1",
+      "ProductFamilyId": 140,
+      "PostedDate": "2005-10-13T07:10:55Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "61 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8240,
+      "FileName": "ar_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "8c4c98c78f6da12926914f647812317efea76599",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8241,
+      "FileName": "cs_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "362cdeb1d4b1cc7692f93d1f1fb6750f3eaee818",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8242,
+      "FileName": "cht_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "157f591ff9a2562f0e0d9a000d2fd3cd01e72c72",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8243,
+      "FileName": "de_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "49fcd5037ac0cd736c1890b5654dc9df3dfdf081",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8244,
+      "FileName": "en_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "f4d7e75136df6dc37bf88ee294d1ea14d777d510",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8245,
+      "FileName": "es_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "d12463309d710ddc9067299a7a3ad9b4d61f4acc",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8246,
+      "FileName": "fr_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "6ac0a3a8b04a7e0cc09c9446219246418de6b3d2",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8247,
+      "FileName": "he_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "4331d6627f1174da422b6a0fc8e1a8edf536537a",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8248,
+      "FileName": "it_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "336761a21b43cb4f28a34d0740a9d0a01363058c",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8249,
+      "FileName": "jp_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "3f4fe4f263dc341aede852c151475b79dc7c6a87",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8250,
+      "FileName": "ko_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "27b57631bd4aaaccf90ece3ac15c71006841b9a3",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8251,
+      "FileName": "th_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Thai)",
+      "Notes": null,
+      "Sha1Hash": "df8ebabc68289fdd503d1d629740213f327dfa42",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-13T07:49:03Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8252,
+      "FileName": "en_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (English)",
+      "Notes": null,
+      "Sha1Hash": "2d8ba5b71001ba2acf70496cb2cf80f981526a67",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "199 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8253,
+      "FileName": "sc_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "52da09dba1543ff09ac0847303be02ff9c1dcb2e",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "330 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8254,
+      "FileName": "br_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "4286d80972ced322e3ca0921e4275d588e74df87",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "115 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8255,
+      "FileName": "da_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "80ffbaf0e9e851e6590a51ed0b927b0e04c4d99d",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "119 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8256,
+      "FileName": "cht_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "90ad36a40160f4c53b15929ee17d300bd3013180",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "219 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8257,
+      "FileName": "fr_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "ced65ba7f04cc7fceeb0cad484a087933c05eb75",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "143 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8258,
+      "FileName": "cz_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "e60e67463663eeabee5573d8738da04b84db3ae3",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8259,
+      "FileName": "fi_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "cac3158baaa07421685173fa1a7e4cc11c580e04",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8260,
+      "FileName": "ko_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "bb128ca8fea014d34aec7f87d6568650001ea058",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "164 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8261,
+      "FileName": "ja_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "aae043202af138655f3ef309189ba107e6d3ed7c",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "145 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8262,
+      "FileName": "no_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "8face6f357250573cf5b62b356f85c17bb541885",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "119 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8263,
+      "FileName": "de_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (German)",
+      "Notes": null,
+      "Sha1Hash": "b8372efe613ffdf56feb1441eae9875d765f0e33",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8264,
+      "FileName": "pl_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "3c482ce8192b532e1eda34707cd8dc5af2021313",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8265,
+      "FileName": "cht_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "a2e901cfa90e4fffe82df0deec394812fb624195",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8266,
+      "FileName": "cs_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "d8aedd1bbcde7ce5debebbda088b89aae47bca66",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8267,
+      "FileName": "de_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "910250d3a4f2708ceed32e52af70d9dcfe273db0",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8268,
+      "FileName": "en_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "ca35c1de28dd9f9849c43c5e37e2e3f7095d739b",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8269,
+      "FileName": "es_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5cea925cbac108cf71f8d96235c65babe0f52091",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8270,
+      "FileName": "fr_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "60680af8861e46493cf280e15edd1baa63d62146",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8271,
+      "FileName": "it_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "798c25b4ae9e2d81a05f95f839a60e340ff86bef",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "33 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8272,
+      "FileName": "jp_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "84ef353aa47c9e61c01ccd83aa4dd6fb2bef1504",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8273,
+      "FileName": "ko_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "fce222c38826f5db6f4e7591ae9adc1342c7b332",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T04:37:19Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8274,
+      "FileName": "es_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "cb66fecc28587cd7c1741f0025db6e6b6078c9c8",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8275,
+      "FileName": "hu_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "6b6f54bcd81bf430fab49958e20417a3d11e4157",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "96 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8276,
+      "FileName": "it_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "40e13778cbf591495904a3411c943e42fe6fde78",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8277,
+      "FileName": "nl_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "667ad841fb51adc246cd6e88170575910eeedf60",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "109 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8278,
+      "FileName": "pt_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "64e9c6207d25c1abde6b33f5485effb799e85fca",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8279,
+      "FileName": "sv_office_2003_visio_std.iso",
+      "Description": "Office Visio Standard 2003 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "3228e90442cc5e63284173163f2f8255b98f9bb4",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-14T03:39:05Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8280,
+      "FileName": "br_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Brazilian)",
+      "Notes": null,
+      "Sha1Hash": "76b263b69d2a5c4d8f5df382836a8f28addb1d2e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "126 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8281,
+      "FileName": "cht_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Chinese Traditional)",
+      "Notes": null,
+      "Sha1Hash": "2716de3c617dc1274d348cc34898dd35727738c7",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8282,
+      "FileName": "cs_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "f278adafdf3364cbc8c290df94ad079c5e97629e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "403 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8283,
+      "FileName": "cz_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "d15981449f48c28ed6ca23dd1adfe9ceb73dfce9",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8284,
+      "FileName": "da_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "87af92061a6b745117e856108a40708ebd6d10ff",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "131 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8285,
+      "FileName": "es_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "cb129243aa10936cb749f0d046379798550648ce",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "136 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8286,
+      "FileName": "fi_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "d34bb7ac68fb3e76f47178fa1d4edcb745e378a6",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "119 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8287,
+      "FileName": "fr_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (French)",
+      "Notes": null,
+      "Sha1Hash": "b3cd9f942a7033fe9913e27998ee9f12d6aed57b",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "151 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8288,
+      "FileName": "he_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "f0d196f5fbd8bc827a8e599640906b69fd9e8670",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "270 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8289,
+      "FileName": "hu_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "693d3e9663d0ee5f37bcb69c43dcd8faacb58c77",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "115 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8290,
+      "FileName": "it_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "275b6ce0af742407f857a7b9ff75410dfc880e6a",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "140 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8291,
+      "FileName": "en_pointofsale_1.0.iso",
+      "Description": "Point of Sale - Version 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "72472771460dfe91427b2651fddd01a62328c79d",
+      "ProductFamilyId": 116,
+      "PostedDate": "2005-10-14T04:47:53Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "165 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8292,
+      "FileName": "ko_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "2fccf31018b7154751670b4c5d2685d20a068230",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "287 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8293,
+      "FileName": "nl_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "3cc19ad7d149f8a2766581ba2df2db642b8840d3",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8294,
+      "FileName": "no_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "9fe55ea281404def2efb2ceb771574a5ff314b10",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "131 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8295,
+      "FileName": "po_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "4066df0ea11a45d68c1688b75c20f001e17dccae",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8296,
+      "FileName": "ru_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "cd298df59f25a6b42127d726a94a7a613167cd9f",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "132 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8297,
+      "FileName": "sv_office_2003_project_sta.iso",
+      "Description": "Office Project Standard 2003 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "389855e88416389add84d1964427a52ac3c68fe4",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-14T04:31:30Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "118 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8299,
+      "FileName": "ja_office_interconnect_2004sp2.exe",
+      "Description": "Office InterConnect 2004 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "236fe412925c786509f76c100d12dcf97678ae1d",
+      "ProductFamilyId": 16,
+      "PostedDate": "2005-10-14T04:48:57Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8302,
+      "FileName": "sh_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "7eee3f8f66ecbf9961e6dfdd74674aea5d5fdfc9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "89 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8303,
+      "FileName": "cz_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "254d8a3f9b4981e6d1fa223052ae5ab9be77942d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8304,
+      "FileName": "da_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "3a1f67987fcb501d8e41827d651309998bc0ac66",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "89 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8305,
+      "FileName": "nl_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "4ac5a09fc4d22f3aea0b076a620f55c022c860bd",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "103 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8306,
+      "FileName": "est_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "da7340d48f128041d4203655dc3bea4145aded4f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8307,
+      "FileName": "fi_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "e7bf70f71179482c030ff84d87e3731b97cd4723",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8308,
+      "FileName": "el_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "09df92b3af7627b97dce8b5ff7250c039bb91dee",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "95 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8309,
+      "FileName": "hu_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "f3bbe9344ec00a2e277d3c8be8b0ae15197ea81d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8310,
+      "FileName": "la_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "b8b8f563455982c91868f08ba65099fe82d2cce4",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8311,
+      "FileName": "li_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Lithuanian)",
+      "Notes": null,
+      "Sha1Hash": "1d23da81ec7bc86ee9a39bbef96c291f49d17a4c",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8312,
+      "FileName": "no_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "a15c612f18fd4ac11635f1379dc4280e6db12d7d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8313,
+      "FileName": "pl_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "9465a1c2573397f16d7bc8229d8117e038dfe91b",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8314,
+      "FileName": "br_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "22f012a407cf4ad34d613068de69ec6d248a465e",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "92 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8315,
+      "FileName": "pt_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "f92b731fb4cde97f14e547d0cdb409b192668346",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "99 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8316,
+      "FileName": "rom_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "81082ce7644f1e2324bab11d5b1a0174cd24230e",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "89 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8317,
+      "FileName": "ru_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "c6b19da343b17a314d0ccb90a9c7771191566dde",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "87 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8318,
+      "FileName": "sk_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "685336f0422965ff33cfd04418bf4cc3585ed13b",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8319,
+      "FileName": "sl_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "9b9548a37b471c5dd1368d5b6469ba37bb4b09a7",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8320,
+      "FileName": "sv_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "40cf2129f63e46249284966bede9eb0169e2861d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "90 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8321,
+      "FileName": "tk_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "2af854373a44770d760c24278ff93def88d2f26e",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "94 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8322,
+      "FileName": "uk_office_2003_sp2.exe",
+      "Description": "Office 2003 Service Pack 2 (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "4eb662a746381b043c95e93cc92c19f27a477a48",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-21T05:38:10Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "85 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8323,
+      "FileName": "br_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "f6a3f2f01d174b61774ac14b8fc5ce18ce424bbd",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8324,
+      "FileName": "cz_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "c4cad500facbebb73ba7b8a4610ae04c69380cbe",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8325,
+      "FileName": "da_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "a6b16548551dc1e9cf69a74c0d3082b2a0b6c99e",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8326,
+      "FileName": "el_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "48452fb1e2107da91d071d3ce531a13f6b634bdb",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8327,
+      "FileName": "fi_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "6d0fda0d8315592f48ca18eaf3d438383a78b726",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8328,
+      "FileName": "hu_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "fe58618ec895d8275c7887b256f67b988022ec09",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8329,
+      "FileName": "nl_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "ac9dddc053af85a7fc6dda0d80ae523de33a591c",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "38 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8330,
+      "FileName": "no_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "754912763e70854bfe3d46559f20fff8b3768aac",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8331,
+      "FileName": "pl_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "d1db8436f8ba0f3d938ff315b558e34939c57402",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8332,
+      "FileName": "pt_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "b5fe32fa9dd9dcb294f26d16669fac9b62b9c573",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8333,
+      "FileName": "ru_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "9a93a2da334cfce5c465e63076ce9300cdde6587",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8334,
+      "FileName": "sv_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "01ea688ef0c309a7cf345c9205830f8623e8cacf",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8335,
+      "FileName": "tk_project_2003_sp2.exe",
+      "Description": "Project 2003 Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "b947460621915ba1b4b3319ffd752b1cbd28ccf1",
+      "ProductFamilyId": 39,
+      "PostedDate": "2005-10-21T10:04:32Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8336,
+      "FileName": "cz_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "bc8541d267551cd4456f1f7f372c7b1ec34c81e0",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8337,
+      "FileName": "da_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "b890a81612ae59cc0c06ef134ff0d42590a294a7",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8338,
+      "FileName": "nl_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "eb72693a3344729fdf647beb9086fd549de62b07",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8339,
+      "FileName": "fi_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "f96dea6347a11bee3327865c6d54f16e9a2858d5",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8340,
+      "FileName": "no_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "67f946bc1d44bec173e9a52d39319a171a03e257",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8341,
+      "FileName": "pl_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "35e9cc63c3f1990297a36908788518eed9c962da",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8342,
+      "FileName": "br_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "716ca94fd1126ad795a075847593a840a678a5ea",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8343,
+      "FileName": "pt_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "e13b177b5a2b2e0c2eb1ad6127775be58441ff6b",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8344,
+      "FileName": "ru_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "bc0cfb602ca20997fea1085019a7bfd12fd98818",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8345,
+      "FileName": "sv_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "be7d618e271bb954b1f2fb54c66fd1c063a8b09a",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8346,
+      "FileName": "tr_onenote_2003_sp2.exe",
+      "Description": "OneNote 2003 Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "3a0e4059093d0b0dcccd65374e01658b95922227",
+      "ProductFamilyId": 30,
+      "PostedDate": "2005-10-21T06:11:57Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8360,
+      "FileName": "nl_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "985608aa3b33486d5a93bef6ac1ee99a7ed55540",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:33:27Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8361,
+      "FileName": "ru_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "7b77ad3325826e51051314fe068f942bd7de6d42",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:36:23Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8362,
+      "FileName": "pt_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "d435857cb5b9b75562ccf342ae6e5889619c4ccd",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:36:07Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8363,
+      "FileName": "no_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "895f4394a37cfde2db8ec00099c7b4b5f91cd958",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:35:11Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8364,
+      "FileName": "el_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "c60146b2d62f10a07c8e0e9ccf379379c335bc6c",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:34:31Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8365,
+      "FileName": "da_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "23f0e6cd537d0440eaf0f3ffdc4051b1e1bf8e91",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:33:11Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8366,
+      "FileName": "br_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "1a9f55429f55afc0bbb76981dd813ba46011b0c4",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:35:47Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8367,
+      "FileName": "fi_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "64611c6313d142c377357e664abae9a835842e20",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:33:45Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8368,
+      "FileName": "tu_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "96dd366f5bff9f965a64223786d546c70377bb74",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:31:44Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8369,
+      "FileName": "sv_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "b5ecd581176bba89da99d977b5998869dfdb11cd",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:36:53Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "42 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8370,
+      "FileName": "cz_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "41d9c32b58233c05ec098ecd0a083c1724b62b45",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:32:55Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8371,
+      "FileName": "br_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "77bf2b1caca969a5e0838fa41e2c602cf5bc231b",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "29 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8372,
+      "FileName": "cz_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "766616e7f4d6941cbcb885e2e0120cabcd353d45",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8373,
+      "FileName": "da_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "1429a814ad8b907558507b81f1bbe2552248ca87",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8374,
+      "FileName": "fi_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "fa6397c34c387b8e13a09a9ef176da9e0997a57d",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8375,
+      "FileName": "hu_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "7bd85ad47bb19b7833e5a5869acaeebcdbd58b58",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8376,
+      "FileName": "nl_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "71b30fdd3bbc05e73d2ca567d8f5c6212f03c305",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "35 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8377,
+      "FileName": "pl_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "0defd7ab9920d3ed00b52e043e3452eceae82d7d",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "25 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8378,
+      "FileName": "pt_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "226dc431896e1dd2041d6b9c0ab09c7fb28a61a0",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8379,
+      "FileName": "sv_visio_2003_sp2.exe",
+      "Description": "Visio 2003 Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "6d17255c4321bca41cf7f5d8d5b46213ec2d1d5f",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T01:22:42Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8380,
+      "FileName": "br_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "3816b8c89197ba5b93fe515da5e39adf8c7685d5",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8381,
+      "FileName": "cht_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ca4b5b2a8a7642a7f823ba54a2a378806d8eebdb",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8382,
+      "FileName": "cs_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "743b4ee4d51ba90ebb65179b836a39f9076f4e3c",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8383,
+      "FileName": "cz_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Czech)",
+      "Notes": null,
+      "Sha1Hash": "f6d644743a1a2a6c33bf950b17add6b542e0e37b",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8384,
+      "FileName": "da_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Danish)",
+      "Notes": null,
+      "Sha1Hash": "bc602fd6c43ba345157e7037d7d87b84da36c553",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8385,
+      "FileName": "de_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (German)",
+      "Notes": null,
+      "Sha1Hash": "d5af9a3dde806c9ee9ed11ccb5ccd60333203199",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8386,
+      "FileName": "es_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "4d411a21cfca72cb83627410f2708fdce790f77d",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8387,
+      "FileName": "fi_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "319944acba8e917590e48b47b919ae4daa0d6f4f",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8388,
+      "FileName": "fr_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (French)",
+      "Notes": null,
+      "Sha1Hash": "e4dccbd5799cb4545ac8b9ef088b62df92ae29de",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8389,
+      "FileName": "it_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Italian)",
+      "Notes": null,
+      "Sha1Hash": "3bb8e9f65e0a1f5bcae5d4c59d23c3bcde410773",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8390,
+      "FileName": "jp_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "0f0ba61504f42098cbbc6ec8cf4ecc03955440a1",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8391,
+      "FileName": "ko_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Korean)",
+      "Notes": null,
+      "Sha1Hash": "7f301a7cfca158b74ff944dbf67c3ca3ef96d897",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8392,
+      "FileName": "nl_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "92b6cf23e7e743cd2fc1151db144466d2534e200",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8393,
+      "FileName": "no_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "eb9a8aa21654a2298d04b1248dfb8b64992f43fb",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8394,
+      "FileName": "pl_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Polish)",
+      "Notes": null,
+      "Sha1Hash": "382461bbee049cf08cb93eea9fc10282e0664f3b",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8395,
+      "FileName": "sv_visio_2003_sp2_for_mui.exe",
+      "Description": "Visio 2003 Service Pack 2 for Multilingual User Interface Pack (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "0e134bd83e1d7ed386aed345afb56d05f685c4db",
+      "ProductFamilyId": 58,
+      "PostedDate": "2005-10-25T02:07:27Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8396,
+      "FileName": "ar_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "c633daae7fd0c90934b519aeacb089e6ddc5a08c",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8397,
+      "FileName": "bg_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Bulgarian)",
+      "Notes": null,
+      "Sha1Hash": "42a2154403bc07a357e7da8093a870c8b2824b15",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8398,
+      "FileName": "br_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "49b8dd885524a8084207d2b9d7680da212644ede",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8399,
+      "FileName": "cht_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "08294619af98ed37c8207c7c1c329097825408a7",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8400,
+      "FileName": "cs_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "1cd0de20ed1cdc11a55e0f75e0ca8fe8f9873e4f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8401,
+      "FileName": "cz_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Czech)",
+      "Notes": null,
+      "Sha1Hash": "d7ea0ac54c1bc9aa91232546b38baf595d7c7074",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8402,
+      "FileName": "da_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Danish)",
+      "Notes": null,
+      "Sha1Hash": "c266bfa5f4a3d68a4451b3faba33c8dab26279f0",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "23 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8403,
+      "FileName": "de_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (German)",
+      "Notes": null,
+      "Sha1Hash": "ac25bc807530239973edb15f3a71d94b6c094a24",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8404,
+      "FileName": "el_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Greek)",
+      "Notes": null,
+      "Sha1Hash": "18a202f21c37bf02394afff32023f75e3ef1df5f",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8405,
+      "FileName": "es_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "46999dd3940c2c696820c88f04ff8d1806bcf0a6",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "34 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8406,
+      "FileName": "est_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Estonian)",
+      "Notes": null,
+      "Sha1Hash": "f3fca8756781993d2200faf84cf1b9bf8265afb9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8407,
+      "FileName": "fi_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "43eeae45c2f4390c8fba6dc4d789195c483b5ac1",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "24 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8408,
+      "FileName": "fr_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (French)",
+      "Notes": null,
+      "Sha1Hash": "ee7ca5694cf3a84bb87769528ed6d7cc4e6a6303",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "37 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8409,
+      "FileName": "he_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "59512c0035342813b9c2e14ef0d0b570238b8efb",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8410,
+      "FileName": "hi_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "8d2510502d9b9496a85f9dac86815780ae186f1d",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8411,
+      "FileName": "hu_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "bf7b1e5b366185085f43a1c579652539409318b1",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8412,
+      "FileName": "it_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Italian)",
+      "Notes": null,
+      "Sha1Hash": "4307d016a1e8a0f4f9437658bfc7f72b108713f1",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "30 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8413,
+      "FileName": "jp_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "832107e9ccb56f91bd33b43152e2f95b202239a0",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8414,
+      "FileName": "ko_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Korean)",
+      "Notes": null,
+      "Sha1Hash": "be94b6ab47d3c50c018ec2d4291f7751dde78d8e",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "20 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8415,
+      "FileName": "la_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Latvian)",
+      "Notes": null,
+      "Sha1Hash": "ed5d81f1f4245025951fa596891a21279c7405e6",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8416,
+      "FileName": "li_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Lithuanian)",
+      "Notes": null,
+      "Sha1Hash": "bacf34dea26575f9dddcb186755ad57504cdd13c",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8417,
+      "FileName": "nl_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "5c46f476a5b9cfdcfca57590855696221ae08fe9",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "31 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8418,
+      "FileName": "no_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "9193a898b0e90c3ae2c94d5733a2f7a52de19604",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "21 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8419,
+      "FileName": "pl_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Polish)",
+      "Notes": null,
+      "Sha1Hash": "1afe632bac73f4183ee16569103a5bd728d3dbd5",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "22 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8420,
+      "FileName": "pt_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "543581a9cf4cb2266eb63c9397787fe9a087e4f5",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8421,
+      "FileName": "rom_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Romanian)",
+      "Notes": null,
+      "Sha1Hash": "f5be7e4baf7fc69c1130706f199f19004927c44e",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8422,
+      "FileName": "ru_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Russian)",
+      "Notes": null,
+      "Sha1Hash": "62a5f93b9546025e0a0ee523ccdac6fc36ce99ee",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8423,
+      "FileName": "sh_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Croatian)",
+      "Notes": null,
+      "Sha1Hash": "b0bd0440e88734a5d0f22bbe57fe6c5e0511af77",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "8 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8424,
+      "FileName": "sk_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Slovak)",
+      "Notes": null,
+      "Sha1Hash": "258667e35391891ef7e700fa7879934f83353413",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8425,
+      "FileName": "sl_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Slovenian)",
+      "Notes": null,
+      "Sha1Hash": "44da08775d2a1e7dee92d7e5a786528a1472620a",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8426,
+      "FileName": "sr_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Serbian - Latin)",
+      "Notes": null,
+      "Sha1Hash": "968f2af078754b684c59f29614c043216f5fd0ba",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8427,
+      "FileName": "sv_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "4d41115728ccdae0dc6e9902a1fac97821719dd5",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "26 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8428,
+      "FileName": "th_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Thai)",
+      "Notes": null,
+      "Sha1Hash": "fe75f189b417cc71a26a1a0e116a4f15aa138ece",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8429,
+      "FileName": "tk_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "06fa3d64e568277982955ac5dd0d610d7b23d285",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "15 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8430,
+      "FileName": "uk_office_2003_sr2_for_mui.exe",
+      "Description": "Office 2003 Service Pack 2 for Multilingual User Interface Pack (Ukrainian)",
+      "Notes": null,
+      "Sha1Hash": "cd7086c86c4f1fba24963c141fbd93dc65384541",
+      "ProductFamilyId": 25,
+      "PostedDate": "2005-10-25T04:19:31Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "7 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8431,
+      "FileName": "ar_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "6cf9076465dc141a776eb17a50d7a465473cabdb",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8432,
+      "FileName": "br_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "e503a9732b83666f0d5705f64f9b39def0e3fb58",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8433,
+      "FileName": "cht_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "3a4197a07ccd9463ba394c917f18090b398f5c4d",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8434,
+      "FileName": "cs_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "39c41123f66d07cc109564dad40592a07edf2d6a",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8435,
+      "FileName": "cz_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "7e198360a43ba4593329d6e207ba7cf8c967d721",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8436,
+      "FileName": "da_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "3f4c3b7c74f1fc0feef50bae442283b970c59e27",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8437,
+      "FileName": "de_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "723bf8c91bc79c27222a90d765e321a252596bba",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8438,
+      "FileName": "el_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "958204ba6990d938f63e7ab6400ce26ba5fdbb69",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8439,
+      "FileName": "en_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "fd7e9eb0b8826768f2bce828aa3545c7b4dadd0f",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "13 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8440,
+      "FileName": "es_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a991f638fbb043d13fdfd1b723680ee7a3ba90f1",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8441,
+      "FileName": "fr_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "b06f4a3ece62cccc1713d8fe34bd1c2d103e035e",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8442,
+      "FileName": "he_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "fc2af026355c3ebfb1f543da363eb630ecbae94c",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8443,
+      "FileName": "hu_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "f3fe784c12b42f77c161a74a7aba236b17bdc070",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8444,
+      "FileName": "it_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "25f41d9ba204d71e6844787ffaf1bead7db4e481",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8445,
+      "FileName": "jp_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ae458c01f0fc36f68fc188cacbfcb4ba79c0754d",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8446,
+      "FileName": "ko_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "1b1faac87718011beb1895c9ee2ca393ec2f9bcb",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8447,
+      "FileName": "nl_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "fe27f72a092fb4a8d22b0bb4dd33a6a832c0802b",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8448,
+      "FileName": "no_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "a181a16fcfa66d833b771ddb907f663e0ea7313b",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8449,
+      "FileName": "pl_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "8d027f8b92287439bc28529d227747999f1113df",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8450,
+      "FileName": "pt_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "a9be2f0864686c4e166e25eff1e27ae4c378cad7",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8451,
+      "FileName": "ru_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "a520ebe865fc6a13fae25aeb9a34ede8b1182aab",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8452,
+      "FileName": "sv_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "1ddb647d683d47ca05ff2dfb6578a3420b15f097",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8453,
+      "FileName": "th_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Thai)",
+      "Notes": null,
+      "Sha1Hash": "dd7121ccfcff33f33ef71cc66d2071ffb0946d66",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8454,
+      "FileName": "tk_sps_2003_sp2.exe",
+      "Description": "SharePoint Portal Server 2003 Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "2c5ddbf9725553d18b8f2e3f0f19ff6371ba3e2d",
+      "ProductFamilyId": 203,
+      "PostedDate": "2005-10-25T05:24:28Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "14 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8455,
+      "FileName": "ar_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "47c55d72d084b1fb74a891e93dafe5f0cd712325",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8456,
+      "FileName": "br_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "332716e65c44a79d9457b7effce9645b70defa47",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8457,
+      "FileName": "cz_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Czech)",
+      "Notes": null,
+      "Sha1Hash": "7206fbedc69d8788e2a8d37d8768f361179760e9",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8458,
+      "FileName": "da_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Danish)",
+      "Notes": null,
+      "Sha1Hash": "84a98e00ed9def44ccc1565e5863faf616ca5d09",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8459,
+      "FileName": "de_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "c412f53df569aa8e6e81cf926e9d2a62bc94b18e",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8460,
+      "FileName": "el_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Greek)",
+      "Notes": null,
+      "Sha1Hash": "aecb26724a858a1419abf48f5d7408fe101acf2b",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8461,
+      "FileName": "en_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "20da56418d8cae23f728c613f5f81cb5dd6e5386",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8462,
+      "FileName": "es_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "57cbdc2774f80580282f07134b3c9603aaa92bd2",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8463,
+      "FileName": "fi_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "3babfedab7f8422a1ccc9ca254de9eba53e495e9",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8464,
+      "FileName": "fr_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "63fdd646fd695d2a10ee72811bff920141bd1d55",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8465,
+      "FileName": "he_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "7ac26d4d970b841013ef74e1eb1c451c0e199137",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8466,
+      "FileName": "hu_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "c553d88529f47b8fd93b979a313a59bd4ddf3798",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8467,
+      "FileName": "it_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "798997dcc2795da3b2b13187ceffc2b4fb1a3f2d",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8468,
+      "FileName": "jp_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "04a4d1803f6ae12af98c2fd9fe9a462b6714408d",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8469,
+      "FileName": "ko_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "e061c00b5770a3a5ad91d4ab9ff13240cf43050e",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8470,
+      "FileName": "nl_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "2b2d865266068b07545e856f4b31580ebd3b5f3a",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8471,
+      "FileName": "no_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "50b600dbe6d01d3e24b9f2c6830ba3dec9663d26",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8472,
+      "FileName": "pl_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "c37fcaf3ce0a638f1f0ff048fe9fb65e052c5fed",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8473,
+      "FileName": "pt_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "f3a0e95e5a6ca995fea41f166cb0cf0308525b9f",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8474,
+      "FileName": "ru_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Russian)",
+      "Notes": null,
+      "Sha1Hash": "59566cd2fa24fa68081714986a3b127c5ad539e6",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8475,
+      "FileName": "sc_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "37ddaef798a403e34c4d88809cff1353d33597cb",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8476,
+      "FileName": "sv_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "5cd0581ee7beb319979fda590ae7ebc657b61e93",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8477,
+      "FileName": "tc_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "20dadcbdc9bbaac252660fd3b3ef0e61e490cb3f",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": null,
+      "Languages": null,
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8478,
+      "FileName": "th_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Thai)",
+      "Notes": null,
+      "Sha1Hash": "8a041df32aedbfa44830f5a4d4c9b053d10e723e",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8479,
+      "FileName": "tu_sharepoint_services_sp2.exe",
+      "Description": "Windows SharePoint Services Service Pack 2 (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "a34407d0d6fd35db0bb6bedf87d6d961b635ecdd",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:42:13Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8480,
+      "FileName": "hu_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "36bd96fa9707141d70435385dac685fbf5f52249",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:34:51Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8481,
+      "FileName": "pl_wss_with_sp2.exe",
+      "Description": "Windows SharePoint Services with Service Pack 2 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "1ce3772cbf6af07736152a55784ef56be6954805",
+      "ProductFamilyId": 321,
+      "PostedDate": "2005-10-26T02:35:29Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "41 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8482,
+      "FileName": "cht_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Traditional Chinese)",
+      "Notes": null,
+      "Sha1Hash": "ffe616b4c2f273f579d01984f8854bd0fd46aee0",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8483,
+      "FileName": "cs_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "e924e2e9b72ae17f493512ad8317d4a31c47f9a7",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8484,
+      "FileName": "de_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (German)",
+      "Notes": null,
+      "Sha1Hash": "3a47b0670b7e52fb1c500a6cf0443f95522234d2",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8485,
+      "FileName": "en_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "2c985f3ff1fdccecf89df61918fb55eb4b12edd8",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8486,
+      "FileName": "es_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "a02f4acbf660ab624cc57391872d81014c343351",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8487,
+      "FileName": "fr_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (French)",
+      "Notes": null,
+      "Sha1Hash": "3700fcd4166521ed69b07ea4e70604b6845dc6b4",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8488,
+      "FileName": "it_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "c539766e39beced811b82215856f290ff38f5c85",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8489,
+      "FileName": "jp_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8c0c0ade9c896f2afdc4623171bd276535cd2e11",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8490,
+      "FileName": "ko_exchange_server_2003_sp2.exe",
+      "Description": "Exchange Server 2003 Service Pack 2 (Korean)",
+      "Notes": null,
+      "Sha1Hash": "6fe9bf6cd38302b5431e5aacdd9f59339edd5af0",
+      "ProductFamilyId": 179,
+      "PostedDate": "2005-10-25T07:51:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "110 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8491,
+      "FileName": "en_vs_2005_vsta_dvd.iso",
+      "Description": "Visual Studio 2005 Team Edition for Software Architects - DVD - (English)",
+      "Notes": null,
+      "Sha1Hash": "075f5c7a640ace0ef1bb654d1956f76242a7a4b1",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-28T02:10:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3617 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8492,
+      "FileName": "en_vs_2005_vstd_dvd.iso",
+      "Description": "Visual Studio 2005 Team Edition for Software Developers - DVD - (English)",
+      "Notes": null,
+      "Sha1Hash": "3f7697230a18fb501907954d47a34f878c8802ab",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-28T02:12:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3622 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8493,
+      "FileName": "en_vs_2005_vsts_dvd.iso",
+      "Description": "Visual Studio 2005 Team Suite - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "9ecb6c5bd6fbcd34a50e8765cbe1e6a6fea771f8",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-28T02:13:23Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3630 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8494,
+      "FileName": "en_vs_2005_vstt_dvd.iso",
+      "Description": "Visual Studio 2005 Team Edition for Testers - DVD - (English)",
+      "Notes": null,
+      "Sha1Hash": "3035543d32803ccd4da2fa232337aeb21880c65f",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-29T00:07:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3616 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8495,
+      "FileName": "en_vss_2005.iso",
+      "Description": "Visual SourceSafe 2005 (English)",
+      "Notes": null,
+      "Sha1Hash": "0a99fdbfcbfcf9d877a6ec515e542fa94806808e",
+      "ProductFamilyId": 93,
+      "PostedDate": "2005-10-27T23:08:41Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "103 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 8496,
+      "FileName": "en_vsto_2005.iso",
+      "Description": "Visual Studio 2005 Tools for the Microsoft Office System (English)",
+      "Notes": null,
+      "Sha1Hash": "b8714900425fb1021e1f6306b2e12c24e0cef078",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-27T23:06:36Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "418 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8497,
+      "FileName": "en_vs_2005_std_cd1.iso",
+      "Description": "Visual Studio 2005 Standard Edition - CD 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "ef198c5605b5fabc80322110aaa629a3dc9c6d16",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-27T23:12:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "600 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8498,
+      "FileName": "en_vs_2005_std_cd2.iso",
+      "Description": "Visual Studio 2005 Standard Edition - CD 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "cd86ecca5faa5e42a079af630ca42a74ae0b7f61",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-27T23:12:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "512 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 8499,
+      "FileName": "en_vs_2005_pro_cd1.iso",
+      "Description": "Visual Studio 2005 Professional Edition - CD 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "4a7469d39d41077e4f479a149aed9ee99b246b74",
+      "ProductFamilyId": 99,
+      "PostedDate": "2005-10-27T23:13:10Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

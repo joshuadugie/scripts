@@ -1,0 +1,3140 @@
+{
+  "Files": [
+    {
+      "FileId": 44500,
+      "FileName": "pt_install_disc_windows_small_business_server_2011_standard_x64_dvd_611621.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8ad718f5cf80fdbcb02a516d8c46ea9c4aebfc41",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:34Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "6568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44501,
+      "FileName": "en_install_disc_windows_small_business_server_2011_standard_x64_dvd_611535.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "74764b29f6c5bafcb680d000f43e138c38a9a414",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:35Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6506 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44502,
+      "FileName": "en_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612300.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (English)\r\n\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "355b27d024f9f30e4c561d1a49ac1bab191676c7",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:35Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2533 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44503,
+      "FileName": "fr_install_disc_windows_small_business_server_2011_standard_x64_dvd_611623.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c48f93f5d6b0e25a693d52178be93ca20f4450b4",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:36Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "6641 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44504,
+      "FileName": "de_install_disc_windows_small_business_server_2011_standard_x64_dvd_611539.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (German)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5d200d9614df51228abda8587e90a16c316def36",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:36Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "6782 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44506,
+      "FileName": "ja_install_disc_windows_small_business_server_2011_standard_x64_dvd_611542.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Japanese)\r\n",
+      "Notes": null,
+      "Sha1Hash": "75d576a85e1aa0497e68679585c9d4c068d3e83f",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:36Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "6796 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44507,
+      "FileName": "ko_install_disc_windows_small_business_server_2011_standard_x64_dvd_611543.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Korean)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1241b17addeef30a0d8edc50a8297a4c796bfb75",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:37Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "6653 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44508,
+      "FileName": "pp_install_disc_windows_small_business_server_2011_standard_x64_dvd_611625.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2223b3f05963e86875775bce5bbd201fefba4f62",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:37Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "6589 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44509,
+      "FileName": "es_install_disc_windows_small_business_server_2011_standard_x64_dvd_611525.iso",
+      "Description": "Install Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Spanish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b467b12fe5838b26498ba97ccca8e7f89a038bef",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:37Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "6779 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44510,
+      "FileName": "pt_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612291.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "afbf95f6eb66a90d1c5926fa3faa485756f9eb63",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:37Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "2581 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44511,
+      "FileName": "fr_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612426.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (French)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "0d907cf5ad383cca87ffd62250099d4689134127",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:38Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2589 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44512,
+      "FileName": "de_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612427.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (German)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "1d92ddfc4bf2ebd3362078f08873103134e489b6",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:38Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2591 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44514,
+      "FileName": "ja_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612430.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Japanese)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "0b275c27a69fae7601a400f1005357e3c6b81bb7",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:39Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2601 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44515,
+      "FileName": "ko_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612431.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Korean)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "7755210d86824c0259181f06bf916915814a8019",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:39Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2591 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44516,
+      "FileName": "pp_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612301.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "16ac015fd50c4278353192bfdea8d5ddbbf2c308",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:39Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44517,
+      "FileName": "es_repair_disc_windows_small_business_server_2011_standard_x64_dvd_612304.iso",
+      "Description": "Repair Disc: Windows Small Business Server 2011 Standard (x64) - DVD (Spanish)\r\n",
+      "Notes": "This disc is not required to install Windows Small Business Server 2011. Do not use this disc unless you are instructed to do so by Windows Small Business Server 2011 documentation such as the Windows Small Business Server 2011 Repair Guide.\n",
+      "Sha1Hash": "4e00e9a0a1601c420accb17e672bc8b7b8bb1064",
+      "ProductFamilyId": 426,
+      "PostedDate": "2010-12-17T20:00:39Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "2588 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44530,
+      "FileName": "mu_duet_enterprise_for_microsoft_sharepoint_and_sap_x64_dvd_621737.iso",
+      "Description": "Duet Enterprise for Microsoft SharePoint and SAP (x64) - DVD (Multiple Languages)",
+      "Notes": "<p><b>Notes to Customers accessing Duet Enterprise via MSDN or Volume License</b><br>Known Issue (1):</br>\n<br>Aggregator Web Part will not work across the Web Apps having different Authentication</br>\n<br>Description: Aggregator Web Part is deliverable of the Duet Workflow Feature. This Web Part will provide a support to view the Task for particular user across the Site Collection and Web App.</br>\n<br>Current Limitation to the web Part - This Web Part cannot support the Scenario of Web Part is created in one type of authenticated Web App and the Rootsite Parameter pointing to the different Web App which if different authentication. Eg: Web Part placed in Win Claims based Web App can pull/show the task assigned to the User under another rootsite created in another win claim Web App but it will not work for the rootsite created in Win Legacy Web App and then the Page on which Web Part is placed will not accessible.</br>\n<br>Viewing the Tasks from the Cross Auth Web App in aggregator web part is not Supported</br>\n<br>Workaround: To Fix the Page which is caused by cross authentication issue in Aggregator Web Part in the Page is to remove the web Part through SPD and then add the Aggregator web Part and point only to the rootsite accessible and same authenticated.</br></p>\n\n<p><br>Known Issue (2):</br>\n<br>Task with attachments cannot be created and assigned to users in Turkish environment.</br></p>\n<p>The following languages are included in this product: Arabic, Chinese-Simplified, Chinese-Traditional, English, French, German, Hebrew, Italian, Japanese, Portuguese-Brazil, Russian, Spanish, and Turkish.</p>\r\n",
+      "Sha1Hash": "676284482b4b3ecda3d16b0758fe76a89e9fda9c",
+      "ProductFamilyId": 431,
+      "PostedDate": "2010-12-28T17:44:52Z",
+      "LanguageCodes": [
+        "ar",
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "he",
+        "it",
+        "ja",
+        "pt",
+        "ru",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Arabic",
+        "German",
+        "Spanish",
+        "French",
+        "Hebrew",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "32 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44531,
+      "FileName": "cs_dynamics_nav_2009_r2_x86_dvd_617280.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e8a62e12d9c53a23328f31479be2254742e2146a",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:04Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "1472 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44532,
+      "FileName": "sk_dynamics_nav_2009_r2_x86_dvd_617278.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Slovak)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1880378c1f57ec1892462abd0ced62677c9b98ce",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:05Z",
+      "LanguageCodes": [
+        "sk"
+      ],
+      "Languages": [
+        "Slovak"
+      ],
+      "Size": "1473 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44533,
+      "FileName": "et_dynamics_nav_2009_r2_x86_dvd_617277.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Estonian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d22fe039771624703d04df684e5e8d35dccea6b2",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:05Z",
+      "LanguageCodes": [
+        "et"
+      ],
+      "Languages": [
+        "Estonian"
+      ],
+      "Size": "1470 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44534,
+      "FileName": "hu_dynamics_nav_2009_r2_x86_dvd_617273.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1c86c1823b1d6f65ed578030c1d652fb732c2864",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:06Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "1474 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44535,
+      "FileName": "lv_dynamics_nav_2009_r2_x86_dvd_617272.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Latvian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "108b8317f5e0eb1027484d4bc8d77deb4138b2d5",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:06Z",
+      "LanguageCodes": [
+        "lv"
+      ],
+      "Languages": [
+        "Latvian"
+      ],
+      "Size": "1475 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44536,
+      "FileName": "lt_dynamics_nav_2009_r2_x86_dvd_617271.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Lithuanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "6d91beff239612d74806f1ad38067a16ad87b081",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:06Z",
+      "LanguageCodes": [
+        "lt"
+      ],
+      "Languages": [
+        "Lithuanian"
+      ],
+      "Size": "1475 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44537,
+      "FileName": "pl_dynamics_nav_2009_r2_x86_dvd_617269.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Polish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5735b5f35f46f62d061125b1e59ea583f2afcb32",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:06Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "1483 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44538,
+      "FileName": "bg_dynamics_nav_2009_r2_x86_dvd_617266.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Bulgarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d5dd62906b9eb13e523535ae24bc378f87806505",
+      "ProductFamilyId": 430,
+      "PostedDate": "2012-07-11T19:27:34Z",
+      "LanguageCodes": [
+        "bg"
+      ],
+      "Languages": [
+        "Bulgarian"
+      ],
+      "Size": "1482 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44539,
+      "FileName": "hr_dynamics_nav_2009_r2_x86_dvd_617259.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Croatian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b3841cbea09fccd93b6064ac2eefe1a6a995afb3",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:07Z",
+      "LanguageCodes": [
+        "hr"
+      ],
+      "Languages": [
+        "Croatian"
+      ],
+      "Size": "1476 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44540,
+      "FileName": "ro_dynamics_nav_2009_r2_x86_dvd_617256.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Romanian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5b91e0cb58786c2858ce366f2d99bee8a3578300",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:07Z",
+      "LanguageCodes": [
+        "ro"
+      ],
+      "Languages": [
+        "Romanian"
+      ],
+      "Size": "1481 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44541,
+      "FileName": "sr_dynamics_nav_2009_r2_x86_dvd_617253.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Serbian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aebe03c1554fdd26114345aa758a06b44940410a",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:07Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "1473 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44542,
+      "FileName": "sl_dynamics_nav_2009_r2_x86_dvd_617251.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Slovenian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a548687df0f3bc054d8d934acb087cf563aaf860",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:08Z",
+      "LanguageCodes": [
+        "sl"
+      ],
+      "Languages": [
+        "Slovenian"
+      ],
+      "Size": "1478 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44543,
+      "FileName": "tr_dynamics_nav_2009_r2_x86_dvd_617250.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e2017c314a442824a2e5fa0d1088249ff4738446",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:08Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "1479 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44544,
+      "FileName": "ru_dynamics_nav_2009_r2_x86_dvd_617244.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (Russian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5926b303cd8c47caff705750a8b47805e47ba7cd",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:08Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "1663 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44545,
+      "FileName": "en_dynamics_nav_2009_r2_x86_dvd_617226.iso",
+      "Description": "Dynamics NAV 2009 R2 (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c31ef6db64865a2605d314f5e2ca799811835850",
+      "ProductFamilyId": 430,
+      "PostedDate": "2011-01-26T22:07:08Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1559 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44547,
+      "FileName": "tr_office_professional_plus_2010_x86_x64_dvd_551481.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "933e9c42d784e8048382f97ca9b3983169f90b32",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:47Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "1409 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44548,
+      "FileName": "tr_office_professional_plus_2010_x64_551413.exe",
+      "Description": "Office Professional Plus 2010 (x64) - (Turkish)",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "89e50ca6c4d39eb800250af7653687c5f00fae23",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:47Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "693 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44549,
+      "FileName": "tr_office_professional_plus_2010_x86_551488.exe",
+      "Description": "Office Professional Plus 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "84a51cf7886319dce05b3c8f623da92a71678cff",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:47Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "624 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44550,
+      "FileName": "tr_office_standard_2010_x86_x64_dvd_551475.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "333a9d4c33e4c1faa6d17997bddf76c089a22666",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:29Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "1126 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44551,
+      "FileName": "tr_office_standard_2010_x64_551426.exe",
+      "Description": "Office Standard 2010 (x64) - (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "2a9c60a5f23f5b5efb580c8f9fa63da62d3ea130",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:30Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "553 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44552,
+      "FileName": "tr_office_standard_2010_x86_551495.exe",
+      "Description": "Office Standard 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b0fb479c075585d47a3852541a8a9d01a4c7bce8",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:30Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "500 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44553,
+      "FileName": "el_office_professional_plus_2010_x86_x64_dvd_551656.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "301dbf992161ab9ff6c80373cb42f84c8b7fad69",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:47Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "1426 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44554,
+      "FileName": "el_office_professional_plus_2010_x64_551641.exe",
+      "Description": "Office Professional Plus 2010 (x64) - (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "eb447773fbfcbe7b12802e2bff10b4d69bce1c1d",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:48Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "701 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44555,
+      "FileName": "el_office_professional_plus_2010_x86_551644.exe",
+      "Description": "Office Professional Plus 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9b1da7be70bfbc6937638b5ca410ea8a2d864e62",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:48Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "633 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44556,
+      "FileName": "el_office_standard_2010_x86_x64_dvd_551665.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "017de691b3018be513bf5bce9d7aa1bfa165c352",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:30Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "1138 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44557,
+      "FileName": "el_office_standard_2010_x64_551689.exe",
+      "Description": "Office Standard 2010 (x64) - (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "b238b7fb1ae7fc02210b49ee15d7b0dfec1d16c1",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:31Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "559 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44558,
+      "FileName": "el_office_standard_2010_x86_551651.exe",
+      "Description": "Office Standard 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "398502cf785dd0af97c41224cc360562e89f7910",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:31Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "506 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44559,
+      "FileName": "pp_office_professional_plus_2010_x86_x64_dvd_533022.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "dc68c47d279a119797220a1c322dff7fe408d0cf",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:48Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "1403 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44560,
+      "FileName": "pp_office_professional_plus_2010_x64_533020.exe",
+      "Description": "Office Professional Plus 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "df28ec0737061b8b89287260d78848dcaf6f9708",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:49Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "690 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44561,
+      "FileName": "pp_office_professional_plus_2010_x86_532931.exe",
+      "Description": "Office Professional Plus 2010 (x86) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dd871dd0490bbb447c9bb8304b202ea220ef1185",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:49Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "621 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44562,
+      "FileName": "pp_office_standard_2010_x86_x64_dvd_533026.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "a71d070d23a193f4e71adb70d5de502c8fe962a9",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:31Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "1119 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44563,
+      "FileName": "pp_office_standard_2010_x64_533137.exe",
+      "Description": "Office Standard 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "d24cc476a4aa443b6306c96ff42f7cbd7f36103e",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:32Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "549 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44564,
+      "FileName": "pp_office_standard_2010_x86_533136.exe",
+      "Description": "Office Standard 2010 (x86) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1544ee26bac9b9ed6f538036eed7f95801828eb1",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-12-29T01:44:32Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "496 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44565,
+      "FileName": "sr-cyrl-sp_onenote_2010_language_interface_pack_x86_623388.exe",
+      "Description": "OneNote 2010 Language Interface Pack (x86) - (Serbian, Cyrillic-Serbia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "9529e4570b1b6a24472f55e72708dafa6ad57e43",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-01-07T18:25:22Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44566,
+      "FileName": "sr-cyrl-sp_onenote_2010_language_interface_pack_x64_623389.exe",
+      "Description": "OneNote 2010 Language Interface Pack (x64) - (Serbian, Cyrillic-Serbia)\r\n",
+      "Notes": null,
+      "Sha1Hash": "3a8ba216e4d040f4063cca9d09acd924cc626083",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-01-07T18:25:29Z",
+      "LanguageCodes": [
+        "sr"
+      ],
+      "Languages": [
+        "Serbian"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44567,
+      "FileName": "mu_application_virtualization_hosting_for_desktops_v4.5_sp2_x86_cd_528296.iso",
+      "Description": "Application Virtualization Hosting for Desktops, Version 4.5 Service Pack 2 (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 12 languages are included: Chinese-Simplified, Chinese-Traditional, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.",
+      "Sha1Hash": "c30848bada233df79c4d2e5346c49c4469a821eb",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:57:09Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "175 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44568,
+      "FileName": "mu_application_virtualization_for_remote_desktop_services_v4.5_sp2_x86_cd_528312.iso",
+      "Description": "Application Virtualization for Remote Desktop Services, Version 4.5 Service Pack 2 (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 12 languages are included: Chinese-Simplified, Chinese-Traditional, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.",
+      "Sha1Hash": "b82d922c6ef17f65d617b738eea8b7f942fd1b06",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:56:58Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "175 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44569,
+      "FileName": "mu_application_virtualization_hosting_for_desktops_v4.6_x86_cd_486714.iso",
+      "Description": "Application Virtualization Hosting for Desktops, Version 4.6 (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 12 languages are included: Chinese-Simplified, Chinese-Traditional, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.",
+      "Sha1Hash": "70dc68930b4d6319be97c9ee605f2d94c5091721",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:57:09Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "197 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44570,
+      "FileName": "mu_application_virtualization_hosting_for_desktops_v4.6_refresh_x86_cd_499114.iso",
+      "Description": "Application Virtualization Hosting for Desktops, Version 4.6 Refresh (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 24 languages are included: Chinese-Simplified, Chinese-Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Slovak, Slovenian, Spanish, Swedish, and Turkish.",
+      "Sha1Hash": "5aa3b830e783a2ba7da03785c1b0d3bb21054647",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:57:10Z",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Hungarian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Swedish",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44571,
+      "FileName": "mu_application_virtualization_for_remote_desktop_services_v4.6_x86_cd_486715.iso",
+      "Description": "Application Virtualization for Remote Desktop Services, Version 4.6 (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 12 languages are included: Chinese-Simplified, Chinese-Traditional, Dutch, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.",
+      "Sha1Hash": "62fb3687f7ab7dc436d5eea575bbc2df60186042",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:56:58Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "197 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44572,
+      "FileName": "mu_application_virtualization_for_remote_desktop_services_v4.6_refresh_x86_cd_509345.iso",
+      "Description": "Application Virtualization for Remote Desktop Services, Version 4.6 Refresh (x86) - CD (Multiple Languages)\r\n",
+      "Notes": "The following 24 languages are included: Chinese-Simplified, Chinese-Traditional, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Russian, Slovak, Slovenian, Spanish, Swedish, and Turkish.",
+      "Sha1Hash": "c9a9532d682015900363a0daa163711f8da5c656",
+      "ProductFamilyId": 207,
+      "PostedDate": "2011-05-23T23:56:59Z",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sk",
+        "sl",
+        "sv",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Hungarian",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Swedish",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "304 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44573,
+      "FileName": "sv_windows_web_server_2008_with_sp2_x64_dvd_x15-51134.iso",
+      "Description": "Windows Web Server 2008 with Service Pack 2 (x64) - DVD (Swedish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "74512805b3b9d06de4c4020ed190f3fe0ebdf303",
+      "ProductFamilyId": 164,
+      "PostedDate": "2011-01-06T22:21:45Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2306 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44574,
+      "FileName": "mu_system_center_service_manager_2010_sp1_x64_dvd_619471.iso",
+      "Description": "System Center Service Manager 2010 SP1 (x64) - DVD (Multiple Languages)\r\n\r\n\r\n",
+      "Notes": "The following languages are included in System Center Service Manager 2010 SP1:   Chinese-Simplified, Chinese-Traditional, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish.\n<p><p/>\nSCSM 2010 SP1 also extends support for following additional languages:  Czech, Danish, Dutch, Finnish, Greek, Norwegian, Polish, Portuguese-Portugal, Swedish, and Turkish.\n",
+      "Sha1Hash": "cca05aa15bda39bbbb8ca99f5afaf63c256cef30",
+      "ProductFamilyId": 414,
+      "PostedDate": "2011-01-10T19:53:26Z",
+      "LanguageCodes": [
+        "cn",
+        "cs",
+        "ct",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "fi",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ru",
+        "sv",
+        "tr"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Finnish",
+        "French",
+        "Italian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Russian",
+        "Swedish",
+        "Turkish",
+        "Chinese - Traditional",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "237 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44575,
+      "FileName": "el_visio_2010_x86_551484.exe",
+      "Description": "Visio 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7ba6ece36ef22440d484611544b5d72f062d21e7",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:13Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44576,
+      "FileName": "el_visio_2010_x64_551501.exe",
+      "Description": "Visio 2010 (x64) - (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "980a6d44b1b1e629042435d1df1c39b93668dc31",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:13Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44577,
+      "FileName": "el_visio_2010_x86_x64_dvd_551508.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "1128ac922945c0c60b6c48f56506a707b249f8ee",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:13Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "687 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44578,
+      "FileName": "el_project__professional_2010_x86_551692.exe",
+      "Description": "Project Professional 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2e38e0d555807d3ff5fe3adcaa0d8dfa34c6c76f",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:43Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "246 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44579,
+      "FileName": "el_project_professional_2010_x64_551679.exe",
+      "Description": "Project Professional 2010 (x64) - (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "63dfbac15af8583ecd78a5542c1a1ceeb4f5c743",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:44Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "283 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44580,
+      "FileName": "el_project_professional_2010_x86_x64_dvd_551695.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "39597e8301c353a767b12e14ae56bfed0e5a08ce",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:44Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44581,
+      "FileName": "el_project_standard_2010_x86_551690.exe",
+      "Description": "Project Standard 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "5520e0e05a3a046e923fcb3f905be94907889795",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "234 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44582,
+      "FileName": "el_project_standard_2010_x64_551700.exe",
+      "Description": "Project Standard 2010 (x64) - (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "cc8597445e6fc233bfa4175e56724d6b5d670448",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "256 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44583,
+      "FileName": "el_project_standard_2010_x86_x64_dvd_551691.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "245617531d18a8b8bdbdb648d4b5d436a24c247b",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "538 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44584,
+      "FileName": "tr_visio_2010_x86_551798.exe",
+      "Description": "Visio 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a224b521324f1eb6ef3b7ff1de117d9a6cfec872",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:14Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "292 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44585,
+      "FileName": "tr_visio_2010_x64_551742.exe",
+      "Description": "Visio 2010 (x64) - (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "617672a1b40ee18663f9053b00bc47f29775709c",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:14Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "343 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44586,
+      "FileName": "tr_visio_2010_x86_x64_dvd_551745.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "fbdb11230320b59903b37be5e5fec473065bdb50",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:14Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "687 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44587,
+      "FileName": "tr_project_professional_2010_x86_551451.exe",
+      "Description": "Project Professional 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "2d5ea4bf988fc28ac2db5493e1993708eed9889b",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:44Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "247 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44588,
+      "FileName": "tr_project_professional_2010_x64_551460.exe",
+      "Description": "Project Professional 2010 (x64) - (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "8fe9c6ba5f2ac32f67482ec0f09372614e5caa98",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:45Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "284 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44589,
+      "FileName": "tr_project_professional_2010_x86_x64_dvd_551500.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Turkish)\r\n\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "c4e0de6ecd568e41def885d16160f67a91753abb",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:45Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44590,
+      "FileName": "tr_project_standard_2010_x86_552930.exe",
+      "Description": "Project Standard 2010 (x86) - (Turkish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1dc0560bf18b55becda144d1052ba09977e979b5",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:08Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "235 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44591,
+      "FileName": "tr_project_standard_2010_x64_551440.exe",
+      "Description": "Project Standard 2010 (x64) - (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "31a55671d08653623dec9314819f84f593fc46f4",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:09Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "257 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44592,
+      "FileName": "tr_project_standard_2010_x86_x64_dvd_551459.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Turkish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "d1a1637a512bf38f12885291e132cd27e9cd5a6f",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:09Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "540 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44593,
+      "FileName": "pp_visio_2010_x86_533702.exe",
+      "Description": "Visio 2010 (x86) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "0d82cf195c58fa10a3a141c6fbcd49e0b7211b1e",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:14Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "285 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44594,
+      "FileName": "pp_visio_2010_x64_533700.exe",
+      "Description": "Visio 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "0cc36fcffeedd0db196a9a8f6d4ae96b8b3b497e",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-21T00:11:15Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "336 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44596,
+      "FileName": "pp_project_professional_2010_x86_533174.exe",
+      "Description": "Project Professional 2010 (x86) - (Portuguese-Portugal)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "a351dd18707ca50d3319051df563186b95be7ebd",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:45Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "239 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44597,
+      "FileName": "pp_project_professional_2010_x64_533169.exe",
+      "Description": "Project Professional 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "3871d258fe956c374a2defc17e49068e1481ae68",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:45Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "277 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44598,
+      "FileName": "pp_project_professional_2010_x86_x64_dvd_533048.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "5d7782c35b029f949cb8e1106247636923c6f601",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:12:46Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "566 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44599,
+      "FileName": "pp_project_standard_2010_x86_533190.exe",
+      "Description": "Project Standard 2010 (x86) - (Portuguese-Portugal)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fbe7337a4310f7c95618f901e64f6138861f3f75",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:09Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "227 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44600,
+      "FileName": "pp_project_standard_2010_x64_533180.exe",
+      "Description": "Project Standard 2010 (x64) - (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "e8f5c005b15516ec84b95b9e0794a942b92eca66",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:09Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "250 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44601,
+      "FileName": "pp_project_standard_2010_x86_x64_dvd_533041.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "aff236f8103216f4d2af9fada07f2af09c865874",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-21T00:13:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "525 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44602,
+      "FileName": "pp_visio_2010_x86_x64_dvd_533055.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "aa05751612ef1c9df15b85c952ec4e7c688f6adf",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-02-10T23:18:17Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "674 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44604,
+      "FileName": "cs_visio_2010_x86_x64_dvd_545733.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "661bd08ded1d707371c81aa038d74cc7ae817612",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-31T22:04:10Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "654 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44605,
+      "FileName": "cs_project_professional_2010_x86_x64_dvd_545748.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "7a63801b8d7a18c869d1f152049272331fffe2f1",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:05:58Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "547 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44606,
+      "FileName": "cs_project_standard_2010_x86_x64_dvd_545778.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "74dcedb4d6f97f7ebf14ba759a21f3b4540b7def",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:06:48Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "505 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44607,
+      "FileName": "cs_office_professional_plus_2010_x86_x64_dvd_545621.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "9011bdd4f0d1f6401bc90824e95e03c98209d599",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-01-31T22:09:43Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "1378 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44609,
+      "FileName": "cs_office_standard_2010_x86_x64_dvd_545651.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "fdfd725e4ad1d8c8ee5d86126e827249b03f9eaf",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-01-31T22:11:20Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "1095 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44610,
+      "FileName": "fi_visio_2010_x86_x64_dvd_534603.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "59c3be2f806a03225daa9da11d37009d3b7ae33b",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-31T22:03:06Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "678 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44611,
+      "FileName": "fi_project_professional_2010_x86_x64_dvd_534644.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "66d23a51f21c8fb3ef04ccf90dcdd8bd9122bed8",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:05:58Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "570 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44612,
+      "FileName": "fi_project_standard_2010_x86_x64_dvd_534656.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "7b03eea91066be6a7cc54e194c76f045ab6de14c",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:06:48Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "528 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44613,
+      "FileName": "hu_visio_2010_x86_x64_dvd_546539.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "d5f4bca461b675cc9a09f2e27c50001ca37969ef",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-31T22:03:07Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "643 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44614,
+      "FileName": "hu_project_professional_2010_x86_x64_dvd_546588.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "332cf53429e90c6ac79f7d23ba6df794d42e2485",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:05:59Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44615,
+      "FileName": "hu_project_standard_2010_x86_x64_dvd_546594.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "b10f4ac72c3f71c6c3aa5627ece69a8911468c4d",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:06:48Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "494 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44616,
+      "FileName": "uk_visio_2010_x86_x64_dvd_545938.iso",
+      "Description": "Visio 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "421a3703dd7dff30981f8ffaafaf9952eee19bd2",
+      "ProductFamilyId": 388,
+      "PostedDate": "2011-01-31T22:03:07Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "654 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44617,
+      "FileName": "uk_project_professional_2010_x86_x64_dvd_545890.iso",
+      "Description": "Project Professional 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "fc97bd9592f5db5ba4947b29fec42aa922423153",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:05:59Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "546 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44618,
+      "FileName": "uk_project_standard_2010_x86_x64_dvd_545964.iso",
+      "Description": "Project Standard 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "7e8c90c2c84111bda7195a7e1e7caa80bde9b9ac",
+      "ProductFamilyId": 386,
+      "PostedDate": "2011-01-31T22:06:49Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "505 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44619,
+      "FileName": "uk_office_professional_plus_2010_x86_x64_dvd_545911.iso",
+      "Description": "Office Professional Plus 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "f9e4acd2c31958f5a9c02828d1fba0cc34ec70b5",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-01-31T22:09:44Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "1381 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44620,
+      "FileName": "uk_office_standard_2010_x86_x64_dvd_545901.iso",
+      "Description": "Office Standard 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": "<p><b>Important:</b> Microsoft strongly recommends the use of 32-bit (x86) versions of Office 2010, Project 2010, Visio 2010, and SharePoint Designer 2010 applications as the default option for all platforms.</p><p>Learn more about the deployment considerations for x64 and x86 at <a href=\"http://technet.microsoft.com/en-us/library/ee681792(office.14).aspx\">this TechNet location</a>.</p>",
+      "Sha1Hash": "f92ec9afe934abd20f62e3c0a79543f89d2d459d",
+      "ProductFamilyId": 383,
+      "PostedDate": "2011-01-31T22:11:20Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "1096 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44621,
+      "FileName": "en_windows_7_with_sp1_debug_checked_build_x86_dvd_619602.iso",
+      "Description": "Windows 7 with Service Pack 1 Debug/Checked Build (x86) - DVD (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "8e29ab2a2dad8bd44fa3b68d7af3e57dc43fc69a",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:47:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2330 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44622,
+      "FileName": "mu_windows_7_sp1_language_pack_x64_dvd_619714.iso",
+      "Description": "Windows 7 Service Pack 1 Language Pack (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": "The following 35 languages are included: Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.",
+      "Sha1Hash": "7cd1fe568d968d89792dc9ff20e9af2b318995c2",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T17:14:33Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2619 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44623,
+      "FileName": "mu_windows_7_sp1_language_pack_x86_dvd_619716.iso",
+      "Description": "Windows 7 Service Pack 1 Language Pack (x86) - DVD (Multiple Languages)\r\n",
+      "Notes": "The following 35 languages are included: Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.",
+      "Sha1Hash": "e9261433ff5ccaca818328a9bdbbed3f21a6405e",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T17:14:34Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2152 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44628,
+      "FileName": "mu_windows_7_and_windows_server_2008_r2_sp1_x86_x64_dvd_619642.iso",
+      "Description": "Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86 and x64) - DVD (Multiple Languages)\r\n",
+      "Notes": "The following 36 languages are included: Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Chinese-Taiwan, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.",
+      "Sha1Hash": "f2aba1102e18ead08c78527ab422c09ab7d1f54c",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T17:14:42Z",
+      "LanguageCodes": [
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "tw",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Taiwan",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "1953 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44752,
+      "FileName": "pt_windows_server_2008_r2_with_sp1_x64_dvd_617599.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "0ea1338aff8f4725d3ba17237c0cdbe9138b1b6d",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:23:58Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3042 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44754,
+      "FileName": "hk_windows_server_2008_r2_with_sp1_x64_dvd_617586.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Chinese-Hong Kong SAR)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "f211da81edf1b929f01b5a0415d84005f2b2e130",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:23:58Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "3169 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44755,
+      "FileName": "cn_windows_server_2008_r2_with_sp1_x64_dvd_617598.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "38bff8da3beaa742eca54a6f584403bd253444b5",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:49Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3213 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44756,
+      "FileName": "en_windows_server_2008_r2_with_sp1_for_itanium_based_systems_ia64_dvd_617558.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 for Itanium Based Systems (ia64) - DVD (English)\r\n",
+      "Notes": "Please refer to http://www.microsoft.com/windowsserver2008/en/us/r2-compare-roles.aspx for supported roles.",
+      "Sha1Hash": "4820cbfb893bf81b2fc56b92d4a71bbe8947e72a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:45:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2512 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44757,
+      "FileName": "tw_windows_server_2008_r2_with_sp1_x64_dvd_617595.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Chinese-Taiwan)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "39b0c55c9cd3ebdf545ca7b940b5f20957d0986d",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:23:59Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "3173 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44758,
+      "FileName": "cs_windows_server_2008_r2_with_sp1_x64_dvd_617602.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Czech)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "74863699a851dcd1a93c5ac8ff13b92792aa5161",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:23:59Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44759,
+      "FileName": "nl_windows_server_2008_r2_with_sp1_x64_dvd_617597.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Dutch)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "aca7cc72567e02cc8dfe7e86b213f4d64593181e",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:49Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44761,
+      "FileName": "fr_windows_server_2008_r2_with_sp1_x64_dvd_617591.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (French)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "54857c94cdb1216b639fe0d89911a55ce522c029",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:41Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3049 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44763,
+      "FileName": "de_windows_server_2008_r2_with_sp1_x64_dvd_617380.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (German)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "2a4be360a4dd3c7bd2446cf50616b952c27bb7d4",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:41Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3052 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44764,
+      "FileName": "mu_windows_server_2008_r2_sp1_language_pack_ia64_dvd_619613.iso",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Language Pack (ia64) - DVD (Multiple Languages)\r\n",
+      "Notes": "The following 35 languages are included: Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.",
+      "Sha1Hash": "ce422496fd7596bf22827b1baa71eabe19906c2a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:46:37Z",
+      "LanguageCodes": [
+        "__",
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Multi-Language",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "509 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44766,
+      "FileName": "hu_windows_server_2008_r2_with_sp1_x64_dvd_617383.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Hungarian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "69e4c49ffe54382c790fe8d0f26f5e6381e61b13",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:23:59Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3043 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44769,
+      "FileName": "it_windows_server_2008_r2_with_sp1_x64_dvd_617391.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Italian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "676b80289916479d2568039e3966d8dfc9df152b",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:49Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3041 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44771,
+      "FileName": "ja_windows_server_2008_r2_with_sp1_x64_dvd_617387.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Japanese)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "fb152cef61e514a3e96fd75268b6288c58b24330",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:42Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3132 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44773,
+      "FileName": "ko_windows_server_2008_r2_with_sp1_x64_dvd_617385.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Korean)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "7a5731f86073c85ecc3822cd3486b57236d81dca",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3134 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44774,
+      "FileName": "pl_windows_server_2008_r2_with_sp1_x64_dvd_617388.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Polish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "bfb9688700afd233412507db2e520fc1a6f82113",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3041 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44776,
+      "FileName": "pp_windows_server_2008_r2_with_sp1_x64_dvd_617382.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "075b2f63b734614b05442cd011a30a59a63c43d4",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:00Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44777,
+      "FileName": "ru_windows_server_2008_r2_with_sp1_x64_dvd_617389.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Russian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "f546f99dad751866891ed825f235d41be353a95a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:50Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3099 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44778,
+      "FileName": "es_windows_server_2008_r2_with_sp1_x64_dvd_617398.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Spanish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "adb37d770406f12387778b6021b49361b6590ded",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:42Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3049 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44779,
+      "FileName": "sv_windows_server_2008_r2_with_sp1_x64_dvd_617393.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Swedish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "28eb25d02546d744987914443b9e0284e0c47cc4",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3036 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44780,
+      "FileName": "mu_windows_server_2008_r2_sp1_language_pack_x64_dvd_619614.iso",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Language Pack (x64) - DVD (Multiple Languages)\r\n",
+      "Notes": "The following 35 languages are included: Arabic, Bulgarian, Chinese-Hong Kong SAR, Chinese-Simplified, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Latvian, Lithuanian, Norwegian, Polish, Portuguese-Brazil, Portuguese-Portugal, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Thai, Turkish, and Ukrainian.",
+      "Sha1Hash": "79a25edaae853e1c78e7ab984d40acff0e53bd19",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:46:38Z",
+      "LanguageCodes": [
+        "__",
+        "ar",
+        "bg",
+        "cn",
+        "cs",
+        "da",
+        "de",
+        "el",
+        "en",
+        "es",
+        "et",
+        "fi",
+        "fr",
+        "he",
+        "hk",
+        "hr",
+        "hu",
+        "it",
+        "ja",
+        "ko",
+        "lt",
+        "lv",
+        "nl",
+        "no",
+        "pl",
+        "pp",
+        "pt",
+        "ro",
+        "ru",
+        "sk",
+        "sl",
+        "sr",
+        "sv",
+        "th",
+        "tr",
+        "uk"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "Arabic",
+        "Bulgarian",
+        "Czech",
+        "Danish",
+        "German",
+        "Greek",
+        "Spanish",
+        "Estonian",
+        "Finnish",
+        "French",
+        "Hebrew",
+        "Croatian",
+        "Hungarian",
+        "Italian",
+        "Lithuanian",
+        "Latvian",
+        "Dutch",
+        "Norwegian",
+        "Polish",
+        "Portuguese-Brazil",
+        "Romanian",
+        "Russian",
+        "Slovak",
+        "Slovenian",
+        "Serbian",
+        "Swedish",
+        "Thai",
+        "Turkish",
+        "Ukrainian",
+        "Multi-Language",
+        "Chinese - Hong Kong SAR",
+        "Chinese - Simplified",
+        "Portuguese-Portugal"
+      ],
+      "Size": "2799 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44781,
+      "FileName": "tr_windows_server_2008_r2_with_sp1_x64_dvd_617390.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (Turkish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "655ea17f8fed41f4b9c930546725b3bf26a0a368",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:01Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3034 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44782,
+      "FileName": "en_windows_server_2008_r2_with_sp1_x64_dvd_617601.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 (x64) - DVD (English)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p>",
+      "Sha1Hash": "d3fd7bf85ee1d5bdd72de5b2c69a7b470733cd0a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:43:27Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3020 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44783,
+      "FileName": "en_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617403.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (English)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "7e7e9425041b3328ccf723a0855c2bc4f462ec57",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:43:27Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3020 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44844,
+      "FileName": "en_windows_7_with_sp1_debug_checked_build_x64_dvd_619601.iso",
+      "Description": "Windows 7 with Service Pack 1 Debug/Checked Build (x64) - DVD (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "0f22dfe89ae18b45821276db41b375faf9a7906a",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:47:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3026 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44845,
+      "FileName": "en_windows_7_and_windows_server_2008_r2_sp1_symbols_debug_checked_build_x64_619605.msi",
+      "Description": "Windows 7 and Windows Server 2008 R2 Service Pack 1 Symbols Debug/Checked Build (x64) - (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "89491bb924ec7d7d0a73f67b8f37e20f5cfc09c1",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:44:06Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "263 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44846,
+      "FileName": "en_windows_7_and_windows_server_2008_r2_sp1_debugging_symbols_x64_619608.msi",
+      "Description": "Windows 7 and Windows Server 2008 R2 Service Pack 1 Debugging Symbols (x64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f638e7d438c9b8cad768b5cd2bcc580df8b6ee28",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:44:06Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "288 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44847,
+      "FileName": "tw_windows_7_sp1_language_pack_x86_dvd_619609.iso",
+      "Description": "Windows 7 Service Pack 1 Language Pack (x86) - DVD (Chinese-Taiwan)",
+      "Notes": null,
+      "Sha1Hash": "133e0509422bf5ae116264126e42fe72c1a605c9",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:27:30Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 44938,
+      "FileName": "cs_access_2010_x86_x64_dvd_545614.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "4ecc14872faa256e9fcc289daeb82a6f577dad26",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-09T19:55:30Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "622 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44941,
+      "FileName": "cs_infopath_2010_x86_x64_dvd_545513.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dfd7ffbb5092884ee87558dea01004b2c54d013f",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-09T19:56:14Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44944,
+      "FileName": "cs_onenote_2010_x86_x64_dvd_545712.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "4acf1d35038705ed947145157cbe0dbf714a4ee3",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-09T19:56:55Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44947,
+      "FileName": "cs_outlook_2010_x86_x64_dvd_545724.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c3604724093819b18541b4ab493c33899bdb5ffc",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-09T20:01:12Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44950,
+      "FileName": "cs_publisher_2010_x86_x64_dvd_545747.iso",
+      "Description": "Publisher 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c5a98bab927268252f633ece6d440001f9bd26c9",
+      "ProductFamilyId": 406,
+      "PostedDate": "2011-02-09T20:01:50Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44953,
+      "FileName": "cs_sharepoint_workspace_2010_x86_x64_dvd_545796.iso",
+      "Description": "SharePoint Workspace 2010 (x86 and x64) - DVD (Czech)\r\n",
+      "Notes": null,
+      "Sha1Hash": "62a0c3a480c6e29e634663216153dd9a37cd06c1",
+      "ProductFamilyId": 404,
+      "PostedDate": "2011-02-09T20:02:34Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "533 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44956,
+      "FileName": "fi_access_2010_x86_x64_dvd_534505.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "35aa2febf658b128b84afe27d3197e7602a96202",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-09T19:55:30Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "645 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44959,
+      "FileName": "fi_infopath_2010_x86_x64_dvd_534507.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cb7059dd44540da4df504305197c5b79e21ef80a",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-09T19:56:14Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "603 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44962,
+      "FileName": "fi_onenote_2010_x86_x64_dvd_534575.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "dee0b1f0aa11243e17d5a7e63f8b08aaa35b6cd8",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-09T19:56:56Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "651 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44965,
+      "FileName": "fi_outlook_2010_x86_x64_dvd_534587.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "06697ccdf95bbf01aa8bdd89664ef029bed1ac50",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-09T20:01:12Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "605 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44968,
+      "FileName": "fi_publisher_2010_x86_x64_dvd_534638.iso",
+      "Description": "Publisher 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "66d841b90cc35ca96157ab6a93522f1d7a883839",
+      "ProductFamilyId": 406,
+      "PostedDate": "2011-02-09T20:01:51Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "638 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44971,
+      "FileName": "fi_sharepoint_workspace_2010_x86_x64_dvd_534609.iso",
+      "Description": "SharePoint Workspace 2010 (x86 and x64) - DVD (Finnish)\r\n",
+      "Notes": null,
+      "Sha1Hash": "59e54643185efa98fc2a0aa59b67f72d33be465b",
+      "ProductFamilyId": 404,
+      "PostedDate": "2011-02-09T20:02:35Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "556 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44974,
+      "FileName": "hu_access_2010_x86_x64_dvd_546396.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "090bd5e9fc0edbf3d637ab6459e2ca6b45c23e7a",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-09T19:55:31Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "612 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44977,
+      "FileName": "hu_infopath_2010_x86_x64_dvd_546400.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a2179acecb6330eb3bd1ffbe8b4df6759536d38a",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-09T19:56:14Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "568 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44980,
+      "FileName": "hu_onenote_2010_x86_x64_dvd_546508.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "07e644d7e41e3e5b0af7419ae9c6778c1b483645",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-09T19:56:56Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "589 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 44983,
+      "FileName": "hu_outlook_2010_x86_x64_dvd_546444.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "50d6995ca4217d9357dbeb4f6d76067b88f5654b",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-09T20:01:12Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "570 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

@@ -1,0 +1,1838 @@
+{
+  "Files": [
+    {
+      "FileId": 3029,
+      "FileName": "en_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (English)",
+      "Notes": null,
+      "Sha1Hash": "34dc70bd3bfb6ae681701ad075447a3cc193591c",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:25:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3030,
+      "FileName": "fr_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (French)",
+      "Notes": null,
+      "Sha1Hash": "0bb068549b820d75dc6ddae93b6c00f3d94d8585",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:26:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "129 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3031,
+      "FileName": "de_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (German)",
+      "Notes": null,
+      "Sha1Hash": "1a3999aed2aef9229e3ab22fec3ebe39061f4a0d",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:28:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3032,
+      "FileName": "it_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (Italian)",
+      "Notes": null,
+      "Sha1Hash": "25cb90d5e4306b2ec0025671c10dc16920418f7d",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:29:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3033,
+      "FileName": "es_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "ea68de05364d57e201b2a93e70bfe0ed0f0ac490",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:30:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "125 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3034,
+      "FileName": "ja_sps2001.exe",
+      "Description": "SharePoint Portal Server 2001 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "53fda17ee0e19f8e88a0e57914cef92818c5734f",
+      "ProductFamilyId": 204,
+      "PostedDate": "2001-05-03T23:31:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "122 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3063,
+      "FileName": "en_soaptoolkit.exe",
+      "Description": "Soap Toolkit 2.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "7970201fc674dd7116bc789b06e9257b26b5014c",
+      "ProductFamilyId": 289,
+      "PostedDate": "2001-06-07T07:53:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3064,
+      "FileName": "passport_manager.exe",
+      "Description": "PassPort Manager SDK 1.4.2 (English)",
+      "Notes": null,
+      "Sha1Hash": "319f39af6f1045d685e2162045abef25ce9f0733",
+      "ProductFamilyId": 277,
+      "PostedDate": "2001-06-07T07:58:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3122,
+      "FileName": "en_platform_sdk_june_2001.exe",
+      "Description": "Platform SDK - June 2001 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "2a2cbaddec91972060e48b576e74f9ed780d0e0a",
+      "ProductFamilyId": 279,
+      "PostedDate": "2001-07-02T14:46:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "323 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3146,
+      "FileName": "de_mobile_information_2001_svr_dev.exe",
+      "Description": "Mobile Information 2001 Server Developer (German)",
+      "Notes": null,
+      "Sha1Hash": "0e91eaa1a8fbe797a0362e9bd9c1607b56bb0d50",
+      "ProductFamilyId": 199,
+      "PostedDate": "2001-07-10T03:23:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3152,
+      "FileName": "es_mobile_information_2001_svr_dev.exe",
+      "Description": "Mobile Information 2001 Server Developer (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "2e0c40ef568ad2e644a5eb8e6c25f0894a9f2d28",
+      "ProductFamilyId": 199,
+      "PostedDate": "2001-07-10T04:20:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3154,
+      "FileName": "fr_mobile_information_2001_svr_dev.exe",
+      "Description": "Mobile Information 2001 Server Developer (French)",
+      "Notes": null,
+      "Sha1Hash": "fda10dccda92988a91e3543bc750312a2e644754",
+      "ProductFamilyId": 199,
+      "PostedDate": "2001-07-10T04:36:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "18 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3163,
+      "FileName": "en_vfoxpro7.exe",
+      "Description": "Visual FoxPro 7.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "cdb3c7ac1a69946a00812106513966d5d8029676",
+      "ProductFamilyId": 88,
+      "PostedDate": "2001-07-18T09:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "378 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3165,
+      "FileName": "en_mscont_mgmnt_svr_2001.exe",
+      "Description": "Content Management Server 2001 (English)",
+      "Notes": null,
+      "Sha1Hash": "f73f2a97efce7c95aa7e324b3fbe93b2fbaf6134",
+      "ProductFamilyId": 175,
+      "PostedDate": "2001-07-21T06:19:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "93 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3168,
+      "FileName": "en_mobile_information_2001_svr_dev.exe",
+      "Description": "Mobile Information 2001 Server Developer (English)",
+      "Notes": null,
+      "Sha1Hash": "88478e2262f5f59d3f46f6e70f44005551af5ac6",
+      "ProductFamilyId": 199,
+      "PostedDate": "2001-07-25T05:42:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "19 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3176,
+      "FileName": "en_operations_manager_2000.exe",
+      "Description": "Microsoft Operations Manager 2000 (English)",
+      "Notes": null,
+      "Sha1Hash": "bb0d423206bea7114892127d96f741b46bb52721",
+      "ProductFamilyId": 197,
+      "PostedDate": "2001-07-25T14:03:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "270 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3185,
+      "FileName": "it_mobile_information_2001_svr_dev.exe",
+      "Description": "Mobile Information 2001 Server Developer (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f719cccbec30dcd89dcabe6b244a0e76839bb913",
+      "ProductFamilyId": 199,
+      "PostedDate": "2001-07-27T08:15:00Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "17 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3195,
+      "FileName": "en_sql_svr_2000_resource_kit.exe",
+      "Description": "SQL Server 2000 Resource Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "058b5abb29002a983228d7a46e9e7bf9c200e4dd",
+      "ProductFamilyId": 210,
+      "PostedDate": "2001-07-31T06:15:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3243,
+      "FileName": "en_sql2000_sp1.exe",
+      "Description": "SQL Server 2000 Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "c1bfc56c205dda0c83216de954a80042d5a62e3f",
+      "ProductFamilyId": 210,
+      "PostedDate": "2001-08-07T04:52:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "392 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3244,
+      "FileName": "en_sql2000_desktop_sp1.exe",
+      "Description": "SQL Server 2000 Desktop Engine Service Pack 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "58ad9d5123876c93221e21974fc8a372cfb0bdc6",
+      "ProductFamilyId": 210,
+      "PostedDate": "2001-08-07T04:54:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "364 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3248,
+      "FileName": "en_winxp_pro_x86_build2600_iso.img",
+      "Description": "Windows XP Professional (English)",
+      "Notes": null,
+      "Sha1Hash": "1400ded4402d50f3864ed3d8dcf5cc52ba79a04a",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-21T14:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "489 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3249,
+      "FileName": "en_platsdk_august2001.exe",
+      "Description": "Platform SDK - August 2001 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "d8f98bf86d0a2d0c3da52f94a484e54519d4760c",
+      "ProductFamilyId": 279,
+      "PostedDate": "2001-09-21T14:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "352 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3250,
+      "FileName": "winxp_ddk.exe",
+      "Description": "Windows XP Driver Development Kit (DDK) (English)",
+      "Notes": null,
+      "Sha1Hash": "dddd3fe183a6ea5c235875803251a9f4ca6fd0e7",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-21T14:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "130 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3251,
+      "FileName": "winxp_support_diag.exe",
+      "Description": "Windows Customer Support Diagnostics (English)",
+      "Notes": null,
+      "Sha1Hash": "d695ccd28370905e01cecfc9668cf0cab1cc0173",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-21T14:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "524 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3253,
+      "FileName": "de_winxp_pro_x86_build2600_iso.img",
+      "Description": "Windows XP Professional (German)",
+      "Notes": null,
+      "Sha1Hash": "bfc7c5824937e43676b0c41b4cdbaf5599e04536",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-21T14:00:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "496 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3259,
+      "FileName": "en_winxp_home_x86_build2600.iso",
+      "Description": "Windows XP Home Edition (English) - ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "b273c8d41e3844e3e46722f52f5a4cf9f206c8d0",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-28T08:52:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "474 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3262,
+      "FileName": "de_winxp_home_x86_build2600.iso",
+      "Description": "Windows XP Home Edition (German) - ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "029a1d4ea1cc6e7896f82a9b23cf7ce6970b00fd",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-09-29T00:26:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "480 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3265,
+      "FileName": "jp_winxp_pro_x86_build2600_iso.img",
+      "Description": "Windows XP Professional (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "592e3a2033fbcebade7dfed36d1a2c9ce5bcd366",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-05T01:49:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "537 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3266,
+      "FileName": "ko_winxp_pro_x86_build2600_iso.img",
+      "Description": "Windows XP Professional (Korean)",
+      "Notes": null,
+      "Sha1Hash": "e98afbb06cb2a8c093e465d939776ae9f0be1d6e",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-05T01:55:00Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "508 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3268,
+      "FileName": "en_biztalk_accelerator_for_rosettanet_ent.exe",
+      "Description": "BizTalk Accelerator for RosettaNet 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "28eae3dcd4a96b5768b8f9c674ce3115902c4c74",
+      "ProductFamilyId": 168,
+      "PostedDate": "2001-10-09T22:57:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3292,
+      "FileName": "jp_biztalk_accelerator_for_rosettanet_ent.exe",
+      "Description": "BizTalk Accelerator for RosettaNet 1.0 (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "9e32c2d38651a2ce554379d08692def95d4375d1",
+      "ProductFamilyId": 168,
+      "PostedDate": "2001-10-15T14:00:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "16 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3295,
+      "FileName": "fr_winxp_home.exe",
+      "Description": "Windows XP Home Edition (French)",
+      "Notes": null,
+      "Sha1Hash": "e016427c2cc584f7294e309e137d82b5667e9e34",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-20T00:31:00Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "444 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3305,
+      "FileName": "de_ie60.exe",
+      "Description": "Internet Explorer 6.0 (German)",
+      "Notes": null,
+      "Sha1Hash": "5de262fc4931f39f2b9e7a03110ff8c1a864c8a8",
+      "ProductFamilyId": 154,
+      "PostedDate": "2001-10-20T02:13:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "79 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3306,
+      "FileName": "en_ie6.exe",
+      "Description": "Internet Explorer 6.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "50fc6809df21f432931641bdd4ffbd047ec4d292",
+      "ProductFamilyId": 154,
+      "PostedDate": "2001-10-20T02:47:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "104 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3309,
+      "FileName": "jp_winxp_home.exe",
+      "Description": "Windows XP Home Edition (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "451852ba65b3b1578ae8a460a1b0eea5a9db36e1",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-21T11:57:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "502 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3311,
+      "FileName": "es_vfpprod1.exe",
+      "Description": "Visual FoxPro 7.0 (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "9065b990b0560e7cdbfa71c0e5ef46463f61e416",
+      "ProductFamilyId": 88,
+      "PostedDate": "2001-10-21T12:07:00Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "388 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3320,
+      "FileName": "de_vfp70.exe",
+      "Description": "Visual FoxPro 7.0 (German)",
+      "Notes": null,
+      "Sha1Hash": "c1bf7576d1ef561b0b25215263ea6fb95cd4ab5b",
+      "ProductFamilyId": 88,
+      "PostedDate": "2001-10-24T00:49:00Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "387 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3321,
+      "FileName": "en_biz_hipaa.exe",
+      "Description": "BizTalk Accelerator for HIPAA Enterprise 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "3df7ea83d5248504a6d5b7d6da16517513a64c06",
+      "ProductFamilyId": 168,
+      "PostedDate": "2001-10-25T04:24:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "6 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3340,
+      "FileName": "mui_wxm_cd2.exe",
+      "Description": "Windows XP Multilingual User Interface Pack CD 2 (Multi-Language)",
+      "Notes": null,
+      "Sha1Hash": "1a3fd301b5bf3df513b394d3e15b7ee174516eaa",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-26T04:34:00Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "557 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3341,
+      "FileName": "mui_wxm_cd1.exe",
+      "Description": "Windows XP Multilingual User Interface Pack CD 1 (Multi-Language)",
+      "Notes": null,
+      "Sha1Hash": "0de77e19310aae41df0f6d807ff9ee09061d729a",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-26T04:34:00Z",
+      "LanguageCodes": [
+        "__",
+        "en"
+      ],
+      "Languages": [
+        "English",
+        "Multi-Language"
+      ],
+      "Size": "465 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3342,
+      "FileName": "hk_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Traditional Chinese - Hong Kong SAR)",
+      "Notes": null,
+      "Sha1Hash": "8edf142e4e7cd96fac4ad808c4d92ac335cffbeb",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:21:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "509 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3345,
+      "FileName": "nl_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Dutch) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "034118ae311934d4ecf9c3b5b5c1ad0ba037ae1d",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:21:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "477 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3346,
+      "FileName": "nl_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "44be6802460ca040222ba8ca39669c4d28140477",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:21:00Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3347,
+      "FileName": "sv_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "f164d423750e394d84b84b185e6946797bd42123",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:21:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "492 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3348,
+      "FileName": "sv_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Swedish) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "fdde8b3e045090168288852f2beb65777cf3ef0c",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-09T16:00:00Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "476 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3349,
+      "FileName": "ar_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Arabic) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "64ea20503ddab43d898b7a972802afb2be1566a1",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "478 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3350,
+      "FileName": "ar_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "a2cb395abfcd8d47dedca458e46e8aec02995ccb",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "494 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3351,
+      "FileName": "bp_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Portuguese - Brazil) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "9a80c41d624fb04f49e8fc9db10fb89368474672",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "477 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3352,
+      "FileName": "bp_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Portuguese - Brazil)",
+      "Notes": null,
+      "Sha1Hash": "e37f3e6eb06ee6205c42a31d50da01c571651698",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3353,
+      "FileName": "cn_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Simplified Chinese) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "bace4a06bdb82c3b0ede14730ce031cf53ba8b95",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "490 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3354,
+      "FileName": "cn_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Simplified Chinese)",
+      "Notes": null,
+      "Sha1Hash": "73800fe8959f40361bae3a6553cc66d27d78722e",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "506 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3355,
+      "FileName": "he_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Hebrew) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "7fcf70dda4106db449fd10db46b69efe4d6b642e",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "477 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3356,
+      "FileName": "he_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "56c74e5f091b35f60353615dfe0b00ee61fe2f92",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3357,
+      "FileName": "hk_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Chinese - Hong Kong SAR) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "5b1e6aba32362ff19f83d649d011e65bf0a4d7f3",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3358,
+      "FileName": "tw_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Chinese-Traditional) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "7e243d0eb0159b03a5950baa9bea43db325108fb",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-10-30T10:22:00Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3371,
+      "FileName": "ja_winxp_pro_64bit.iso",
+      "Description": "Windows XP Professional for Itanium Based Systems (i64) CD - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "8c721c73f311151e2955b852fa18e82f9e330b6c",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-22T05:35:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "528 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3381,
+      "FileName": "no_winxp_home.iso",
+      "Description": "Windows XP Home Edition (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "24ab138eb1723cdd32934cfa15cd747564dd2bff",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-30T10:18:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "476 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3382,
+      "FileName": "ru_winxp_home.exe",
+      "Description": "Windows XP Home Edition (Russian)",
+      "Notes": null,
+      "Sha1Hash": "73675287b6c52c04dfc1dc8d0827495c0b33accd",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-30T14:08:00Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "446 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3384,
+      "FileName": "cz_winxp_pro.exe",
+      "Description": "Windows XP Professional (Czech)",
+      "Notes": null,
+      "Sha1Hash": "e82a940a5338fb9e0dacf2bdd9b7e5e332133e15",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-30T14:53:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "461 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3386,
+      "FileName": "fi_winxp_home.exe",
+      "Description": "Windows XP Home Edition (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "63a973fd1e507b58674b31e306692b10afc6e428",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-30T15:23:00Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "444 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3387,
+      "FileName": "cz_winxp_home.exe",
+      "Description": "Windows XP Home Edition (Czech)",
+      "Notes": null,
+      "Sha1Hash": "f249fbdb93b37af04a1dfdeec14655d6001cbeed",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-11-30T15:41:00Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "445 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3389,
+      "FileName": "da_winxp_pro.exe",
+      "Description": "Windows XP Professional (Danish)",
+      "Notes": null,
+      "Sha1Hash": "25ca00122d01066a6f63e9fe67ca5851e60ea25f",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-12-01T05:34:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3390,
+      "FileName": "da-winxp-home.exe",
+      "Description": "Windows XP Home Edition (Danish)",
+      "Notes": null,
+      "Sha1Hash": "c7424a48e82dd7a0ab323e28d0c71e492769f180",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-12-01T05:35:00Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "443 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3391,
+      "FileName": "no_winxp_pro.iso",
+      "Description": "Windows XP Professional (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "5f8a7dabb51f678d223232b8da436c84b9f948ba",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-12-01T05:36:00Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "491 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3403,
+      "FileName": "en_platform_sdk_november_2001.exe",
+      "Description": "Platform SDK - November 2001 Edition (English)",
+      "Notes": null,
+      "Sha1Hash": "63607d0d0add20b619ecc3b73c59468af0b224c5",
+      "ProductFamilyId": 279,
+      "PostedDate": "2001-12-22T07:13:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "381 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3408,
+      "FileName": "hu_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "23fff003d18a0c699934683d4e19c948b55bd9fd",
+      "ProductFamilyId": 140,
+      "PostedDate": "2001-12-29T02:18:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "494 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3410,
+      "FileName": "en_msdn_library_october2001_cd2.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "34954502eca7663b592d86ce378f25e4e7548338",
+      "ProductFamilyId": 126,
+      "PostedDate": "2001-12-29T03:53:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "574 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3411,
+      "FileName": "en_msdn_library_october2001_cd1.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 1 (English)",
+      "Notes": null,
+      "Sha1Hash": "874de6eec83d71ac3898b6354b4059ccaedf4d62",
+      "ProductFamilyId": 126,
+      "PostedDate": "2001-12-29T03:53:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "570 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3412,
+      "FileName": "en_msdn_library_october2001_cd3.iso",
+      "Description": "MSDN Library October 2001 ISO CD Image:  Disc 3 (English)",
+      "Notes": null,
+      "Sha1Hash": "0c86e93c1519a7bd29eeb993276a99ba66dd00c4",
+      "ProductFamilyId": 126,
+      "PostedDate": "2001-12-29T03:53:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "613 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3427,
+      "FileName": "pl_winxp_pro_iso.img",
+      "Description": "Windows XP Professional (Polish)",
+      "Notes": null,
+      "Sha1Hash": "7cb608b3e2ac5a19dbd849f3c2c5d543517379b7",
+      "ProductFamilyId": 140,
+      "PostedDate": "2002-01-03T03:36:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3429,
+      "FileName": "pl_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Polish) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "904077468205b5cf6f539bc9fcc335c9d44e9aae",
+      "ProductFamilyId": 140,
+      "PostedDate": "2002-01-03T03:51:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "482 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3431,
+      "FileName": "hu_winxp_home_iso.img",
+      "Description": "Windows XP Home Edition (Hungarian) ISO CD Image",
+      "Notes": null,
+      "Sha1Hash": "0efd1058f05bce6c921d3c050268641606bb99d9",
+      "ProductFamilyId": 140,
+      "PostedDate": "2002-01-03T04:00:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "478 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3432,
+      "FileName": "en_biztalk2000_acc_dev_ed_suppliers.exe",
+      "Description": "BizTalk Accelerator for Suppliers (English)",
+      "Notes": null,
+      "Sha1Hash": "101be3a75f3872e95462b6039907600c418538b7",
+      "ProductFamilyId": 168,
+      "PostedDate": "2002-01-03T05:59:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "24 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3433,
+      "FileName": "nl_no_sv_office_xp_multi_cd2.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 2",
+      "Notes": null,
+      "Sha1Hash": "9e3ffd18e7e1f45abaa9154bfc1f81ead03eba32",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-03T06:15:00Z",
+      "LanguageCodes": [
+        "nl",
+        "no",
+        "sv"
+      ],
+      "Languages": [
+        "Dutch",
+        "Norwegian",
+        "Swedish"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3434,
+      "FileName": "fr_it_de_office_xp_multi_cd1.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 1",
+      "Notes": null,
+      "Sha1Hash": "743e7582b2dce2e0a95c23464728e5d21d6dd3ea",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-03T06:15:00Z",
+      "LanguageCodes": [
+        "de",
+        "fr",
+        "it"
+      ],
+      "Languages": [
+        "German",
+        "French",
+        "Italian"
+      ],
+      "Size": "461 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3445,
+      "FileName": "pl_ie6.exe",
+      "Description": "Internet Explorer 6.0 (Polish)",
+      "Notes": null,
+      "Sha1Hash": "cf1cd7d092cb80d184c715b9f05a0d32acf59b53",
+      "ProductFamilyId": 154,
+      "PostedDate": "2002-01-04T06:03:00Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "80 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3446,
+      "FileName": "pt_ie6.exe",
+      "Description": "Internet Explorer 6.0 (Portuguese - Portugal)",
+      "Notes": null,
+      "Sha1Hash": "95d8401e13d080881f7d0a1bdce47c7f67f66c15",
+      "ProductFamilyId": 154,
+      "PostedDate": "2002-01-04T06:03:00Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "80 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3447,
+      "FileName": "hu_ie6.exe",
+      "Description": "Internet Explorer 6.0 (Hungarian)",
+      "Notes": null,
+      "Sha1Hash": "e4a3766f0c734e52fa30c50814e115154917d47d",
+      "ProductFamilyId": 154,
+      "PostedDate": "2002-01-04T06:03:00Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "80 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3448,
+      "FileName": "en_biztalk_adapter_mqseries_1.0.exe",
+      "Description": "BizTalk Adapter for MQSeries 1.0 (English)",
+      "Notes": null,
+      "Sha1Hash": "ee8c96ad99a9ff616da683869bb95010dfc80c0e",
+      "ProductFamilyId": 168,
+      "PostedDate": "2002-01-04T06:22:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3455,
+      "FileName": "ja_tc_office_xp_multi_cd3.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 3",
+      "Notes": null,
+      "Sha1Hash": "a283835522b187f96f6a8b88cf342b531ee77ea7",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:50:00Z",
+      "LanguageCodes": [
+        "ct",
+        "ja"
+      ],
+      "Languages": [
+        "Japanese",
+        "Chinese - Traditional"
+      ],
+      "Size": "459 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3456,
+      "FileName": "ko_sc_office_xp_multi_cd4.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 4",
+      "Notes": null,
+      "Sha1Hash": "18cff4ea10efce3190096eaac20281c24061c00d",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:50:00Z",
+      "LanguageCodes": [
+        "cn",
+        "ko"
+      ],
+      "Languages": [
+        "Korean",
+        "Chinese - Simplified"
+      ],
+      "Size": "575 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3457,
+      "FileName": "ar_da_fi_office_xp_multi_cd5.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 5",
+      "Notes": null,
+      "Sha1Hash": "5cd3634230febbb760270d1bd5ff3fe272644321",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "ar",
+        "da",
+        "fi"
+      ],
+      "Languages": [
+        "Arabic",
+        "Danish",
+        "Finnish"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3458,
+      "FileName": "pl_tr_cs_office_xp_multi_cd6.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 6",
+      "Notes": null,
+      "Sha1Hash": "7f54ac77144f78731495b739045a1774aa006d7f",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "cs",
+        "pl",
+        "tr"
+      ],
+      "Languages": [
+        "Czech",
+        "Polish",
+        "Turkish"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3459,
+      "FileName": "es_br_pt_eu_ca_gl_office_xp_multi_cd7.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 7",
+      "Notes": null,
+      "Sha1Hash": "22332a086c3a056d49c5e7d0b455f1266861c102",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "ca",
+        "es",
+        "eu",
+        "gl",
+        "pp",
+        "pt"
+      ],
+      "Languages": [
+        "Catalan",
+        "Spanish",
+        "Basque",
+        "Galician",
+        "Portuguese-Brazil",
+        "Portuguese-Portugal"
+      ],
+      "Size": "465 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3460,
+      "FileName": "hu_ru_he_office_xp_multi_cd8.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 8",
+      "Notes": null,
+      "Sha1Hash": "99977ce21eda0d12c1b93aa5fddc070b9c36e7f4",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "el",
+        "sk",
+        "sl"
+      ],
+      "Languages": [
+        "Greek",
+        "Slovak",
+        "Slovenian"
+      ],
+      "Size": "498 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3461,
+      "FileName": "el_sk_sl_office_xp_multi_cd9.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 9",
+      "Notes": null,
+      "Sha1Hash": "4cef3925fb08e5c74c168e9c0c7aa16142f8b3a1",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "el",
+        "sk",
+        "sl"
+      ],
+      "Languages": [
+        "Greek",
+        "Slovak",
+        "Slovenian"
+      ],
+      "Size": "410 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3462,
+      "FileName": "id_sr_cy_hi_te_ta_mr_kn_gu_pa_office_xp_multi_cd10.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 10",
+      "Notes": null,
+      "Sha1Hash": "84552d9d804c1537f4d23b9def114b10a72c5575",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "cy",
+        "gu",
+        "hi",
+        "id",
+        "kn",
+        "mr",
+        "pa",
+        "sr",
+        "ta",
+        "te"
+      ],
+      "Languages": [
+        "Welsh",
+        "Gujarati",
+        "Hindi",
+        "Indonesian",
+        "Kannada",
+        "Marathi",
+        "Punjabi",
+        "Serbian",
+        "Tamil",
+        "Telugu"
+      ],
+      "Size": "88 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3463,
+      "FileName": "th_hr_ro_vi_office_xp_multi_cd11.exe",
+      "Description": "Office XP Multilingual User Interface Pack Disk 11",
+      "Notes": null,
+      "Sha1Hash": "f0776d6ff54992ae9f68e60f4a7d4f7c5cbc5766",
+      "ProductFamilyId": 28,
+      "PostedDate": "2002-01-09T02:51:00Z",
+      "LanguageCodes": [
+        "hr",
+        "ro",
+        "th",
+        "vi"
+      ],
+      "Languages": [
+        "Croatian",
+        "Romanian",
+        "Thai",
+        "Vietnamese"
+      ],
+      "Size": "407 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3464,
+      "FileName": "frameworksdk.exe",
+      "Description": ".NET Framework SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "9b0ae00407d2b039c72ea50e9fc9d9ad6a3f82c0",
+      "ProductFamilyId": 234,
+      "PostedDate": "2002-01-11T13:51:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "127 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 3465,
+      "FileName": "en_vs.net_ent_arch_full.exe",
+      "Description": "Visual Studio .NET Enterprise Architect Full Setup (English)",
+      "Notes": null,
+      "Sha1Hash": "ef56c8e39ec3a52f0cfb26689b7a95b4b6bcdc3c",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1848 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3480,
+      "FileName": "en_vs.net_ent_dev_cd1_iso.img",
+      "Description": "Visual Studio .NET Enterprise Developer (English) CD 1 - ISO",
+      "Notes": null,
+      "Sha1Hash": "888ba0e1f5308544690175f806ba3984415915eb",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "637 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3481,
+      "FileName": "en_vs.net_ent_dev_cd2_iso.img",
+      "Description": "Visual Studio .NET Enterprise Developer (English) CD 2 - ISO",
+      "Notes": null,
+      "Sha1Hash": "71e89384de5f3d328f7f0f7b49e247192ef0665f",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "590 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3482,
+      "FileName": "en_vs.net_ent_dev_cd3_iso.img",
+      "Description": "Visual Studio .NET Enterprise Developer (English) CD 3 - ISO",
+      "Notes": null,
+      "Sha1Hash": "b9a7849e61908f4ba702612244621cd08b8b1b08",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "620 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3483,
+      "FileName": "en_vs.net_ent_dev_cd4_iso.img",
+      "Description": "Visual Studio .NET Enterprise Developer (English) CD 4 - ISO",
+      "Notes": null,
+      "Sha1Hash": "0aa26b2a9c6964011be88a64cc94324c9b241e2c",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3486,
+      "FileName": "en_vs.net_windows_component_update_for_visual_studio_net_x86_dvd.iso",
+      "Description": "Windows Component Update for Visual Studio .NET - ISO (English)",
+      "Notes": null,
+      "Sha1Hash": "2ed9b0a08c15e4b7769b234c98e3ce1b1ee3abb1",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "350 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3487,
+      "FileName": "en_vs.net_ent_arch_cd1_iso.img",
+      "Description": "Visual Studio .NET Enterprise Architect (English) CD 1 - ISO",
+      "Notes": null,
+      "Sha1Hash": "109105889fd910e7ff7f24072ddef15e9cf63aed",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "637 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3488,
+      "FileName": "en_vs.net_ent_arch_cd2_iso.img",
+      "Description": "Visual Studio .NET Enterprise Architect (English) CD 2 - ISO",
+      "Notes": null,
+      "Sha1Hash": "feb39aa3edcb3640dd2041b0dab6f1d6976cfebe",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "589 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3489,
+      "FileName": "en_vs.net_ent_arch_cd3_iso.img",
+      "Description": "Visual Studio .NET Enterprise Architect (English) CD 3 - ISO",
+      "Notes": null,
+      "Sha1Hash": "89f0cf8e6bf896c0311de3a0c58543cba4857af0",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "621 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3490,
+      "FileName": "en_vs.net_ent_arch_cd4_iso.img",
+      "Description": "Visual Studio .NET Enterprise Architect (English) CD 4 - ISO",
+      "Notes": null,
+      "Sha1Hash": "27591652c35f7b07416c78eb94e97a8e3e9a2a2b",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "36 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3491,
+      "FileName": "en_visio_ent_arch_iso.img",
+      "Description": "Visio for Enterprise Architects (English) - ISO",
+      "Notes": null,
+      "Sha1Hash": "1f29a19a9fe2601d8ea6609441c6001a37003284",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "294 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3494,
+      "FileName": "en_vs.net_pro_cd2_iso.img",
+      "Description": "Visual Studio .NET Professional (English) CD 2 - ISO",
+      "Notes": null,
+      "Sha1Hash": "ba0ebdd439e5135301cf818627fb14fc4708e197",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3495,
+      "FileName": "en_vs.net_pro_cd3_iso.img",
+      "Description": "Visual Studio .NET Professional (English) CD 3 - ISO",
+      "Notes": null,
+      "Sha1Hash": "a128984f7826fd2c1bd903a6822963e9ef0d73f8",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "621 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3496,
+      "FileName": "en_vs.net_pro_cd4_iso.img",
+      "Description": "Visual Studio .NET Professional (English) CD 4 - ISO",
+      "Notes": null,
+      "Sha1Hash": "0a56386a46c1d07461859797e624c3eefe5ec8bc",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "27 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 3499,
+      "FileName": "en_vs.net_pro_full.exe",
+      "Description": "Visual Studio .NET Professional Full Setup (English)",
+      "Notes": null,
+      "Sha1Hash": "c4a52ea9a7986a47965c561d9589cc49ddef14d3",
+      "ProductFamilyId": 97,
+      "PostedDate": "2002-01-16T16:00:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1628 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

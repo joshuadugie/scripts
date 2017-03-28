@@ -1,0 +1,1347 @@
+{
+  "Files": [
+    {
+      "FileId": 45005,
+      "FileName": "hu_publisher_2010_x86_x64_dvd_546556.iso",
+      "Description": "Publisher 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "634e0076ef1b4695a4458561db89fe0dca854064",
+      "ProductFamilyId": 406,
+      "PostedDate": "2011-02-09T20:01:51Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "603 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45008,
+      "FileName": "hu_sharepoint_workspace_2010_x86_x64_dvd_546546.iso",
+      "Description": "SharePoint Workspace 2010 (x86 and x64) - DVD (Hungarian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "97a02e1689d7d662cd9fd25f4ceeed0e8d427a1f",
+      "ProductFamilyId": 404,
+      "PostedDate": "2011-02-09T20:02:35Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45021,
+      "FileName": "uk_access_2010_x86_x64_dvd_545830.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "791b99e8aa17d478aed07395288c530cdf672a39",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-09T19:55:31Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "622 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45031,
+      "FileName": "uk_infopath_2010_x86_x64_dvd_545844.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Ukrainian)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "755d2b3f1cc3f74dedc0784efe2c6db180940dac",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-09T19:56:15Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "579 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45035,
+      "FileName": "uk_onenote_2010_x86_x64_dvd_545900.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "af9d4cb86b9ac7e3456dbb86f325a66592015312",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-09T19:56:56Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "599 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45039,
+      "FileName": "uk_outlook_2010_x86_x64_dvd_545902.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "a0d7f0691aa7370dc59b9488c6eba66f62807ca1",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-09T20:01:12Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "580 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45042,
+      "FileName": "uk_publisher_2010_x86_x64_dvd_545925.iso",
+      "Description": "Publisher 2010 (x86 and x64) - DVD (Ukrainian)\r\n",
+      "Notes": null,
+      "Sha1Hash": "573b27fb01c2b322e34a25c59c90dba624cc9651",
+      "ProductFamilyId": 406,
+      "PostedDate": "2011-02-09T20:01:51Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "614 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45045,
+      "FileName": "uk_sharepoint_workspace_2010_x86_x64_dvd_545934.iso",
+      "Description": "SharePoint Workspace 2010 (x86 and x64) - DVD (Ukrainian)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "a4ebedcf7ea6361f28c3a2a7fc5b150d2c0552c7",
+      "ProductFamilyId": 404,
+      "PostedDate": "2011-02-09T20:02:35Z",
+      "LanguageCodes": [
+        "uk"
+      ],
+      "Languages": [
+        "Ukrainian"
+      ],
+      "Size": "533 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45046,
+      "FileName": "en_windows_7_sp1_debugging_symbols_x86_619612.msi",
+      "Description": "Windows 7 Service Pack 1 Debugging Symbols (x86) - (English)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "e3e5f5fc48590266fee832ab00388c860a47e8e2",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:47:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "331 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45047,
+      "FileName": "en_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619625.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (English)\r\n",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "3b0627003ac43b93199f521a1472c8747cdafe41",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:45:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1291 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45058,
+      "FileName": "en_windows_7_sp1_symbols_debug_checked_build_x86_619717.msi",
+      "Description": "Windows 7 Service Pack 1 Symbols Debug/Checked Build (x86) - (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "9b389fbeb727df254dca1abced2405293406bce7",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-16T16:47:28Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "294 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45059,
+      "FileName": "en_windows_server_2008_r2_with_sp1_for_itanium_based_systems_debug_checked_build_ia64_dvd_619599.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 for Itanium Based Systems Debug/Checked Build (ia64) - DVD (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "d2769120f28050af1e79af57140a326c5505c79c",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:44:07Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2543 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45060,
+      "FileName": "en_windows_server_2008_r2_standard_enterprise_datacenter_and_web_with_sp1_debug_checked_build_x64_dvd_619600.iso",
+      "Description": "Windows Server 2008 R2 Standard, Enterprise, Datacenter, and Web with Service Pack 1 Debug/Checked Build (x64) - DVD (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "b525ba6b34c7f3701907ae7fae70d244b5591b70",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:44:07Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2894 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45061,
+      "FileName": "en_windows_server_2008_r2_sp1_symbols_debug_checked_build_ia64_619713.msi",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Symbols Debug/Checked Build (ia64) - (English)\r\n",
+      "Notes": "Checked builds are not retail software.  Before downloading checked builds, please review <a href=\"http://msdn.microsoft.com/en-us/library/ff543450.aspx\">Checked and Free Build Differences</a> for more information.\n",
+      "Sha1Hash": "134969f0e8b7039bcf67b76aa2ebe7ccb9074786",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:44:07Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "242 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45062,
+      "FileName": "en_windows_server_2008_r2_sp1_debugging_symbols_ia64_619715.msi",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Debugging Symbols (ia64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "aa800d04c70f1f197e3e97a7abc4c8f96a4a63a0",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-16T16:44:07Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "193 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45168,
+      "FileName": "pt_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617394.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Portuguese-Brazil)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "df7cfba1df8383ac0a87d53e6d83969b4094463a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:01Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "3043 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45169,
+      "FileName": "hk_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617386.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Chinese-Hong Kong SAR)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "c0f9e24e1c71cb931718c3e256989c172b8e9bd4",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:01Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "3169 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45170,
+      "FileName": "cn_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617396.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Chinese-Simplified)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "a92c97c38ef6ed5f827637179052ad218900377a",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:50Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3213 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45172,
+      "FileName": "tw_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617405.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Chinese-Taiwan)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "d4479c479500990e403754b04281205dda43a4a3",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:02Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "3173 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45175,
+      "FileName": "cs_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617402.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Czech)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "2cd409e7012e23e2d8d3a1181ea6c6e14c694e6f",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:02Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45177,
+      "FileName": "nl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617395.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Dutch)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "c47ab2f4c65d89232ac614818e1906f4ab30fb7b",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:50Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3039 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45185,
+      "FileName": "fr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617392.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (French)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "99e05d742235a767c5ece8bd7c36b75e3df6e6f9",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:42Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "3049 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45187,
+      "FileName": "de_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617404.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (German)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "bc47fa656aa0e59a3f20af9a0aed91ae91ec9fc7",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:43Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "3053 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45189,
+      "FileName": "hu_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617415.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Hungarian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "d60cec5000eab54eb5184cd611554f813bf415bc",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:02Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3043 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45190,
+      "FileName": "it_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_619596.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Italian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "7d701e370d6dd55e54da27119dab223ddcf252a5",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:51Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "3041 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45191,
+      "FileName": "ja_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_631466.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Japanese)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "00357d2a9824c92cd08ea00c622d73555f281230",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:43Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3132 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45192,
+      "FileName": "ko_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617409.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Korean)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "f9584dbb21817524b94263272fe128e433427df3",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:02Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3134 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45193,
+      "FileName": "pl_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617397.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Polish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "79f0d704f60d4b6581e168ee3912439afe1579b0",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:03Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3041 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45194,
+      "FileName": "pp_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617411.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Portuguese-Portugal)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "857f845531e5f8199a628e6b615a6ae4225f5122",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:03Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3040 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45195,
+      "FileName": "ru_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617421.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Russian)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "cf0e897fa633716cbe25d848ec97c1888246cb0c",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-21T16:33:51Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "3099 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45196,
+      "FileName": "es_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617410.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Spanish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "ffa20b8375938d36eafaa63f2aa30cacb5c6b99f",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:48:43Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "3049 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45197,
+      "FileName": "sv_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617400.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Swedish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "ae028f54830874e37a7fbb759cd81dfe816471b1",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:03Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3036 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45198,
+      "FileName": "tr_windows_server_2008_r2_with_sp1_vl_build_x64_dvd_617416.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1, VL Build (x64) - DVD (Turkish)\r\n",
+      "Notes": "<p>This file contains multiple products. Please refer to your product keys to determine which products are included with your subscription.</p><p><b>Windows Server 2008 R2 VL Build</b> is designed to be activated with Key Management Service (KMS) by default. In order to activate using the Multiple Activation Key (MAK), you will need to follow these steps after installation completes:</p>\n<ol><li>Go to <b>Start</b></li>\n<li>Click <b>Control Panel</b></li>\n<li>Choose <b>System and Security</b></li>\n\n<li>Choose <b>System</b></li>\n<li>At the bottom is <b>Windows activation</b></li><li>Click <b>Change product key</b> (do not select automatic activation as this is the KMS option)</li>\n\n<li>Use the appropriate MAK key for your installed version (<b>Standard, Enterprise, Datacenter, Web</b>)</li>\n<li>Click <b>Next</b></li>\n<li>After a minute you should see the <b>Activation was successful</b> confirmation</li></ol>\n<p>If you try to activate without changing KMS to MAK, you will receive this error message:</p>\nActivation Error: Code 0x8007232b<br>\nDNS Name does not exist</br>\n",
+      "Sha1Hash": "9d6a913b87f3ac95099d8e625aee0ca5d4bbd414",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:24:03Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3034 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45205,
+      "FileName": "en_visual_studio_team_explorer_everywhere_2010_sp1_x86_x64_dvd_640919.iso",
+      "Description": "Visual Studio Team Explorer Everywhere 2010 SP1 (x86 and x64) - DVD (English)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "ffb46f9f98ffab7612b7ab7968d4a5a0c4ebcd3a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2011-02-09T17:25:05Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "338 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45208,
+      "FileName": "ar_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619617.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Arabic)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "15862e0272ccef2821a24298657f9ae9dc0eaf4e",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:28:14Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "891 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45208,
+      "FileName": "ar_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619617.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Arabic)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "15862e0272ccef2821a24298657f9ae9dc0eaf4e",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:14Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "891 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45209,
+      "FileName": "hk_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619620.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Chinese-Hong Kong SAR)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "8f963daf2ded821b2ac5a03fed1c1ed8b42f36b6",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:14Z",
+      "LanguageCodes": [
+        "hk"
+      ],
+      "Languages": [
+        "Chinese - Hong Kong SAR"
+      ],
+      "Size": "979 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45210,
+      "FileName": "cn_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619619.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Chinese-Simplified)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "f7c1748af4bbc5beaef1d3f6befe7ecb25d805ae",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-21T16:35:21Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "1431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45211,
+      "FileName": "tw_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619621.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Chinese-Taiwan)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "dbe2df78ee5b64642115f877e0f791c40e82fc77",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:15Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "1431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45212,
+      "FileName": "cs_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619622.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Czech)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "373ed44b286055cf8aa38f14f1da21cbcd4aa0cf",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:15Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45213,
+      "FileName": "da_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619623.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Danish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "dce7be50c68dea711108073d7f6503c68b2ed231",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:28:15Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45213,
+      "FileName": "da_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619623.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Danish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "dce7be50c68dea711108073d7f6503c68b2ed231",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:15Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45214,
+      "FileName": "nl_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619624.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Dutch)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "d92bf297f9902b7c54a87a2800cd9044d612cf0f",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-21T16:35:22Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45215,
+      "FileName": "fi_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619626.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Finnish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "06538806a7768954fadaef8c3f391a8786951c7c",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:16Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45216,
+      "FileName": "fr_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619627.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (French)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "5c74e3af2df9fed96348b87141a8c4f9adcf01a4",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-18T16:32:29Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1292 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45216,
+      "FileName": "fr_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619627.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (French)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "5c74e3af2df9fed96348b87141a8c4f9adcf01a4",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T16:32:29Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "1292 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45217,
+      "FileName": "de_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619628.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (German)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "47aff4001e9a93a6146ad5281657690d33c73228",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-18T16:32:48Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "1292 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45218,
+      "FileName": "el_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619629.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Greek)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "2cc3e1db9887eb47048c9f3e288ca7decc42173b",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:16Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "890 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45219,
+      "FileName": "he_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619630.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Hebrew)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "92c4b5c896fd0fcd1e4c22b870ea01d8740d3436",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:16Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "888 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45220,
+      "FileName": "hu_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619631.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Hungarian)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "6149787352d69f734f4ddadf2c7a5f7ad0e1c2a1",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:16Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45221,
+      "FileName": "it_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619712.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Italian)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "ccd379b90342107f269b7eaa03441953d75eecb6",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-21T16:35:22Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45222,
+      "FileName": "ja_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619711.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Japanese)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "dbfadadcab15203e38b673e2079311b5e9d71fa7",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-18T16:33:54Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "1347 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45223,
+      "FileName": "ko_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619634.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Korean)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "0827a3de4ce30ba7f5505a4264cda667bc3efbae",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:17Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1333 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45224,
+      "FileName": "no_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619635.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Norwegian)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "ebae2de4ba650a05507fc6bcc7059f52d6e0d71f",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:17Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45225,
+      "FileName": "pl_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619718.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Polish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "57192a07b17ec4921a091421c52ff3973d6e7e50",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:17Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45226,
+      "FileName": "pt_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619618.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Portuguese-Brazil)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "14f7102001491d185d452191e8616fe64596de85",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:18Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45226,
+      "FileName": "pt_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619618.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Portuguese-Brazil)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "14f7102001491d185d452191e8616fe64596de85",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:28:18Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45227,
+      "FileName": "pp_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619637.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Portuguese-Portugal)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "77050922d9309c5e7db9b2095bd86252b20056eb",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:18Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45228,
+      "FileName": "ru_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619708.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Russian)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "5fdeb15191077a25a2df87ab3852cf8a6dbf2109",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-21T16:35:22Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "889 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45229,
+      "FileName": "es_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619639.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Spanish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "5725ccb50e774b60c92773c3b97e9ed9b7037c36",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-18T16:34:29Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45230,
+      "FileName": "sv_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619640.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Swedish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "03852dd64a7095d00aaeb8b863db0542e03ce3b8",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45231,
+      "FileName": "tr_windows_automated_installation_kit_for_windows_7_and_windows_server_2008_r2_sp1_x86_x64_ia64_dvd_619709.iso",
+      "Description": "Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 Service Pack 1 (x86, x64, ia64) - DVD (Turkish)",
+      "Notes": "Installation of this software requires that the Windows Automated Installation Kit for Windows 7 and Windows Server 2008 R2 is installed first. Please see the <a href=\"http://technet.microsoft.com/en-us/library/dd349350(WS.10).aspx\">Windows Automated Installation Kit for Windows 7 Readme</a> for installation instructions.\n",
+      "Sha1Hash": "7d6e5f37600ffe28ac6029ca53d770df8ca597af",
+      "ProductFamilyId": 350,
+      "PostedDate": "2011-02-22T16:28:18Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "885 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45289,
+      "FileName": "fr_windows_server_2008_r2_with_sp1_for_itanium_based_systems_ia64_dvd_617563.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 for Itanium Based Systems (ia64) - DVD (French)",
+      "Notes": "Please refer to http://www.microsoft.com/windowsserver2008/en/us/r2-compare-roles.aspx for supported roles.",
+      "Sha1Hash": "5f0a94cd9ad1527c19e085313e29c1a7a87ef657",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T17:03:35Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "2535 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45290,
+      "FileName": "de_windows_server_2008_r2_with_sp1_for_itanium_based_systems_ia64_dvd_617567.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 for Itanium Based Systems (ia64) - DVD (German)",
+      "Notes": "Please refer to http://www.microsoft.com/windowsserver2008/en/us/r2-compare-roles.aspx for supported roles.",
+      "Sha1Hash": "8e9356b50a757a1e04d14173c3ec0605c356faf8",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T17:03:36Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "2538 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45291,
+      "FileName": "ja_windows_server_2008_r2_with_sp1_for_itanium_based_systems_ia64_dvd_617573.iso",
+      "Description": "Windows Server 2008 R2 with Service Pack 1 for Itanium Based Systems (ia64) - DVD (Japanese)",
+      "Notes": "Please refer to http://www.microsoft.com/windowsserver2008/en/us/r2-compare-roles.aspx for supported roles.",
+      "Sha1Hash": "6a51ab5e1bcf2cec1f8fa42e5974553cfb77bbe1",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-18T17:03:36Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "2584 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45292,
+      "FileName": "tw_windows_server_2008_r2_sp1_language_pack_ia64_dvd_619615.iso",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Language Pack (ia64) - DVD (Chinese-Taiwan)",
+      "Notes": null,
+      "Sha1Hash": "7e86201d194bd7f7066ef5785f597a3ef1bd493f",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:26:53Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "79 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45293,
+      "FileName": "tw_windows_server_2008_r2_sp1_language_pack_x64_dvd_619616.iso",
+      "Description": "Windows Server 2008 R2 Service Pack 1 Language Pack (x64) - DVD (Chinese-Taiwan)",
+      "Notes": null,
+      "Sha1Hash": "a7cd937709cadffaedc9c4251e62de4ccc241f9e",
+      "ProductFamilyId": 351,
+      "PostedDate": "2011-02-22T16:26:53Z",
+      "LanguageCodes": [
+        "tw"
+      ],
+      "Languages": [
+        "Chinese - Taiwan"
+      ],
+      "Size": "86 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 45319,
+      "FileName": "el_access_2010_x86_551401.exe",
+      "Description": "Access 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "81c5562eea34bb3d82961d59c441dc721e3bae0f",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-15T18:49:48Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "281 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45320,
+      "FileName": "el_access_2010_x64_551461.exe",
+      "Description": "Access 2010 (x64) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8b247398af8bde945d7d422c58507c7496cfd210",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-15T18:49:48Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "320 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45321,
+      "FileName": "el_access_2010_x86_x64_dvd_551410.iso",
+      "Description": "Access 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1bfc7180e1a9677d7308142a1ffe34532efd671c",
+      "ProductFamilyId": 401,
+      "PostedDate": "2011-02-15T18:49:49Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "654 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45322,
+      "FileName": "el_infopath_2010_x86_551482.exe",
+      "Description": "InfoPath 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c6c73e261e94b5c5d658a757196e0068f1ed4240",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-15T18:50:37Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "265 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45323,
+      "FileName": "el_infopath_2010_x64_551404.exe",
+      "Description": "InfoPath 2010 (x64) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e1f26ae8b7dddf228873365024fea4be38b8e045",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-15T18:50:37Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "291 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45324,
+      "FileName": "el_infopath_2010_x86_x64_dvd_551412.iso",
+      "Description": "InfoPath 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "143dcecdfe4c66ecf51f6e69975a754fee61e6a0",
+      "ProductFamilyId": 402,
+      "PostedDate": "2011-02-15T18:50:37Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "610 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45325,
+      "FileName": "el_onenote_2010_x86_551661.exe",
+      "Description": "OneNote 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "763168ad92b75fcffdf32dbf0c1549f73251952f",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-15T18:51:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "245 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45326,
+      "FileName": "el_onenote_2010_x64_551678.exe",
+      "Description": "OneNote 2010 (x64) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "c492a0b977275dd23e9a4fd1b64e03f81e763b0f",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-15T18:51:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45327,
+      "FileName": "el_onenote_2010_x86_x64_dvd_551657.iso",
+      "Description": "OneNote 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "7b13f4f12acba8f3a2a57baa0756e5b6ec5f2863",
+      "ProductFamilyId": 405,
+      "PostedDate": "2011-02-15T18:51:08Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "630 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45328,
+      "FileName": "el_outlook_2010_x86_551680.exe",
+      "Description": "Outlook 2010 (x86) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "d3eece5f57f0fd5ce6d38da660ba7b61c05738c7",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-15T18:51:33Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45329,
+      "FileName": "el_outlook_2010_x64_551717.exe",
+      "Description": "Outlook 2010 (x64) - (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "200f1e3c42159580b58326818ec2febb2bc63d28",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-15T18:51:33Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "295 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 45330,
+      "FileName": "el_outlook_2010_x86_x64_dvd_551667.iso",
+      "Description": "Outlook 2010 (x86 and x64) - DVD (Greek)\r\n",
+      "Notes": null,
+      "Sha1Hash": "df5c72b9fca97c0ecdd5dd0b20227416f07333c8",
+      "ProductFamilyId": 411,
+      "PostedDate": "2011-02-15T18:51:33Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "613 MB",
+      "IsProductKeyRequired": true
+    }
+  ]
+}

@@ -1,0 +1,5685 @@
+{
+  "Files": [
+    {
+      "FileId": 43000,
+      "FileName": "ko_report_viewer_2010_redistributable_x86_langpack_532670.exe",
+      "Description": "Report Viewer 2010 Redistributable (x86) LangPack - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "c265bc2a876a550a81a7f52b3330d2948dd3d3ac",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.933 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43001,
+      "FileName": "ko_visual_studio_2010_express_x86_dvd_532091.iso",
+      "Description": "Visual Studio 2010 Express (x86) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "bcd5d6b0a3be57238b7bbac8b6bc2a6c10cb6903",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "1752 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43002,
+      "FileName": "ko_visual_studio_2010_f_sharp_2.0_runtime_x86_langpack_532613.exe",
+      "Description": "Visual Studio 2010 F# 2.0 Runtime (x86) LangPack - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "cdfa7a4092f9bf39af8fd1c7d5c29a1726b3e2bc",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.357 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43003,
+      "FileName": "ko_visual_studio_2010_integrated_shell_x86_532009.exe",
+      "Description": "Visual Studio 2010 Integrated Shell (x86) - (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "39f636107c2988c6d74d1c7413113d19734d6713",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:50Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "173 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43005,
+      "FileName": "ko_visual_studio_2010_professional_x86_dvd_532339.iso",
+      "Description": "Visual Studio 2010 Professional (x86) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "a147116a0c22fd2712e14bb1c29b248d4f6c69d7",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:05:33Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2451 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43006,
+      "FileName": "ko_visual_studio_2010_isolated_shell_x86_532022.exe",
+      "Description": "Visual Studio 2010 Isolated Shell (x86) - (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "aeea14da633b1b8faec9669c85bf4acee7ac25cb",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "174 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43007,
+      "FileName": "ko_visual_studio_2010_remote_debugger_ia64_532643.exe",
+      "Description": "Visual Studio 2010 Remote Debugger (ia64) - (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "fec9a3202f6b2ee80d1a56fb559af14606cc19b6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "12 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43008,
+      "FileName": "ko_visual_studio_2010_remote_debugger_x64_532643.exe",
+      "Description": "Visual Studio 2010 Remote Debugger (x64) - (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "c468f6284c2589d392ed0c08adc17541d1aae9a1",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "9 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43009,
+      "FileName": "ko_visual_studio_2010_remote_debugger_x86_532643.exe",
+      "Description": "Visual Studio 2010 Remote Debugger (x86) - (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "c6778b21935cf22dc949db6085bb65def9c7e91b",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43010,
+      "FileName": "ko_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_532650.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "1aea0ce5fe8fe5ac10c1fe756fdd58aa71bca9ee",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:51Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.488 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43011,
+      "FileName": "ko_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_532650.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "059dd9c3dea0e1dc881a697314603b59ad417745",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:52Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "0.431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43012,
+      "FileName": "ko_visual_studio_2010_ultimate_x86_dvd_532349.iso",
+      "Description": "Visual Studio 2010 Ultimate (x86) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "7c3732e33b964505f3c2026807ced3ada0b7248a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:05:46Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2544 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43013,
+      "FileName": "ko_visual_studio_agents_2010_x86_x64_dvd_532532.iso",
+      "Description": "Visual Studio Agents 2010 (x86 and x64) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkID=127721\">Team Foundation Server Readme</a>.",
+      "Sha1Hash": "5fcd4bea61256aa34260d3dd704cc1f961dd6211",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:52Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "542 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43014,
+      "FileName": "ko_visual_studio_team_explorer_2010_x86_dvd_532564.iso",
+      "Description": "Visual Studio Team Explorer 2010 (x86) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a> and the <a href=\"http://go.microsoft.com/fwlink/?LinkID=127721\">Team Foundation Server Readme</a>.",
+      "Sha1Hash": "d0ece41b6299ce3724336ea1dcb2a10ac58f2764",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:04:52Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "320 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43016,
+      "FileName": "ko_visual_studio_test_professional_2010_x86_dvd_532346.iso",
+      "Description": "Visual Studio Test Professional 2010 (x86) - DVD (Korean)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "514a79ab68ad8641ff3e07d5959f0e3fb78f5ee0",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:06:14Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "428 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43018,
+      "FileName": "en_robotics_developer_studio_2008_r3_x86_x64.exe",
+      "Description": "Robotics Developer Studio 2008 R3 (x86 and x64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "1727fa0bd01b3732871e25cab6e1754fd7415c48",
+      "ProductFamilyId": 69,
+      "PostedDate": "2010-05-25T18:06:23Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "444 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43019,
+      "FileName": "cn_web_platform_installer_2.0_x64.msi",
+      "Description": "Web Platform Installer 2.0 (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "ad2c54e1a419c18ee48e794acaef566316a5c773",
+      "ProductFamilyId": 379,
+      "PostedDate": "2010-05-24T17:57:55Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43020,
+      "FileName": "ct_web_platform_installer_2.0_x64.msi",
+      "Description": "Web Platform Installer 2.0 (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "0814e4a72d0d6be81a4e1b4abfc0f81c5892d8d1",
+      "ProductFamilyId": 379,
+      "PostedDate": "2010-05-24T17:57:56Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43021,
+      "FileName": "cn_web_platform_installer_2.0_x86.msi",
+      "Description": "Web Platform Installer 2.0 (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "3fc2f3bd5819fa44638a8a0ea0c7e3f1a4a6c386",
+      "ProductFamilyId": 379,
+      "PostedDate": "2010-05-24T17:59:08Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43022,
+      "FileName": "ct_web_platform_installer_2.0_x86.msi",
+      "Description": "Web Platform Installer 2.0 (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "6efa198f16fc705c881c45b0a77581280ea72d31",
+      "ProductFamilyId": 379,
+      "PostedDate": "2010-05-24T17:59:08Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43023,
+      "FileName": "ko_visual_studio_2010_premium_x86_dvd_533948.iso",
+      "Description": "Visual Studio 2010 Premium (x86) - DVD (Korean)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "7c89cc797962b3386d38171f9cd02c967d100fff",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-05-26T22:05:21Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "2536 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43024,
+      "FileName": "cn_visual_studio_2010_premium_web_installer_x86_532539.exe",
+      "Description": "Visual Studio 2010 Premium Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "7ddddda52a3a2399c7f75d40ce5767bf0fa1513a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:06:00Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43025,
+      "FileName": "cn_visual_studio_2010_professional_web_installer_x86_532353.exe",
+      "Description": "Visual Studio 2010 Professional Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "a0c75be3325f3a696dcdafe957f80df96910fd94",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:16:37Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43026,
+      "FileName": "cn_visual_studio_2010_ultimate_web_installer_x86_535094.exe",
+      "Description": "Visual Studio 2010 Ultimate Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "fa3bc3a6977e830ffcd5374a792bbccdf5a49987",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:17:09Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43027,
+      "FileName": "cn_visual_studio_2010_vb_express_web_installer_x86_532651.exe",
+      "Description": "Visual Studio 2010 VB Express Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "8888a2ebd5da95565217db4030933d3e44f8fdbc",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43028,
+      "FileName": "cn_visual_studio_2010_vc_express_web_installer_x86_532651.exe",
+      "Description": "Visual Studio 2010 VC Express Web Installer (x86) - (Chinese-Simplied)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "4686ada51e5911297645cce3bf8cae61d26dd904",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43029,
+      "FileName": "cn_visual_studio_2010_vcs_express_web_installer_x86_532651.exe",
+      "Description": "Visual Studio 2010 VCS Express Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "b3b82c84b341159373b50ee161986498b20e3e14",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43030,
+      "FileName": "cn_visual_studio_2010_vwd_express_web_installer_x86_532651.exe",
+      "Description": "Visual Studio 2010 VWD Express Web Installer (x86) - (Chinese-Simplified)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "8fd9abee8b866dbbd72ce564312749fdb2540339",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43031,
+      "FileName": "cn_visual_studio_test_professional_2010_web_installer_x86_532565.exe",
+      "Description": "Visual Studio Test Professional 2010 Web Installer (x86) - (Chinese-Simplifed)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "06b9e3f48ae169c1c27e78da5c232a83c7541610",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:17:48Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43032,
+      "FileName": "ct_visual_studio_2010_premium_web_installer_x86_532541.exe",
+      "Description": "Visual Studio 2010 Premium Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "0c59e9824908214227df8274a69b972b900995eb",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:06:06Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43033,
+      "FileName": "ct_visual_studio_2010_professional_web_installer_x86_532354.exe",
+      "Description": "Visual Studio 2010 Professional Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "62aa4004187af6b18e4970121c1aa846d8f02048",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:16:42Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43034,
+      "FileName": "ct_visual_studio_2010_ultimate_web_installer_x86_535095.exe",
+      "Description": "Visual Studio 2010 Ultimate Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "3768a2c0a5186469e76808fb66d59a3473dd1ebe",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:17:14Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43035,
+      "FileName": "ct_visual_studio_2010_vb_express_web_installer_x86_532653.exe",
+      "Description": "Visual Studio 2010 VB Express Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "74fea181684205633ecfbdd6ac0be6caf1081519",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43036,
+      "FileName": "ct_visual_studio_2010_vc_express_web_installer_x86_532653.exe",
+      "Description": "Visual Studio 2010 VC Express Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "35f34535d7cc5b72e86586fc3c49e14f9c62feb8",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43037,
+      "FileName": "ct_visual_studio_2010_vcs_express_web_installer_x86_532653.exe",
+      "Description": "Visual Studio 2010 VCS Express Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "6f0ebdb5e2adb0c2b5a72f632fd8e63765dd33f9",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:02:13Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43038,
+      "FileName": "ct_visual_studio_2010_vwd_express_web_installer_x86_532653.exe",
+      "Description": "Visual Studio 2010 VWD Express Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "7e689ac1714154322ed8c81687f03455f4134d5a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:02:37Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43039,
+      "FileName": "ct_visual_studio_test_professional_2010_web_installer_x86_532566.exe",
+      "Description": "Visual Studio Test Professional 2010 Web Installer (x86) - (Chinese-Traditional)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "e07ae3ec8aa6a886747946295eff67cff20a7d01",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:17:53Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43041,
+      "FileName": "ko_visual_studio_2010_professional_web_installer_x86_532355.exe",
+      "Description": "Visual Studio 2010 Professional Web Installer (x86) - (Korean)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "01d29a549517eb44cd29cc2beea4b5686554f404",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:16:47Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "4 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43042,
+      "FileName": "ko_visual_studio_2010_ultimate_web_installer_x86_535096.exe",
+      "Description": "Visual Studio 2010 Ultimate Web Installer (x86) - (Korean)\r\n",
+      "Notes": "<p>This Web Installer will install a Trial Version of the software that can then be upgraded to the full version with the key provided. Full details and additional instructions can be found <a href=\"http://go.microsoft.com/fwlink/?LinkID=189235\">here</a>.</p>For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=133421\">Visual Studio Readme</a>.",
+      "Sha1Hash": "29e9e82943bf373522c79188d4d3d64afc17073e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:17:18Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "5 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43043,
+      "FileName": "ko_visual_studio_2010_vb_express_web_installer_x86_532654.exe",
+      "Description": "Visual Studio 2010 VB Express Web Installer (x86) - (Korean)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "3a16ed863f1c7b8d33fe2a191132f85772669ae0",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:03:55Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43044,
+      "FileName": "ko_visual_studio_2010_vc_express_web_installer_x86_532654.exe",
+      "Description": "Visual Studio 2010 VC Express Web Installer (x86) - (Korean)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "ae353ae2767f7cd81018987bdbccb6f0ac86e4d0",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:04:11Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43045,
+      "FileName": "ko_visual_studio_2010_vcs_express_web_installer_x86_532654.exe",
+      "Description": "Visual Studio 2010 VCS Express Web Installer (x86) - (Korean)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "be0003ed4e0f379732f84e71af82faaf74f28aad",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:04:24Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43046,
+      "FileName": "ko_visual_studio_2010_vwd_express_web_installer_x86_532654.exe",
+      "Description": "Visual Studio 2010 VWD Express Web Installer (x86) - (Korean)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=151235\">Visual Studio Express Readme</a>.",
+      "Sha1Hash": "0e49d9470397e6219a97eeb3bc20181462382a16",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-01T22:04:35Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43048,
+      "FileName": "en_business_contact_manager_for_outlook_2010_x86_x64_dvd_508772.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "cc1fea2d6a0315cc71f207439f871a4857998aee",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "519 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43049,
+      "FileName": "en_business_contact_manager_for_outlook_2010_x86_508766.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "236a3d0d3c7d17c86c53313d6b8ce4fdfb929cb4",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:46Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43050,
+      "FileName": "en_business_contact_manager_for_outlook_2010_x64_508767.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f3a49d3bfd3913d639047b47fb204f7567ee1066",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43051,
+      "FileName": "ar_business_contact_manager_for_outlook_2010_x86_x64_dvd_517461.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "acfe03d599e7847516dca083fdd9e4b72c499881",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43052,
+      "FileName": "de_business_contact_manager_for_outlook_2010_x86_x64_dvd_517468.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "1360f5dc35161e0dcc58c5c4a411aafa63f4e403",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "597 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43053,
+      "FileName": "cn_business_contact_manager_for_outlook_2010_x86_x64_dvd_510913.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "07e26f57beacea032a63771cec2c1c67f9743a11",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:47Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43054,
+      "FileName": "fr_business_contact_manager_for_outlook_2010_x86_x64_dvd_510927.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "1565d1794036e07d07368e4883943eede6910a35",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "591 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43055,
+      "FileName": "ja_business_contact_manager_for_outlook_2010_x86_x64_dvd_510942.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "b67473985352334de1eb31d808064f6e5df84cb0",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "587 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43056,
+      "FileName": "es_business_contact_manager_for_outlook_2010_x86_x64_dvd_510948.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "0dc37e560a2a30b354c58af27d6b9f4a7b8ca0fb",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:00:48Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "596 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43057,
+      "FileName": "ru_business_contact_manager_for_outlook_2010_x86_x64_dvd_510996.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Russian)",
+      "Notes": null,
+      "Sha1Hash": "cf2fcb75e8dcd111d906c2ac287fd734202bdd9e",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:23Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "548 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43058,
+      "FileName": "he_business_contact_manager_for_outlook_2010_x86_x64_dvd_511042.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "e9eae10358e218259d8e82952cc7b117d9d2e8db",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:23Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43059,
+      "FileName": "ko_business_contact_manager_for_outlook_2010_x86_x64_dvd_511056.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "388636a945b3bafd9c4af42899414585a33de5c8",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:23Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43060,
+      "FileName": "da_business_contact_manager_for_outlook_2010_x86_x64_dvd_511075.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Danish)",
+      "Notes": null,
+      "Sha1Hash": "ada129617ff45d4560716495e8de960224b97bf6",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:24Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43061,
+      "FileName": "hi_business_contact_manager_for_outlook_2010_x86_x64_dvd_511083.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "337cb87510e448fc9323a0e6f4e419c815c1884f",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:24Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "515 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43062,
+      "FileName": "th_business_contact_manager_for_outlook_2010_x86_x64_dvd_511088.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Thai)",
+      "Notes": null,
+      "Sha1Hash": "5197f1bf47fc5924703e0d4f1b5abec2cab72ad3",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:24Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "515 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43063,
+      "FileName": "sv_business_contact_manager_for_outlook_2010_x86_x64_dvd_511112.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "ec331c0832f42d6a1936e3632c409326b0e6ce17",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:25Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "593 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43064,
+      "FileName": "pl_business_contact_manager_for_outlook_2010_x86_x64_dvd_511132.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "445d7f9801915843e68c39f934f30b8c61f476f5",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:25Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43065,
+      "FileName": "no_business_contact_manager_for_outlook_2010_x86_x64_dvd_511337.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "d73d68e163676f3608dcc36db510cab26411c5e5",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:26Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43066,
+      "FileName": "fi_business_contact_manager_for_outlook_2010_x86_x64_dvd_511341.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "3709b1a822cfa0ab400e60a6f015717eb93d66c4",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:26Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43067,
+      "FileName": "pp_business_contact_manager_for_outlook_2010_x86_x64_dvd_511347.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "02d2cbb1c2027e39c2594916f654f1553a8d08d6",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:26Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43068,
+      "FileName": "ct_business_contact_manager_for_outlook_2010_x86_x64_dvd_518315.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "2a18a9db24335cfc5999e758326c96d27385935e",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:26Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "581 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43069,
+      "FileName": "nl_business_contact_manager_for_outlook_2010_x86_x64_dvd_518317.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "91c41d8e00cf1e471bc165263d63781bf3934f92",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:27Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "588 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43070,
+      "FileName": "it_business_contact_manager_for_outlook_2010_x86_x64_dvd_519073.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Italian)",
+      "Notes": null,
+      "Sha1Hash": "fee5ee48175c5015e90ebf7603b1268ece1ded47",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:27Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43071,
+      "FileName": "pt_business_contact_manager_for_outlook_2010_x86_x64_dvd_520866.iso",
+      "Description": "Business Contact Manager for Outlook 2010 (x86 and x64) - DVD (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "8db4c18f7ec24efdb32b9a1d11f5c744336128a1",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:27Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "582 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43072,
+      "FileName": "ar_business_contact_manager_for_outlook_2010_x86_509998.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "75b60b34554ec02131866551260a198cb95cebc2",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:27Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43073,
+      "FileName": "de_business_contact_manager_for_outlook_2010_x86_510270.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "855c69e6c8fd2aac85a629c1692c705caac51798",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:28Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43074,
+      "FileName": "cn_business_contact_manager_for_outlook_2010_x86_510917.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "388c0f4a85445cdb2f7ddd23837c9790a57955b0",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:28Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43075,
+      "FileName": "ja_business_contact_manager_for_outlook_2010_x86_510939.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "e735ab601dd58068d73b0dc6dfc11ea71896f1d5",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:28Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43076,
+      "FileName": "es_business_contact_manager_for_outlook_2010_x86_510950.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "5bd772c73bf445dc69cf4c232f0d7202fd0e79ca",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:28Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "450 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43077,
+      "FileName": "ru_business_contact_manager_for_outlook_2010_x86_510992.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "a0467eef45f93097c082674789db54bf6b3c97f3",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:29Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "401 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43078,
+      "FileName": "he_business_contact_manager_for_outlook_2010_x86_511041.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "5ee6bb49905267eefffa84f79af878d965b4b82f",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:29Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43079,
+      "FileName": "ct_business_contact_manager_for_outlook_2010_x86_511050.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "a906a355c163751a52900f8ce47e06adc84ff9de",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:29Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43080,
+      "FileName": "ko_business_contact_manager_for_outlook_2010_x86_511055.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "a54587939df1dd4fea865096a7d52436696dd224",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:29Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43081,
+      "FileName": "nl_business_contact_manager_for_outlook_2010_x86_511064.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "95bbe5d1d7ac0f0673be4617f66ec8a97e0822a7",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:29Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43082,
+      "FileName": "da_business_contact_manager_for_outlook_2010_x86_511077.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "8a637242dabb610d2964e018e9dbc9d577ac4075",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:30Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43083,
+      "FileName": "hi_business_contact_manager_for_outlook_2010_x86_511082.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "d2de9c8d889cc907aeaa7bc3e26fb476f9e067e5",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:30Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43084,
+      "FileName": "th_business_contact_manager_for_outlook_2010_x86_511089.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Thai)",
+      "Notes": null,
+      "Sha1Hash": "823c8210cdfc990cb6cbcea94cf10e6bd69df679",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:30Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43085,
+      "FileName": "sv_business_contact_manager_for_outlook_2010_x86_511115.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "10b7ffdf413ca3300b571bb99ca306ead6cd84b7",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:30Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "447 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43086,
+      "FileName": "pl_business_contact_manager_for_outlook_2010_x86_511136.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "7e3c22733fa4f7d65cf527ae968f497fb2f8e30f",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:31Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43087,
+      "FileName": "no_business_contact_manager_for_outlook_2010_x86_511334.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "1c154bd81ed2751ff6ed60e61e08020fa8b8f79c",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:31Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43088,
+      "FileName": "fi_business_contact_manager_for_outlook_2010_x86_511343.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "3892248308dd3026c1d08562d2c4eacd28527188",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:31Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43089,
+      "FileName": "pp_business_contact_manager_for_outlook_2010_x86_511345.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "e72cb63b1c314880359318143395a5a9a9bca305",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:31Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43090,
+      "FileName": "fr_business_contact_manager_for_outlook_2010_x86_517464.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "2303a7ea71ec5a3b032bc1dda8c004b0409f8792",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:31Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "444 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43091,
+      "FileName": "it_business_contact_manager_for_outlook_2010_x86_518332.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "d7c4ddf3b9e5b523c4322396cd58187a2030a6cd",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:32Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43092,
+      "FileName": "pt_business_contact_manager_for_outlook_2010_x86_519990.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "9366fd4a7d0bee67e20ad09c828730938ca32ada",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:32Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "436 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43093,
+      "FileName": "ar_business_contact_manager_for_outlook_2010_x64_509999.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "0872cb8267c48a2bc0c0673ca88c38e87732ca19",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:32Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43094,
+      "FileName": "de_business_contact_manager_for_outlook_2010_x64_510275.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "f0731ccdef7da4278baa2115238d45cc04522f81",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:32Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "451 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43095,
+      "FileName": "cn_business_contact_manager_for_outlook_2010_x64_510916.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "8ef28b41454783c07d047ca0f68ef38a651137c3",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:33Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43096,
+      "FileName": "fr_business_contact_manager_for_outlook_2010_x64_510925.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "2ed31a46ecff9018a22c56ff0e97ce614512bed5",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:33Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "444 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43097,
+      "FileName": "ja_business_contact_manager_for_outlook_2010_x64_510943.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "bfda3c1822451f1e0e4e3b8d4f4ceb62686d3c2c",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:33Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "440 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43098,
+      "FileName": "es_business_contact_manager_for_outlook_2010_x64_510947.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "7924c511b9c18153f0a678f97997d95f1511c325",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:33Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "450 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43099,
+      "FileName": "ru_business_contact_manager_for_outlook_2010_x64_511000.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "838fa59580a7474da7241c284e0e80d8364f3868",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:34Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "401 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43100,
+      "FileName": "he_business_contact_manager_for_outlook_2010_x64_511038.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "e5091ba2b7d4e9d8a50a3ea5c4309c9b2843343c",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:34Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43101,
+      "FileName": "ct_business_contact_manager_for_outlook_2010_x64_511052.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "2ccf7a117c7df3dcb3c5551ef1b0b1a8a0a47431",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:34Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43102,
+      "FileName": "ko_business_contact_manager_for_outlook_2010_x64_511054.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "97a896c3c2214038ac6f653bc790876403de7275",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:34Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43103,
+      "FileName": "it_business_contact_manager_for_outlook_2010_x64_511066.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "88abd5d30be69dd3616e5ca1bb3e1f1ca5dffa15",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:34Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "435 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43104,
+      "FileName": "hi_business_contact_manager_for_outlook_2010_x64_511081.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Hindi)",
+      "Notes": null,
+      "Sha1Hash": "f815a44b021a5511cc3c5be52c433edabac05581",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:35Z",
+      "LanguageCodes": [
+        "hi"
+      ],
+      "Languages": [
+        "Hindi"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43105,
+      "FileName": "th_business_contact_manager_for_outlook_2010_x64_511090.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Thai)",
+      "Notes": null,
+      "Sha1Hash": "ee4d84d2caf70b26188892c510e9f6406b2aa1be",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:35Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "368 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43106,
+      "FileName": "sv_business_contact_manager_for_outlook_2010_x64_511111.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "0ae551a8cb312e758d7bc34ed723e65e28d9c37e",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:35Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "447 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43107,
+      "FileName": "pl_business_contact_manager_for_outlook_2010_x64_511131.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "e853bac665c09316ad75a9a083886755c2ee5d56",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:35Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43108,
+      "FileName": "no_business_contact_manager_for_outlook_2010_x64_511338.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "43e32cdaa445e9bceb5199a17453a0fe66c300ca",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:36Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43109,
+      "FileName": "fi_business_contact_manager_for_outlook_2010_x64_511339.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "c25d7ce3956fcb9ea313146b9ef63d588ee65544",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:36Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43110,
+      "FileName": "pp_business_contact_manager_for_outlook_2010_x64_511350.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Portuguese-Portugal)",
+      "Notes": null,
+      "Sha1Hash": "39309cc4826e576f27a4245c3a3cfb533703cc8d",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:36Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43111,
+      "FileName": "nl_business_contact_manager_for_outlook_2010_x64_518335.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "00d573893de212b88d40be341830466fdfbc9cff",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:36Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43112,
+      "FileName": "pt_business_contact_manager_for_outlook_2010_x64_519992.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "ba39d60b444d236628d5c9566768c81a156f4356",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:37Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "436 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43113,
+      "FileName": "da_business_contact_manager_for_outlook_2010_x64_521626.exe",
+      "Description": "Business Contact Manager for Outlook 2010 (x64) - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "9bf9e4e986c6cae5a08a27f0943aab5dfb573b6a",
+      "ProductFamilyId": 385,
+      "PostedDate": "2010-06-01T22:02:41Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43114,
+      "FileName": "en_web_services_on_devices_api_for_.net_for_windows_embedded_standard_2009_x86_536191.exe",
+      "Description": "Web Services on Devices API for .NET for Windows Embedded Standard 2009 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "fe895fb5470a6aa963221761e58dcbddfa3a3b60",
+      "ProductFamilyId": 557,
+      "PostedDate": "2010-06-02T16:46:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.244 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43115,
+      "FileName": "en_web_services_on_devices_api_for_.net_sdk_for_windows_embedded_standard_2009_x86_536191.msi",
+      "Description": "Web Services on Devices API for .NET SDK for Windows Embedded Standard 2009 (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "8b8c46992a6d5ae36cd1bd243730040b554c9cc7",
+      "ProductFamilyId": 557,
+      "PostedDate": "2010-06-02T16:46:14Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.521 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43116,
+      "FileName": "en_system_center_essentials_2010_x86_x64_dvd_516332.iso",
+      "Description": "System Center Essentials 2010 (x86 and x64) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "76acf8574f9a08d93462142c2ed1d4d4a98df2f8",
+      "ProductFamilyId": 413,
+      "PostedDate": "2010-06-03T16:37:58Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "5020 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43117,
+      "FileName": "en_visual_studio_2010_visualization_modeling_feature_pack_x86_x64_535571.vsix",
+      "Description": "Visual Studio 2010 Visualization & Modeling Feature Pack (x86 and x64) - (English)\r\n",
+      "Notes": "The Visual Studio 2010 Visualization & Modeling Feature Pack expands the scenarios for exploring and understanding your code.\u00a0Extend the capabilities of the visualization and modeling tools in Visual Studio 2010 Ultimate.\u00a0For more information, check out <a href=\"http://go.microsoft.com/fwlink/?LinkId=192777\">Visual Studio 2010 Feature Packs</a>.",
+      "Sha1Hash": "29f664d79b974966717a82def26095cb5edc4e66",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-07T16:12:11Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43119,
+      "FileName": "mu_system_center_data_protection_manager_2010_x64_dvd_522988.iso",
+      "Description": "System Center Data Protection Manager 2010 (x64) - DVD (Chinese-Simplified, Chinese-Traditional, English, French, German, Italian, Japanese, Korean, Portuguese-Brazil, Russian, and Spanish)",
+      "Notes": null,
+      "Sha1Hash": "d6a739af3509715e22a032b29563f2bbe3258dfd",
+      "ProductFamilyId": 217,
+      "PostedDate": "2010-06-04T01:43:41Z",
+      "LanguageCodes": [
+        "cn",
+        "ct",
+        "de",
+        "en",
+        "es",
+        "fr",
+        "it",
+        "ja",
+        "ko",
+        "pt",
+        "ru"
+      ],
+      "Languages": [
+        "English",
+        "Japanese",
+        "Korean",
+        "German",
+        "Spanish",
+        "French",
+        "Italian",
+        "Portuguese-Brazil",
+        "Russian",
+        "Chinese - Traditional",
+        "Chinese - Simplified"
+      ],
+      "Size": "2710 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43120,
+      "FileName": "en_expression_studio_4_web_professional_x86_dvd_537022.iso",
+      "Description": "Expression Studio 4 Web Professional (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "95ed1496ad7f899cdb1fad7ee08d984625623a9a",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-06-07T14:52:45Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "162 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43121,
+      "FileName": "en_expression_studio_4_premium_x86_dvd_537029.iso",
+      "Description": "Expression Studio 4 Premium (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "b4245f2af701fb5531bdda8e91d55e33dfe1615b",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-06-07T14:52:24Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "284 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43122,
+      "FileName": "en_expression_studio_4_ultimate_x86_dvd_537032.iso",
+      "Description": "Expression Studio 4 Ultimate (x86) - DVD (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f34bd17566854b61adff9c551681493a21eae831",
+      "ProductFamilyId": 415,
+      "PostedDate": "2010-06-07T14:52:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "284 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43123,
+      "FileName": "ar_.net_framework_4_client_profile_x86_x64_langpack_539367.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Arabic)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "92644ec039be5f2b19e672547d648ca8d904e358",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:48Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43124,
+      "FileName": "ar_.net_framework_4_client_profile_x86_langpack_539367.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Arabic)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "cd6a4861297026d98b01cf6f1b41897b9108db75",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:48Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43126,
+      "FileName": "ar_.net_framework_4_full_x86_x64_langpack_539402.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Arabic)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "d023c51a2cda85ed61e7379032afcffbec114f40",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:49Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43127,
+      "FileName": "ar_.net_framework_4_full_x86_langpack_539402.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Arabic)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "653f1b133d63d5f2665ea541412ac3dc2fad7bbc",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:49Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43128,
+      "FileName": "ar_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539643.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "24ee0c0d6511d983bb46ab96f8bfb833e1b9a25e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:49Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "0.505 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43129,
+      "FileName": "ar_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539643.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "fbc8bcefd927402bc9c694c414a4d071ee2aae0a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:49Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "0.447 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43130,
+      "FileName": "he_.net_framework_4_client_profile_x86_x64_langpack_539670.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Hebrew)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "c366456855673dbbada89c2549d06208c8579b6a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:49Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43131,
+      "FileName": "he_.net_framework_4_client_profile_x86_langpack_539670.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Hebrew)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "de02d0cad80efb6e31315c8a7a93add61b2793ed",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:50Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43133,
+      "FileName": "he_.net_framework_4_full_x86_x64_langpack_539671.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Hebrew)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "b7998e3b0a1a3ee44d1915174fa926cc2e8d74b7",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:50Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43134,
+      "FileName": "he_.net_framework_4_full_x86_langpack_539671.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Hebrew)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "2d8dbac20f06050f3412c975b4e3d818aa649867",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:50Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43135,
+      "FileName": "he_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539672.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "58a1734709b79e91193c18d83d77756224b00880",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:50Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "0.499 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43136,
+      "FileName": "he_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539672.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "bbe9a2367b058699d91fb23f6508dfe92456f1ae",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:50Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "0.441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43137,
+      "FileName": "da_.net_framework_4_client_profile_x86_x64_langpack_539645.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Danish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "f586abfa9e426da575ac86839ef26b7596c52cad",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43138,
+      "FileName": "da_.net_framework_4_client_profile_x86_langpack_539645.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Danish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4f749c331feeff223cf711840044dc61a98fdf5c",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43138,
+      "FileName": "da_.net_framework_4_client_profile_x86_langpack_539645.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Danish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4f749c331feeff223cf711840044dc61a98fdf5c",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43140,
+      "FileName": "da_.net_framework_4_full_x86_x64_langpack_539648.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Danish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "c01ff4b2385abf5f9dbc3920e08ff107c5d142c6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43141,
+      "FileName": "da_.net_framework_4_full_x86_langpack_539648.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Danish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "af120744d8a7f794f3de271993df2491046de8e0",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43142,
+      "FileName": "da_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539652.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "7fb7101608ea41c76c34287addbf54e6ee316ba6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "0.495 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43143,
+      "FileName": "da_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539652.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Danish)",
+      "Notes": null,
+      "Sha1Hash": "b35d5125f22a801b43e1489ecddf2d344ac58b97",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:51Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "0.437 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43144,
+      "FileName": "nl_.net_framework_4_client_profile_x86_x64_langpack_539653.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Dutch)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "2c1e9c93cf282a9098f5b416577a1904affd7949",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:52Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43145,
+      "FileName": "nl_.net_framework_4_client_profile_x86_langpack_539653.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Dutch)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "d642724161fbb17fdb69535bf180429328a547f9",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:52Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43147,
+      "FileName": "nl_.net_framework_4_full_x86_x64_langpack_539654.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Dutch)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4fe7b5ba0c7b3797afec27ee6c6fe2647f94c26a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:52Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43148,
+      "FileName": "nl_.net_framework_4_full_x86_langpack_539654.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Dutch)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4d96d9206a18b8ae92d5c766e23bbba2d2af8b98",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:52Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43148,
+      "FileName": "nl_.net_framework_4_full_x86_langpack_539654.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Dutch)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4d96d9206a18b8ae92d5c766e23bbba2d2af8b98",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:52Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43149,
+      "FileName": "nl_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539656.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "e467596deb60b2340e39abdd4fc8dd70aa379f55",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "0.498 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43150,
+      "FileName": "nl_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539656.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "e70c35ebbe376d0351935fff16b64ff259ae7e56",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "0.441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43151,
+      "FileName": "fi_.net_framework_4_client_profile_x86_x64_langpack_539660.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Finnish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "070951f1f79be67e5bb902f44c6139b53ec02531",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43152,
+      "FileName": "fi_.net_framework_4_client_profile_x86_langpack_539660.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Finnish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "dd0a4a3c73d3e7d563532308eecba35f4b61eb78",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43152,
+      "FileName": "fi_.net_framework_4_client_profile_x86_langpack_539660.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Finnish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "dd0a4a3c73d3e7d563532308eecba35f4b61eb78",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43154,
+      "FileName": "fi_.net_framework_4_full_x86_x64_langpack_539661.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Finnish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "901906e881b5627a7de254634735d23267499430",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:53Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43155,
+      "FileName": "fi_.net_framework_4_full_x86_langpack_539661.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Finnish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8821e630e1ef8758c11ae0f9f995efef15c3ea71",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43156,
+      "FileName": "fi_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539658.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "faf0d8e5261af705f3869e7825913e210ca2c317",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "0.498 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43157,
+      "FileName": "fi_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539658.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Finnish)",
+      "Notes": null,
+      "Sha1Hash": "feec44ae5f680f9007b71698e81db5d24ce4618b",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "fi"
+      ],
+      "Languages": [
+        "Finnish"
+      ],
+      "Size": "0.441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43158,
+      "FileName": "el_.net_framework_4_client_profile_x86_x64_langpack_539665.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Greek)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "fd9c97a71e562fb513e46842be139e7bb5056cd9",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43158,
+      "FileName": "el_.net_framework_4_client_profile_x86_x64_langpack_539665.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Greek)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "fd9c97a71e562fb513e46842be139e7bb5056cd9",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43159,
+      "FileName": "el_.net_framework_4_client_profile_x86_langpack_539665.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Greek)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "e76dc528adacc3c92b002c096ffdb862056b0fe9",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43161,
+      "FileName": "el_.net_framework_4_full_x86_x64_langpack_539666.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Greek)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "207f4ed45f34aa2863dd4e2f15c40e4c9b14ce2b",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:54Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43162,
+      "FileName": "el_.net_framework_4_full_x86_langpack_539666.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Greek)\r\n",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "1ac6489a4be02e330913538269361a1dafc5e433",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:55Z",
+      "LanguageCodes": [
+        "el"
+      ],
+      "Languages": [
+        "Greek"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43163,
+      "FileName": "hu_.net_framework_4_client_profile_x86_x64_langpack_539674.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Hungarian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "7fd2e9ef1b3d6185c0746d5c97e55ff9ac201d04",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:08Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43164,
+      "FileName": "hu_.net_framework_4_client_profile_x86_langpack_539674.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Hungarian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "6753f703133b9bb8073c06d301aa2beb62f018c5",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:08Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43166,
+      "FileName": "hu_.net_framework_4_full_x86_x64_langpack_539676.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Hungarian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4a23cb4a28b0569ef1969c0af1eb36e795ddb62f",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:08Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43167,
+      "FileName": "hu_.net_framework_4_full_x86_langpack_539676.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Hungarian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8e346dc5808c22a2b369a382048a1fb37a963ffc",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43167,
+      "FileName": "hu_.net_framework_4_full_x86_langpack_539676.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Hungarian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8e346dc5808c22a2b369a382048a1fb37a963ffc",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "hu"
+      ],
+      "Languages": [
+        "Hungarian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43168,
+      "FileName": "no_.net_framework_4_client_profile_x86_x64_langpack_539683.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Norwegian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8294cd1e3e9758cfaa97d8fcc932d19468331fca",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43169,
+      "FileName": "no_.net_framework_4_client_profile_x86_langpack_539683.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Norwegian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "7d9b97e72f00c18fd764edf409a757d167bd64a6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43171,
+      "FileName": "no_.net_framework_4_full_x86_x64_langpack_539693.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Norwegian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "4dc73b6dc650bb706a40062621538699ca7d0bd5",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43172,
+      "FileName": "no_.net_framework_4_full_x86_langpack_539693.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Norwegian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "f2d8ff7d22d8621e5a35c1988ea525f6bc7ef815",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43172,
+      "FileName": "no_.net_framework_4_full_x86_langpack_539693.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Norwegian)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "f2d8ff7d22d8621e5a35c1988ea525f6bc7ef815",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-10T22:00:09Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43173,
+      "FileName": "no_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539695.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "f4d0bfc8429336087f871b351ea422fd376bddce",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "0.495 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43174,
+      "FileName": "no_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539695.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "c5500f1ab957cea41f172cbce336703df382ade1",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:10Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "0.438 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43175,
+      "FileName": "pp_.net_framework_4_client_profile_x86_x64_langpack_539696.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Portuguese-Portugal)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "a9d617608f369bb89a815786dba8a191e5e570bc",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43176,
+      "FileName": "pp_.net_framework_4_client_profile_x86_langpack_539696.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Portuguese-Portugal)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "5c32f26e5ac9829e6e2ffb2367aecb37125d5969",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43178,
+      "FileName": "pp_.net_framework_4_full_x86_x64_langpack_539697.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Portuguese-Portugal)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "234b64b2351488bbea0aeb0937adee058a13904a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:10Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43179,
+      "FileName": "pp_.net_framework_4_full_x86_langpack_539697.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Portuguese-Portugal)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "22372087cb11f36d805dcf77f3cb2b5254780e71",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:11Z",
+      "LanguageCodes": [
+        "pp"
+      ],
+      "Languages": [
+        "Portuguese-Portugal"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43180,
+      "FileName": "sv_.net_framework_4_client_profile_x86_x64_langpack_539703.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Swedish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "7f00cfd4b5e7178c689a10975c7420421f962f9c",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43181,
+      "FileName": "sv_.net_framework_4_client_profile_x86_langpack_539703.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Swedish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "497b7bcaae392b952a84c7ad58f59c61f358418a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43183,
+      "FileName": "sv_.net_framework_4_full_x86_x64_langpack_539706.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Swedish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "d5dd9d6ebcb5c9ece8e6a734a7f66bdc0e196100",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43184,
+      "FileName": "sv_.net_framework_4_full_x86_langpack_539706.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Swedish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "655a99961c8844815fabb8d640e928fa3fd26871",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:11Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43185,
+      "FileName": "sv_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_539700.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "3555fbd084d91cb3669eedea2a6d5bdd6b3371a3",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:12Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "0.493 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43186,
+      "FileName": "sv_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_539700.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "7302ce5d915865aac24fd96ff4362984769f91df",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-10T22:00:12Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "0.437 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43187,
+      "FileName": "en_dynamics_gp_2010_x86_dvd_518489.iso",
+      "Description": "Dynamics GP 2010 (x86) - DVD (English)\r\n\r\n",
+      "Notes": "<b>Please note:</b> The 90-day trial period does not apply to the lesson company, Fabrikam, Inc. We recommend developers use the lesson company to avoid this limitation.",
+      "Sha1Hash": "203f9d7550edfdd5b48402e60bedc3db2bc4453c",
+      "ProductFamilyId": 416,
+      "PostedDate": "2010-06-10T17:16:55Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "1447 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43190,
+      "FileName": "en_windows_multipoint_mouse_sdk_1.5.1_x86_x64.msi",
+      "Description": "Windows MultiPoint Mouse Software Development Kit 1.5.1 (x86 and x64) - (English)",
+      "Notes": "<p>Windows MultiPoint Mouse Software Development Kit (SDK) gives developers the ability to build interactive applications that allow up to 25 users, each with their own mouse, to simultaneously engage on a single PC.</p>The MultiPoint Mouse SDK includes several sample applications and documentation to help you get started. For more information, please visit this <a href=\"http://www.microsoft.com/multipointmouse\">site</a>. \n",
+      "Sha1Hash": "ca20f2c6836f98be3eaeb0fae601abbd0aafc662",
+      "ProductFamilyId": 319,
+      "PostedDate": "2010-06-22T21:04:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43191,
+      "FileName": "en_dynamics_nav_4.0_5.0_and_2009_license_file.flf",
+      "Description": "Dynamics NAV 4.0, 5.0, and 2009 License File - (English)",
+      "Notes": null,
+      "Sha1Hash": "c0d2da0f18cfeae676561d295d5b1a3ea71e9232",
+      "ProductFamilyId": 114,
+      "PostedDate": "2010-06-10T15:13:34Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.008 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43279,
+      "FileName": "en_dynamics_gp_2010_sdk_x86_542160.zip",
+      "Description": "Dynamics GP 2010 SDK (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "010fbab3a4c554fafb0598750f9734c3de046bc6",
+      "ProductFamilyId": 416,
+      "PostedDate": "2010-06-16T00:59:56Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "117 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43280,
+      "FileName": "en_windows_embedded_standard_2009_sld_export_tool_x86_540840.msi",
+      "Description": "Windows Embedded Standard 2009 SLD Export Tool (x86) - (English)\r\n",
+      "Notes": null,
+      "Sha1Hash": "03763a014de673844a5b0a253d9370d221d5da19",
+      "ProductFamilyId": 557,
+      "PostedDate": "2010-06-16T05:01:06Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.323 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43322,
+      "FileName": "da_project_server_2010_x64_dvd_521548.iso",
+      "Description": "Project Server 2010 (x64) - DVD (Danish)",
+      "Notes": null,
+      "Sha1Hash": "9bc00637104ef062ef4a2cbdf4c098dea0798e57",
+      "ProductFamilyId": 391,
+      "PostedDate": "2010-06-22T18:44:42Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43323,
+      "FileName": "da_search_server_2010_x64_dvd_521419.iso",
+      "Description": "Search Server 2010 (x64) - DVD (Danish)",
+      "Notes": null,
+      "Sha1Hash": "ebaee10cdb9615fb801a0fbbee2a276564823c51",
+      "ProductFamilyId": 392,
+      "PostedDate": "2010-06-22T18:46:18Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "523 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43324,
+      "FileName": "sv_project_server_2010_x64_dvd_520653.iso",
+      "Description": "Project Server 2010 (x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "74e6f408cf4e9171bf5145ae0e0ee092f4ed944a",
+      "ProductFamilyId": 391,
+      "PostedDate": "2010-06-22T18:44:43Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43325,
+      "FileName": "sv_search_server_2010_x64_dvd_520014.iso",
+      "Description": "Search Server 2010 (x64) - DVD (Swedish)",
+      "Notes": null,
+      "Sha1Hash": "794cbe2c9cc239f161a0b16e764521ee5a7a59c1",
+      "ProductFamilyId": 392,
+      "PostedDate": "2010-06-22T18:46:18Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43326,
+      "FileName": "th_search_server_2010_x64_dvd_520234.iso",
+      "Description": "Search Server 2010 (x64) - DVD (Thai)",
+      "Notes": null,
+      "Sha1Hash": "c9ed8cd3ec51abd63adcbb2160a0c57831e3bf8b",
+      "ProductFamilyId": 392,
+      "PostedDate": "2010-06-22T18:46:19Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43327,
+      "FileName": "da_office_web_apps_x64_dvd_521384.iso",
+      "Description": "Office Web Apps Server 2010 (x64) - DVD (Danish)",
+      "Notes": "For additional information view the Office Web Apps <a href=\"http://technet.microsoft.com/en-us/library/ff431687(office.14).aspx\">deployment guide</a>.",
+      "Sha1Hash": "f17500147f857ae42ff9b0d6b9050e8c28074b9f",
+      "ProductFamilyId": 407,
+      "PostedDate": "2010-06-22T18:47:01Z",
+      "LanguageCodes": [
+        "da"
+      ],
+      "Languages": [
+        "Danish"
+      ],
+      "Size": "205 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43328,
+      "FileName": "sv_office_web_apps_x64_dvd_520606.iso",
+      "Description": "Office Web Apps Server 2010 (x64) - DVD (Swedish)",
+      "Notes": "For additional information view the Office Web Apps <a href=\"http://technet.microsoft.com/en-us/library/ff431687(office.14).aspx\">deployment guide</a>.",
+      "Sha1Hash": "74f53e6af5601ba5dec8a6dce6c67e67de85c29b",
+      "ProductFamilyId": 407,
+      "PostedDate": "2010-06-22T18:47:01Z",
+      "LanguageCodes": [
+        "sv"
+      ],
+      "Languages": [
+        "Swedish"
+      ],
+      "Size": "203 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43329,
+      "FileName": "th_office_web_apps_x64_dvd_520321.iso",
+      "Description": "Office Web Apps Server 2010 (x64) - DVD (Thai)",
+      "Notes": "For additional information view the Office Web Apps <a href=\"http://technet.microsoft.com/en-us/library/ff431687(office.14).aspx\">deployment guide</a>.",
+      "Sha1Hash": "ce321d44c28897820c049b885bf9efe7c15c68b1",
+      "ProductFamilyId": 407,
+      "PostedDate": "2010-06-22T18:47:02Z",
+      "LanguageCodes": [
+        "th"
+      ],
+      "Languages": [
+        "Thai"
+      ],
+      "Size": "202 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43332,
+      "FileName": "pl_project_server_2010_x64_dvd_519850.iso",
+      "Description": "Project Server 2010 (x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "a8a1870b8e5cdc91072023352468bb1eda86555f",
+      "ProductFamilyId": 391,
+      "PostedDate": "2010-06-22T18:44:43Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43333,
+      "FileName": "pl_search_server_2010_x64_dvd_519810.iso",
+      "Description": "Search Server 2010 (x64) - DVD (Polish)",
+      "Notes": null,
+      "Sha1Hash": "a4bc27da16a1c5ecdd9dcd4616f32ee3547d0210",
+      "ProductFamilyId": 392,
+      "PostedDate": "2010-06-22T18:46:19Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "521 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43334,
+      "FileName": "pl_office_web_apps_x64_dvd_519775.iso",
+      "Description": "Office Web Apps Server 2010 (x64) - DVD (Polish)",
+      "Notes": "For additional information view the Office Web Apps <a href=\"http://technet.microsoft.com/en-us/library/ff431687(office.14).aspx\">deployment guide</a>.",
+      "Sha1Hash": "880149cc82fc5f420952d1f2b76ae742f32550e6",
+      "ProductFamilyId": 407,
+      "PostedDate": "2010-06-22T18:47:02Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "204 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43337,
+      "FileName": "no_project_server_2010_x64_dvd_533181.iso",
+      "Description": "Project Server 2010 (x64) - DVD (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "71c112a265894183feb00640a30a4b6d89d5039a",
+      "ProductFamilyId": 391,
+      "PostedDate": "2010-06-22T18:44:43Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43338,
+      "FileName": "no_search_server_2010_x64_dvd_533179.iso",
+      "Description": "Search Server 2010 (x64) - DVD (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "20ef7a0fc6976004cbc835a74c137203fe17aeed",
+      "ProductFamilyId": 392,
+      "PostedDate": "2010-06-22T18:46:19Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "522 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43339,
+      "FileName": "no_office_web_apps_x64_dvd_533800.iso",
+      "Description": "Office Web Apps Server 2010 (x64) - DVD (Norwegian)",
+      "Notes": "For additional information view the Office Web Apps <a href=\"http://technet.microsoft.com/en-us/library/ff431687(office.14).aspx\">deployment guide</a>.",
+      "Sha1Hash": "ac98c7d00d99d52a68adb4aa93b8fd9515fc12ef",
+      "ProductFamilyId": 407,
+      "PostedDate": "2010-06-22T18:47:02Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "205 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43340,
+      "FileName": "no_sharepoint_server_2010_x64_dvd_533157.iso",
+      "Description": "SharePoint Server 2010 (x64) - DVD (Norwegian)",
+      "Notes": null,
+      "Sha1Hash": "c7e38c3a777d29b9d7c12415a640d52c5b80e2d5",
+      "ProductFamilyId": 393,
+      "PostedDate": "2010-06-22T18:48:14Z",
+      "LanguageCodes": [
+        "no"
+      ],
+      "Languages": [
+        "Norwegian"
+      ],
+      "Size": "728 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43353,
+      "FileName": "nl_onenote_2010_x64_520727.exe",
+      "Description": "OneNote 2010 (x64) -(Dutch)\r\n",
+      "Notes": null,
+      "Sha1Hash": "e1becf76a17e44fd3e1fd75fa98e512e6b300b11",
+      "ProductFamilyId": 405,
+      "PostedDate": "2010-06-23T22:49:37Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "270 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43354,
+      "FileName": "cs_visual_studio_2010_professional_x86_langpack_546002.exe",
+      "Description": "Visual Studio 2010 Professional (x86) LangPack - (Czech)",
+      "Notes": "<b>Visual Studio 2010 Pro Language Pack pre-requisites:</b>\n<ul><li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a></li>\n<li>.NET Framework 4 Language Pack</li></ul>\n<p><b>Installation Instructions</b>\n<ol><li>It is necessary to install the English version of <a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a> before installing the Language Packs.</li>\n<li>Visual Studio 2010 Language Packs do not include .NET Framework 4 Language Packs. The .NET Framework 4 Language Packs need to be installed separately.</li>\n<li>Install the Visual Studio 2010 Professional Language Packs by running:</li>\n<ol type=a><li>vs_prolp.exe (Visual Studio IDE Language Pack (x86 & x64))</li>\n<li>HelpSetupLP_x86_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x86)) or HelpSetupLP_x64_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x64))</li></ol></p></ol>\n",
+      "Sha1Hash": "20afd8c026835736dbd063782adc21a2fef09d6f",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:16:53Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43355,
+      "FileName": "cs_help_3_langpack_for_visual_studio_2010_x86_546007.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x86) - (Czech)",
+      "Notes": null,
+      "Sha1Hash": "2700883583446507862914382551d7690e6e3ea1",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:30Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "0.583 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43356,
+      "FileName": "cs_help_3_langpack_for_visual_studio_2010_x64_546007.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x64) - (Czech)",
+      "Notes": null,
+      "Sha1Hash": "c104a69a491b52ade9348a47a338a3b891e20ac6",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:31Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "0.637 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43357,
+      "FileName": "cs_.net_framework_4_client_profile_x86_x64_langpack_546021.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Czech)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "68eb1b1d714c7739273e2eccbc6537262e0f96de",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:13Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43358,
+      "FileName": "cs_.net_framework_4_client_profile_x86_langpack_546021.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Czech)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "255e97d9a9e995113bb0bf5fce68576b89bf901f",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:13Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43359,
+      "FileName": "cs_.net_framework_4_full_x86_x64_langpack_546030.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Czech)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "e30795d3dc20e176ab1865579ef8d2d9a30bc1af",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43360,
+      "FileName": "cs_.net_framework_4_full_x86_langpack_546030.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Czech)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "808be719ae570cd954197ca0a34a71271f6bfd42",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "cs"
+      ],
+      "Languages": [
+        "Czech"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43361,
+      "FileName": "pl_visual_studio_2010_professional_x86_langpack_546004.exe",
+      "Description": "Visual Studio 2010 Professional (x86) LangPack - (Polish)",
+      "Notes": "<b>Visual Studio 2010 Pro Language Pack pre-requisites:</b>\n<ul><li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a></li>\n<li>.NET Framework 4 Language Pack</li></ul>\n<p><b>Installation Instructions</b>\n<ol><li>It is necessary to install the English version of <a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a> before installing the Language Packs.</li>\n<li>Visual Studio 2010 Language Packs do not include .NET Framework 4 Language Packs. The .NET Framework 4 Language Packs need to be installed separately.</li>\n<li>Install the Visual Studio 2010 Professional Language Packs by running:</li>\n<ol type=a><li>vs_prolp.exe (Visual Studio IDE Language Pack (x86 & x64))</li>\n<li>HelpSetupLP_x86_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x86)) or HelpSetupLP_x64_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x64))</li></ol></p></ol>\n",
+      "Sha1Hash": "c6ef78bf903e7fa459fef4f3e7458fb3539ea301",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:16:53Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43362,
+      "FileName": "pl_help_3_langpack_for_visual_studio_2010_x86_546008.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x86) - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "ab95fc7e5e80a92dfe03a71c0d835ba80f13443a",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:31Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "0.562 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43363,
+      "FileName": "pl_help_3_langpack_for_visual_studio_2010_x64_546008.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x64) - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "a3b51dfac8eedd621cb35caadd248176ef41f77f",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:31Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "0.617 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43364,
+      "FileName": "pl_.net_framework_4_client_profile_x86_x64_langpack_546022.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Polish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8b5106f7c8865f576684428bd436cb3e6baf8298",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43365,
+      "FileName": "pl_.net_framework_4_client_profile_x86_langpack_546022.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Polish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "39bed954802626b16fc7292ff2967a13dd338d06",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43366,
+      "FileName": "pl_.net_framework_4_full_x86_x64_langpack_546031.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Polish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8d2f89e7a1a753e12abab79b5e71dbf0cb914edd",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43366,
+      "FileName": "pl_.net_framework_4_full_x86_x64_langpack_546031.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Polish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "8d2f89e7a1a753e12abab79b5e71dbf0cb914edd",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-30T22:18:14Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43367,
+      "FileName": "pl_.net_framework_4_full_x86_langpack_546031.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Polish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "78c4f19aa7c9a88916410cc880d1c41bc338d9c3",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:15Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43368,
+      "FileName": "pl_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x64_langpack_545407.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x64) LangPack - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "74c38fed675789c46eeeb57d0826f3e7de1dc193",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:15Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "0.498 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43369,
+      "FileName": "pl_visual_studio_2010_tools_for_the_office_system_4.0_runtime_x86_langpack_545407.exe",
+      "Description": "Visual Studio 2010 Tools for the Office System 4.0 Runtime (x86) LangPack - (Polish)",
+      "Notes": null,
+      "Sha1Hash": "afad901309bc1feaa085d5fbe4c053a87d054889",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:15Z",
+      "LanguageCodes": [
+        "pl"
+      ],
+      "Languages": [
+        "Polish"
+      ],
+      "Size": "0.441 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43370,
+      "FileName": "tr_visual_studio_2010_professional_x86_langpack_546006.exe",
+      "Description": "Visual Studio 2010 Professional (x86) LangPack - (Turkish)",
+      "Notes": "<b>Visual Studio 2010 Pro Language Pack pre-requisites:</b>\n<ul><li><a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a></li>\n<li>.NET Framework 4 Language Pack</li></ul>\n<p><b>Installation Instructions</b>\n<ol><li>It is necessary to install the English version of <a href=\"https://msdn.microsoft.com/en-us/subscriptions/securedownloads/default.aspx?pv=18:370:---:en:---\">Visual Studio 2010 Professional</a> before installing the Language Packs.</li>\n<li>Visual Studio 2010 Language Packs do not include .NET Framework 4 Language Packs. The .NET Framework 4 Language Packs need to be installed separately.</li>\n<li>Install the Visual Studio 2010 Professional Language Packs by running:</li>\n<ol type=a><li>vs_prolp.exe (Visual Studio IDE Language Pack (x86 & x64))</li>\n<li>HelpSetupLP_x86_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x86)) or HelpSetupLP_x64_lang.exe (Microsoft Help Viewer 1.0 Language Pack (x64))</li></ol></p></ol>\n",
+      "Sha1Hash": "457cc93a0e8fa0bfaec8c7b4d2f42711411c0596",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:16:54Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "47 MB",
+      "IsProductKeyRequired": true
+    },
+    {
+      "FileId": 43371,
+      "FileName": "tr_help_3_langpack_for_visual_studio_2010_x86_546017.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x86) - (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "dd02984a554fd0136734234e5cb1113e9e5f028e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:31Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "0.581 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43372,
+      "FileName": "tr_help_3_langpack_for_visual_studio_2010_x64_546017.exe",
+      "Description": "Help 3 LangPack for Visual Studio 2010 (x64) - (Turkish)",
+      "Notes": null,
+      "Sha1Hash": "0d21b8e38b4c94f3c4c043af7b62fcfcc0308d1e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:23:31Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "0.635 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43373,
+      "FileName": "tr_.net_framework_4_client_profile_x86_x64_langpack_546024.exe",
+      "Description": ".NET Framework 4 Client Profile (x86 and x64) LangPack - (Turkish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "0543cff53d9d23039c9584a45b268ce1b85b5222",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:15Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43374,
+      "FileName": "tr_.net_framework_4_client_profile_x86_langpack_546024.exe",
+      "Description": ".NET Framework 4 Client Profile (x86) LangPack - (Turkish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "9b6fc9ed7b0ab08a245a79708f61170169d90593",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:15Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43375,
+      "FileName": "tr_.net_framework_4_full_x86_x64_langpack_546032.exe",
+      "Description": ".NET Framework 4 Full (x86 and x64) LangPack - (Turkish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "116b79ab273391b13532ad989dc8b63e62b2110e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:16Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43376,
+      "FileName": "tr_.net_framework_4_full_x86_langpack_546032.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Turkish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "256d2bab84891d301de282d88fc9ec2c67635d2e",
+      "ProductFamilyId": 370,
+      "PostedDate": "2010-06-30T22:18:16Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43376,
+      "FileName": "tr_.net_framework_4_full_x86_langpack_546032.exe",
+      "Description": ".NET Framework 4 Full (x86) LangPack - (Turkish)",
+      "Notes": "For more information about this release, please visit the <a href=\"http://go.microsoft.com/fwlink/?LinkID=186763\">.NET Framework Readme</a>.",
+      "Sha1Hash": "256d2bab84891d301de282d88fc9ec2c67635d2e",
+      "ProductFamilyId": 371,
+      "PostedDate": "2010-06-30T22:18:16Z",
+      "LanguageCodes": [
+        "tr"
+      ],
+      "Languages": [
+        "Turkish"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43377,
+      "FileName": "cn_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "0f7a0d2b4ba4a3da49cf3da070860b8bdf1e0213",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:25Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43378,
+      "FileName": "ct_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "56b54999404331431f4b268aaf05cc66ceb5e95e",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:25Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43379,
+      "FileName": "de_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "348a31c0ad55ed127e63b698ec9164b9c02b0957",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:26Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43380,
+      "FileName": "en_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "acf5494d18edf117a2683d66a96fb8954f98d86d",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:26Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "58 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43381,
+      "FileName": "es_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "daf34b0ffcbc8be086aafddeafc4e98d2da3295c",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:26Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43382,
+      "FileName": "cn_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "2120a6a60f9dbb94aebd68f9269375df57c4e6b9",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:26Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "279 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43383,
+      "FileName": "ct_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "1875db71ae6c57a4b3bdbe8ec5591f4d813211ba",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:27Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "279 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43384,
+      "FileName": "de_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "4103abb48a048b5d989f74fe00ba60c4a5703720",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:27Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "280 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43385,
+      "FileName": "en_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "45aee4e1f389971e8f398ca946740098049ba423",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:27Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "248 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43386,
+      "FileName": "es_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "1548ff295b99c3d2292595072e6f509b25556b0b",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:27Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "279 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43387,
+      "FileName": "fr_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (French)\r\n",
+      "Notes": null,
+      "Sha1Hash": "f4f709fb9b17a330f42e206573baad15fdb96e71",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:28Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43388,
+      "FileName": "it_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "9676047a2b1fddbeb7134556a16b273de8d79a82",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:28Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43389,
+      "FileName": "ja_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "da20b1be2c70aae7b5b3656d2bf4b29f167d5faf",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:28Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43390,
+      "FileName": "ko_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "ee2d7771b64f59e694f18593eae3b946d7e5a53a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:28Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43391,
+      "FileName": "pt_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "7e05cce263c8934f033a5ef577f07addb6f6c02a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:29Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43392,
+      "FileName": "ru_sql_server_2008_r2_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Express (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "32f50b55449c664da8c688e28e3fd99e1e4f1eb5",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:29Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "65 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43393,
+      "FileName": "fr_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "791ac1fef7f50b3569ecdf41cb4a296550d521fe",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:29Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "279 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43394,
+      "FileName": "it_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "3704f49b52b4c8ca21263a7877dfabd8be91caaa",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:29Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "279 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43395,
+      "FileName": "ja_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "256d8e87278a5275cca5a01fda1e79ae228148f7",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:29Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "283 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43396,
+      "FileName": "ko_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "88a75082debd42f30d722f2cbe549810697ecf59",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:30Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "280 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43397,
+      "FileName": "pt_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "e9e3f2fd7cbd9bfda212fb9b7db0d82be627ae08",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:30Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "278 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43398,
+      "FileName": "ru_sql_server_2008_r2_express_with_management_tools_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "8f0f489dfef9bd4e4d77ed9607d38c7faaa69933",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:30Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "280 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43399,
+      "FileName": "cn_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "4668425df5b9a1be1f67ae32cebdb058c58d0f08",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:30Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43400,
+      "FileName": "ct_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "f7a0fd47b24a0b590449ef74068af529f6bbd51a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:31Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43401,
+      "FileName": "de_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "8bac0fa417d89e48abcf4122690abf61c3ecf903",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:31Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43402,
+      "FileName": "en_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "2ff1a50b2277987c9cd65b99812ceaf2a67ea362",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:31Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "74 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43403,
+      "FileName": "es_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "c8e4c9150d3226a0e13a7ff1fbf6b29fadc92b32",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:31Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43404,
+      "FileName": "fr_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "49b32031b6d547cf1ae1810e4bd3714b3e9881e0",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:32Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43405,
+      "FileName": "cn_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "413e1167a73b2e5e529aa520dbb330011826def3",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:32Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43406,
+      "FileName": "ct_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "3e58af3caac91bf91aeb874c5f2d3238539257f3",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:32Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "259 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43407,
+      "FileName": "de_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "a033384c4599671d16f6422c1c30075b2b5fa049",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:32Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "265 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43408,
+      "FileName": "en_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "afe1456f98437ff4510b88744a5375643a029a68",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:33Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "235 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43409,
+      "FileName": "es_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "6887d0ea126b076a3439bb827c9a7f56eeb3d8c0",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:33Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43410,
+      "FileName": "fr_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "3cae1a7915fcfedf6da7e34be396955d31176e83",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:33Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43411,
+      "FileName": "it_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "f530a21271d434d810db276327722a78f57ae603",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:33Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43412,
+      "FileName": "ja_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "d0705816dc24ad799c94ef8e208dd5325a954e59",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:34Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "268 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43413,
+      "FileName": "ko_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "45bd20cf51d8e621b6a2597fed18843f64eba0c5",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:34Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "265 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43414,
+      "FileName": "pt_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "195fe1c293f35d66f640abfa056392e540f777ad",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:34Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "263 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43415,
+      "FileName": "it_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "11d273f7b362747a14b7a0491b9db6dd294563db",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:34Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43416,
+      "FileName": "ja_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "a8505dcd94b4a79db82f7887616d1d9c47e39a7d",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:34Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43417,
+      "FileName": "ko_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "34c31eb26251957de610ef2b90dd2cc468b3f46e",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:35Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "56 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43418,
+      "FileName": "pt_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "69b7964f814a216c941c97f3b212058162ba2b1f",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:35Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43419,
+      "FileName": "ru_sql_server_2008_r2_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Express (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "1a93aac282ceb4f556b53740d199a1df65248eaf",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:35Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "84 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43431,
+      "FileName": "cn_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "8a858666d1456e758f508bc0142d589f404bf81a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:38Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43432,
+      "FileName": "ct_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "2fd53d2124ff66c99f694a19dd2cb05498d0d86a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:38Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43433,
+      "FileName": "de_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "84172fbf4cb06e0785e03a874ee78e7182893967",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:38Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43434,
+      "FileName": "en_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "223261d57a5b147532529c4dae516e8653198d76",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:39Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "163 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43435,
+      "FileName": "es_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "b868ce36f43a85b3c81b9548f50cd3024cc9ba73",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:39Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "186 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43436,
+      "FileName": "ru_sql_server_2008_r2_express_with_management_tools_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Management Tools (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "d0b236b8aed4d1da3922ce4e27d9dd684123aae3",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:39Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "264 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43437,
+      "FileName": "fr_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "f776358f6bde588e6244336c6570189400a20082",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:40Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43438,
+      "FileName": "it_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "e5baca3e0354bcb5ae70a13d3548372fe5efe419",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:40Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "186 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43439,
+      "FileName": "ja_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "6055e869dd7fddc3a1145137421a8a015ef0c84b",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:40Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "190 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43440,
+      "FileName": "ko_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "4dd55c916fa65e56e127103057b236448c7c67ec",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:40Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43441,
+      "FileName": "pt_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "1fe392943fb1d4615479e3531fe8dabaa336075a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:40Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "186 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43442,
+      "FileName": "ru_sql_server_2008_r2_management_studio_express_x64.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "e89bb5f8db87538e0ca1e8387fae06c7a1742a7d",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:41Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "187 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43443,
+      "FileName": "cn_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "947e61abdf161e7b4d2fcb3debf3c28879e0cc77",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:41Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43444,
+      "FileName": "ct_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "89b17ef2c57e9a170f7a37c2fb0f58011191d54f",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:41Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43445,
+      "FileName": "de_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "6d9b1a4844b7ef54f5942b1dd8b0aae4446d2348",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:41Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43446,
+      "FileName": "cn_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "784f741f5e6bbbab0e7cfb62f5b7bbef3f9dfa37",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:42Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "853 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43447,
+      "FileName": "ct_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "9d1b9f103e00328a9cc829b084eb776f3c5f2710",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:42Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "855 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43448,
+      "FileName": "de_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (German)",
+      "Notes": null,
+      "Sha1Hash": "d12f8658b290882dca2a900c950f158d167f04d4",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:42Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "841 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43449,
+      "FileName": "en_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (English)",
+      "Notes": null,
+      "Sha1Hash": "7d2d2457b854812bf66a23f7a690462460b69ff6",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:42Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "796 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43450,
+      "FileName": "es_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "78cb4388b14cfc0f8d94fc89c29d601db925276f",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:43Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "839 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43451,
+      "FileName": "fr_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (French)",
+      "Notes": null,
+      "Sha1Hash": "f0b590c5e000d6235291ea933076eb193b67942d",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:43Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "840 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43452,
+      "FileName": "it_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "bac1ea76c0a279820111490cc3947fcbf4838bfd",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:43Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "839 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43453,
+      "FileName": "ja_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "ab183bd8e34f169f8b5518009b72c0c3c68ee631",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:43Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "851 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43454,
+      "FileName": "ko_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "1636cc42bc96143f49ec7d99d846b3c5c4bae849",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:44Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "842 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43455,
+      "FileName": "pt_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "81b07fd82834455283ecb9ff8373c44fd20a913a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:44Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "833 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43456,
+      "FileName": "en_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "ec615068239a72bde129326745b6922681ec2374",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:44Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "155 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43457,
+      "FileName": "es_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "4775ef393e023d670ac6b1852fd0599c0de5f8a5",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:44Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43458,
+      "FileName": "fr_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "43d8348d8719a16dd2838411e2de0708cc5c7773",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:45Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43459,
+      "FileName": "it_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "4484eb26f8c9cf22e24771ff1a05467a3c2ab5ae",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:45Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "177 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43460,
+      "FileName": "ja_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "fc28b05aadec87029d388664a3a6c1e36652da32",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:45Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "181 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43461,
+      "FileName": "ko_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "11ed2b877b54c1f0e5f075e9ae26f968d69ccd82",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:45Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43462,
+      "FileName": "pt_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "686c02f7d887f00747928e342b83e7220ebe6600",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:46Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "176 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43463,
+      "FileName": "ru_sql_server_2008_r2_management_studio_express_x86.exe",
+      "Description": "SQL Server 2008 R2 Management Studio Express (x86) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "4684a35c31c769f378e6b2ee0bf0daef159f1b0e",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:46Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "178 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43464,
+      "FileName": "ru_sql_server_2008_r2_express_with_advanced_services_x64.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x64) - (Russian)",
+      "Notes": null,
+      "Sha1Hash": "b14c37b93ecfce0821f5370550447a711cb9f2ee",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:46Z",
+      "LanguageCodes": [
+        "ru"
+      ],
+      "Languages": [
+        "Russian"
+      ],
+      "Size": "842 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43465,
+      "FileName": "cn_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "9b3428e9c4bd0db885cdfb403f4163ccb929d88e",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:46Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "781 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43466,
+      "FileName": "ct_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "40549783396119c79db6fbf3ce7e6c57b9c6128f",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:47Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "782 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43467,
+      "FileName": "de_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (German)",
+      "Notes": null,
+      "Sha1Hash": "ac444310a73f583b62e0fab2c3149ee172ebb2af",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:47Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "769 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43468,
+      "FileName": "en_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (English)",
+      "Notes": null,
+      "Sha1Hash": "8c34e6856a4c4040f7a749dfd919049b8f1becd7",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:47Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "727 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43470,
+      "FileName": "en_windows_embedded_developer_update_release_notes_x86_546759.htm",
+      "Description": "Windows Embedded Developer Update Release Notes (x86) - (English)\r\n\r\n",
+      "Notes": null,
+      "Sha1Hash": "dcc983963e436589a9179a59f0d5e21ae48ebdb6",
+      "ProductFamilyId": 555,
+      "PostedDate": "2010-06-28T18:18:03Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "0.014 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43471,
+      "FileName": "es_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "bb1308451b5eb2a90abc97942c5eceddfcbd141a",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:47Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "766 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43472,
+      "FileName": "fr_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (French)",
+      "Notes": null,
+      "Sha1Hash": "9f06940037a27cd9bf205932e72275de54440a9c",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:47Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "767 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43473,
+      "FileName": "it_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Italian)",
+      "Notes": null,
+      "Sha1Hash": "57d534b10283551b53aeb30fb578654f5667625f",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:48Z",
+      "LanguageCodes": [
+        "it"
+      ],
+      "Languages": [
+        "Italian"
+      ],
+      "Size": "767 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43474,
+      "FileName": "ja_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "093685112b37e917a027a27dc01924bfdc334ce8",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:48Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "779 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43475,
+      "FileName": "ko_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Korean)",
+      "Notes": null,
+      "Sha1Hash": "3b9fd33503db72c026c2f643095651fa32d731d0",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:48Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "770 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43476,
+      "FileName": "pt_sql_server_2008_r2_express_with_advanced_services_x86.exe",
+      "Description": "SQL Server 2008 R2 Express with Advanced Services (x86) - (Portuguese-Brazil)",
+      "Notes": null,
+      "Sha1Hash": "0f50f324f18deee78b6282fa640afa62d9479369",
+      "ProductFamilyId": 384,
+      "PostedDate": "2010-06-30T04:49:48Z",
+      "LanguageCodes": [
+        "pt"
+      ],
+      "Languages": [
+        "Portuguese-Brazil"
+      ],
+      "Size": "760 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43478,
+      "FileName": "en_office_language_pack_2010_x64_dvd_516583.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "8c65be3419dc886b0ecf75ff87d28c88b99be705",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:18Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "472 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43479,
+      "FileName": "en_office_language_pack_2010_x86_dvd_516573.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (English)",
+      "Notes": null,
+      "Sha1Hash": "6e59291917a302682b824e775106af0e3921856c",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:19Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "454 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43480,
+      "FileName": "de_office_language_pack_2010_x64_dvd_515993.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "18c9c6ecc04995206cd59473682ca156ff2f0f40",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:19Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "502 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43481,
+      "FileName": "de_office_language_pack_2010_x86_dvd_515986.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (German)",
+      "Notes": null,
+      "Sha1Hash": "f28f17182b5baaea03c7f64abe8e5c5946ed4898",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:20Z",
+      "LanguageCodes": [
+        "de"
+      ],
+      "Languages": [
+        "German"
+      ],
+      "Size": "483 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43482,
+      "FileName": "ja_office_language_pack_2010_x64_dvd_515918.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "060f24b4049c748502949228c1e9f1c9d38330b6",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:03Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "576 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43483,
+      "FileName": "ja_office_language_pack_2010_x86_dvd_515928.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "746e8fc5ffd94fb724d017d1e9fab3ce4db219a7",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:03Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "558 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43484,
+      "FileName": "fr_office_language_pack_2010_x64_dvd_519070.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "21d3ed1fd9bfbedaac8c093a178484bfd75a9e8b",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:04Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "487 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43485,
+      "FileName": "fr_office_language_pack_2010_x86_dvd_516104.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (French)",
+      "Notes": null,
+      "Sha1Hash": "58c8cf23dc23c8694e775701ec7389119c7d5de5",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:04Z",
+      "LanguageCodes": [
+        "fr"
+      ],
+      "Languages": [
+        "French"
+      ],
+      "Size": "467 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43486,
+      "FileName": "cn_office_language_pack_2010_x64_dvd_515895.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "43cf5fe7631e78387709bac5b98b98d0717fe5ae",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:05Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "615 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43487,
+      "FileName": "cn_office_language_pack_2010_x86_dvd_515891.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Chinese-Simplified)",
+      "Notes": null,
+      "Sha1Hash": "1425f6faf95f761c48b499d1306423c0787515c3",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:05Z",
+      "LanguageCodes": [
+        "cn"
+      ],
+      "Languages": [
+        "Chinese - Simplified"
+      ],
+      "Size": "598 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43488,
+      "FileName": "ar_office_language_pack_2010_x64_dvd_516571.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "0d7a7021527a1ce00bf630b4c94c0e516d2180ba",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:06Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "446 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43489,
+      "FileName": "ar_office_language_pack_2010_x86_dvd_516565.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Arabic)",
+      "Notes": null,
+      "Sha1Hash": "a712d07d0794a648e832ddde81b35ec90c2fcc51",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:06Z",
+      "LanguageCodes": [
+        "ar"
+      ],
+      "Languages": [
+        "Arabic"
+      ],
+      "Size": "427 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43490,
+      "FileName": "ct_office_language_pack_2010_x64_dvd_515898.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "7281863e48bba8e5e327762bb3aca20fadcfd902",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:07Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "603 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43491,
+      "FileName": "ct_office_language_pack_2010_x86_dvd_515911.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Chinese-Traditional)",
+      "Notes": null,
+      "Sha1Hash": "9527040d3e41f7ebb79ab340607f40f2091a18f9",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:07Z",
+      "LanguageCodes": [
+        "ct"
+      ],
+      "Languages": [
+        "Chinese - Traditional"
+      ],
+      "Size": "586 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43492,
+      "FileName": "es_office_language_pack_2010_x64_dvd_516040.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "f9b78243e53e0678c02d9fe22d678740d29bfdff",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:08Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "450 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43493,
+      "FileName": "es_office_language_pack_2010_x86_dvd_516043.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Spanish)",
+      "Notes": null,
+      "Sha1Hash": "13bdd10281b65ad64880f919b5ef8a81a2104f85",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:08Z",
+      "LanguageCodes": [
+        "es"
+      ],
+      "Languages": [
+        "Spanish"
+      ],
+      "Size": "431 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43494,
+      "FileName": "ko_office_language_pack_2010_x64_dvd_515924.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "b6b66cc266fd3fbdc469ec29b24b3edbec56e317",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:09Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "511 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43495,
+      "FileName": "ko_office_language_pack_2010_x86_dvd_515923.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Korean)",
+      "Notes": null,
+      "Sha1Hash": "528e240971fc5193f51144eb6296ae19d38b5a28",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:09Z",
+      "LanguageCodes": [
+        "ko"
+      ],
+      "Languages": [
+        "Korean"
+      ],
+      "Size": "493 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43496,
+      "FileName": "nl_office_language_pack_2010_x64_dvd_516178.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "c28400cb49eb278306a57b3df5adb7b6537d2f10",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "439 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43497,
+      "FileName": "nl_office_language_pack_2010_x86_dvd_516172.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Dutch)",
+      "Notes": null,
+      "Sha1Hash": "ea6a97a2d025e4f066b28b8da53422a78da357fb",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:10Z",
+      "LanguageCodes": [
+        "nl"
+      ],
+      "Languages": [
+        "Dutch"
+      ],
+      "Size": "421 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43498,
+      "FileName": "he_office_language_pack_2010_x64_dvd_516604.iso",
+      "Description": "Office 2010 Language Pack (x64) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "11b8a4a5afb1d08159f8cb9f9713b0bc13588026",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "462 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 43499,
+      "FileName": "he_office_language_pack_2010_x86_dvd_515915.iso",
+      "Description": "Office 2010 Language Pack (x86) - DVD (Hebrew)",
+      "Notes": null,
+      "Sha1Hash": "6a863a3a0e40c81e352b0809b6ad68f807656e64",
+      "ProductFamilyId": 383,
+      "PostedDate": "2010-07-09T23:18:11Z",
+      "LanguageCodes": [
+        "he"
+      ],
+      "Languages": [
+        "Hebrew"
+      ],
+      "Size": "442 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}

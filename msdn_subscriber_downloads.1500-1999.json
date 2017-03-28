@@ -1,0 +1,89 @@
+{
+  "Files": [
+    {
+      "FileId": 1548,
+      "FileName": "en_dnaxmlreskit_vol2.exe",
+      "Description": "Windows DNA XML Resource Kit Volume 2 (English)",
+      "Notes": null,
+      "Sha1Hash": "fb9088c44b93c9ed1b8ab4fa5ac1847f2ac5bf2e",
+      "ProductFamilyId": 307,
+      "PostedDate": "1999-10-29T01:48:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "64 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1549,
+      "FileName": "en_passprtsdk.exe",
+      "Description": "Microsoft Passport SDK (English)",
+      "Notes": null,
+      "Sha1Hash": "d50a4c77ae462b748411206b95aa70a0384e6859",
+      "ProductFamilyId": 278,
+      "PostedDate": "1999-10-29T01:50:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "2 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1565,
+      "FileName": "en_digidashsk.exe",
+      "Description": "Digital Dashboard Starter Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "ad276fa97a4dde453aea3531a0ec434709d6ae80",
+      "ProductFamilyId": 250,
+      "PostedDate": "1999-11-04T07:07:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "46 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1605,
+      "FileName": "en_iisreskit.exe",
+      "Description": "Microsoft Internet Information Server Resource Kit (English)",
+      "Notes": null,
+      "Sha1Hash": "034e744f257b4b652c35f7b89dec9197a64e2a3d",
+      "ProductFamilyId": 261,
+      "PostedDate": "1999-11-11T02:51:00Z",
+      "LanguageCodes": [
+        "en"
+      ],
+      "Languages": [
+        "English"
+      ],
+      "Size": "106 MB",
+      "IsProductKeyRequired": false
+    },
+    {
+      "FileId": 1776,
+      "FileName": "ja_msyubin7_v15.exe",
+      "Description": "MSYubin7 Version 1.5 Development Kit (Japanese)",
+      "Notes": null,
+      "Sha1Hash": "10505936d43a447d2328fa893f42d52a113cba26",
+      "ProductFamilyId": 273,
+      "PostedDate": "2000-06-30T10:16:00Z",
+      "LanguageCodes": [
+        "ja"
+      ],
+      "Languages": [
+        "Japanese"
+      ],
+      "Size": "3 MB",
+      "IsProductKeyRequired": false
+    }
+  ]
+}
