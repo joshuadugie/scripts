@@ -4,8 +4,8 @@
 # `idlist` range.  MSDN has no nice way to search for all entries so instead we
 # brute force.
 #
-# As of 2017-03-28T15:00:00Z, the latest posted FileId was 71584.
-# The number of actual entries (including deleted) was 30058.
+# As of 2017-04-07T15:00:00Z, the latest posted FileId was 72031.
+# The number of actual entries (including deleted) was 30455.
 
 import glob
 import httplib
@@ -24,7 +24,7 @@ from threading import Lock
 # program configuration
 num_attempts_per_id     = 10
 num_threads             = 64
-max_id                  = 72000
+max_id                  = 72500
 min_id                  = 0
 idlist                  = range(max_id, min_id, -1)
 output_filename         = 'msdn_subscriber_downloads'
@@ -131,6 +131,8 @@ def worker_thread(n):
                                         new_file.pop(attr)
                                 if 'PostedDate' in new_file:
                                     new_file['PostedDate'] = replace_old_date(new_file['PostedDate'])
+                                if 'Sha1Hash' in new_file:
+                                    new_file['Sha1Hash'] = new_file['Sha1Hash'].lower()
                             results_lock.acquire()
                             for new_file in new_files:
                                 if new_file not in results:

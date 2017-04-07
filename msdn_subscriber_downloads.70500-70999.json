@@ -2305,7 +2305,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Korean)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "7b3e8074b0ff7000cea0565013e902c8198a709e",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ko"
@@ -2322,7 +2322,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Spanish)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "9870cd8afb9d2879d7ed2fceaa969bdcabab5ab0",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "es"
@@ -2356,7 +2356,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (German)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "3cc3884aed2be6f989c021b43e17e5b69f52e5e6",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "de"
@@ -2458,7 +2458,7 @@
       "Description": "Team Foundation Server 2017\u00a0(x64) - DVD (Chinese-Simplified)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "65b7aa04c0cd90c96e2df3af13f3a34fde960add",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "cn"
@@ -2509,7 +2509,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Russian)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "980b31c06cc3ceca1694c97fed6a2cbcaf5f0922",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ru"
@@ -2543,7 +2543,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (English)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "16436bcab27404a71b49f3bf5cc4f8305f5ae8c6",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "en"
@@ -2594,7 +2594,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (Russian)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "c08e78a7d7b83ca6436d86fb23524a8d0a13e5a4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ru"
@@ -2696,7 +2696,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (English)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "59b4ff4ac66a86943bf7cc876d38fe4b9ef83260",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "en"
@@ -2781,7 +2781,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (French)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "9481d356ab04e4018a60f3b38c41e34915660235",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "fr"
@@ -2798,7 +2798,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (Spanish)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "65875d552eb1047a005808922b6a09e3fa238c86",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "es"
@@ -2832,7 +2832,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Italian)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "8e95ef844e9c2d674e8baa287adbc54fd722c1a4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "it"
@@ -2883,7 +2883,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Japanese)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "61aa3f916c91a27b932ca69d7056e3380312cc2e",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ja"
@@ -2934,7 +2934,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Chinese-Traditional)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "ea3e2ebddf367a9b85014e4bd918bda568647637",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ct"
@@ -2951,7 +2951,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Russian)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "c7887e61d0f22e67d665aaca21a66a1e1320ad24",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ru"
@@ -2985,7 +2985,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Russian)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "a7b3c298b51c46b841dffca81f36c038e812f943",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ru"
@@ -3002,7 +3002,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Chinese-Simplified)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "632bbe2654cf0055f26d5ecf6a0606f4ea343e44",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "cn"
@@ -3036,7 +3036,7 @@
       "Description": "Team Foundation Server 2017\u00a0(x64) - DVD (English)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "267ddfac814eefeb42696317707b58782c883aa1",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "en"
@@ -3053,7 +3053,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (Italian)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "ab1754b7ae010d0dd0fcbcdb6a24ce53315e629d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "it"
@@ -3104,7 +3104,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (German)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "a4f7f35833aaf4d4e79a10a4a35501c85aa81167",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "de"
@@ -3121,7 +3121,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (German)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "fcfba3909bb6152bc43f0f6868ec1baf3d7af31b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "de"
@@ -3172,7 +3172,7 @@
       "Description": "Team Foundation Server 2017\u00a0(x64) - DVD (Japanese)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "5e27b70125af60c7bd23714475f21bab50e774cf",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ja"
@@ -3223,7 +3223,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (French)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "2b6f962fe39383289681a41a900a9a05507d8885",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "fr"
@@ -3240,7 +3240,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Spanish)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "16317ed8a9ea9e2dd8732299ca01ecb38344091a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "es"
@@ -3274,7 +3274,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (French)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "060dfeb3463d93cff8961a7f45224d9feb449647",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "fr"
@@ -3359,7 +3359,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Japanese)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "71b378b96a3825b6b3129705f21bf498247ea7f2",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ja"
@@ -3393,7 +3393,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Chinese-Traditional)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "53538395788f4c159dd1942f5e08dc485e616a3f",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ct"
@@ -3461,7 +3461,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (Chinese-Traditional)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "e4bb6380554f4ce4904912e3646142042c39e96b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ct"
@@ -3478,7 +3478,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Chinese-Traditional)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "85d9d70e3efdb3051904ef3f2eeef22543cc53e9",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ct"
@@ -3546,7 +3546,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - DVD (Chinese-Simplified)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "2aba5c3c78aeae6971b5851c15cca281f17dab62",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "cn"
@@ -3563,7 +3563,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Chinese-Simplified)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "4e58144ec8887275d1be9754a0fb6dc04ad74edc",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "cn"
@@ -3580,7 +3580,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Italian)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "c16a7a84f36a3025c2e06af8b5cb24620f573c3a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "it"
@@ -3614,7 +3614,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Korean)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "a6ec8066bef277ba284782052093ff6d283de30d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ko"
@@ -3648,7 +3648,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (German)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "31ab3fad42dbd5a62e3469575ae35dac6ac0382a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "de"
@@ -3665,7 +3665,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Japanese)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "8b105ba40d80098e350eb600ca5ac603207bbbe3",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ja"
@@ -3699,7 +3699,7 @@
       "Description": "Team Foundation Server Express 2017 (x64) - Web Installer (Italian)",
       "Notes": "Team Foundation Server Express 2017 is a free, source code-control project management and team collaboration platform for individual developers and small teams of five or less. Install Visual Studio Team Foundation Server Express 2017 on your desktop or laptop, no dedicated server needed.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "38ff7fe55f75e1327ce5a01f3344ba280427f245",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "it"
@@ -3767,7 +3767,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (Korean)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "9d3671f755126044aa06037a0d8f3eb3872faaa0",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ko"
@@ -3784,7 +3784,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Korean)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "b6765e56fa12a09ac7ca9040c67879fdd32b42bf",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "ko"
@@ -3869,7 +3869,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (English)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "04a0efb6b92b94d29e7d9752144e160bf07c4cac",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "en"
@@ -3971,7 +3971,7 @@
       "Description": "Team Foundation Server 2017 (x64) - Web Installer (Spanish)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "95ddd2703c4a53529f69eccda05af9b91ace3328",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "es"
@@ -4039,7 +4039,7 @@
       "Description": "Team Foundation Server 2017 (x64) - DVD (French)",
       "Notes": "Team Foundation Server 2017 provides a set of collaboration tools that work with your existing IDE or editor, so your team can work effectively on software projects of all shapes and sizes. Application Lifecycle Management (ALM), continuous integration, and DevOps tools help your team accomplish more, faster. Automate the software delivery process to seamlessly track work and project artifacts, including requirements, tasks, bugs, source code, and build and test results.<br/><br/>\r\n\r\n<a href=\"https://go.microsoft.com/fwlink/?LinkId=817312\">Release Notes</a><br/> \r\n<a href=\"https://www.visualstudio.com/docs/setup-admin/requirements\">System requirements</a><br/> \r\n<a href=\"https://www.visualstudio.com/productinfo/visual-studio-15-compatibility-vs\">Compatibility and Supported Platforms</a>",
       "Sha1Hash": "46b515032dc19f9cfc5fdfed68448d8bbe5e7906",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 687,
       "PostedDate": "2016-11-16T15:05:39Z",
       "LanguageCodes": [
         "fr"

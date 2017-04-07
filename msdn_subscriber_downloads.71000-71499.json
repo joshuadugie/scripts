@@ -5319,10 +5319,10 @@
     {
       "FileId": 71359,
       "FileName": "en_remote_tools_for_visual_studio_2017_x64_10048981.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (English)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (English)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "7fad1d458ac09a36a8fc2cafad90e2666d9d0cb4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -5336,10 +5336,10 @@
     {
       "FileId": 71360,
       "FileName": "cs_performance_tools_for_visual_studio_2017_x86_10049004.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Czech)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Czech)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "015432bb7422ceeefb1594ce3e62a55a7c43666c",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cs"
@@ -5356,7 +5356,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Spanish)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "bcc1fc8d66f29423c37db8cf1511bdfc639234b8",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -5370,10 +5370,10 @@
     {
       "FileId": 71363,
       "FileName": "tr_performance_tools_for_visual_studio_2017_x86_10049006.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Turkish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Turkish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "ed517fc8fdc7a069ed1268162cc9220d2ffcff63",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "tr"
@@ -5387,10 +5387,10 @@
     {
       "FileId": 71366,
       "FileName": "cn_visual_cpp_redistributable_for_visual_studio_2017_x86_10050233.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Chinese-Simplified)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Simplified)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "687706b06a50564b80e038490b873649e50ffe13",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -5407,7 +5407,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (French)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "623741b82bc50bbdcc0abe2da8c552a5fdac6b12",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -5421,10 +5421,10 @@
     {
       "FileId": 71368,
       "FileName": "en_visual_cpp_redistributable_for_visual_studio_2017_x86_10050228.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (English)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (English)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "ba1f7e7cace62f7c55ab948cd3b29acc4e8e2329",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -5441,7 +5441,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (German)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "6cb9d7f909710750ce2b02b5478b37041576b679",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -5455,10 +5455,10 @@
     {
       "FileId": 71371,
       "FileName": "pt_visual_cpp_redistributable_for_visual_studio_2017_x86_10050248.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Portuguese-Brazil)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Portuguese-Brazil)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "66dee583593ee4aaab0c7314a6e8066e4f4151b2",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pt"
@@ -5472,10 +5472,10 @@
     {
       "FileId": 71372,
       "FileName": "ct_performance_tools_for_visual_studio_2017_x86_10048996.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Chinese-Traditional)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Traditional)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "11bad38aa174c47cba909027758c674aa95ffb19",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -5492,7 +5492,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Russian)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "12eeab8750a1ab58c38d6dade13178d5b621c569",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -5506,10 +5506,10 @@
     {
       "FileId": 71375,
       "FileName": "fr_visual_cpp_redistributable_for_visual_studio_2017_x64_10051459.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (French)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (French)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "c69473e0846a87c38357fbf59ca3b624bd28b796",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -5523,10 +5523,10 @@
     {
       "FileId": 71379,
       "FileName": "pl_performance_tools_for_visual_studio_2017_x86_10049008.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Polish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Polish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "e16113acb67bff6c72541edc7090295261fb3e6a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pl"
@@ -5540,10 +5540,10 @@
     {
       "FileId": 71380,
       "FileName": "de_remote_tools_for_visual_studio_2017_x86_10048973.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (German)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (German)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "e83564fae5a6e704c4de65f54c5bdee42d6c7bd1",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -5600,10 +5600,10 @@
     {
       "FileId": 71382,
       "FileName": "pl_visual_cpp_redistributable_for_visual_studio_2017_x86_10050244.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Polish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Polish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "8c14820cc8d5dfeffbb8239229d2c871824d6800",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pl"
@@ -5617,10 +5617,10 @@
     {
       "FileId": 71383,
       "FileName": "cs_performance_tools_for_visual_studio_2017_x64_10049020.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Czech)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Czech)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "9b1411c6721b0d6c5e32a3057e5cefe2c187a57b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cs"
@@ -5634,10 +5634,10 @@
     {
       "FileId": 71384,
       "FileName": "ct_remote_tools_for_visual_studio_2017_x64_10048990.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Chinese-Traditional)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Traditional)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "fca6a0251ae58359404f46b3bc4112b0b03ea76e",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -5651,10 +5651,10 @@
     {
       "FileId": 71386,
       "FileName": "es_performance_tools_for_visual_studio_2017_x86_10048997.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Spanish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Spanish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "27b58e796de21acd5bfad75272f3bdbb0a1f102c",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -5668,10 +5668,10 @@
     {
       "FileId": 71387,
       "FileName": "es_visual_cpp_redistributable_for_visual_studio_2017_x86_10050239.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Spanish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Spanish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "0441a96645e0e75451f8d53539831918fe594283",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -5685,10 +5685,10 @@
     {
       "FileId": 71388,
       "FileName": "es_visual_cpp_redistributable_for_visual_studio_2017_x64_10051458.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Spanish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Spanish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "0f9e0f566011f5e6644dc764e0d45de31b5cef40",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -5702,10 +5702,10 @@
     {
       "FileId": 71391,
       "FileName": "ja_performance_tools_for_visual_studio_2017_x86_10048991.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Japanese)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Japanese)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "96ae3bfd331918e481a0f82ac0816ec673e0c273",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -5719,10 +5719,10 @@
     {
       "FileId": 71392,
       "FileName": "en_visual_cpp_redistributable_for_visual_studio_2017_x64_10051449.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (English)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (English)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "007064d974a55940838f19cd0b0e3aaf27ca06a7",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -5736,10 +5736,10 @@
     {
       "FileId": 71393,
       "FileName": "cn_remote_tools_for_visual_studio_2017_x64_10048982.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Chinese-Simplified)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Simplified)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "986e930c7304bf8950ae8cc99fe2906da4d8e5b5",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -5756,7 +5756,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (French)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "ed11594efc6c911ace353e3063888bde705d9b83",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -5770,10 +5770,10 @@
     {
       "FileId": 71395,
       "FileName": "ko_remote_tools_for_visual_studio_2017_x86_10048978.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Korean)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Korean)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "259ffcc92b3a3c9fb66a648ec796f1d05c5aef70",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -5787,10 +5787,10 @@
     {
       "FileId": 71397,
       "FileName": "tr_performance_tools_for_visual_studio_2017_x64_10049025.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Turkish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Turkish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "932fd2e4a6b9d58c586aa39ad33c3765ffd93247",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "tr"
@@ -5847,10 +5847,10 @@
     {
       "FileId": 71400,
       "FileName": "de_performance_tools_for_visual_studio_2017_x64_10049013.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (German)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (German)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "4c2e60afb35f126a518f129cb12a4bd51a14ba34",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -5867,7 +5867,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (English)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "513c5aa602278111bb57031a5a2740f6b9169eeb",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -5881,10 +5881,10 @@
     {
       "FileId": 71403,
       "FileName": "es_remote_tools_for_visual_studio_2017_x64_10048985.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Spanish)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Spanish)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "20893123b8b79c36b05a8ddddd95e89feb051bbd",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -5898,10 +5898,10 @@
     {
       "FileId": 71406,
       "FileName": "cn_visual_cpp_redistributable_for_visual_studio_2017_x64_10051451.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Chinese-Simplified)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Simplified)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "49dd8edde77297b7976df8fa2310b887881c3663",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -5915,10 +5915,10 @@
     {
       "FileId": 71408,
       "FileName": "cn_remote_tools_for_visual_studio_2017_x86_10048968.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Chinese-Simplified)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Simplified)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "1cc6af9bd884a978f9292fda710e59f05118f55a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -5932,10 +5932,10 @@
     {
       "FileId": 71409,
       "FileName": "it_visual_cpp_redistributable_for_visual_studio_2017_x64_10051461.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Italian)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Italian)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "3c567449de9bf26e9291127759b268bdb0575ec8",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -5952,7 +5952,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Chinese-Simplified)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "44470190cac7ec06b19f5483cd6d3c700f5e1d17",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -5969,7 +5969,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (German)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "f215b241bd7f4d881c1ef61154a16846a5cdfd78",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -5986,7 +5986,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Korean)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "faedf6c1f7e61ed383ac2aa007c20d1aa6ec1b9b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6000,10 +6000,10 @@
     {
       "FileId": 71413,
       "FileName": "ja_remote_tools_for_visual_studio_2017_x86_10048969.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Japanese)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Japanese)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "ba558ec2a8427b90352f8a1f1ee9738fc11a79a1",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6017,10 +6017,10 @@
     {
       "FileId": 71415,
       "FileName": "ru_visual_cpp_redistributable_for_visual_studio_2017_x64_10051460.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Russian)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Russian)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "2564bbfbdd42825f6cd3eeb970ac480ce73ed3d8",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -6034,10 +6034,10 @@
     {
       "FileId": 71417,
       "FileName": "cs_visual_cpp_redistributable_for_visual_studio_2017_x64_10051464.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Czech)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Czech)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "9df65b3aca3723fae6fb3e1cf506dd0ab07c9481",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cs"
@@ -6051,10 +6051,10 @@
     {
       "FileId": 71418,
       "FileName": "de_visual_cpp_redistributable_for_visual_studio_2017_x64_10051457.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (German)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (German)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "3673cf123269dd995391cc05d210fb71062a9ff8",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -6068,10 +6068,10 @@
     {
       "FileId": 71422,
       "FileName": "fr_remote_tools_for_visual_studio_2017_x86_10048976.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (French)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (French)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "dfc7615b1e11b5483f836b090bfc7fccf5e9a500",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -6085,10 +6085,10 @@
     {
       "FileId": 71423,
       "FileName": "pt_performance_tools_for_visual_studio_2017_x86_10049005.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Portuguese-Brazil)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Portuguese-Brazil)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "b5a1d2c673bac06b241ad198d131b0fa7106bb3a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pt"
@@ -6105,7 +6105,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Japanese)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "f9d499935c808d25542ee3b9dec6cc908e170051",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6119,10 +6119,10 @@
     {
       "FileId": 71425,
       "FileName": "ja_visual_cpp_redistributable_for_visual_studio_2017_x64_10051450.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Japanese)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Japanese)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "a40c4f0ef2acc1c13624ae7300f1d0b2277e110a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6136,10 +6136,10 @@
     {
       "FileId": 71426,
       "FileName": "it_remote_tools_for_visual_studio_2017_x86_10048974.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Italian)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Italian)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "21740bf346d6522313a4553e6319b18edbca32ca",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6153,10 +6153,10 @@
     {
       "FileId": 71428,
       "FileName": "ct_remote_tools_for_visual_studio_2017_x86_10048971.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Chinese-Traditional)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Traditional)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "b4aa8e759aa7ad68f78fa012fe79919ff75af9d6",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6213,10 +6213,10 @@
     {
       "FileId": 71432,
       "FileName": "ja_performance_tools_for_visual_studio_2017_x64_10049009.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Japanese)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Japanese)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "9c44558a5f9ed0f2b4b9b945dd4bcbfc8f58115d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6233,7 +6233,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Japanese)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "3361e74d2c5b505e4b423358b07419be1b91a9a4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6247,10 +6247,10 @@
     {
       "FileId": 71434,
       "FileName": "en_performance_tools_for_visual_studio_2017_x64_10049007.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (English)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (English)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "c4b9981a5545715a7262279151bb953d51698b52",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -6264,10 +6264,10 @@
     {
       "FileId": 71435,
       "FileName": "ru_remote_tools_for_visual_studio_2017_x86_10048979.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Russian)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Russian)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "90d9b5009f28441ff897e7dfc7d3b75a98349183",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -6284,7 +6284,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Italian)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "114d852be4396731473de9b900dfa39283cd9a8f",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6298,10 +6298,10 @@
     {
       "FileId": 71437,
       "FileName": "de_visual_cpp_redistributable_for_visual_studio_2017_x86_10050237.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (German)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (German)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "c78528d32b2240d9e95de491f54cbfb4c44227ae",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -6315,10 +6315,10 @@
     {
       "FileId": 71438,
       "FileName": "ru_visual_cpp_redistributable_for_visual_studio_2017_x86_10050246.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Russian)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Russian)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "0341e6ef020e67a8727d3df382e69a12d0391e71",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -6335,7 +6335,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Chinese-Traditional)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "1f4097ef604514fca9f64d76a93c624ed608b9d0",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6392,10 +6392,10 @@
     {
       "FileId": 71441,
       "FileName": "ko_visual_cpp_redistributable_for_visual_studio_2017_x86_10050247.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Korean)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Korean)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "819e6f6b50213ba3dcac279d06ca1c34fa38a7bf",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6409,10 +6409,10 @@
     {
       "FileId": 71442,
       "FileName": "fr_performance_tools_for_visual_studio_2017_x64_10049015.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (French)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (French)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "8c44cea9247236de01154a736abce15d7c0c914d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -6426,10 +6426,10 @@
     {
       "FileId": 71443,
       "FileName": "ja_visual_cpp_redistributable_for_visual_studio_2017_x86_10050229.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Japanese)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Japanese)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "8e462bd0e7315105ce028c02b6df9f8313cf079b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6443,10 +6443,10 @@
     {
       "FileId": 71445,
       "FileName": "ru_remote_tools_for_visual_studio_2017_x64_10048988.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Russian)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Russian)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "8de31459d840aa5a00a66687a7f8c5cca9e21b2b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -6460,10 +6460,10 @@
     {
       "FileId": 71448,
       "FileName": "es_performance_tools_for_visual_studio_2017_x64_10049014.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Spanish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Spanish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "980ab217dee70f5fb4011fc5ad807cb9149837ac",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -6477,10 +6477,10 @@
     {
       "FileId": 71450,
       "FileName": "ko_visual_cpp_redistributable_for_visual_studio_2017_x64_10051462.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Korean)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Korean)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "69020ee79e60caad388d7a8afb565a25a405381c",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6494,10 +6494,10 @@
     {
       "FileId": 71452,
       "FileName": "en_performance_tools_for_visual_studio_2017_x86_10048994.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (English)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (English)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "6302831c0b121a920bbff735167710b8a7c9f2e1",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -6514,7 +6514,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Spanish)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "f1adbcc96da4fcb60c8bbb7f3a5dfd4434038031",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -6528,10 +6528,10 @@
     {
       "FileId": 71455,
       "FileName": "it_performance_tools_for_visual_studio_2017_x86_10049002.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Italian)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Italian)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "ac9f2e9290a212d5c101e5c9c178f70d2d4c3cee",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6545,10 +6545,10 @@
     {
       "FileId": 71456,
       "FileName": "ko_performance_tools_for_visual_studio_2017_x86_10049001.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Korean)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Korean)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "d75d26431c067820eb2bb9045f5223aa6e32b939",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6562,10 +6562,10 @@
     {
       "FileId": 71457,
       "FileName": "cn_performance_tools_for_visual_studio_2017_x86_10048993.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Chinese-Simplified)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Simplified)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "ae0d3f445cb7162e2c28cdb64233c09ecd7a4158",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -6579,10 +6579,10 @@
     {
       "FileId": 71459,
       "FileName": "de_remote_tools_for_visual_studio_2017_x64_10049026.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (German)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (German)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "b2600f6730eefb0fd41f1ba06f663462a0e2251b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -6639,10 +6639,10 @@
     {
       "FileId": 71462,
       "FileName": "it_visual_cpp_redistributable_for_visual_studio_2017_x86_10050245.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Italian)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Italian)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "b176cbfdc5fe5f0b4adbeef19db1ece5cdc4763f",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6659,7 +6659,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Chinese-Traditional)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "b31faf6cc6c79c1025ad44123054533152159679",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6716,10 +6716,10 @@
     {
       "FileId": 71466,
       "FileName": "tr_visual_cpp_redistributable_for_visual_studio_2017_x64_10051466.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Turkish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Turkish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "41dc9d6970437fbab3b209156cb0310bda615dc4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "tr"
@@ -6733,10 +6733,10 @@
     {
       "FileId": 71467,
       "FileName": "tr_visual_cpp_redistributable_for_visual_studio_2017_x86_10050249.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Turkish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Turkish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "78356e0b676a44a03f7f3797d70ab9e6fb13e235",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "tr"
@@ -6753,7 +6753,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Korean)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "6176d9871e800784bc41885ca9ad8f8be9648d9d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6767,10 +6767,10 @@
     {
       "FileId": 71469,
       "FileName": "ct_performance_tools_for_visual_studio_2017_x64_10049012.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Chinese-Traditional)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Traditional)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "02317a056fc2c020ad88067f44674764fce365e4",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6784,10 +6784,10 @@
     {
       "FileId": 71470,
       "FileName": "it_performance_tools_for_visual_studio_2017_x64_10049021.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Italian)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Italian)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "600a8416f3cf193185254816dd6661692112d9be",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6801,10 +6801,10 @@
     {
       "FileId": 71472,
       "FileName": "ko_remote_tools_for_visual_studio_2017_x64_10048992.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Korean)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Korean)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "0ded57ca55a08d437bb5c68a9084ff58e9362518",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6818,10 +6818,10 @@
     {
       "FileId": 71473,
       "FileName": "ko_performance_tools_for_visual_studio_2017_x64_10049016.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Korean)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Korean)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "7ab8b32da8fbe2245b5523bba3382ef3e7d13ade",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ko"
@@ -6835,10 +6835,10 @@
     {
       "FileId": 71474,
       "FileName": "pt_performance_tools_for_visual_studio_2017_x64_10049023.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Portuguese-Brazil)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Portuguese-Brazil)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "3962a46891358623c4e39c766eea4260901f2d5c",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pt"
@@ -6855,7 +6855,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - DVD (Italian)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "0a8b113914031c9fdf30efd26149cf2b501a1dc5",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -6869,10 +6869,10 @@
     {
       "FileId": 71477,
       "FileName": "fr_performance_tools_for_visual_studio_2017_x86_10048999.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (French)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (French)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "ae87a3ed63bbda5df99b76f49e328e36ec68f1a2",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -6886,10 +6886,10 @@
     {
       "FileId": 71478,
       "FileName": "es_remote_tools_for_visual_studio_2017_x86_10048972.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (Spanish)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (Spanish)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "03e433ab05e3542add9204a824a85b047493da7d",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "es"
@@ -6903,10 +6903,10 @@
     {
       "FileId": 71479,
       "FileName": "ja_remote_tools_for_visual_studio_2017_x64_10048980.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Japanese)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Japanese)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "78ab3471a8782e59dfb470da54a5c0288614e301",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ja"
@@ -6920,10 +6920,10 @@
     {
       "FileId": 71480,
       "FileName": "de_performance_tools_for_visual_studio_2017_x86_10048995.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (German)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (German)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "84342e3a4fe350ca82c914a20adb1c0490f786e9",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "de"
@@ -6937,10 +6937,10 @@
     {
       "FileId": 71481,
       "FileName": "pl_performance_tools_for_visual_studio_2017_x64_10049019.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Polish)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Polish)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "5565ce85c4e9dc4de85161ca7b66ce6f12ade919",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pl"
@@ -6954,10 +6954,10 @@
     {
       "FileId": 71482,
       "FileName": "ct_visual_cpp_redistributable_for_visual_studio_2017_x64_10051452.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Chinese-Traditional)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Traditional)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "419524284aa337dc624b502de96f8a8becc02425",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6971,10 +6971,10 @@
     {
       "FileId": 71483,
       "FileName": "ct_visual_cpp_redistributable_for_visual_studio_2017_x86_10050236.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Chinese-Traditional)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Chinese-Traditional)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "31d9fe0e45bd73a4cf0d8f64f251a9a3ba1f16f5",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ct"
@@ -6988,10 +6988,10 @@
     {
       "FileId": 71484,
       "FileName": "en_remote_tools_for_visual_studio_2017_x86_10048964.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x86) - (English)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x86) - (English)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "b446f5fbc68cdfc5f443a52b9ceb07720574b9d6",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -7008,7 +7008,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Russian)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "00f1dab4be11cd0a483d4bd558a152f5aaf2753e",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -7022,10 +7022,10 @@
     {
       "FileId": 71486,
       "FileName": "pt_visual_cpp_redistributable_for_visual_studio_2017_x64_10051463.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Portuguese-Brazil)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Portuguese-Brazil)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "844567d04eb6b31a6f5ee1e33bf7df8c91c22ac3",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pt"
@@ -7042,7 +7042,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (English)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "c8b4983ad0372deaa0f10142c44763ab1933b30c",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -7056,10 +7056,10 @@
     {
       "FileId": 71488,
       "FileName": "it_remote_tools_for_visual_studio_2017_x64_10048983.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (Italian)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (Italian)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "f7ada3ece278cbb033a4ddeeb3c082a3b7dcc3a3",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "it"
@@ -7073,10 +7073,10 @@
     {
       "FileId": 71489,
       "FileName": "cs_visual_cpp_redistributable_for_visual_studio_2017_x86_10050243.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x86) - (Czech)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x86) - (Czech)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "bd26ea6decdb27c774a027ccf23501a1a40f4124",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cs"
@@ -7090,10 +7090,10 @@
     {
       "FileId": 71490,
       "FileName": "ru_performance_tools_for_visual_studio_2017_x64_10049018.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Russian)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Russian)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "7edaa86b425bec3abe5bbb0bb93bebd0d9040225",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -7110,7 +7110,7 @@
       "Description": "Team Foundation Server Office Integration 2017 (x64) - Web Installer (Chinese-Simplified)",
       "Notes": "A standalone Office Integration installer that provides Office integration with Team Foundation Server and Team Services.\n",
       "Sha1Hash": "29f29d75b686476dcad5651ee4bd5255bf3862ed",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
@@ -7124,10 +7124,10 @@
     {
       "FileId": 71494,
       "FileName": "ru_performance_tools_for_visual_studio_2017_x86_10049003.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x86) - (Russian)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x86) - (Russian)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "bc8e28616de25e7def2d8e4e93a35bc84e9c4f8a",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "ru"
@@ -7141,10 +7141,10 @@
     {
       "FileId": 71495,
       "FileName": "pl_visual_cpp_redistributable_for_visual_studio_2017_x64_10051465.exe",
-      "Description": "Visual C++ Redistributable for Visual Studio 2017 (x64) - (Polish)",
+      "Description": "Visual C++ Redistributable for Visual Studio 2017 (version 15.0) (x64) - (Polish)",
       "Notes": "This package installs run-time components of Visual C++ libraries and can be used to run such applications on a computer even if it does not have Visual Studio 2017 installed.\n",
       "Sha1Hash": "bad18497ae003c39438cd8e709f5e46fe7151d9f",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "pl"
@@ -7158,10 +7158,10 @@
     {
       "FileId": 71496,
       "FileName": "fr_remote_tools_for_visual_studio_2017_x64_10048989.exe",
-      "Description": "Remote Tools for Visual Studio 2017 (x64) - (French)",
+      "Description": "Remote Tools for Visual Studio 2017 (version 15.0) (x64) - (French)",
       "Notes": "Remote Tools for Visual Studio 2017 enables app deployment, remote debugging, remote testing, performance profiling, and unit testing on computers that do not have Visual Studio installed.\n",
       "Sha1Hash": "6707d8d5e94be37c11887941f3b9399a6007fa6b",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "fr"
@@ -7175,10 +7175,10 @@
     {
       "FileId": 71497,
       "FileName": "en_intellitrace_standalone_collector_for_visual_studio_2017_x86_10049024.exe",
-      "Description": "Intellitrace Standalone Collector for Visual Studio 2017 (x86) - (English)",
+      "Description": "Intellitrace Standalone Collector for Visual Studio 2017 (version 15.0) (x86) - (English)",
       "Notes": "The IntelliTrace stand-alone collector lets you collect diagnostic data for your apps on production servers without installing Visual Studio or redeploying your application.\n",
       "Sha1Hash": "cc75b29b22a7f892c3c6d332b7a16f2b5c502018",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "en"
@@ -7192,10 +7192,10 @@
     {
       "FileId": 71499,
       "FileName": "cn_performance_tools_for_visual_studio_2017_x64_10049010.exe",
-      "Description": "Performance Tools for Visual Studio 2017 (x64) - (Chinese-Simplified)",
-      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a><br/>.",
+      "Description": "Performance Tools for Visual Studio 2017 (version 15.0) (x64) - (Chinese-Simplified)",
+      "Notes": "Standalone command line tools that enable performance profiling without Visual Studio. For more information, see <a href=\"https://msdn.microsoft.com/library/ms182401.aspx\">Using the Profiling Tools From the Command-Line</a>.",
       "Sha1Hash": "6f289eaec833e4f8ca2195a693f7afd13954dc51",
-      "ProductFamilyId": 681,
+      "ProductFamilyId": 684,
       "PostedDate": "2017-03-07T14:13:02Z",
       "LanguageCodes": [
         "cn"
