@@ -6,6 +6,10 @@
 #
 # As of 2017-04-07T15:00:00Z, the latest posted FileId was 72031.
 # The number of actual entries (including deleted) was 30455.
+#
+# As of late 2017, Microsoft has replaced the MSDN subcriber downloads website
+# with my.visualstudio.com.  This script and its outputs (see the
+# "msdn_subscriber_downloads" directory) remain for posterity.
 
 import glob
 import httplib
